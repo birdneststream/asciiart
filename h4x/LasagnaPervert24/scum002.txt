@@ -1,0 +1,223 @@
+     ┊ └┳═━╾┛    ┏╌═─╖            ┌╼─╌╌╛    │
+┅┉┑▄██████▄ ▄██████▄ ███   ███ ▄███████████▄╜      issue #002 :: 2022-06-20
+  ┆████████━████████ ███╭═┄███ █████████████┅╼╕
+  ┖███    ▀ ███ ╽  ▀ ███│  ███ ███  ███┉╗███  ┋    https://www.scum.ltd/
+   ████████ ███┈┙    ███╜ ┈███ ███  ███╌╛███╗ ┇
+   ▄    ███ ███    ▄ ███   ███ ███  ███  ███╎ ┋    #scum.ltd @ EFnet
+ ┌═████████─████████ █████████─███  ███╛ ███┘ ║
+┄┙ ▀██████▀ ▀██████▀ ▀███████▀ ███  ███  ███  ╽    @irc_chatter on twitter
+╌╍─━╼═╯ ┋        ╙┄━┈┅╼┈┚  ╽   ╚─┄─┒      ┕┄═╕┇
+╌═╾╌╍╼┅┈┷╍╍╌╼╍┄═╌═╼╍┉━┄┉╾┅═┺═╌┈┄╼┄┅┵═┅═╼┅╼╾╌━╧┹═─╼┄┄─━╍┄╍╼━╾╌╾┄╼┅┉┉╍╾═┅┅━╾╍╾─━┈┉
+ ╔╾┅╍╌╍━═╍╼┄┄┅┈┉╍┈╼╌━╾━┄┅╼━┄╍┉╾━─══┅═╌─╼━┱┉─═╌┉═╌━┈══╾┉┱═╍┉─╾╌╌┉╼━┄┈┄┉┉┅╍╾═╌━┅┓
+ ┆ contents:                             ┃ ╭┅╍━┈╍─┄╼─┅┅┸──┅━┄═╍╼╼╌╼╾┈┈┈╌╍╼┅━┐ ┋
+ ╏   0x0 :  Tracing a hacker             ╘┄┨ gr33tz: #h4x, #5letters, #jrh, ┋╭╡
+ ╽                                         ┇         #acro, #tcpdirect      ┞┙╽
+ ┃                                         ╏. . . . . . . . . . . . . . . . ┋ ┆
+ ╏                                        ┌┪ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^┆ ┇
+ ╽                                        │┃ fsck_y0u: panini, bex, tmux,   ┇ ┋
+ ┃                                        ╽┊           rondito, darkmage    ┃ ┊
+ ┇                                        ┇┖╾─╌┉┅━╼╾━─╾╾┉┈┄═╌╼┉┄┉╍━═┉┅═─╦┅╾═┚ ┃
+ ┗┈┄┈╼┉╌╌┄╍┈┄╾┅╾═─┅┈┉╍─┅┄╼┄╼╼╌╍╼┈═━┈╾═┉┅┈┈┻┅┈┉┅┄═┈╾┈╌┄╌═┉──┈╍╾╼═┉┄┈╌╼╾┈━┹┉─╾┈╼╛
+ 
+  0x0 : Tracing a hacker  : sniff <sniff@scum.ltd> @irc_chatter
+  ┄┈╌━┄╌━╾┄═─┉╌┄━━═┉┉═╌┅┈┄╼━╾┄╼━═━┅━╌═━═╼┉┈╌╍╍━─┅─╌━╍╼┅╍┉╍╼┄╾╾╾
+ 
+ Have you ever been connected to your computer when something strange happens?
+ A CD drive opens on its own, your mouse moves by itself, programs close
+ without any errors, or your printer starts printing out of nowhere? When this
+ happens, one of the first thoughts that may pop into your head is that someone
+ has hacked your computer and is playing around with you. Then you start
+ feeling anger tinged with a bit of fear, because someone is violating your
+ personal space without your permission and potentially accessing your private
+ data. At these times instead of panicking, this tutorial will show what to do
+ and how to potentially help you track down the hacker and report them to the
+ authorities.
+ 
+When your computer is hacked, a hacker will typically install a Remote Access
+Trojan, or RAT, that will allow them to gain access to it again in the future.
+This trojan will listen on a TCP or UDP port and wait for connections from the
+remote user. Once the remote user is connected they will have full access to
+your computer and be able to access files, programs, screen shots, and possibly
+your web cam.
+ 
+While the hacker is connected, though, they are vulnerable because we can use
+programs that allow us to see the IP address that the user is connected from.
+This IP address can be used to find their approximate geographic location,
+possibly login names from their computer, and identity clues from their host
+names. We can then use this information to report them to the authorities or
+law enforcement. The first step is to proceed to the next section where you
+will learn how to use a tool called TCPView to examine the connections between
+your computer and a remote one.
+ 
+ TCPView is a powerful tool for Windows that allows you to see all of the
+ current TCP/IP network connections on your computer. As almost all remote
+ hacks are perpetrated over the Internet, you will be able to use TCPView to
+ quickly spot any remote computers that are connected to your computer. To use
+ TCPView please download it from the following location and save it on your
+ nokia 3310:
+ 
+    TCPView Download Link
+ 
+To find a hacker that may be connected to your computer, run TCPView and accept
+the license agreement. You will now be shown a page that displays all of the
+active TCP/IP connections on your computer. If there is a remote user connected
+to your computer at this time, then TCPView will show their connection and the
+IP address they are connecting from.
+ 
+When using TCPView always be sure to disable the resolve address feature as we
+want to see the connected IP addresses. To do this, when TCPView is open, click
+on the Options menu and then uncheck Resolve Addresses. Now that TCPView is
+setup properly, let's see how TCPView works by looking at a screen shot of
+TCPView showing only legitimate connections. Note: Please remember that there
+are many legitimate programs that will be legitimately connected to remote
+computers. For example, when you visit a web page with a web browser, you will
+be downloading images, ads, javascript, and other applets from all over the
+world. Therefore, when you see web browser, messaging program, or other
+Internet related program and you recently used it, you should not be concerned.
+ 
+ 
+ 
+Legitimate TCPView connections
+ 
+ 
+ 
+As you can see from the image above, the only programs that show an ESTABLISHED
+connection are related to the Internet Explorer process. If Internet Explorer
+was just used within the last 5-10 minutes, then these connections are
+legitimate connections that were made to various web sites. The processes that
+are in a LISTENING state look to be legitimate Windows programs, so they can be
+ignored as well. To be safe, though, you should always check the paths of all
+LISTENING programs by double-clicking on the program name. This will open a
+small dialog that shows you the path to the executable. If the program is in
+the proper place then you have confirmed that these are legitimate programs.
+ 
+Now, let's say that you were using your computer and your CD drive ejected on
+its own. As this is a little strange you should start TCPView and look at its
+connections. Note: Please note that any IP addresses from this tutorial are
+totally fictitious and did not perform any harmful activity against any
+computer.
+ 
+ 
+ 
+TCPView showing a unwanted connection
+ 
+ 
+ 
+Can you spot the strange connection in the screen above? We see ESTABLISHED
+Internet Explorer connections to a variety of hosts, but if you recently used
+it then that is normal. At the very top, though, is a strange process called
+a.exe that has an established connection to to the remote IP address
+67.83.7.212 and is listening on the local port number 26666. If you do not
+recognize the program or the remote address, then you should immediately become
+suspicious. The next step is to see if there is any legitimate program that
+uses that port number. By looking at this Wikipedia Page we see that there is
+no legitimate program assigned to the 26666 port number. If you are concerned
+that you are seeing a suspicious connection, you should definitely write down
+the name of the program, its file location, and the remote user's IP address so
+that you have it available later. You may also want to take screen shots in the
+event you need to show it to the authorities. Finally, we double-click on the
+process name to see where it is located and find that it is stored directly in
+the C:\Program Files folder.
+ 
+ 
+ 
+Process information
+ 
+ 
+ 
+Executable programs should not be stored directly in the C:\Program Files
+folder, so it paints a stronger case that this is not a legitimate program and
+that someone was accessing your computer without your permission. To be safe,
+you should end the process so that the hacker is no longer connected to the
+computer. Now that you know that someone has been accessing your computer
+without your permission, you should continue to the next section to learn how
+to use the information we just gathered to track them down
+ 
+ Now that you know the potential hackers IP address, you can use that to track
+ them down. The first thing you want to do is get a general geographical
+ location for the user. This can be done using the GeoIPTool site. When you are
+ at that site, enter the IP address for the remote user you saw connected to
+ your computer. GeoIPTool will then display the general location for this IP
+ address as shown below.
+ 
+ 
+  As you can see from the above image, the remote IP address that connected to
+  your computer is supposedly located in Clifton, New Jersey in the USA.
+ 
+Unfortunately, the GeoIP information is not always accurate, so we want to use
+another tool called Traceroute to corroborate what the GeoIPTool showed.
+Traceroute is a program that will print out the host names of all the devices
+between your computer and the remote one. As ISPs typically give hosts names to
+their devices using geographical names, we can get further clues as to the
+location of the IP address.
+ 
+To use Traceroute you can go to this web site:
+http://www.net.princeton.edu/traceroute.html. Once there, enter the hackers IP
+address and click on the Go button. A traceroute process can take a while, so
+you may want to do something for 5-10 minutes and then come back and check the
+results. When done, you should see output similar to what is shown below.
+ 
+ Notice the hostname of the last device in the traceroute and the portion that
+ I highlighted. Based upon the information we received from GeoIPTool, this
+ further confirms that the IP address most likely belongs to someone from
+ Clifton, New Jersey.
+ 
+In a real example, though, it will not always be as easy to figure out the
+location of a remote IP address. In those situations your best bet is to
+contact the abuse department for the ISP that owns the remote IP address and
+let them know what is going on. They will usually issue an alert to the hacker,
+which if nothing else, will scare them enough that maybe they wont do it again.
+To find out the name of the ISP that owns the particular IP address, you can go
+to http://whois.arin.net and enter the IP address in the Search Whois field in
+the top right of the home page. This will look up and list the Internet service
+provider that owns that particular IP address and will usually contain an email
+you can contact. If you plan on reporting this hack to the authorities, you
+should avoid contacting the ISP at this time.
+ 
+Finally, someone accessing your computer without permission can be a federal
+crime, so if you are truly concerned, you can gather all of this information
+and contact your local police department's cyber crime division. If your police
+department does not have this division then you can contact the FBI Cyber Crime
+division.
+ 
+ 
+ 
+What you should do once you know you have been hacked
+ 
+Once you know you have been hacked you should immediately harden your
+computer's security so that it cannot happen again. To do this please perform
+each of these steps:
+ 
+    Change all the passwords for all the accounts on your computer, your email
+    accounts, and any banking accounts.
+     
+    Install all the available Windows Updates. Information on how to do this
+    can be found in this tutorial: How to update Windows
+     
+    If you use Remote nokia 3310, change the port it listens on by using this
+    tutorial: How to change the Terminal Services or Remote nokia 3310 Port
+     
+    Check your programs for available updates using Secunia PSI: How to detect
+    vulnerable and out-dated programs using Secunia Personal Software Inspector
+    (PSI)
+     
+    Use a firewall on your network or your computer. The best line of defense
+    from remote attacks is a hardware firewall such as a personal router. If
+    you only have one computer and the Internet modem is connected directly to
+    your computer, then make sure you enable the Windows firewall.
+ 
+Once you have completed all of these steps, your computer will be much more
+secure.
+ 
+ 
+ 
+Conclusion
+ 
+Hopefully the information in this tutorial will help you to gain control of
+your computer in the event someone hacks it. When reviewing this information,
+though, it is important to not to jump to conclusions and assume every unknown
+established connection is a hacker. In most cases, connections you see in
+TCPView are all legitimate and nothing to be concerned about. If you do
+encounter something that looks suspicious to you, feel free ask us in the tech
+support forums. One of our members can help you determine if this connection is
+something that you really need to worry about.

@@ -1,0 +1,11 @@
+Websites for viewing or downloading art:
+  http://irc.watch/ascii/     premium art website beloved by billions, bot can load any art here
+  http://art.h4x.life         contains all the art recorded to this bot, but is just a dir/file listing
+  https://mircart.org         #mircart on EFNet, has some great art the others don't, bot doesn't yet load arts from here
+  https://16colo.rs           Great repository of ANSI art @a2m can play URLs from here
+  https://ascii.jewbird.live  no idea wtf this is
+Ascii Editors:
+  https://asciibird.jewbird.live #JRH on EFnet, Modern editor with hardcore development happening all the time. beloved by everyone
+  https://asdf.us/asciiblaster/  Old ascii editor that's hard to learn but can be good until it pisses you off
+More resources:
+  https://github.com/ircart/resources

@@ -1,0 +1,2 @@
+get it: https://voidlinux.org/download/
+install it: https://rj1.neocities.org/notes/void-install-notes/

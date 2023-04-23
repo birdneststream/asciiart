@@ -1,0 +1,1 @@
+Attention - due to a large amount of DDOS attacks, we are starting a nick holding service. Please type "/server nickserv" to enroll.

@@ -1,0 +1,312 @@
+The FreeBSD installation starts you off with the base system and a terminal. No flashy graphics, no desktop, no file manager, no web browser, no image manipulator, etc. You start with the base system, a terminal and build 3rd party apps like web browers as you see fit. If you're not familiar with the CLI, Command Line Interface, it's where you will be doing a good part of your work from,
+and all of it till you build a Window Manager like Fluxbox, or Desktop Environment like Gnome as a GUI, or Graphic User Interface, which is what you're familiar with as a Windows or Linux desktop user. If you've got an old PC or laptop laying around that just can't run the bloat that is Windows, FreeBSD can breathe new life into it and is the perfect solution to it collecting dust.
+I'm going to guide you though the process of getting a fully functional FreeBSD desktop up and running, complete with system files and security settings, step-by-step as if you've never used UNIX or the command line, but before we begin I recommend you take a look at the installation process as it's outlined in the FreeBSD Handbook to get a rough idea what we'll be doing.
+Installing FreeBSD
+While there, go to freebsd.org and download the proper ISO to burn to a CD or DVD, or memstick img to transfer to a USB stick.
+Now let's get started:
+Insert your boot media and at the Welcome screen choose the Install option and hit Enter. (You'll be using the Enter key to confirm all your choices.)
+If you're in the US use the Default keyboard mapping when presented with that screen. If not, choose the keymap that you'll be using.
+When presented with the Set Hostname screen enter your machine name.
+At the Distribution Select screen choose:
+lib32
+ports
+src
+You do this with the arrow keys and the spacebar. If you are not on a 64 bit machine the lib32 option will not be available.
+At the Partitioning menu choose Auto (UFS) Guided Disk Setup, for simplicity, and MBR for the Partition Scheme. It will give you a choice of where to install, choose your HDD which will be designated as ada0. There have been problems reported with this stage of installation and I changed from previously using GPT to MBR to get past a sticking point I encountered during this step of the
+build. Your mileage may vary.
+Choose Entire Disk at the next screen, as we won't be dual-booting with this tutorial.
+At the next screen it will present you with the disk layout, choose Finish.
+Now confirm this is what you really want to do, and Commit to the partitioning and installation of your new OS.
+Now sit back and wait for it to install the base system, kernel, games, ports, and source code. It won't take long.
+Your next task is to choose a password for the root account. Make it a strong one with upper and lower case letters, numbers, and other characters. At least 8 characters in length, the longer and more complex the better.
+Now you'll configure your network interface. Choose your ethernet card for starters. FreeBSD is not Linux, so it will have a different designation but you should be able to pick it out from a wireless card.
+Now choose Yes when asked if you'd like to configure IPv4.
+Choose Yes to configure DHCP. It will scan and pick up your router interface, go with it.
+If you want to configure IPv6 at the next screen or not it's up to you.
+Now set your timezone, choose No when it asks you if you use UTC, and proceed to the next screen to choose the proper time zone for you.
+At the system Configuration screen choose to enable ntpdate, ntpd, and powerd. If you want to enable SSH choose SSHD, too.
+Choose No to enabling Crash Dump. It's not necessary.
+At the System Hardening screen check the following boxes to enable the options:
+Disable reading kernel message buffer for unprivileged users
+Disable process dubugging facilities for unprivileged users
+Randomize the PID for newly created processes
+Disallow Dtrace destructive-mode
+Choosing to disable reading kernel message buffer will disable the ability to use the dmesg command from the user account, showing a volume of system information, and you will have to log in as root to read it so it is an option you may wish to leave unchecked. We will set other variables ourselves later on.
+Now's your chance to add a User account. Less privileged than root, it's what you'll be running in 99.9% of the time.
+When asked if you want to invite the user to other groups make them members of:
+wheel operator
+Typed just like that.
+Enter a password for that account, for the rest of the options choose the default option it recommends and just hit Enter to proceed from one to the next.
+One account should be enough. When asked if you want to make another user account type no and hit Enter.
+Now you're at the last screen of the build process. Exit and remove the installation media you used (CD, DVD, Flash drive) while it's restarting or it will loop back.
+Now you're presented with a black screen which is our terminal. You've only installed the base system and no GUI or desktop have been installed at this point.
+Log into your user account with the user name you chose and the password for it.
+Now we're going to log into the root account by typing:
+su
+And entering the root password.
+Now we're going to enable the pf firewall, which is taken from OpenBSD and the best all-around firewall going.
+We're going to have to enter Easy Editor to make a ruleset and show the system where to look for it. Type:
+ee /etc/pf.conf
+And hit Enter.
+You've just created a file called pf.conf in the /etc directory.
+Now type:
+block in all
+pass out all keep state
+Hit the Esc key to bring up the options menu, choose file options, and save file.
+Hit Esc again and exit Easy Editor back to the command line.
+Now we have to show the system where to look for our ruleset and the logfile. Type:
+ee /etc/rc.conf
+You've just opened the file rc.conf in the /etc directory. This is a very important file and you should see some options already there, like your machine name and other options.
+It's VERY IMPORTANT not to leave any option here uncommented on either end, meaning if you start an option it MUST begin and finish with quotes or you will not be able to start your system and have to enter Single User Mode to fix.
+Use your arrow keys to scroll down past the lines that are already present and type these out:
+pf_enable="YES"
+pf_rules="/etc/pf.conf"
+pf_flags=""
+pflog_enable="YES"
+pflog_logfile="/var/log/pflog"
+pflog_flags=""
+Now to save time and effort later, so we can download microcode updates to keep your processor firmware up-to-date edit in:
+microcode_update_enable="YES"
+Notice how each option begins and finishes with a quote? You'll be adding your own later so don't forget to check it closely before you exit out of Easy Editor when you do. (Always hit Enter after your last entry so you end up on a new blank line.)
+Now we'll reboot to make the changes we've made take effect by entering the following command:
+shutdown -r now
+And hitting Enter. Your machine will now reboot and you'll be back at the starting screen. Log into your user account again and then su into the root account once you do.
+OK, so you missed commenting a line in /etc/rc.conf, possibly after the "equals" symbol, are seeing a message to that effect and can't move past that point... Here's how to fix it without having to start completely over. Enter the following commands from where you are now to go into Single User Mode:
+fsck -y
+mount -u /
+mount -a -t ufs
+swapon -a
+Now you can edit /etc/rc.conf through EE like before to find the error. Reboot afterwards to continue on.
+Now we need to apply any security patches that have been issued since the install media was distributed. This is something you'll want to check every day to see if any new patches have been issued. Chances are it will be weeks in between, but you want to stay up to date.
+Enter the following command:
+freebsd-update fetch
+It will download updates to the system if any are available. When it's finished use your down arrow key to scroll to the end and back to the command prompt. Then enter the following command:
+freebsd-update install
+It won't take as long to install them as it did it download them. Once it's done, reboot:
+shutdown -r now
+If the system hangs and it doesn't look like it's going to finish the reboot cycle do a hard reset with the power button, it will be alright to do so.
+When it reboots enter your user account again, and su to the root account by entering:
+su
+And your root password.
+Now we'll populate the ports tree, which is where we'll get all our programs, with the following command:
+portsnap fetch extract
+If all went well with the initial installation it should download and populate the ports tree, which will take a few minutes.
+Now download the database for 3rd party program vulnerabilities by entering the following command:
+pkg audit -F
+After it's done we'll build portmaster from the ports tree by entering the following command:
+cd /usr/ports/ports-mgmt/portmaster
+Now you've changed directories with the cd command and are in the portmaster directory. Enter the following command:
+make install clean
+It will show you a few screens of possible options, just click Enter at each screen to go with the default options, and choose Yes when it asks you if you want to proceed.
+It will compile the 3rd party program portmaster from source code which will take a few minutes. You have the option of building programs from source though ports or using pre-compiled binary packages through the pkg system. Using pkg is much faster, but by using ports you can choose your own program options and it's the way I've always done it so that's what we'll use in this tutorial.
+Ports are also updated more often than packages. Therefore, it will be easier to keep your 3rd party software up to date when new vulnerabilities are discovered, and by starting out using ports you'll get a feel for compiling programs and gain more CLI time for experience purposes in the process.
+It is recommended NOT to mix ports and packages, so once you start using ports stay with it. After you gain some experience you may want to rebuild your system and switch from ports to packages. If you'd rather start using the pkg system consult the FreeBSD Handbook.
+When it's finished you can get back to the root directory by typing:
+cd /
+We're going to put portmaster to work right away and update your microcode. It will gather all dependencies and what it deems necessary to be built along with a port. It will also make the process easier by allowing you to set the variables for each of them all at once and not as they are being built.
+Enter the following command:
+portmaster sysutils/devcpu-data
+After it's finished type the command:
+service microcode_update start
+Next we'll build an old school file manager called Midnight Commander (MC), a graphic interface by installing Xorg, a Windows Manager called Fluxbox, a file manager called Xfe, and a text editor called Leafpad (like Notepad) to make it easier for you.
+Enter the following command:
+portmaster misc/mc
+And hit Enter.
+You'll be presented with several screens asking you if you'd like to change options for dependencies needed for MC. Just go with the default options for the most part with the possible exception being for IPV6 if you did not configure it during installation and PERL_64BIT at the perl installation window if you're running a 32 bit machine. If not, hit the spacebar at those lines to
+uncomment it.
+MC will let you take a look at the directory tree to familiarize yourself with the layout, if you'd like to at this time, or you can do that later. You can bring it up by typing mc at the CLI but at this point I would recommend you only do so from the user account, and not as root, so you don't take the chance of breaking something. The usr account has limited privileges, root is the all
+powerful SuperUser. You should normally run in your basic user account and only as root to Administer your system.
+Next we'll build Xorg by entering the following command:
+portmaster x11/xorg
+It will present you with several option screens for programs that are built with the Xorg metadata port like xterm, xclock, drivers, etc. It won't be necessary to choose all the graphic card drivers it presents, but go ahead and choose VESA along with the driver for your card. Again, if you did not configure IPV6 uncomment that line when the curl dependency screen comes up duing the
+build process.
+After Xorg is finally finished compiling (it will take a while) let's reboot by entering the following command:
+shutdown -r now
+After you have rebooted log into your user account, then into your root account by entering the following command and your root password:
+su
+Check to see if the ports tree has been updated or any new vulnerabilities have been found by entering the following commands:
+portsnap fetch update
+pkg audit -F
+freebsd-update fetch
+These are commands you'll be using on a regular basis to keep your system updated. Now we'll build fluxbox:
+portmaster x11-wm/fluxbox
+Fluxbox is a lightweight Window Manager that features transparency and has several nice styles to chose from. I'll provide you with a few. I prefer it to desktops like KDE or Gnome due to all the extra baggage that comes bundled with them. The programs you'll install need to be added manually to the Fluxbox menu, which can be accessed and edited with leafpad from the
+/usr/home/username/.fluxbox directory. The . before the folder name designates it as a hidden folder.
+After it's done install your file manager:
+portmaster x11-fm/xfe
+Now for the text editor:
+portmaster editors/leafpad
+And the terminal we'll be using with fluxbox called urxvt, which uses an ~/.Xdefaults file for transparency and font selection I will supply:
+portmaster x11/rxvt-unicode
+When it's done compiling the programs we'll add the following lines to the rc.conf file by entering the following commands so it's activated on boot:
+echo 'dbus_enable="YES"' >> /etc/rc.conf
+echo 'hald_enable="YES"' >> /etc/rc.conf
+This time you used the echo command instead of opening EE like before.
+Now we need to log out of the root account and create a file called .xinitrc in your user account folder by entering the following command:
+ee /usr/home/usernamehere/.xinitrc
+The . before the file name designates it as a hidden file. You can make hidden files and folders visible in xfe options later.
+Now type:
+urxvt &
+xfe &
+fluxbox exec
+Save and exit EE afterwards like you've done, reboot to make the changes we made take effect:
+shutdown -r now
+After it reboots log into your user account and enter the following command to bring up your desktop:
+startx
+If all went well, and it should if you've followed my instructions, you'll be presented with the fluxbox Window Manager screen, a urxvt terminal and an xfe file manager window already open on the desktop. If you see a green and white WM you've logged in as root by mistake and need to reboot. Look over the xfe options to customize it to your taste.
+If your box uses an older nvidia chip, maybe a Quardo NVS 140M or Quadro 1000M with Optimus, we have easy work first. Your card will need x11/nvidia-driver-304 or x11/nvidia-driver-340, emulators/linux_base-c7, x11/nvidia-settings and x11/nvidia-xconfig.
+Once installed, as root run the command nvidia-xconfig.
+Run ee /ect/rc.conf, edit in linux_enable="YES", save and exit.
+Run ee /boot/loader.conf. To cover all chips, Edit in:
+linux_load="YES"
+nvidia_load="YES"
+nvidia-modset_load="YES"
+Now save file, exit editor and reboot. Now we can boot to the desktop same as them and see a nvidia boot screen display before we land.
+I have uploaded an ~.Xdefaults file to customize urxvt as Xdefaults.txt. Remove the .txt extension and replace the leading period to make it a hidden file again before placing it in your user directory from that account.
+From now on you can log into the root account through urxvt. Do so now by entering the su command followed by your root password:
+su
+Then update your ports tree and check to see if there are any vulnerabilities in your programs:
+portsnap fetch update
+pkg audit -F
+It's doubtful any have been found in the relatively short time since you got started, but is something you want to do on a regular basis once you get things going. When vulnerabilities are found use portmaster to update the file with the "portmaster filename" command, or remove it by changing to the programs directory and using the "make deinstall clean" command. Be aware that if you
+deinstall a program it may break another program, if it is a dependency of that program.
+There are still several things you need to do. You will need to create folders for Documents, Downloads, Images, Music, Videos, etc. in your /home/username directory manually through the xfe File dropdown menu. We will be tweaking files to harden the system as well.
+First we need to create a couple files and edit rc.conf, this time using leafpad. You should still be in your root account in urxvt, so enter:
+leafpad
+To bring up that text editor as root. Copy this text into leafpad:
+[devfsrules_common=7]
+add path 'ad*' mode 0666 group operator
+add path 'da*' mode 0666 group operator
+add path 'acd*' mode 0666 group operator
+add path 'cd*' mode 0666 group operator
+add path 'mmcsd*' mode 0666 group operator
+add path 'pass*' mode 0666 group operator
+add path 'xpt*' mode 0666 group operator
+add path 'ugen*' mode 0666 group operator
+add path 'usbctl' mode 0666 group operator
+add path 'usb*' mode 0666 group operator
+add path 'lpt*' mode 0666 group operator
+add path 'ulpt*' mode 0666 group operator
+add path 'unlpt*' mode 0666 group operator
+add path 'fd*' mode 0666 group operator
+add path 'uscan*' mode 0666 group operator
+add path 'video*' mode 0666 group operator
+add path 'dvb/*' mode 0666 group operator
+And save it as /etc/devfs.rules
+That's in the /etc directory, the filename is devfs.rules
+Now enter the following commands:
+echo 'devd_enable="YES"' >> /etc/rc.conf
+echo 'devfs_system_ruleset="devfsrules_common"' >> /etc/rc.conf
+And reboot using the shutdown command.
+Open Xfe as root and in the File dropdown menu choose New folder to create a new folder named da0s1 in the Media directory. Now you should be able to access a Flash drive. Enter the mount command for it:
+mount -v -t msdosfs /dev/da0s1 /media/da0s1
+And unmount it before removing the drive to prevent problems:
+umount -v -t msdosfs /dev/da0s1 /media/da0s1
+Now that we've got the basics done and closer to surfing the net let's tweak the pf.conf file to harden our firewall ruleset. The network interface designation for your Ethernet card should be something like msk0, em0 or bge0 and can be found using the following command:
+ifconfig
+Now navigate to /etc/pf.conf as root with leafpad and change it to the following.
+###macro name for external interface
+ext_if = "Network Interface Designation Goes Here"
+netbios_tcp = "{ 22, 23, 25, 80, 110, 111, 123, 512, 513, 514, 515, 6000, 6010 }"
+netbios_udp = "{ 123, 512, 513, 514, 515, 5353, 6000, 6010 }"
+### Reassemble fragmented packets
+scrub in on $ext_if all fragment reassemble
+### Default deny everything
+block log all
+### Pass loopback
+set skip on lo0
+### Block spoof
+antispoof for lo0
+antispoof for $ext_if inet
+block in from no-route to any
+block in from urpf-failed to any
+### Block all IPv6
+block in quick inet6 all
+block out quick inet6 all
+### Block to and from port 0
+block quick proto { tcp, udp } from any port = 0 to any
+block quick proto { tcp, udp } from any to any port = 0
+### Keep and modulate state of outbound traffic
+pass out on $ext_if proto { tcp, udp, icmp } from any to any modulate state
+If you have a printer then you'll be using CUPS and that ruleset does not take that into consideration.
+The following ruleset allows the machine running cupsd to be accessed by your other machines on the LAN:
+### CUPS_pf_rules_included
+### Macro name for external interface
+ext_if = "em0"
+netbios_tcp = "{ 22, 23, 25, 110, 111, 123, 512, 513, 514, 515, 6000, 6010 }"
+netbios_udp = "{ 123, 512, 513, 514, 515, 5353, 6000, 6010 }"
+### Allow CUPS to use tcp ports 80 and udp port 631
+cups_tcp = "{ 80, 631 }"
+cups_udp = "{ 631 }"
+### Allow CUPS to be accessible (change to your other machines ifconfig -a LAN designation )
+table <local> { CUPS machine LAN address }
+### Reassemble fragmented packets
+scrub in on $ext_if all fragment reassemble
+### Default deny everything
+block log all
+### Pass loopback
+set skip on lo0
+### Allow LAN to talk to CUPS on your machine
+pass in log quick from <local> to any keep state
+### Block spooks
+antispoof for lo0
+antispoof for $ext_if inet
+block in from no-route to any
+block in from urpf-failed to any
+block in quick on $ext_if from any to 255.255.255.255
+block in log quick on $ext_if from { 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, 255.255.255.255/32 } to any
+### Block all IPv6
+block in quick inet6 all
+block out quick inet6 all
+### Block to and from port 0
+block quick proto { tcp, udp } from any port = 0 to any
+block quick proto { tcp, udp } from any to any port = 0
+### Block specific ports
+block in quick log on $ext_if proto tcp from any to any port $netbios_tcp
+block in quick log on $ext_if proto udp from any to any port $netbios_udp
+### Allow CUPS to talk to clients on LAN
+pass out log on $ext_if proto tcp to any port $cups_tcp keep state
+pass out log on $ext_if proto udp to any port $cups_udp keep state
+### Keep and modulate state of outbound tcp, udp and icmp traffic
+pass out on $ext_if proto { tcp, udp, icmp } from any to any modulate state
+Save, exit leafpad, and reboot through urxvt to make the changes take effect:
+shutdown -r now
+Open /etc/ttys in leafpad as root and change every instance of secure to insecure to require the root password to logon in Single User Mode.
+Open /etc/ssh/sshd_config in leafpad and change or uncomment the following lines by removing the number sign to read as below:
+AllowTcpForwarding no
+PermitRootLogin no
+Protocol 2
+X11Forwarding no
+PermitTTY no
+Open /etc/passwd and delete the line of the toor account then run the following command to make it permanent:
+pw userdel toor
+Open /etc/aliases and set the root mailbox address to:
+root: username@machinename
+Your daily messages will then be available to read as root in the /var/mail directory.
+Finally, open /etc/rc.conf in leafpad and add the following entries to what's already there:
+moused_enable="YES"
+mouse_type="auto"
+ntpd_enable="YES"
+ntpd_sync_on_start="YES"
+powerd_enable="YES"
+powerd_flags="-a hiadaptive -b adaptive"
+sendmail_enable="NO"
+fsck_y_enable="YES"
+swapexd_enable="YES"
+mixer_enable="YES"
+snddetect_enable="YES"
+syslogd_flags="-c -ss"
+linux_enable="YES"
+clear_tmp_enable="YES"
+clean_tmp_X="YES"
+avahi_daemon_enable="YES"
+tcp_drop_synfin="YES"
+This will allow you to receive security updates via sendmail as root, enable Linux emulation for any programs you might install that need it, clear tmp files, etc. It will also apply additional security measures by disallowing certain services. Reboot one final time to ensure the file changes you've made go into effect.
+With the exception of a few select programs of your choice you now have a fully functional FreeBSD desktop. In addition to a web browser you may want to build VLC to watch movies, Audacious to listen to music files, GIMP to manipulate images, nmap to portscan, bcrypt to encrypt password files, wipe to securely delete files, ePDFview to access PDF files, rkhunter to scan for rootkits, feh
+to change your desktop background, and gkrellm2 or conky for system stats so you can continue to do anything you could on Windows with more security and style.
+Here are some Fluxbox styles you can use and modify to your taste. Open Leafpad as root, copy the text and save it to the following directory without specifying an extension:
+/usr/local/share/fluxbox/styles
+8ball
+Bloodflow
+ElectricBlue
+Familiarize yourself with the ports tree and the programs it contains, the directory structure and its contents, and study the FreeBSD Handbook on how to use your new OS.

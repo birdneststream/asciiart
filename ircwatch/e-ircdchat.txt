@@ -1,0 +1,2 @@
+exec fuckhole e-ircdchatcastle.txt
+ah shit

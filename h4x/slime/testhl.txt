@@ -1,0 +1,110 @@
+5<?php15                                                                           
+12namespace15 knivey5\15lolbot5\15scripts5\15remindme5;15                                       
+5/*15                                                                              
+5 * script for our .tell nick blah blah and .ask nick blah blah commands15         
+5 */15                                                                             
+12use15 knivey5\15cmdr5\15attributes5\15CallWrap5;15                                            
+12use15 knivey5\15cmdr5\15attributes5\15Cmd5;15                                                 
+12use15 knivey5\15cmdr5\15attributes5\15Syntax5;15                                              
+12use15 Khill5\15Duration5\15Duration5;15                                                    
+12use15 5\15RedBeanPHP5\15R 12as15 R5;15                                                         
+12global15 3$config5;15                                                                 
+12const15 REMINDERDB 5=15 5"reminderdb";15                                                
+3$dbfile15 5=15 3$config5[15REMINDERDB5]15 5??15 5"reminder.db";15                                 
+R5::14addDatabase5(15REMINDERDB5,15 5"sqlite:{$dbfile}");15                                 
+5#[Cmd("in", "remindme")]15                                                        
+5#[Syntax("<time> <msg>...")]15                                                    
+12function15 14in5(3$args5,15 5\15Irc5\15Client 3$bot5,15 5\15knivey5\15cmdr5\15Request 3$req5)15 5{15               
+    5\15Amp5\14asyncCall5(12function15 5()15 12use15 5(3$args5,15 3$bot5,15 3$req5)15 5{15                        
+        3$duration15 5=15 12new15 14Duration5(3$req5->15args5['time']);15                           
+        5//Because the Duration lib is PECULIAR it resets its value to 0 after do
+5ing outputs15                                                                     
+        5//And also lingers data in the output, really i need to find another lib
+        3$in15 5=15 3$duration5->14toSeconds5();15                                           
+        12if5(3$in15 5<15 6155)15 5{15                                                          
+            3$bot5->14pm5(3$args5->15chan5,15 5"Give me a proper duration of at least 15 seco
+5nds with no spaces (Ex: 1h10m15s or 1:10:15)");15                                 
+            12return5;15                                                             
+        5}15                                                                       
+        R5::14selectDatabase5(15REMINDERDB5);15                                          
+        3$r15 5=15 R5::14dispense5("reminder");15                                           
+        3$r5->15nick 5=15 3$args5->15nick5;15                                                 
+        3$r5->15chan 5=15 3$args5->15chan5;15                                                 
+        3$r5->15at 5=15 14time5()15 5+15 3$in5;15                                                  
+        3$r5->15sent 5=15 605;15                                                           
+        3$r5->15msg 5=15 3$req5->15args5['msg'];15                                            
+        R5::14store5(3$r5);15                                                           
+        3$bot5->14pm5(3$args5->15chan5,15 5"Ok, I'll remind you in "15 5.15 5(12new15 14Duration5(3$in5))->14h
+14umanize5());15                                                                     
+        yield from 14sendDelayed5(3$bot5,15 3$r5,15 3$in5);15                                  
+    5});15                                                                         
+5}15                                                                               
+5/* 0TODO5, this actually needs to parse more than one word(arg) for the timestamp 
+5so its a bit complicated to do15                                                  
+5#[Cmd("at")]15                                                                    
+5#[Syntax("<time> <msg>...")]15                                                    
+5function at($args, \Irc\Client $bot, \knivey\cmdr\Request $req) {15               
+5    try {15                                                                       
+5        $dt = new \DateTime($req->args['time']);15                                
+5    } catch (\Exception $e) {15                                                   
+5        $bot->pm($args->chan, "That date time doesnt seem valid");15              
+5        return;15                                                                 
+5    }15                                                                           
+5    if($dt->getTimestamp() <= time() + 15) {15                                    
+5        $bot->pm($args->chan, "Give me a time at least 15 seconds from now");15   
+5        return;15                                                                 
+5    }15                                                                           
+5    $in = $dt->getTimestamp() - time();15                                         
+5    $duration = new Duration($in);15                                              
+5    R::selectDatabase(REMINDERDB);15                                              
+5    $r = R::dispense("reminder");15                                               
+5    $r->nick = $args->nick;15                                                     
+5    $r->chan = $args->chan;15                                                     
+5    $r->at = $dt->getTimestamp();15                                               
+5    $r->sent = 0;15                                                               
+5    $r->msg = $req->args['msg'];15                                                
+5    R::store($r);15                                                               
+5    $bot->pm($args->chan, "Ok, I'll remind you in " . $duration->humanize());15   
+5    sendDelayed($bot, $r, $in);15                                                 
+5}15                                                                               
+5*/15                                                                              
+12function15 14sendDelayed5(\15Irc5\15Client 3$bot5,15 3$r5,15 3$seconds5)15 5{15                          
+    yield 5\15Amp5\14delay5(3$seconds15 5*15 610005);15                                          
+    5//if bot somehow isnt connected keep retrying15                               
+    12while15 5(!3$bot5->14isEstablished5())15 5{15                                            
+        yield 5\15Amp5\14delay5(6100005);15                                                
+    5}15                                                                           
+    3$bot5->14pm5(3$r5->15chan5,15 5"[REMINDER: {$r->nick}] {$r->msg}");15                     
+    3$r5->15sent 5=15 615;15                                                               
+    R5::14selectDatabase5(15REMINDERDB5);15                                              
+    R5::14store5(3$r5);15                                                               
+5}15                                                                               
+12function15 14initRemindme5(3$bot5)15 5{15                                                   
+    12static15 3$inited15 5=15 12false5;15                                                     
+    12if5(3$inited5)15                                                                 
+        12return5;15                                                                 
+    3$inited15 5=15 12true5;15                                                             
+    5\15Amp5\14asyncCall5(12function15 5()15 12use15 5(3$bot5)15 5{15                                     
+        5//A bit of a hack here so we give the bot time to join channels etc15     
+        yield 5\15Amp5\14delay5(650005);15                                                 
+        R5::14selectDatabase5(15REMINDERDB5);15                                          
+        5//load our reminders from db and call sendDelayed on all15                
+        3$rs15 5=15 R5::14findAll5("reminder",15 5" `sent` = 0 ");15                           
+        12foreach15 5(3$rs15 12as15 3$r5)15 5{15                                                   
+            5//whoops already passed while bot was down15                          
+            12if15 5(3$r5->15at 5<=15 14time5())15 5{15                                             
+                12while15 5(!3$bot5->14isEstablished5())15 5{15                                
+                    yield 5\15Amp5\14delay5(6100005);15                                    
+                5}15                                                               
+                3$ago15 5=15 5(12new15 14Duration5(14time5()15 5-15 3$r5->15at5))->14humanize5();15             
+                3$bot5->14pm5(3$r5->15chan5,15 5"[REMINDER: {$r->nick} (late by $ago)] {$r->m
+5sg}");15                                                                          
+                3$r5->15sent 5=15 615;15                                                   
+                R5::14store5(3$r5);15                                                   
+            5}15 12else15 5{15                                                            
+                yield from 14sendDelayed5(3$bot5,15 3$r5,15 3$r5->15at 5-15 14time5());15              
+            5}15                                                                   
+        5}15                                                                       
+    5});15                                                                         
+5}15                                                                               
+

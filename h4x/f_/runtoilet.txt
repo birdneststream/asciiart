@@ -1,0 +1,9 @@
+$ toilet toilet
+                                          
+   m             "    ""#             m   
+ mm#mm   mmm   mmm      #     mmm   mm#mm 
+   #    #" "#    #      #    #"  #    #   
+   #    #   #    #      #    #""""    #   
+   "mm  "#m#"  mm#mm    "mm  "#mm"    "mm 
+                                          
+                                          

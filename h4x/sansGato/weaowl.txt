@@ -1,0 +1,6 @@
+Weather report: owl
+      \   /     Sunny
+       .-.      68 °F          
+    ― (   ) ―   ↖ 4 mph        
+       `-’      6 mi           
+      /   \     0.0 in        

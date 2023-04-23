@@ -1,0 +1,148 @@
+Would you like to merge these packages? [Yes/No] y
+>>> Verifying ebuild manifests
+>>> Running pre-merge checks for sys-libs/glibc-2.33-r1
+ * Checking general environment sanity.
+make -j17 glibc-test CC=x86_64-pc-linux-gnu-gcc 
+x86_64-pc-linux-gnu-gcc -O2 -pipe -march=native   -Wl,-O1 -Wl,--as-needed  glibc-test.c   -o glibc-test
+ * Checking that IA32 emulation is enabled in the running kernel ...
+/usr/portage/sys-libs/glibc/glibc-2.33-r1.ebuild: line 608:   199 Segmentation fault      "${T}/check-ia32-emulation.elf32"            [ !! ]
+ * ERROR: sys-libs/glibc-2.33-r1::gentoo failed (pretend phase):
+ *   CONFIG_IA32_EMULATION must be enabled in the kernel to compile a multilib glibc.
+ * 
+ * Call stack:
+ *              ebuild.sh, line 127:  Called pkg_pretend
+ *   glibc-2.33-r1.ebuild, line 721:  Called sanity_prechecks
+ *   glibc-2.33-r1.ebuild, line 670:  Called die
+ * The specific snippet of code:
+ *      [[ $STAT -eq 0 ]] || die "CONFIG_IA32_EMULATION must be enabled in the kernel to compile a multilib glibc."
+ * 
+ * If you need support, post the output of `emerge --info '=sys-libs/glibc-2.33-r1::gentoo'`,
+ * the complete build log and the output of `emerge -pqv '=sys-libs/glibc-2.33-r1::gentoo'`.
+ * The complete build log is located at '/var/tmp/portagesys-libs/glibc-2.33-r1/temp/build.log'.
+ * The ebuild environment file is located at '/var/tmp/portage/sys-libs/glibc-2.33-r1/temp/die.env'.
+ * Working directory: '/var/tmp/portage/sys-libs/glibc-2.33-r1/empty'
+ * S: '/var/tmp/portage/sys-libs/glibc-2.33-r1/work/glibc-2.33'
+>>> Failed to emerge sys-libs/glibc-2.33-r1, Log file:
+>>>  '/var/tmp/portage/sys-libs/glibc-2.33-r1/temp/build.log'
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Reproducible: Always
+Steps to Reproduce:
+1. emerge -auND @world
+2.
+3.
+Actual Results:  
+Would you like to merge these packages? [Yes/No] y
+>>> Verifying ebuild manifests
+>>> Running pre-merge checks for sys-libs/glibc-2.33-r1
+ * Checking general environment sanity.
+make -j17 glibc-test CC=x86_64-pc-linux-gnu-gcc 
+x86_64-pc-linux-gnu-gcc -O2 -pipe -march=native   -Wl,-O1 -Wl,--as-needed  glibc-test.c   -o glibc-test
+ * Checking that IA32 emulation is enabled in the running kernel ...
+/usr/portage/sys-libs/glibc/glibc-2.33-r1.ebuild: line 608:   199 Segmentation fault      "${T}/check-ia32-emulation.elf32"            [ !! ]
+ * ERROR: sys-libs/glibc-2.33-r1::gentoo failed (pretend phase):
+ *   CONFIG_IA32_EMULATION must be enabled in the kernel to compile a multilib glibc.
+ * 
+ * Call stack:
+ *              ebuild.sh, line 127:  Called pkg_pretend
+ *   glibc-2.33-r1.ebuild, line 721:  Called sanity_prechecks
+ *   glibc-2.33-r1.ebuild, line 670:  Called die
+ * The specific snippet of code:
+ *      [[ $STAT -eq 0 ]] || die "CONFIG_IA32_EMULATION must be enabled in the kernel to compile a multilib glibc."
+ * 
+ * If you need support, post the output of `emerge --info '=sys-libs/glibc-2.33-r1::gentoo'`,
+ * the complete build log and the output of `emerge -pqv '=sys-libs/glibc-2.33-r1::gentoo'`.
+ * The complete build log is located at '/var/tmp/portage/sys-libs/glibc-2.33-r1/temp/build.log'.
+ * The ebuild environment file is located at '/var/tmp/portage/sys-libs/glibc-2.33-r1/temp/die.env'.
+ * Working directory: '/var/tmp/portage/sys-libs/glibc-2.33-r1/empty'
+ * S: '/var/tmp/portage/sys-libs/glibc-2.33-r1/work/glibc-2.33'
+>>> Failed to emerge sys-libs/glibc-2.33-r1, Log file:
+>>>  '/var/tmp/portage/sys-libs/glibc-2.33-r1/temp/build.log'
+Expected Results:  
+That glibc emerges.
+CONFIG_IA32_EMULATION is definitely configured in my kernel 5.10.27-gentoo.
+emerge --info ....
+Portage 3.0.20 (python 3.9.5-final-0, default/linux/amd64/17.1/desktop, gcc-9.3.0, glibc-2.33, 5.10.27-gentoo x86_64)
+=================================================================
+                         System Settings
+=================================================================
+System uname: Linux-5.10.27-gentoo-x86_64-AMD_Ryzen_7_1700X_Eight-Core_Processor-with-glibc2.33
+KiB Mem:    16392076 total,  14305776 free
+KiB Swap:   33554424 total,  33554424 free
+Timestamp of repository gentoo: Mon, 05 Jul 2021 18:30:01 +0000
+Head commit of repository gentoo: a8d03be9e6526066434f326a76da5a5ad063498e
+sh bash 5.1_p8
+ld GNU ld (Gentoo 2.26.1 p1.0) 2.26.1
+app-shells/bash:          5.1_p8::gentoo
+dev-lang/perl:            5.32.1::gentoo
+dev-lang/python:          2.7.18-r4::gentoo, 3.6.11-r2::gentoo, 3.7.10_p3::gentoo, 3.8.9_p2::gentoo, 3.9.5_p2::gentoo
+dev-lang/rust:            1.52.1::gentoo
+dev-util/cmake:           3.18.5::gentoo
+dev-util/pkgconfig:       0.29.2::gentoo
+sys-apps/baselayout:      2.7::gentoo
+sys-apps/openrc:          0.42.1::gentoo
+sys-apps/sandbox:         2.23::gentoo
+sys-devel/autoconf:       2.13-r1::gentoo, 2.69-r5::gentoo
+sys-devel/automake:       1.11.6-r3::gentoo, 1.15.1-r2::gentoo, 1.16.3-r1::gentoo
+sys-devel/binutils:       2.26.1::gentoo, 2.28-r2::gentoo, 2.28.1::gentoo, 2.29.1-r1::gentoo, 2.30-r4::gentoo, 2.31.1-r6::gentoo, 2.32-r1::gentoo, 2.33.1-r1::gentoo, 2.34-r2::gentoo, 2.35.2::gentoo
+sys-devel/gcc:            8.3.0-r1::gentoo, 9.2.0-r2::gentoo, 9.3.0-r2::gentoo, 10.3.0::gentoo
+sys-devel/gcc-config:     2.4::gentoo
+sys-devel/libtool:        2.4.6-r6::gentoo
+sys-devel/make:           4.3::gentoo
+sys-kernel/linux-headers: 5.10::gentoo (virtual/os-headers)
+sys-libs/glibc:           2.33::gentoo
+Repositories:
+gentoo
+    location: /usr/portage
+    sync-type: rsync
+    sync-uri: rsync://rsync.gentoo.org/gentoo-portage
+    priority: -1000
+    sync-rsync-verify-jobs: 1
+    sync-rsync-extra-opts: 
+    sync-rsync-verify-max-age: 24
+    sync-rsync-verify-metamanifest: yes
+ACCEPT_KEYWORDS="amd64"
+ACCEPT_LICENSE="@FREE"
+CBUILD="x86_64-pc-linux-gnu"
+CFLAGS="-O2 -pipe -march=native"
+CHOST="x86_64-pc-linux-gnu"
+CONFIG_PROTECT="/etc /usr/lib64/libreoffice/program/sofficerc /usr/share/gnupg/qualified.txt"
+CONFIG_PROTECT_MASK="/etc/ca-certificates.conf /etc/dconf /etc/env.d /etc/fonts/fonts.conf /etc/gconf /etc/gentoo-release /etc/php/apache2-php7.3/ext-active/ /etc/php/apache2-php7.4/ext-active/ /etc/php/cgi-php7.3/ext-active/ /etc/php/cgi-php7.4/ext-active/ /etc/php/cli-php7.3/ext-active/ /etc/php/cli-php7.4/ext-active/ /etc/revdep-rebuild /etc/sandbox.d /etc/terminfo /etc/texmf/language.dat.d
+/etc/texmf/language.def.d /etc/texmf/updmap.d /etc/texmf/web2c"
+CXXFLAGS="-O2 -pipe -march=native"
+DISTDIR="/usr/portage/distfiles"
+ENV_UNSET="CARGO_HOME DBUS_SESSION_BUS_ADDRESS DISPLAY GOBIN GOPATH PERL5LIB PERL5OPT PERLPREFIX PERL_CORE PERL_MB_OPT PERL_MM_OPT XAUTHORITY XDG_CACHE_HOME XDG_CONFIG_HOME XDG_DATA_HOME XDG_RUNTIME_DIR"
+FCFLAGS="-O2 -pipe"
+FEATURES="assume-digests binpkg-docompress binpkg-dostrip binpkg-logs config-protect-if-modified distlocks ebuild-locks fixlafiles ipc-sandbox merge-sync multilib-strict network-sandbox news parallel-fetch pid-sandbox preserve-libs protect-owned qa-unresolved-soname-deps sandbox sfperms strict unknown-features-warn unmerge-logs unmerge-orphans userfetch userpriv usersandbox usersync xattr"
+FFLAGS="-O2 -pipe"
+GENTOO_MIRRORS="http://ftp.uni-erlangen.de/pub/mirrors/gentoo ftp://ftp.uni-erlangen.de/pub/mirrors/gentoo"
+LANG="en_GB.utf8"
+LDFLAGS="-Wl,-O1 -Wl,--as-needed"
+MAKEOPTS="-j17"
+PKGDIR="/usr/portage/packages"
+PORTAGE_CONFIGROOT="/"
+PORTAGE_RSYNC_OPTS="--recursive --links --safe-links --perms --times --omit-dir-times --compress --force --whole-file --delete --stats --human-readable --timeout=180 --exclude=/distfiles --exclude=/local --exclude=/packages --exclude=/.git"
+PORTAGE_TMPDIR="/var/tmp"
+USE="X a52 aac acl acpi alsa amd64 bluetooth branding bzip2 cairo cdda cddb cdr cli crypt cups dbus device-mapper dri dts dvd dvdr elogind emboss encode exif ffmpeg flac fortran gcrypt gdbm gif gnutls gpgme gpm gtk gui iconv icu ipv6 jpeg lame lcms libglvnd libnotify libtirpc mad mng mp3 mp4 mpeg multilib ncurses nls nptl ogg opengl openmp pam pango pcre pdf png podcast policykit ppds readline sdl
+seccomp spell split-usr ssl startup-notification svg tcpd tiff truetype udev udisks unicode upower usb vorbis wxwidgets x264 xattr xcb xml xv xvid zlib" ABI_X86="64" ADA_TARGET="gnat_2018" ALSA_CARDS="ali5451 als4000 atiixp atiixp-modem bt87x ca0106 cmipci emu10k1x ens1370 ens1371 es1938 es1968 fm801 hda-intel intel8x0 intel8x0m maestro3 trident usb-audio via82xx via82xx-modem ymfpci"
+APACHE2_MODULES="authn_core authz_core socache_shmcb unixd actions alias auth_basic authn_alias authn_anon authn_dbm authn_default authn_file authz_dbm authz_default authz_groupfile authz_host authz_owner authz_user autoindex cache cgi cgid dav dav_fs dav_lock deflate dir disk_cache env expires ext_filter file_cache filter headers include info log_config logio mem_cache mime mime_magic negotiation
+rewrite setenvif speling status unique_id userdir usertrack vhost_alias" CALLIGRA_FEATURES="karbon sheets words" COLLECTD_PLUGINS="df interface irq load memory rrdtool swap syslog" CPU_FLAGS_X86="mmx sse sse2 mmxext" ELIBC="glibc" GPSD_PROTOCOLS="ashtech aivdm earthmate evermore fv18 garmin garmintxt gpsclock greis isync itrax mtk3301 nmea ntrip navcom oceanserver oldstyle oncore rtcm104v2 rtcm104v3
+sirf skytraq superstar2 timing tsip tripmate tnt ublox ubx" GRUB_PLATFORMS="efi-64" INPUT_DEVICES="evdev" KERNEL="linux" LCD_DEVICES="bayrad cfontz cfontz633 glk hd44780 lb216 lcdm001 mtxorb ncurses text" LIBREOFFICE_EXTENSIONS="presenter-console presenter-minimizer" LUA_SINGLE_TARGET="lua5-1" LUA_TARGETS="lua5-1" OFFICE_IMPLEMENTATION="libreoffice" PHP_TARGETS="php7-3 php7-4"
+POSTGRES_TARGETS="postgres10 postgres11" PYTHON_SINGLE_TARGET="python3_9" PYTHON_TARGETS="python3_9" RUBY_TARGETS="ruby26" SANE_BACKENDS="plustek" USERLAND="GNU" VIDEO_CARDS="radeon" XTABLES_ADDONS="quota2 psd pknock lscan length2 ipv4options ipset ipp2p iface geoip fuzzy condition tee tarpit sysrq proto steal rawnat logmark ipmark dhcpmac delude chaos account"
+Unset:  CC, CPPFLAGS, CTARGET, CXX, EMERGE_DEFAULT_OPTS, INSTALL_MASK, LC_ALL, LINGUAS, PORTAGE_BINHOST, PORTAGE_BUNZIP2_COMMAND, PORTAGE_COMPRESS, PORTAGE_COMPRESS_FLAGS, PORTAGE_RSYNC_EXTRA_OPTS, RUSTFLAGS
+emerge -pqv ....
+[ebuild     U ] sys-libs/glibc-2.33-r1 [2.33] USE="(crypt) doc multiarch (multilib) ssp (static-libs) -audit -caps (-cet) -compile-locales -custom-cflags -gd -headers-only -multilib-bootstrap -nscd -profile (-selinux) -static-pie -suid -systemtap -test (-vanilla)" 
+!!! The following installed packages are masked:
+- sys-kernel/gentoo-sources-4.15.15::gentoo (masked by: linux-firmware license(s))
+A copy of the 'linux-firmware' license is located at '/usr/portage/licenses/linux-firmware'.
+- sys-kernel/gentoo-sources-4.17.17::gentoo (masked by: linux-firmware license(s))
+- sys-kernel/gentoo-sources-4.19.19::gentoo (masked by: linux-firmware license(s))
+- sys-kernel/gentoo-sources-4.19.17::gentoo (masked by: linux-firmware license(s))
+- sys-kernel/gentoo-sources-4.14.16::gentoo (masked by: linux-firmware license(s))
+- sys-kernel/gentoo-sources-4.19.13::gentoo (masked by: linux-firmware license(s))
+- games-arcade/sdlsasteroids-3.0.1::gentoo (masked by: freedist license(s))
+A copy of the 'freedist' license is located at '/usr/portage/licenses/freedist'.
+- sys-kernel/gentoo-sources-4.14.65::gentoo (masked by: linux-firmware license(s))
+- sys-kernel/gentoo-sources-4.14.83::gentoo (masked by: linux-firmware license(s))
+For more information, see the MASKED PACKAGES section in the emerge
+man page or refer to the Gentoo Handbook./
+.bash echo "@emerge"

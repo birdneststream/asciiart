@@ -1,0 +1,12 @@
+███████ ██    ██  ██████ ██   ██ ██   ██  ██████  ██      ███████     ██████  ██████   ██████  
+██      ██    ██ ██      ██  ██  ██   ██ ██    ██ ██      ██         ██    ██ ██   ██ ██       
+█████   ██    ██ ██      █████   ███████ ██    ██ ██      █████      ██    ██ ██████  ██   ███ 
+██      ██    ██ ██      ██  ██  ██   ██ ██    ██ ██      ██         ██    ██ ██   ██ ██    ██ 
+██       ██████   ██████ ██   ██ ██   ██  ██████  ███████ ███████ ██  ██████  ██   ██  ██████  
+                                                                                               
+The programs included with the Itchy & also Bleedy Fuckhole GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+Itchy & also Bleedy Fuckhole GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+!!!!! IF YOU USE THE COMMUNAL FLESHLIGHT PLEASE WASH IT AFTERWARDS !!!!!

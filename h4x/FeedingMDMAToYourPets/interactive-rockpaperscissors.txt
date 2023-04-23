@@ -1,0 +1,1 @@
+[10:45] <~sniff> .py import time; import random; time.sleep(3); print(random.choice(["rock", "paper", " scissors"]))

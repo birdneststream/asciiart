@@ -1,0 +1,141 @@
+ ports/40917: FUCK ALFRED PERLSTEIN
+Alfred Pythonstein
+20 years ago
+Permalink
+Number: 40917
+Category: ports
+Synopsis: FUCK ALFRED PERLSTEIN
+Confidential: no
+Severity: critical
+Priority: high
+Responsible: freebsd-ports
+State: open
+Class: wish
+Submitter-Id: current-users
+Arrival-Date: Tue Jul 23 04:20:01 PDT 2002
+Originator: Alfred Pythonstein
+Release: pythonstein NetBSD 1.5.1
+FreeBSD, Inc
+Fuck Alfred Perlstein
+This is the second time in a short period that the project has lost one member due to the attitude of another. It wasn't that long ago that Asmodai left because of fucking Bill Fumerola (FUCK FUMEROLA!) Now it's Martin Blap, the person who ported OpenOffice to FreeBSD. Let's see what happened...
+12:01 < mbr> angryskul: are you here ?
+12:02 < mbr> angryskul: check the last patch I've sent you. And commit it please
+12:10 < mbr> can someone commit this plz ?
+12:10 < mbr>
+http://docs.FreeBSD.org/cgi/getmsg.cgi?fetch=131423+0+current/freebsd-current
+12:12 < mbr> hey. just look at the patch ! it's easy h
+12:13 <@green_> it's not easy
+12:13 <@mux> if it's easy, you might as well commit it yourself
+12:13 < mbr> mux: I cannot commit to src !!!
+12:17 <@poseiden> mbr has a ports commit bit I thought
+12:18 <@mbr> poseiden: ports only
+12:18 <@poseiden> mbr: did you apply for src/ ?
+12:18 <@mbr> poseiden: several times. I gave up
+12:18 <@poseiden> did you have a mentor already chosen?
+12:19 <@mbr> poseiden: that was the problem. DES agreed to be my mentor, but core rejected that
+12:19 <@mbr> poseiden: that's why I got no /src commit bit
+12:26 <@angryskul> mbr
+12:26 <@angryskul> why don't you take some time to _Really think_ about the code you send me?
+12:26 <@angryskul> that's why i have to wait at least half a week
+12:26 <@angryskul> otherwise i get 15 patches for the same problem from you
+12:27 <@angryskul> for the same file that breaks things in five different places
+12:27 <@angryskul> also
+12:27 <@mbr> angryskul: I'm really sorry. Have you looked at the last one ?
+12:27 <@angryskul> martin
+12:27 <@angryskul> stop wasting my time
+12:28 <@angryskul> i'll look at it in a couple of days
+12:28 <@angryskul> if i don't have a yet another patch from you for the same problem
+12:28 <@angryskul> either that or try to trick some other committer into committing it for you
+12:28 <@angryskul> you seem quite adept at that
+12:28 <@mbr> angryskul: I got 0 response from you
+12:29 <@angryskul> martin
+12:29 <@angryskul> get bent ok?
+12:29 <@angryskul> you got plenty of response
+12:29 <@angryskul> i committed like 10 patches from you and your fucking buddy last week. That fucking bastard stole my last vodka
+bottle!
+12:29 <@angryskul> and it only broke like 5 different things
+12:29 <@mbr> angryskul: hes _NOT_ my buddy
+12:29 <@mbr> angryskul: and I did not told you to commit those patches
+12:29 <@angryskul> perhaps you need to learn to chill out before annoying me and worsening your credibility with these bogus patches?
+12:30 <@angryskul> i also committed your code which broke stuff too
+12:30 <@mbr> angryskul: hey. that happens !
+12:30 <@angryskul> mbr: yes, every time :)
+12:31 <@mbr> angryskul: and the fix I sent you is a fix for tirpc99 code too. Because it fixes a bug there too
+12:31 <@angryskul> that latest patch you gave me made my hair stand on end
+12:32 <@angryskul> then i wait like 24 hours and i have a completely new patch from you
+12:32 <@mbr> angryskul: ?
+12:32 <@angryskul> ok
+12:32 <@angryskul> GET OFF MY BACK ALREADY BEFORE I KILLFILE YOU
+12:32 <@angryskul> GET IT?
+12:32 <@angryskul> CAN I MAKE IT MORE CLEAR SOMEHOW?
+12:32 <@mbr> angryskul: yes the last one was horrible. A fast fix. I tested everything now and found myelf that it didn't worked
+12:32 <@gordont> hmp_: man module
+12:32 <@angryskul> yeah no shit
+12:32 <@mbr> angryskul: hey come down.
+12:32 <@angryskul> imagine that, code from you that doesn't work
+12:33 <@angryskul> i am calm
+12:33 <@angryskul> actually, you make want to shoot heroin again
+12:33 <@angryskul> y'know whaty
+12:33 <@mbr> angryskul: look at the last version, and see why it is a correct one
+12:33 <@angryskul> mbr, you win
+12:33 <@angryskul> you're out of my inbox
+12:33 <@mbr> tsss
+12:34 <@mbr> angryskul: I expected more from you
+12:34 <@mbr> angryskul: to help (and educate me if necessary)
+12:35 <@angryskul> you can't teach a pig to sing
+12:35 <@angryskul> i've been trying, but you never listen
+12:35 <@angryskul> so piss off
+12:35 <@mbr> angryskul: ohh nice.
+12:35 <@mbr> angryskul: you tell me to leave the project ?
+12:35 <@mbr> angryskul: You can have that !
+12:35 <@angryskul> omg, listen: FUCK OFF MORON!
+12:36 <@angryskul> i'm at least doing him the favor of explaining to him why
+12:36 <@angryskul> and he's still on my ass about it
+12:37 <@angryskul> mbr: i just gave you a response
+12:37 <@angryskul> i told you to piss off
+12:37 <@angryskul> and now i killfiled you
+12:37 <@mbr> angryskul: correct. fine
+12:37 <@mbr> angryskul: whatevery you like if it makes you happy
+12:37 <@angryskul> because if i do respond to you then i get to hear about you complaining to core about me
+12:37 <@mbr> angryskul: stop this discussion
+12:38 <@mbr> angryskul: and don't make me responsible for broken patches I have nothing to do with (paul Richers from French)
+12:38 <@mbr> angryskul: which is NOT my buddy
+12:38 <@angryskul> i know, you have enough broken patches of your own
+12:39 * mbr very very angry
+12:39 <@mbr> bye all
+12:39 * mbr will leave the project
+point your irc client to efnet #bsdcode, wait...
+I'd suggest you kick that shitsack of Perlstein out, but that would be useless, the number of assholes among the committers is so big it won't solve the problem. This is the fix: wipe FreeBSD out of your harddisks and install a real operating system (hint, it's called NetBSD) with a nice community. Who wants to stay on a sinking ship anyway? 5.0 has been a failure already, and it will when it's 
+released.
+To Unsubscribe: send mail to ***@FreeBSD.org
+with "unsubscribe freebsd-ports" in the body of the message
+Jean-Marc Zucconi
+20 years ago
+Permalink
+Synopsis: FUCK ALFRED PERLSTEIN
+State-Changed-From-To: open->closed
+State-Changed-By: jmz
+State-Changed-When: Tue Jul 23 04:21:15 PDT 2002
+State-Changed-Why:
+not a PR
+http://www.freebsd.org/cgi/query-pr.cgi?pr=40917
+To Unsubscribe: send mail to ***@FreeBSD.org
+with "unsubscribe freebsd-ports" in the body of the message
+Alfred Perlstein
+20 years ago
+Permalink
+Synopsis: FUCK ALFRED PERLSTEIN
+State-Changed-From-To: closed->open
+State-Changed-By: alfred
+State-Changed-When: Tue Jul 23 04:48:04 PDT 2002
+State-Changed-Why:
+Taking this PR on for amusement value.
+Responsible-Changed-From-To: freebsd-ports->alfred
+Responsible-Changed-By: alfred
+Responsible-Changed-When: Tue Jul 23 04:48:04 PDT 2002
+Responsible-Changed-Why:
+Taking this PR on for amusement value.
+http://www.freebsd.org/cgi/query-pr.cgi?pr=40917
+To Unsubscribe: send mail to ***@FreeBSD.org
+with "unsubscribe freebsd-ports" in the body of the message
+about - legalese

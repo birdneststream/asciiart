@@ -1,0 +1,20 @@
+ ...        .     ...   ..    ..     .........           
+ ...     ....          ..  ..      ... .....  .. ..      
+ ...    .......      ...         ... . ..... BBBBBBB     
+.....  ........ .BBBBBBBBBBBBBBB.....  ... BBBBBBBBBB.  .
+ .... ........BBBBBBBBBBBBBBBBBBBBB.  ... BBBBBBBBBBB    
+      ....... BBWWWWBBBBBBBBBBBBBBBB.... BBBBBBBBBBBB    
+.    .  .... BBWWBBWWBBBBBBBBBBWWWWBB... BBBBBBBBBBB     
+   ..   ....BBBBWWWWBBRRRRRRBBWWBBWWB.. .BBBBBBBBBBB     
+    .       BBBBBBBBRRRRRRRRRRBWWWWBB.   .BBBBBBBBBB     
+   ....     .BBBBBBBBRRRRRRRRBBBBBBBB.      BBBBBBBB     
+  .....      .  BBBBBBBBBBBBBBBBBBBB.        BBBBBBB.    
+......     .. . BBBBBBBBBBBBBBBBBB . .      .BBBBBBB     
+......       BBBBBBBBBBBBBBBBBBBBB  .      .BBBBBBB      
+......   .BBBBBBBBBBBBBBBBBBYYWWBBBBB  ..  BBBBBBB       
+...    . BBBBBBBBBBBBBBBBYWWWWWWWWWBBBBBBBBBBBBBB.       
+       BBBBBBBBBBBBBBBBYWWWWWWWWWWWWWBBBBBBBBB .         
+      BBBBBBBBBBBBBBBYWWWWWWWWWWWWWWWWBB    .            
+     BBBBBBBBBBBBBBBYWWWWWWWWWWWWWWWWWWW  ........       
+  .BBBBBBBBBBBBBBBBYWWWWWWWWWWWWWWWWWWWW    .........    
+ .BBBBBBBBBBBBBBBBYWWWWWWWWWWWWWWWWWWWWWW       .... . . 

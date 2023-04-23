@@ -1,0 +1,30 @@
+                  1,1DDD 1,1DDD1,8DD1,1D1,8D1,1D                                                  
+                 1,1DD 1,0S1,1DD1,8DDDD1,1D1,8DD1,1DDDD1,0SSS1,1DD 1,1D                                       
+              1,1D 1,0D1,1DDD1,8D1,1DD1,8DD1,1D1,8DD1,1D1,8D1,1DD1,8DDDD1,0SS1,1D1,0DD1,1DDD                                    
+             1,1D1,0DD1,8DDDDDDDDDDDDDDDDDDDDD1,0DDD1,1D1,0DDD1,1D                                   
+             1,0DDD1,8DDDDDDDDDDDDDDDDDDDDDDDDDD1,1D1,0DD                                   
+           1,0DDDDD1,8DDDDDDDDDDDDDDDDDDDDDDDDDDDD1,1D1,0DD                                 
+          1,0D1,1D1,0DD1,1D1,8DDDDDDDD1,1DD1,8D1,1DD1,8DDD1,1D1,8DDD1,1D1,8DD1,1DD1,8D1,1D1,8DD1,1D1,0D                                  
+         1,0DDDDD1,1D1,8DDDDDD1,1DD1,8DDDDDDDD1,1D1,8DDDDDDDDD1,1DD1,8D1,0D                                   
+      1,1DD1,0DDDD1,1D1,0D1,1D1,8DDDD1,1D1,8DDDDDDDDDDDDDDDDD1,1D1,8D1,1D1,8DDD1,0DD         A I  R              ,1SS    
+        1,1D1,0DDDDD1,1D1,8DDDD1,1D1,8DDDD1,1D1,8DDDDDDDDDDD1,1D1,8DDDDD1,0DDDDD                     `   ,1SS,0S,1S    
+        1,0DDDD1,1D1,0D1,1D1,8DDDDDDDDD1,1D1,8DDDDDDDD1,1D1,8DDDDDDDD1,0DDD1,1D1,0DD         B I D  E N   S,1SS,0S,1SS    
+        1,1DD1,0DDDDDD1,8DD1,1D1,8DDDD1,1D1,8D1,1D1,8DDDDDDDDDDDDDDDD1,0DDDDDD                     ,1SSS,0SS,1SS    
+         1,1DD1,8D1,1DD1,0D1,1D1,8DD1,1DD1,8DDD1,1D1,8D1,1D1,8DDD1,1DD1,8D1,1DD1,8DDDDDDDD1,0DDDDDD                   ,1SS ,0SSS,1SSS    
+          1,1D1,8DDDD1,1DD1,8D1,1DDDDDDDDDDDD1,8D1,1DDD1,8DDDDDDDD1,0DD1,8D1,1D1,0DDD1,1D                ,1SS,0SSSS,1SSS     
+           1,1D1,8DDDD1,1DD1,8DDDSD1,1D1,0S1,1D1,8DS1,1DDD1,8D1,1DDD1,8DD1,1D1,8DDD1,1DD1,8DD1,1DD1,0DDD              ,1SS ,0SSS,1SSSS      
+           1,1DD1,8DDDDD1,1D1,8D1,1D1,8SD1,1DDD1,8SSSSSSS1,1DDDD1,8DDDDDDDD1,1DD         ,1SSSSSSSSS,0SSSS,1SSSS       
+             1,1D1,8DD1,1DD1,8DDSSSSSSSSSSSSSSSS1,1DD1,8DDD1,1DDDDDD      ,1SSSSSSSSSS ,0SSSS,1SSSS        
+             1,1DD1,8D1,1DD1,8DDSSSSSSSSSSSDDSSSDD1,1D1,8DD1,1DD1,8D1,1D       ,1SSSSS,0SSS,1SS,0SSSSS,1SSSS         
+              1,1DD1,8D1,1DDD1,8D1,1D1,8SSSSSSSSSSSSDDDDD1,1DDD1,8DD1,1D       ,1SS,0S,1SSS,0SSSSSSSS,1SSSS          
+               1,1D1,8DDD1,1DDD1,8DD1,1D1,8SDS1,1D1,8S1,1D1,8SDSSSDD1,1DDD1,8DDD1,1D       ,1SS,0SSSSSS ,1SSSSSSSS           
+                1,1D1,8DDDD1,1DDD1,8D1,1DDDDDDDD1,8DDSS1,1DDDD1,8DDD1,1DD      ,1SSS,0SSSS,1SSSSSS               
+                1,1D1,8D1,1D1,8DDD1,1DDDDDDDDDDDDDDDDDD1,8DDD1,1DD        ,1SSSSSSSS                   
+                 1,1DD1,8D1,1D1,8D1,1DDDDDDDDDDDDDDDD1,8DDDD1,1DD          ,1SSSS                      
+                  1,1DD1,8DD1,1D1,8DDD1,1DDDDDDDDDDDD1,8DD1,1DDD                                     
+                   1,1D1,8DDD1,1D1,8DDDDD1,1DDDDDDDD1,8D1,1DDDD                                      
+    1,8DD1,95DDD          1,1DDDDD1,8DD1,1D1,8DDD1,1D1,8DD1,1D1,8DDDD1,1DD1,95DD                                      
+   1,8DD1,95DDDDDDD        1,1DD1,95D 1,1D1,95DD1,1DD1,8DDDD1,1D1,8D1,1DDD1,95DDDD1,1D                                     
+         1,95DDDDDDD  1,1DDD1,95DDDD1,1D1,95DD1,1D1,8DDD1,1DDDD1,95DDDDDD1,1D                                     
+          1,95DDDDDDDDDDDDDDDDDDD1,1DDDDD1,95DDDDDDD 1,1D                                     
+             1,95DDDDDDDDDDDDDDDDDD1,1DD1,95DDDDD1,8DD1,95D1,1DD                                     

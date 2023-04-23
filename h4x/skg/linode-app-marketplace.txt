@@ -1,0 +1,227 @@
+New apps
+Microweber  logo
+Microweber
+UniFi Network Application  logo
+UniFi Network Application
+Popular apps
+WordPress  logo
+Nextcloud  logo
+Kali Linux  logo
+Kali Linux
+Plesk  logo
+Plesk
+cPanel  logo
+cPanel
+Cloudron  logo
+Cloudron
+Secure Your Server  logo
+Secure Your Server
+Pritunl  logo
+Pritunl
+CyberPanel  logo
+CyberPanel
+Minecraft: Java Edition  logo
+Minecraft: Java Edition
+All apps
+aaPanel  logo
+aaPanel
+Akaunting  logo
+Akaunting
+Ant Media Server: Community Edition  logo
+Ant Media Server: Community Edition
+Ant Media Server: Enterprise Edition  logo
+Ant Media Server: Enterprise Edition
+Ark  logo
+Ark
+Azuracast  logo
+Azuracast
+BeEF  logo
+BeEF
+BitNinja  logo
+BitNinja
+Budibase  logo
+Budibase
+Chevereto  logo
+Chevereto
+Cloudron  logo
+Cloudron
+ClusterControl  logo
+ClusterControl
+cPanel  logo
+cPanel
+CS:GO  logo
+CS:GO
+CyberPanel  logo
+CyberPanel
+Discourse  logo
+Discourse
+Django  logo
+Django
+Docker  logo
+Docker
+Drupal  logo
+Drupal
+Easypanel  logo
+Easypanel
+FileCloud  logo
+FileCloud
+Flask  logo
+Flask
+Focalboard  logo
+Focalboard
+Gitea  logo
+Gitea
+GitLab  logo
+GitLab
+Grafana  logo
+Grafana
+Grav  logo
+Grav
+Guacamole  logo
+Guacamole
+Harbor  logo
+Harbor
+HashiCorp Nomad  logo
+HashiCorp Nomad
+HashiCorp Vault  logo
+HashiCorp Vault
+Jenkins  logo
+Jenkins
+JetBackup  logo
+JetBackup
+Jitsi  logo
+Jitsi
+Joomla  logo
+Joomla
+Joplin  logo
+Joplin
+Kali Linux  logo
+Kali Linux
+Kepler Builder  logo
+Kepler Builder
+LAMP  logo
+LAMP
+LEMP  logo
+LEMP
+LiteSpeed cPanel  logo
+LiteSpeed cPanel
+LiveSwitch  logo
+LiveSwitch
+MagicSpam  logo
+MagicSpam
+MEAN  logo
+MEAN
+MERN  logo
+MERN
+Microweber  logo
+Microweber
+Minecraft: Java Edition  logo
+Minecraft: Java Edition
+Mist.io  logo
+Mist.io
+MongoDB  logo
+MongoDB
+Moodle  logo
+Moodle
+MySQL/MariaDB  logo
+MySQL/MariaDB
+Nextcloud  logo
+Nextcloud
+NirvaShare  logo
+NirvaShare
+NodeJS  logo
+NodeJS
+Odoo  logo
+Odoo
+OpenLiteSpeed Django  logo
+OpenLiteSpeed Django
+OpenLiteSpeed NodeJS  logo
+OpenLiteSpeed NodeJS
+OpenLiteSpeed Rails  logo
+OpenLiteSpeed Rails
+OpenLiteSpeed WordPress  logo
+OpenLiteSpeed WordPress
+OpenVPN  logo
+OpenVPN
+Owncast  logo
+Owncast
+Peppermint  logo
+Peppermint
+Percona (PMM)  logo
+Percona (PMM)
+phpMyAdmin  logo
+phpMyAdmin
+Pi-hole  logo
+Pi-hole
+Plesk  logo
+Plesk
+Plex  logo
+Plex
+PostgreSQL  logo
+PostgreSQL
+Pritunl  logo
+Pritunl
+Prometheus  logo
+Prometheus
+Prometheus & Grafana  logo
+Prometheus & Grafana
+RabbitMQ  logo
+RabbitMQ
+Redis  logo
+Redis
+Restyaboard  logo
+Restyaboard
+Rocket.Chat  logo
+Rocket.Chat
+Ruby on Rails  logo
+Ruby on Rails
+Rust  logo
+Rust
+Saltcorn  logo
+Saltcorn
+Secure Your Server  logo
+Secure Your Server
+ServerWand  logo
+ServerWand
+Shadowsocks  logo
+Shadowsocks
+Splunk  logo
+Splunk
+Terraria  logo
+Terraria
+TF2  logo
+TF2
+UniFi Network Application  logo
+UniFi Network Application
+Uptime Kuma  logo
+Uptime Kuma
+UTunnel VPN  logo
+UTunnel VPN
+Valheim  logo
+Valheim
+VictoriaMetrics Single  logo
+VictoriaMetrics Single
+Virtualmin  logo
+Virtualmin
+VS Code Server  logo
+VS Code Server
+WarpSpeed  logo
+WarpSpeed
+Wazuh  logo
+Wazuh
+Webmin  logo
+Webmin
+Webuzo  logo
+Webuzo
+WireGuard®  logo
+WireGuard®
+WooCommerce  logo
+WooCommerce
+WordPress  logo
+WordPress
+Yacht  logo
+Yacht
+Zabbix  logo
+Zabbix
+@endquote
+@stoprecording

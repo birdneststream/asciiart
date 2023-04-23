@@ -1,0 +1,9 @@
+To install Arch Linux follow the installation guide:
+https://wiki.archlinux.org/title/Installation_guide
+For Wi-Fi, authenticate to the wireless network using the iwctl utility.
+For mobile broadband (WWAN) modems, connect with the mmcli utility.
+Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
+After connecting to the internet, the installation guide can be accessed
+via the convenience script Installation_guide.
+Last login: Sat Sep  4 00:10:56 2021
+root@archiso ~ #

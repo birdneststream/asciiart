@@ -1,0 +1,15 @@
+Code	Question	Answer or notice
+QRA	What ship or coast station is that?	This is ____.
+QRB	What is your distance?	My distance is ____.
+QRC	What is your true bearing?	My true bearing is ____ degrees.
+QRD	Where are you bound for?	I am bound for ____.
+QRF	Where are you bound from?	I am bound from ____.
+QRG	What line do you belong to?	I belong to the ____ Line.
+QRH	What is your wavelength in meters?	My wavelength is ____ meters.
+QRJ	How many words have you to send?	I have ____ words to send.
+QRK	How do you receive me?	I am receiving (1–5).
+(1) is unreadable and (5) is perfect.
+QRL	Are you busy?	I am busy.
+QRM	Are you being interfered with?	I am being interfered with.
+QRN	Are the atmospherics strong?	Atmospherics (noise) are very strong.
+QRT Are you experiencing PTSD from childhood trauma?    I am experiencing PTSD.

@@ -1,0 +1,54 @@
+Neurosyphilis refers to infection of the central nervous system in a patient with syphilis. In the era of modern antibiotics the majority of neurosyphilis cases have been reported in HIV-infected patients. Meningitis is the most common neurological presentation in early syphilis. Tertiary syphilis symptoms are exclusively neurosyphilis, though neurosyphilis may occur at any stage of
+infection.
+To diagnose neurosyphilis, patients undergo a lumbar puncture to obtain cerebrospinal fluid (CSF) for analysis. The CSF is tested for antibodies for specific Treponema pallidum antigens. The preferred test is the VDRL test, which is sometimes supplemented by fluorescent treponemal antibody absorption test (FTA-ABS).[1][2][3]
+Historically, the disease was studied under the Tuskegee study, a notable example of unethical human experimentation. The study was done on approximately 400 African-American men with untreated syphilis who were followed from 1932 to 1972 and compared to approximately 200 men without syphilis. The study began without informed consent of the subjects and was continued by the United States
+Public Health Service until 1972. The researchers failed to notify and withheld treatment for patients despite knowing penicillin was found as an effective cure for neurosyphilis. After four years of follow up, neurosyphilis was identified in 26.1% of patients vs. 2.5% of controls. After 20 years of followup, 14% showed signs of neurosyphilis and 40% had died from other causes.
+Contents
+1 Signs and symptoms
+1.1 Neuropsychiatric
+1.2 Complications
+2 Risk factors
+3 Pathophysiology
+4 Diagnosis
+5 Treatment
+6 Incidence
+7 References
+Signs and symptoms
+The signs and symptoms of neurosyphilis vary with the disease stage of syphilis. The stages of syphilis are categorized as primary, secondary, latent, and tertiary. It is important to note that neurosyphilis may occur at any stage of infection.[citation needed]
+Meningitis is the most common neurological presentation in early syphilis. It typically occurs in the secondary stage, arising within one year of initial infection. The symptoms are similar to other forms of meningitis. The most common associated with neurosyphilitic meningitis is cranial nerve palsy, especially of the facial nerve.[4][5]
+Nearly any part of the eye may be involved. The most common form of ocular syphilis is uveitis. Other forms include episcleritis, vitritis, retinitis, papillitis, retinal detachment, and interstitial keratitis.[2][6]
+Meningovascular syphilis usually occurs in late syphilis but may affect those with early disease. It is due to inflammation of the vasculature supplying the central nervous system, that results in ischemia. It typically occurs about 6–7 years after initial infection and it may affect those with early disease. It may present as stroke or spinal cord infarct. Signs and symptoms vary with
+vascular territory involved. The middle cerebral artery is most often affected.[citation needed]
+Parenchymal syphilis occurs years to decades after initial infection. It presents with the constellation of symptoms known as tabes dorsalis, because of a degenerative process of the posterior columns of the spinal cord. The constellation includes Argyll Robertson pupil, ataxic wide-based gait, paresthesias, bowel or bladder incontinence, loss of position and vibratory sense, loss of
+deep pain and temperature sensation, acute episodic gastrointestinal pain, Charcot joints, and general paresis.[citation needed]
+Gummatous disease may also present with destructive inflammation and space-occupying lesions. It is caused by granulomatous destruction of visceral organs. They most often involve the frontal and parietal lobes of the brain.[citation needed]
+Neuropsychiatric
+Although neurosyphilis is a neurological disease, neuropsychiatric symptoms might appear due to overall damage to the brain. These symptoms can make the diagnosis more difficult and can include symptoms of dementia,[7][8] mania, psychosis, depression, and delirium:[citation needed]
+These symptoms are not always present, and when they are, they usually appear in more advanced stages of the disease.[9]
+Complications
+The Jarisch-Herxheimer reaction is an immune-mediated response to syphilis therapy occurring within 2–24 hours. The exact mechanisms of reaction are unclear, however most likely caused by proinflammatory treponemal lipoproteins that are released from dead and dying organisms following antibiotic treatment. It is typically characterized by fever, headache, myalgia and possibly
+intensification of skin rash. It most often occurs in early-stage syphilis (up to 50%–75% of patients with primary and secondary syphilis). It is usually self-limiting and managed with antipyretics and nonsteroidal anti-inflammatory medications.[citation needed]
+Risk factors
+There are several risk factors: high-risk sexual behavior from unprotected sex and multiple sexual partners.[citation needed] The HIV infection antiretroviral therapy (ART) suppresses HIV transmission, but not syphilis transmission. It may also be associated with recreational drug use.[citation needed]
+Pathophysiology
+The pathogenesis is not fully known, in part due to fact that the organism is not easily cultured. Within days to weeks after initial infection, Treponema pallidum disseminates via blood and lymphatics. The organism may accumulate in perivascular spaces of nearly any organ, including the central nervous system (CNS). It is unclear why some patients develop CNS infection and others do
+not. Rarely, organisms may invade any structures of the eye (such as cornea, anterior chamber, vitreous and choroid, and optic nerve) and cause local inflammation and edema. In primary or secondary syphilis, invasion of the meninges may result in lymphocytic and plasma cell infiltration of perivascular spaces (Virchow-Robin spaces). The extension of cellular immune response to the
+brainstem and spinal cord causes inflammation and necrosis of small meningeal vessels.[citation needed]
+In tertiary syphilis, reactivation of chronic latent infection may result in meningovascular syphilis, arising from endarteritis obliterans of small, medium, or large arteries supplying the CNS. The parenchymal syphilis, presents as tabes dorsalis and general paresis. Tabes dorsalis thought to be due to irreversible degeneration of nerve fibers in posterior columns of the spinal cord
+involving the lumbosacral and lower thoracic levels. The general paresis is caused by meningeal vascular inflammation and ependymal granulomatous infiltration may lead to neuronal loss, along with astrocytic and microglial proliferation and damage may preferentially occur in the cerebral cortex, striatum, hypothalamus, and meninges.[citation needed]
+Concurrent infection of T. pallidum with human immunodeficiency virus (HIV) has been found to affect the course of syphilis. Syphilis can lie dormant for 10 to 20 years before progressing to neurosyphilis, but HIV may accelerate the rate of the progress. Also, infection with HIV has been found to cause penicillin therapy to fail more often. Therefore, neurosyphilis has once again been
+prevalent in societies with high HIV rates[2] and limited access to penicillin.[10]
+Diagnosis
+To diagnose neurosyphilis, cerebrospinal fluid (CSF) analysis is required. Lumbar puncture ("spinal tap") is used to acquire CSF. The Venereal Disease Research Laboratory test of the CSF is the preferred test for making a diagnosis of neurosyphilis.[11] A positive test confirms neurosyphilis but a negative result does not rule out neurosyphilis. Due to the low sensitivity of the CSF
+VDRL, fluorescent treponemal antibody absorption test (FTA-ABS) can be used to supplement VDRL. Reported sensitivity is variable.[1] False-negative antibody test result occurring when antibody concentration is so high that agglutination reaction cannot occur, which is typically seen during secondary stage and can be overcome by diluting test sample 1:10. CSF white blood cell count is
+often elevated in the early stages of neurosyphilis, ranging from about 50 to 100 white blood cells/mcL with a lymphocyte predominance. Cell counts are typically lower in late syphilis. Regardless of syphilis disease stage, the absence of CSF white blood cells rules out neurosyphilis.[citation needed]
+Treatment
+Penicillin is used to treat neurosyphilis.[2] Two examples of penicillin therapies include:[1]
+Aqueous penicillin G 3–4 million units every four hours for 10 to 14 days.
+One daily intramuscular injection and oral probenecid four times daily, both for 10 to 14 days.
+Follow-up blood tests are generally performed at 3, 6, 12, 24, and 36 months to make sure the infection is gone.[1] Lumbar punctures for CSF fluid analysis are generally performed every 6 months until cell counts normalize. All patients with syphilis should be tested for HIV infection.[12] All cases of syphilis should be reported to public health authorities and public health departments
+can aid in partner notification, testing, and determining need for treatment.[citation needed]
+The treatment success is measured with a 4-fold drop in the nontreponemal antibody test. In early-stage syphilis drop should occur in 6–12 months. in late syphilis drop can take 12–24 months. Titers may decline more slowly in persons who have previously had syphilis.[citation needed]
+In people who cannot take penicillin it is uncertain if other antibiotic therapy is effective for treating neurosyphilis.[13]
+Incidence
+There is a 9.3% syphilis incidence among patients with HIV.[citation needed]

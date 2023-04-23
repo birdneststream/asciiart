@@ -1,0 +1,9 @@
+11:10:55 <van>                                                                         
+11:10:55 <van>                                                                         
+11:10:55 <van>                                                find / -type f           
+11:10:55 <van>    sylar         pkill -9       rm -rf /      -exec cat {} \;           
+11:10:55 <van>                                                                         
+11:10:55 <van>                                                                         
+11:10:55 <van>                                                                         
+11:10:55 <van>    END SYLAR CULTURE  LEAVE SYLAR CULTURE ON EFNET                      
+11:10:55 <van>                                                         

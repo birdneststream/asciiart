@@ -1,0 +1,3 @@
+Forked version of Rock, Paper, Scissors:
+What color is your Rock?
+import time; import random; time.sleep(3); print(random.choice(["blue", "white", "opaque", "brown", "green", "yellow", "pink"]))

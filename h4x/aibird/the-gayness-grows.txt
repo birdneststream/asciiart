@@ -1,0 +1,22 @@
+0,1#▀▁▂▃▄▅▆▇█▉▊▋▌▍▎▏▐░▒▓▔▕▖▗
+                          1,2#▘▙▚▛▜▝▞▀   ▀▀▀▀▀▀▀▀▀▀
+                          2,3#▘▙▚▛▜▝▞▀   ▀▀▀▀▀▀▀▀▀▀▀
+                        3,4#  ▖████░██▚███░░███▒▒▒▒▒▒▒▒▒▒
+                        4,5#  ▗████████░█▙█▄▄▄▄▄▄▄▄▄▄b
+                      5,6#  ▖█████████▙▄▐░░░░░░░▐▐░░▌
+                      6,7#  ▖███░░███▐▐░░░░░░░░█▄█░░▐
+                    7,8#  ▗█████▐░░▐└┴┴┴┴┴┴┬┴▀█▀┴┼▌
+                    8,9#  ▄███░░░└┬┴┴┴┬┴┴┴┴┴█┼┼█┬┴┤
+                  9,10#█▐████┼┼┼┴┴┴┴┬┴┴┴┴┬┴┬┼┼┤┼┼├
+                  10,11#█░░███┼┼┬┴┴┤├┼┼┼███┼┼┼┤┼┼┼┤
+                11,12#▐███░██┼┼┼┼┤┼┼┼┼██▐░█┼┬┴┴┴┴┴┴
+                12,13#▐███░█▐░░░░░▀█▀├┤███┼┼┤┼┼┼┤
+              13,14#▐░░█▐░░░░░░░░▄▄▄░█▐░█┼┼┬┴┴┴┴┴
+              14,15#  ▀█▐░░░░███████░█▐█▐░█┼┼┤┼┼┼┤
+            15,16#  ███░░██▐░███▐███▄█▐█▐░░░┼┤┼┼┤
+            16,17#▄█▌▐░░░█▐░░░░▒▒░▀█▐█▐░░░┼┤┼┼┤
+          17,18#█▐██░░██▐░░░░░░░░░▄█▐███┼┼┤┼┼┼┤
+          18,19#▐█▐░█▐░█▐▄▄▄▄▄▄▄░░░░▄█▐░░█┼┼┬┴┴┴┴
+        19,20#███┼┼─┬┴┴┴┴┴┴┬┴┴┴┤██┼┼┼┤┼┼┼┤
+This piece is a metaphor for the way that homophobia can be passed down from generation to generation. The figure in the center represents the homophobic person, while the smaller figures around them represent their children, who are absorbing their homophobia. The title refers to the fact that homophobia is often perpetuated by people who are themselves 
+gay, but have not yet come to terms with their own sexuality. 

@@ -1,0 +1,7 @@
+Weather report: lion
+       .-.      Light rain, heavy rain with thunderstorm
+      (   ).    64 °F          
+     (___(__)   → 5 mph        
+    ‚‘⚡‘‚⚡‚‘  6 mi           
+    ‚’‚’⚡’‚’   0.1 in  
+Location: Lion, Rhône, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France [45.6963425,4.73594802991681]

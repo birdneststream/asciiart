@@ -1,0 +1,1 @@
+.bash for i in {0..9}; do echo @record ohno$(date +%s); echo ".bash echo @ohno$(date +%s)"; echo "@end"; sleep 1; done

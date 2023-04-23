@@ -1,0 +1,25 @@
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│1.libera │Welcome to #test, this is a test channel                                    │
+│  weechat│12:52:27   --> | Flashy (flashcode@weechat.org) has joined #test    │@Flashy│
+│2.  #test│12:52:27    -- | Nicks #test: [@Flashy @joe +weebot peter]          │@joe   │
+│3.  #abc │12:52:27    -- | Channel #test: 4 nicks (2 ops, 1 voice, 1 normal)  │+weebot│
+│4.  #def │12:52:27    -- | Channel created on Tue Jan 27 06:30:17 2009        │peter  │
+│5.  #ghi │12:54:15 peter | hey!                                               │       │
+│         │12:55:01  @joe | hello                                              │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │                                                                    │       │
+│         │[12:55] [5] [irc/libera] 2:#test(+n){4}* [H: 3:#abc(2,5), 5]                │
+│         │[@Flashy(i)] hi peter!█                                                     │
+└──────────────────────────────────────────────────────────────────────────────────────┘

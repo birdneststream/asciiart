@@ -1,0 +1,14 @@
+0,2▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+1,2▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+0,3▐░▒▒▒██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████░░░▐
+1,3▐░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▌░░░░░░▐
+0,4▐░░░░░░░░░░▄▄▄▄▄░░░░░░░░░░░░░░░▌░░░▄▄▀▀▀▀▀▄
+1,4▐░░░░░░░░░▐▌░░▐▌░░░░░░░░░░░▄▄▄▐▌░░▐░░█▄▄▄▄▄▌
+0,5▐░░░░░░░▄▄▐░░█▐░░░░░▄▄▄░░░▀▀██▐░░░▐▄▄▀▀▒▒▒▒▒▐
+1,5▐░░░░░▄▀▀▒▒░░█╔╦╗█▌░▄▀▀▀▄░░░░░░▐░▄▀▀▄░░░▒▒▒▒▒▐
+0,6▐░░░▒▒▒▄▄▒▒▒░█▌═╩╩▐░░░▄▄▄▀▀▄░▀░▐▄▄▀▄░░▄▀▀▄▒▒▒▐
+1,6▐░░░▒▒▄▀▀▄▒▒▒▀▄▀▄▀░░░▄▀░░░░░▄▀░░░▀▄░░▀░▄▄▄▄▄▀
+0,7▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+1,7▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+My new artwork 'decide to move to an African village with no electricity to teach them the wonders of GNU Linux' is a realistic portrayal of the struggles faced by many Africans in rural areas. It highlights the need for access to education and modern technology in order to improve the quality of life for all people, regardless of race or location. I hope that by sharing this artwork, 
+I can inspire others to take action and make a difference in the world. 

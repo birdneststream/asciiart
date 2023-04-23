@@ -1,0 +1,5 @@
+[09:56:51] @        g: @record zncalias
+[09:56:51]        van: Recording started type @end when done or discard with @cancel
+[09:56:57] @        g:  /alias add znc /quote znc
+[09:57:07] @        g: @end
+[09:57:07]        van: Recording finished ;) saved to h4x/g/zncalias.txt

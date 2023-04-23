@@ -1,0 +1,73 @@
+Radiol Case Rep. 2021 Aug; 16(8): 2142–2145.
+Published online 2021 May 18. doi: 10.1016/j.radcr.2021.05.033
+PMCID: PMC8130498
+PMID: 34025885
+Myocarditis following COVID-19 vaccination
+Elisabeth Albert, MD, FRCPC,a,⁎ Gerard Aurigemma, MD,b Jason Saucedo, MD,b and David S. Gerson, MDa
+Author information Article notes Copyright and License information Disclaimer
+This article has been cited by other articles in PMC.
+Associated Data
+Supplementary Materials
+Go to:
+Abstract
+The coronavirus disease 2019 (COVID-19) vaccination frequently leads to minor side-effects, that may be more intense after the second dose, but more serious side effects have been reported. We report a case of a 24-year-old man who presented to the hospital with acute substernal chest pain, 4 days after his second COVID-19 Moderna vaccination. Laboratory studies revealed elevated
+troponins and negative viral serologies. Cardiac magnetic resonance imaging (cMRI) demonstrated edema and delayed gadolinium enhancement of the left ventricle in a midmyocardial and epicardial distribution. The patient was diagnosed with myocarditis following Moderna vaccination. Our case report raises concern that myocarditis is a rare side effect of COVID-19 vaccine. Despite our
+report, it appears that there is a significantly higher risk of cardiac involvement from COVID-19 infection compared to COVID-19 vaccination.
+Go to:
+Case presentation
+A previously healthy 24-year-old man, with no past cardiac medical history, presented to emergency department with chest discomfort 4 days after his second dose of the Moderna COVID-19 vaccine. Initially, the patient experienced subjective fever, chills, and body aches in the first 24 hours after the shot. His symptoms progressed to a substernal chest pain, which was exacerbated with
+deep inspiration and supine position. The patient reported similar symptoms after the first vaccine administration, but these symptoms were not nearly as intense.
+Go to:
+Investigations
+The patient's electrocardiogram demonstrated a sinus rhythm without ischemic changes. Laboratory studies revealed: elevated troponin I (18.94ng/mL, normal 0.01- 0.04), elevated Creatine Kinase (704 U/L, normal 49-348), elevated C Reactive Protein (26.4 mg/L, normal <10.0) and negative PCR for COVID-19.
+Viral studies, including parvovirus B19, Ebstein-Barr virus, adenovirus, influenza, herpes simplex virus 1 and 2 and Lyme antibody were all negative.
+A transthoracic echocardiogram 4 days post vaccination was within normal limits, the left ventricular ejection fraction (LVEF) was 65%. No focal wall motion abnormality was seen.
+Computed tomographic angiography of the coronary arterial system 5 days post vaccination demonstrated a calcium score of 0 without coronary artery stenosis and small bilateral pleural effusions.
+Cardiac MRI with gadolinium 5 days post-vaccination demonstrated normal LV size and EF (58%), patchy mid-myocardial and epicardial delayed gadolinium enhancement (Fig. 1), with superimposed edema (Fig. 1), fulfilling the Lake Louise Criteria for myocarditis.
+Fig 1
+Open in a separate window
+Fig. 1
+(A and B): Short axis T2-weighted images of the mid left ventricle showing hyperintense signal of the antero-lateral and infero-lateral segments. (C and D): Short axis images 10 minutes post-gadolinium injection of the mid left ventricle showing mid myocardial and epicardial enhancement in the same distribution. (E): 4 chamber view T2-weighted images showing hyperintense signal of the
+lateral wall of the left ventricle. (F): 4 chamber view images 10 minutes post-gadolinium injection showing enhancement in the same distribution.
+Go to:
+Discussion
+Vaccination is a well-established part of preventive and public health medicine, but is not without risk. COVID-19 vaccination frequently leads to minor side effects, for example pain, swelling and redness at the site of injection, and systemic symptoms of fatigue, headache, muscle pain, chills and fever; side effects after the second dose may be more intense than the first dose [1].
+Among the mRNA vaccines, including Pfizer-BioNTech and Moderna, more serious side effects have been reported, including myocarditis [2,3]. Myocarditis can range from mild asymptomatic inflammation of the heart to severe heart failure and death [4].
+Viral infection has been described as one of the most common causes of myocarditis, especially associated with influenza and parvovirus B19 infection. Myocarditis has been reported following many different vaccines, with the smallpox vaccine having the strongest association [5]. Due to the few cases of myocarditis reported post COVID-19 vaccine, little is known about this process.
+The Israeli Ministry of Health reported 62 cases of myocarditis in patients vaccinated for COVID-19 out of 5 million vaccinated individuals. Most cases occurred after the second dose of mRNA vaccines, with only 6 cases diagnosed after the first dose. The prevalence was higher in men under 30 years of age, increasing from 1/100 000 for the general population, to 1/20 000 for the 16-30
+years old group. Two of the 62 patients died. The U.S. Department of Defense reported 14 military personnel diagnosed with myocarditis following COVID vaccination, 13 of them after their second dose of COVID-19 mRNA vaccines. Three of the personnel received Pfizer-BioNTech vaccine, and 11 had received the Moderna vaccine, with an occurrence of 0.52/100 000 among the 2.7 million military
+personnel vaccinated [2,3].
+At time of writing, neither the FDA nor CDC have reported any safety signals for myocarditis following the administration of the approved COVID-19 vaccines [6]. At present time, there are no reports in the scientific literature reporting notion of myocarditis related to COVID-19 vaccination.
+There are specific indications for cMRI in suspected myocarditis cases including currently symptomatic cases, evidence of myocardial injury and suspected viral or autoimmune etiologies [7,8]. The diagnosis of acute myocarditis can be confirmed by cMRI The diagnostic cMRI criteria for myocarditis, the so-called Lake Louise Criteria (LLC), have been developed in 2009 and revised in 2018.
+In the original LLC, two out of three elements are needed for diagnosis. The three elements are: (1) regional or global myocardial signal intensity increase in T2-weighted images; (2) increased global myocardial early gadolinium enhancement ratio between myocardium and skeletal muscle in gadolinium-enhanced T1-weighted images; (3) at least one focal lesion with nonischemic distribution
+in late gadolinium enhancement. In the revised 2018 Lake Louise criteria, both (1) increased myocardial signal intensity ratio or increased myocardial relaxation times or visible myocardial edema in T2-weighted images and (2) increased myocardial relaxation times or extracellular volume fraction or late gadolinium enhancement in T1-weighted images are needed [7,8].
+In summary, we recognize that vaccination is one of the greatest advancement in medicine in the previous century, and has significantly reduced the burden of infectious disease [9]. From Louis Pasteur, who developed the first laboratory vaccine in 1879, for chicken cholera [10], to the 21st century COVID-19 pandemic, untold disability and death have been prevented by vaccination [9].
+Despite the demonstration of safety, and the endorsement of the World Health Organization, and other bodies that vaccines are far safer than therapeutic drugs, vaccines are not without risk [9]. Myocarditis is one of the serious adverse event of vaccination [5].
+We believe that given the negative PCR test for COVID-19, as well as the negative viral serologies, myocarditis, in this instance, was due to the vaccine, rather than acute infection, but the latter possibility cannot be totally discounted. The mechanisms involved in such vaccine-related myocarditis are not clear as of this writing [11].
+The patient has been discharged from hospital with beta-blocker medication. He was instructed to avoid strenuous activities for three months, as well as non-steroidal anti-inflammatory drugs (NSAIDs). The patient has a scheduled follow-up appointment with the cardiologist.
+Go to:
+Conclusion
+Despite the fact that myocarditis has been reported following many vaccines [5], further research will be needed to confirm the association of myocarditis after COVID-19 vaccination. The data in hand suggest a small risk of myocarditis following COVID-19 infection [7,8,12], as well as thrombosis related myocardial infarction [13]. Thus despite our report, it appears that there is a
+significantly higher risk of cardiac involvement from COVID-19 infection compared to COVID-19 vaccination [12]. Accordingly, we believe that COVID-19 vaccination should remain the cornerstone for population immunity.
+Go to:
+Footnotes
+Patient consent : Written informed consent for publication was obtained from the patient.
+Go to:
+Appendix. Supplementary materials
+Click here to view.(12K, docx)Image, application 1
+Go to:
+References
+1. Center for Disease Control and Prevention. Possible side effects after getting a COVID-19 Vaccine, Consulted on 05/02/2021. https://www.cdc.gov/coronavirus/2019-ncov/vaccines/expect/after.html?s_cid=10509:side%20effects%20of%20covid%2019%20vaccine:sem.ga:p:RG:GM:gen:PTN:FY21
+2. Lee Bruce Y. Are rare cases of myocarditis linked to Pfizer, Moderna Covid-19 vaccines? Forbes. 2021 https://www.forbes.com/sites/brucelee/2021/04/27/are-rare-cases-of-myocarditis-linked-to-pfizer-modernacovid-19-vaccines/?sh=46c5951b7442 [Google Scholar]
+3. Staff Toi. Israel said probing link between Pfizer shot and heart problem in men under 30. The Times of Israel. 2021 https://www.timesofisrael.com/israel-said-probing-link-between-pfizer-shot-and-heart-problem-in-men-under-30/ [Google Scholar]
+4. Fung G, Luo H, Qiu Y, Yang D, Myocarditis McManus B. Circulation Res. 2016;118:496–514. doi: 10.1161/CIRCRESAHA.115.306573. https://doi.org/ [PubMed] [CrossRef] [Google Scholar]
+5. Keinath K, Church T, Kurth B, Hulten E. Myocarditis secondary to smallpox vaccination. BMJ Case rep. 2018 doi: 10.1136/bcr-2017-223523. http://dx.doi.org/ [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+6. Wilner Michael. McClatchy; 2021. CDC, FDA see no Pfizer vaccine link to heart problem, eyeing with ‘special interest’ https://www.mcclatchydc.com/news/coronavirus/article250965424.html. [Google Scholar]
+7. Friedrich M, Sechtem U, Schulz-Menger J, Holmvang G, Alakija P, Cooper L. Cardiovascular magnetic resonance in myocarditis: A JACC White Paper. J Am Coll Cardiol. 2009;53(17):1475–1487. doi: 10.1016/j.jacc.2009.02.007. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+8. Maehara A. Consensus criteria for the diagnosis of myocarditis. Consulted on. 2021 https://cdn.ymaws.com/scmr.org/resource/resmgr/2019/new_york/maehara,_akiko_-_consensus_c.pdf [Google Scholar]
+9. Andre FE, Booy R, Bock HL, Clemens J, Datta SK, John TJ. Vaccination greatly reduces disease, disability, death and inequity worldwide. Bull World Health Organ. 2008;86(2):140–146. doi: 10.2471/BLT.07.040089. [PMC free article] [PubMed] [CrossRef] [Google Scholar]
+10. The College of Physicians of Philadelphia. The history of Vaccines. Consulted on 2021 https://www.historyofvaccines.org/timeline#EVT_100871
+11. Kim Y, Bae J, Ryoo S, Kim W. Acute fulminant myocarditis following influenza vaccination requiring extracorporeal membrane oxygenation. Acute Crit Care. 2019;34(2):165–169. [PMC free article] [PubMed] [Google Scholar]
+12. Imazio M, Klingel K, Kindermann I, Brucato A, De Rosa FG, Adler Y. COVID-19 pandemic and troponin: indirect myocardial injury, myocardial inflammation or myocarditis? Heart. 2020;106 1127-3. [PubMed] [Google Scholar]
+13. Pinto D. COVID-19: Myocardial infarction and other coronary artery disease issues. Consulted on 2021. https://www.uptodate.com/contents/covid-19-myocardial-infarction-and-other-coronary-artery-disease-issues. UpToDate. 2021:n958. doi: 10.1136/bmj.n958. [CrossRef] [Google Scholar]  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8130498/  .... I had all the above ... but it should be
+okay. - Terps lion

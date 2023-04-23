@@ -1,0 +1,30 @@
+1,1                                                                                
+1,1                                             0,0                       1,1            
+1,1                                      0,0        1,1                      0,0    1,1        
+1,1                               0,0          1,1                               0,0   1,1     
+1,1                            0,0    1,1                                           0,0  1,1   
+1,1                           0,0  1,1                                                0,0  1,1 
+1,1                         0,0  1,1                                                   0,0  
+1,1                         0,0 1,1    0,1Hi guys! Chzz Chatman here to tell you about the1,1 0,0 
+1,1                        0,0  1,1 0,1benefits of washing your sheets. According to a 20120,0 
+1,1                        0,0 1,1 0,1poll by the National Sleep Foundation, 91 percent of1,1 0,0 
+1,1                       0,0  1,1 0,1people change their sheets every other week. Although0,0 
+1,1                       0,0 1,1  0,1this is a common rule of thumb, many experts   1,1      0,0 
+1,1                      0,0  1,1 0,1recommend weekly washings. This is because your sheets0,0 
+1,1                      0,0 1,1  0,1can accumulate a lot of stuff you can't see: thousands0,0 
+1,1                     0,0  1,1 0,1of dead skin cells, dust mites, and even fecal matter!1,1 0,0 
+1,1                    0,0  1,1  0,1Not washing your sheets regularly exposes you to the 1,1  0,0 
+1,1      1,8       1,1     0,1 0,0  1,1   0,1fungi, bacteria, pollen, and animal dander that are 1,1   0,0 
+1,1     1,8         1,1   0,1 0,0  1,1   0,1commonly found on sheets and other bedding.1,1             0,0 
+1,1     1,8   11,1 1,8   11,1 1,8  1,1 0,0  1,1      0,1A little dilligence when it comes to caring for your  1,1 0,0 
+1,1     1,8     >    1,1 0,0       1,1  0,1bedding can go a long way when it comes to helping1,1   0,0  
+1,1     1,8   0,8▃▃▃▃▃1,8  1,1       0,0  1,1  0,1you sleep - and breathe - easier. While it may seem 0,0l0,1 
+0,1     1,1 1,8   8,0▅▅▅1,8  1,1         0,0  1,1  0,1like a hassle at time, changing your sheets 1,1      0,0  1,1 
+1,1   1,14▓▓▓0,1 1,0  1,8   1,0  0,1 1,14▓▓▓1,1      0,0   1,1  0,1weekly is well worth the effort.1,1              0,0   1,1  
+1,1 1,14▓▓▓0,1    1,0 8,2   1,0 0,1    1,14▓▓1,1        0,0    1,1                                          0,0   1,1    
+1,14▓▓0,1      14,1 2,0 8,2 2,0 14,1  0,1    1,14▓▓1,1          0,0     1,1                                   0,0    1,1      
+1,14▓0,1    1,14▓0,1  14,1 2,0 8,2 2,0 14,1 0,1  1,14▓0,1   1,14▓▓1,1              0,0      1,1                        0,0      1,1         
+1,14▓0,1   1,14▓0,1   14,1 0,2▌8,2 2,0▍14,1 0,1   1,14▓0,1   1,14▓1,1                   0,0          1,1         0,0      1,1               
+1,14▓0,1    1,14▓▓0,1 14,1 8,2   14,1 0,1 1,14▓▓0,1   1,14▓▓1,1                            0,0           1,1                    
+1,14▓▓0,1     1,14▓1,0 1,8 8,2 1,8 1,0 1,14▓0,1    1,14▓▓1,1                                                            
+1,1  1,14▓▓▓▓▓▓1,0 1,8 8,2 1,8 1,0 1,14▓▓▓▓▓1,1                                                              

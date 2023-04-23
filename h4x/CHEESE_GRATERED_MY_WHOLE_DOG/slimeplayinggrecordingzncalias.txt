@@ -1,0 +1,8 @@
+02:33 <~slime> @grecordingzncalias
+02:33 < van> Playing h4x/mss/grecordingzncalias.txt
+02:33 < van> [09:56:51] @        g: @record zncalias
+02:33 < van> [09:56:51]        van: Recording started type @end when done or discard with @cancel
+02:33 < van> [09:56:57] @        g:  /alias add znc /quote znc
+02:33 < van> [09:57:07] @        g: @end
+02:33 < van> [09:57:07]        van: Recording finished ;) saved to h4x/g/zncalias.txt
+02:33 <~slime> lol

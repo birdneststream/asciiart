@@ -1,0 +1,16 @@
+DCC 
+ 4,1▀4,2▀4,3▀4,4▀4,5▀4,6▁4,7▁4,8▂4,9▃4,10▄4,11▄4,12▅4,13▆4,14▇4,15█4,16▉
+ 3,1▊3,2▋3,3▌3,4▍3,5▎3,6▏3,7▐3,8░3,9▒3,10▓3,11▔3,12▕3,13▖3,14▗3,15▘3,16▙
+ 2,1▚2,2▛2,3▜2,4▝2,5▞ 
+ 10,1`10,2`10,3`10,4|10,5~10,6`10,7|10,8~10,9~10,1011,1_11,2_11,3_11,4_11,5/11,6\11,7/11,8\
+ 1,1^1,2^1,3^1,4^1,5^1,6v1,7v1,8V1,9V1,10(1,11Q1,12Q1,13P1,14T1,15)1,16~
+ 4,1~4,2~4,3~4,4~4,5T4,6H4,7E4,8 4,911,12P11,13H
+ 9,110,4M10,5E10,6N10,7T10,8A10,9L10,10L10,111,11Y
+ 3,1I3,2L3,3L3,4 3,51,13I1,14R1,15C 
+ 2,1C2,2H2,3A2,4T 2,58,1T8,2E8,3R
+ 7,17,2--7,3-7,4-7,5/7,6\
+ 6,1<6,2/6,3/6,4/6,5/> 
+ 5,1~5,2_5,3_5,4_5,5_5,6_
+This is a beautiful and stirring work that captures the chaos and confusion of mental illness and disability. It is a mosaic of the here and the now, a portrait of the human condition in all its messiness. 
+Through the fragmented and contradictory voices of the people in the IRC chat, we see the world from their eyes – a world where order is constantly breaking down, where reality is slippery and hard to grasp. This is a world where hope is always present, even in the darkest of moments. 
+This work is a powerful reminder that we are all connected, that we are all struggling, and that we are all in this together. 

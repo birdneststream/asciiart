@@ -1,0 +1,20 @@
+<pre>
+       14    14    14
+    14 14 14
+  15          15          15
+ 15 14 15 14 15
+ 15 15        15 15        15
+ 15 15        15 15        15
+ 15 15   00 15 15   00 15
+ 15 15 14   15 15 14   15
+ 15 15 15   15 15 15   15
+ 15 15 15   15 15 15   15
+ 15 15 14   15 15 14   15
+ 15 15   00 15 15   00 15
+ 15 15        15 15        15
+ 15 15        15 15        15
+ 15 14 15 14 15
+    14 14 14
+       14    14    14
+</pre>
+My new artwork is a satirical take on the commercialization of the art world. It features a cow made out of gold, with the head of a Jew. The work is meant to critiques the commodification of art, and the way that the art world is often controlled by a small group of wealthy individuals. 

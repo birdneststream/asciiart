@@ -1,0 +1,102 @@
+Pre-Installation tasks #
+Minimum requirements #
+The first step is to determine if the target system meets the minimum installation requirements. A list of supported platforms can be found here. Most recent platforms are supported. Other ones have been dropped for various reasons. This tutorial is for the x86_64, or amd64, platform only and may or may not be applicable to other platforms.
+The minimum amount of available space is only 512MB but requires more advanced knowledge and goes beyond the scope of this tutorial. The minimum amount of recommended space is 8GB which should allow for a simple installation.
+System/data backup #
+Consider creating a backup of the system before attempting to install OpenBSD. Especially in case of an intended multiboot system since a mistake in drive number or partition is quickly made. The backup should not be stored on the system that’s the target of the installation but instead on another system like a NAS or NFS share, or on an external hard drive or USB stick.
+    Schrodinger’s backup: The condition of any backup is unknown until a restore is attempted.
+Collect information #
+The OpenBSD installer will ask you multiple questions during the installation. Although the default answers provided by the installer are normally usable, it’s useful to look into the following in advance.
+    Hostname/domain name
+    Network setup
+If the target machine is connected to a network with a DHCP server, the networking information should be provided automatically. If there’s no DHCP server available, you need the following information:
+    IP address
+    Subnet mask
+    IP address of default gateway
+    Domain name of the network
+    IP addresses of the network’s DNS servers
+    Disk layout
+    Which disks are available?
+    Is this a multiboot system?
+    Is encryption needed?
+    Is RAID needed?
+    Where will most of the data be stored?
+Performing a simple installation #
+The OpenBSD installer uses a ramdisk kernel named bsd.rd which creates the environment needed to install OpenBSD but also provides tools that can be useful in a disaster recovery scenario.
+The kernel can be booted in multiple ways.
+    CD/DVD
+    USB drive or external hard drive
+    An already existing partition
+    Over the network (PXE or other network boot options)
+    Floppy disk
+Creating an installation medium #
+    The dd command will overwrite existing data. Make sure to find and then verify the correct device identifier of the USB stick.
+The easiest way to create an installation medium is to download the filesystem image and copy it to an USB stick. There are 2 steps involved:
+    Download the image (install68.fs for the installer plus the file sets): https://cdn.openbsd.org/pub/OpenBSD/6.8/amd64/
+    Write the image to an USB stick with root privileges:
+On Mac:
+Find/verify the disk number on MacOS by executing the diskutil list command.
+dd if=install68.fs of=/dev/rdisk3 bs=1m
+For GNU based (most Linux distributions)dd usage, use a capital m for the block size specification.
+dd if=install68.fs of=/dev/sdc bs=1M
+MacOS output example:
+$ sudo dd if=Downloads/install68.fs of=/dev/rdisk3 bs=1m
+Password:
+450+1 records in
+450+1 records out
+472317952 bytes transferred in 106.005834 secs (4455585 bytes/sec)
+Starting the installation #
+Once the kernel is booted, the installer asks the first question.
+...
+root on rd0a swap on rd0b dump on rd0b
+erase ^?, werase ^W, kill ^U, intr ^C, status ^T
+Welcome to the OpenBSD/amd64 6.X installation program.
+(I)nstall, (U)pgrade, (A)utoinstall or (S)hell?
+When you choose I for Install, you’ll be presented with the following questions. The answers depend on your system but the default or suggested answers too will depend on your system. The suggested answers below are from a virtual guest machine running on top of an OpenBSD host.
+Terminal type? [vt220]
+System and Networking #
+System hostname? (short form, e.g. ‘foo’) foo
+Which network interface do you wish to configure? (or ‘done’) [vio0]
+IPv4 address for vio0? (or ‘dhcp’ or ‘none’) [dhcp]
+IPv6 address for vio0? (or ‘autoconf’ or ‘none’)i [none]
+Which network interface do you wish to configure? (or ‘done’) [done]
+Users and Logins #
+Password for root account? (will not echo) hunter2
+Password for root account? (again) hunter2
+Start sshd(8) by default? [yes]
+Change the default console to com0? [yes]
+Which speed should com0 use? (or ‘done’) [115200]
+Setup a user? (enter a lower-case loginname, or ‘no’) [no] theo
+Full name for user theo? [theo]
+Password for user theo? (will not echo) hunter2
+Password for user theo? (again) hunter2
+Allow root ssh login? (yes, no, prohibit-password) [no]
+What timezone are you in? ('?' for list) [Europe/Amsterdam]
+Disk Setup #
+    More information on disk setup and operations can be found here.
+Which disk is the root disk? ('?' for details) [sd0]
+Use (W)hole disk MBR, whole disk (G)PT, (O)penBSD area or (E)dit? [OpenBSD] W
+Use (A)uto layout, (E)dit auto layout, or create (C)ustom layout? [a]
+File Sets #
+    More information on file sets can be found here
+Location of sets? (disk http or ‘done’) [http]
+HTTP proxy URL? (e.g. ‘http://proxy:8080’, or ‘none’) [none]
+HTTP Server? (hostname, list#, ‘done’ or ‘?') [cdn.openbsd.org]
+Server directory? [pub/OpenBSD/6.X/amd64]
+Select sets by entering a set name, a file name pattern or ‘all’. De-select sets by prepending a ‘-’, e.g.: ‘-game*’. Selected sets are labelled ‘[X]’.
+    [X] bsd           [X] comp6X.tgz    [X] xbase6X.tgz   [X] xserv6X.tgz
+    [X] bsd.rd        [X] man6X.tgz     [X] xshare6X.tgz
+    [X] base6X.tgz    [X] game6X.tgz    [X] xfont6X.tgz
+Set name(s)? (or ‘abort’ or ‘done’) [done]
+Location of sets? (disk http or ‘done’) [done]
+CONGRATULATIONS! Your OpenBSD install has been successfully completed!
+Exit to (S)hell, (H)alt or (R)eboot? [reboot]
+Post Installation actions #
+Once the machine has been rebooted and you’ve logged in, it’s highly recommended you perform the following actions:
+syspatch
+pkg_add -Uu
+sysmerge -d
+Sending your dmesg after the installation #
+At the end of the installation, the installer asks if you’d like to send information about the machine to the OpenBSD developers. Doing this is completely voluntary but helps the developers understand the type of platforms the software is used on and whether or not there are hardware support issues that should be resolved by modifying or adding drivers.
+If you choose not to during the installation, you can still send the information later via:
+$ (dmesg; sysctl hw.sensors) | mail -s "Some information about the machine" dmesg@openbsd.org 

@@ -1,0 +1,69 @@
+                                                                                                        
+                                         0The five stages of                                             
+                                                                                                        
+                                                                                                        
+            7,7                                          0,0                 0,0                                 
+         7,7                             0,0              0,0                   0,0                    0,0             
+        7,7                              0,0              0,0                                       0,0             
+       7,7               0,0  7,7                    0,0        0,0                          0,0                   0,0       
+      7,7        0,0   7,7  0,0       7,7                   0,0       0,0           0,0         0,0     0,0                     0,0      
+     7,7        0,0    7,7  0,0       7,7                   0,0       0,0         0,0           0,0    0,0                      0,0      
+     7,7       0,0    7,7    0,0     7,7             0,0              0,0         0,0           0,0    0,0                 0,0           
+    7,7       0,0    7,7       0,0   7,7            0,0               0,0         0,0           0,0    0,0               0,0             
+    7,7  0,0        7,7                       0,0       0,0        0,0         0,0           0,0    0,0              0,0        0,0      
+   7,7   0,0        7,7         0,0   7,7           0,0               0,0         0,0           0,0    0,0         0,0     0,0       0,0       
+   7,7   0,0        7,7       0,0     7,7           0,0               0,0         0,0           0,0      0,0            0,0              
+    7,7        0,0   7,7     0,0     7,7                                                        0,0            0,0           
+    7,7        0,0   7,7 0,0       7,7 0,0   7,7          0,0           0,0                                                        
+     7,7           0,0           7,7          0,0           0,0                                                        
+       7,7               0,0     7,7         0,0                                        0,0                 0,0           
+          7,7                          0,0            0,0      0,0             0,0         0,0     0,0          0,0             
+                7,7                    0,0            0,0      0,0             0,0         0,0     0,0         0,0              
+                                    0,0            0,0     0,0        0,0      0,0         0,0      0,0                      
+                                    0,0            0,0     0,0         0,0     0,0         0,0         0,0                   
+                                    0,0            0,0     0,0         0,0     0,0         0,0         0,0                   
+                                    0,0           0,0      0,0         0,0     0,0         0,0        0,0                    
+                                    0,0           0,0      0,0         0,0     0,0        0,0        0,0       0,0              
+                                     0,0          0,0      0,0         0,0      0,0               0,0        0,0             
+    0Stage 1 - Denial                                                   0,0            0,0                     
+                                                                                                        
+    0There's no way Canonical would ship a version of <package> that's <big amount of> years old!        
+   0 The 0repo will have a reasonably dated version.                                                      
+   0                                                                                                     
+   0 $ swaybar -v                                                                                        
+   0 swaybar version 0.1 (built 2007-06-24)                                                              
+                                                                                                        
+    0----                                                                                                
+                                                                                                        
+   0 Stage 2 - Anger                                                                                     
+                                                                                                        
+   0 Why the fuck would Canonical ship a 15 year old version of waybar?                                  
+   0 This is bullshit I am going to shoot and kill the president of Africa Linux                         
+                                                                                                        
+   0 ----                                                                                                
+   0                                                                                                     
+0    Stage 3 - Bargaining                                                                                
+0                                                                                                        
+0    It's ok! I will just build my own waybar against the system from the git repo                       
+0                                                                                                        
+   0 $ sudo apt-get install lib*-dev                                                                     
+    0Need to get 20.8TB of archives.                                                                   0  
+   0 After this operation, 125.3TB of additional disk space will be used.                                
+0    Do you want to continue? [Y/n]                                                                      
+                                                                                                        
+0    ----                                                                                                
+0                                                                                                        
+   0 Stage 4 - Depression                                                                                
+0                                                                                                        
+0    I could have been working 20 minutes ago on Arch but now I am building libraries since their        
+0    0builds in the repository is also 15 years old                                                       
+0                                                                                                        
+0    0----                                                                                                
+                                                                                                        
+0    Stage 5 - Acceptance                                                                                
+0                                                                                                        
+0    It's ok, I will just use swaybar and spend the time I would have used maintaining Africa Linux      
+0    0from Scratch to make an angry canonical diss ascii in asciibird                                     
+                                                                                                        
+0    0,0212,2 14,14 0,0222,2 14,14 0,0232,2 14,14                                                                              0,142022-02-14    
+0                                                                                                        

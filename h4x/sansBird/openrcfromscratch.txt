@@ -1,0 +1,28 @@
+openrc - Man Page
+stops and starts services for the specified runlevel
+Examples (TL;DR)
+Change to a specific runlevel:
+sudo openrc runlevel_name
+Change to a specific runlevel, but don't stop any existing services:
+sudo openrc --no-stop runlevel_name
+tldr.sh
+Synopsis
+openrc [-n, --no-stop] [-o, --override] [runlevel]
+Description
+openrc first stops any services that are not in the specified runlevel unless --no-stop is specified, then starts any services in the runlevel and stacked runlevels added by rc-update that are not currently started. If no runlevel is specified, we use the current runlevel.
+There are some special runlevels that you should be aware of:
+sysinit
+Brings up any system specific stuff such as /dev, /proc and optionally /sys for Linux based systems. It also mounts /lib/rc/init.d as a ramdisk using tmpfs where available unless / is mounted rw at boot. openrc uses /lib/rc/init.d to hold state information about the services it runs. sysinit always runs when the host first starts should not be run again.
+boot
+Generally the only services you should add to the boot runlevel are those which deal with the mounting of filesystems, set the initial state of attached peripherals and logging. Hotplugged services are added to the boot runlevel by the system. All services in the boot and sysinit runlevels are automatically included in all other runlevels except for those listed here.
+single
+Stops all services except for those in the sysinit runlevel.
+reboot
+Changes to the shutdown runlevel and then reboots the host.
+shutdown
+Changes to the shutdown runlevel and then halts the host.
+You should not call any of these runlevels yourself. Instead you should use init(8) and shutdown(8) and let them call these special runlevels.
+See Also
+rc-status(8), rc-update(8), init(8), shutdown(8)
+DATS BLOATED
+SEE SYSTEMDFROMSCRATCH FOR NON BLOAT

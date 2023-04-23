@@ -1,0 +1,4 @@
+HexChat: /set net_throttle 0 /set flood_msg_num 0
+irssi: /set cmd_queue_speed 0msec and /set cmds_max_at_once 0, then /reconnect if you are still connected to IRC
+WeeChat: /set irc.server.name.anti_flood_prio_high 0 (or, for all default server configurations, /set irc.server_default.anti_flood_prio_high 0)
+ZNC: /msg *controlpanel setnetwork floodburst chrono ircd.chat 0 and /msg *controlpanel setnetwork floodrate chrono ircd.chat 0

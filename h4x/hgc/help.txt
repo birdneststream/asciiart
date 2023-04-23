@@ -1,0 +1,2 @@
+Bot commands:
+@help - get help with the bot

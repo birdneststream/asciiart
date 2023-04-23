@@ -1,0 +1,12 @@
+22:10 Ignore List:
+22:10    1 durnkb0t: ALL  
+22:10    2 [fuckh0l3-j0n35]: ALL  
+22:10    3 professorOak: ALL  
+22:10    4 nitoBot: ALL  
+22:10    5 o7: ALL  
+22:10    6 mooky: ALL  
+22:10    7 d: ALL  
+22:10    8 maple: ALL  
+22:10    9 krolden: ALL  
+22:10   10 mother: ALL  
+22:10   11 sKyZ: ALL  

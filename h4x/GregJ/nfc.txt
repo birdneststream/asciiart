@@ -1,0 +1,3 @@
+NFC is like a secret handshake for devices! When two devices get close to each other, they create a magical magnetic
+field that powers a little antenna in the other device. This lets them share information in a flash! It's like they're whispering secrets to
+each other, all without ever touching...

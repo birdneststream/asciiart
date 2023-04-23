@@ -1,0 +1,1 @@
+openssl s_client -connect ircd.chat:6697 < /dev/null 2>/dev/null | openssl x509 -fingerprint -sha256 -noout -in /dev/stdin | tr -d ':'

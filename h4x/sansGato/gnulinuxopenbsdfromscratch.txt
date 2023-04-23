@@ -1,0 +1,83 @@
+Quickstart Guide #
+Introduction #
+This quickstart guide is intended to quickly familiarize GNU/Linux users with the basics of OpenBSD and will highlight some of the technical differences between OpenBSD and the various GNU/Linux based distributions. It is not intended to be an exhaustive list of differences, nor will it highlight the rather large philosophical differences between OpenBSD and GNU/Linux.
+    The guide assumes that OpenBSD is already installed and the user has access to the CLI. An installation guide can be found here.
+The shell #
+Bash is not the default shell on OpenBSD and neither is zsh. Instead, the default shell is Korn shell (ksh) for both root and regular users. The so-called command language of ksh is a superset of the sh shell language. This means that all sh code can be run from ksh but not all ksh code can be run from an sh shell.
+Other shells, including Bash and zsh, are available for installation (pkg_add bash zsh as root, chsh -s bash as user). It is recommended that the root user’s shell remains unchanged because non-default shells are installed in the “/usr/local/bin/“ directory, which by default is on a non-root partition. In case of an issue where only the root partition can be mounted, the root user
+would not have a shell available for it to use and fix the problem. The ksh shell does not have this issue because it is installed in “/bin” on the root partition.
+Sudo -> doas #
+The sudo command is not available by default on OpenBSD. Instead, OpenBSD uses the doas command. There’s no default config in place for doas but there’s an example file called doas.conf in /etc/examples/. To get started, copy the file to /etc: cp /etc/examples/doas.conf /etc/.
+By default, the doas command will ask for a password every time the command is invoked. To change this behaviour and make it more like most sudo implementations (where a successful authentication is cached for some short period of time), add the persist option like in the snippet below.
+# Allow wheel by default
+permit persist keepenv :wheel
+The sudo command/package is available for installation: pkg_add sudo. The two commands can be used interchangeably.
+Software #
+Installation #
+Additional software packages can be installed using the “pkg_add” command. OpenBSD packages are pre-compiled software programs and work in a way similar to rpm and deb packages used by respectively Redhat, Debian, and their respective derivatives. For example, to install the NginX webserver, use the following command:
+$ doas pkg_add nginx
+Packages that have previously been installed with the pkg_add command, can be deleted using the “pkg_delete” command.
+$ doas pkg_delete nginx
+Updating #
+The OpenBSD philosophy is that the packages in a certain release should be stable. This means that there there will be no updates for a package unless something is broken. In order to fix broken packages, patches are released. These patches can be applied using the syspatch command. Use the argument “-c” to only show the available patches for a system.
+$ doas syspatch -c
+$ doas syspatch
+Upgrading #
+The goal of OpenBSD is to provide a new release about every 6 months. An OpenBSD system can be upgraded using the sysupgrade command. The Upgrading OpenBSD section on this site provides more information on the upgrade process.
+$ doas sysupgrade
+The sysupgrade command upgrades the base system. Any packages installed using pkg_add have to be updated separately using the pkg_add command.
+$ doas pkg_add -Uu
+Networking #
+Whereas in GNU/Linux distributions network interfaces have a generic name like eth0, eth1, etc, in OpenBSD network interfaces are named using the shorthand name of the driver for that network interface. For example, Realtek network interface cards will be called re0, re1, etc, while Broadcom network interface cards will be called bge0, bge1, etc.
+IP configuration #
+The IP configuration is set using the hostname.if file where the “if” part stands for the name of the network interface on the system. The first part, “hostname”, is not a variable for the actual hostname of the system. Using the example above, the file “/etc/hostname.re0” would contain the configuration for the re0 Realtek network interface.
+The content of the hostname.if file for an internal interface might look something like the following.
+inet 10.0.0.100 255.255.255.0
+For an interface that has both IPv4 and IPv6 enabled, the file looks like this.
+inet xx.xx.xx.xx 255.255.255.0
+inet6 xxxx:6000:9344::154 64 -soii
+In order to enable DHCP on an interface, the config looks like this.
+dhcp
+Manually setting the interface configuration is also possible and can be done using the ifconfig command. See the below for an example but keep in mind that these changes are only temporary. In order to make them permanent, add the config to the respective configuration file.
+$ doas ifconfig re0 10.0.0.100 255.255.255.0
+In order to apply any changes made in the configuration files to the network interface, the network should be restarted. In OpenBSD, this is done using the same script that is invoked during in the startup process: /etc/netstart. Execute the script to reload all network configurations but it’s also possible to provide an interface name as argument and to restart that specific
+interface.
+$ doas sh /etc/netstart re1
+Hostname #
+The default hostname is set in a file called /etc/myname. The file should contain a single line specifying the fully qualified domain name (FQDN) of the system. The name must be resolvable, either by matching a hostname specified in /etc/hosts or through DNS.
+host.example.com
+Use the sh /etc/netstart command to apply any changes.
+Gateway #
+The default gateway is set in the /etc/mygate file. If the file does not exist or is empty, no default gateway is set. The file may contain an IPv4 address, an IPv6 address, or both on separate lines. In case more than one address from the same address family is added, only the first will be used.
+192.0.2.1
+xxxx:6000:9344::1
+Use the sh /etc/netstart command to apply any changes.
+DNS #
+The name server configuration is defined in the /etc/resolv.conf file.
+nameserver 192.0.2.1
+lookup file bind
+Use the sh /etc/netstart command to apply any changes.
+Daemons #
+Init #
+Whereas most GNU/Linux distributions use either SystemD or the SysV init system, OpenBSD uses the traditional BSD-style init system. BSD-style means that there are no run-levels and there’s no inittab. Instead, startup is controlled by init and rc scripts.
+The system defaults can be found in /etc/rc.conf but that file should not be edited directly. Instead, the /etc/rc.conf.local file should be used. Both in order to overwrite values defined in /etc/rc.conf as well as any other user defined values.
+For example, in order to start the OpenBSD httpd webserver during boot, either use the rcctl command referenced below or add the following line to the /etc/rc.conf.local file manually.
+httpd_flags=
+rcctl #
+The rcctl command is used to control daemons on OpenBSD. The command allows, amongst others, the starting, stopping, reloading, and enabling and disabling of daemons.
+$ doas rcctl start httpd
+$ doas rcctl stop httpd
+$ doas rcctl reload httpd
+To start the httpd webserver automatically during boot, execute the following.
+$ doas rcctl enable httpd
+To stop the webserver from starting during boot, execute the following.
+$ doas rcctl disable httpd
+Services #
+Although an OpenBSD system is largely capable to
+Miscellaneous Commands #
+GNU/Linux command (Redhat/Debian) OpenBSD equivalent Purpose
+yum install / apt-get install package pkg_add package Install package from remote repository
+rpm -i /dpkg -i package pkg_add package Install local package
+rpm -qa / dpkg -l pkg_info List installed packages
+lspci pcidump List PCI devices
+lsusb usbdevs List USB devices

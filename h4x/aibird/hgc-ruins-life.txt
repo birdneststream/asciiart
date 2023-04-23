@@ -1,0 +1,47 @@
+4,1▀
+10,1─▒▒▒▒▒▒▒▒▒▓██▓▒▒▒▒▒▒▒▒─	
+4,1▁
+10,1─▒▒▒▒▓▓▓▓▓▓████▓▓▓▓▓▒▒▒─	
+4,1▂
+10,1─▓▓▓▓▓▓█████▓▓▓▓▓▓▓▓▓────	
+4,1▃ 
+10,1─▓▓▓▓▓▓███████▓▓▓▓▓─────	
+4,1▄
+10,1─▓▓▓▓▓▓▓ ██▓▓▓▓▓▓──────	
+4,1▅
+10,1─▓▓▓▓▓▓░█░█░█▀▓▓▓▓──────	
+4,1▆
+10,1─▓▓▓▓▓▓ ██▄█▄█▓▓▓▓──────	
+4,1▇
+10,1─▓▓▓▓▓ ███▀███▓▓▓───────	
+4,1█
+10,1─▓▓▓█▓ ░███░█▓█▓▓───────	
+4,1▉
+10,1─▓▓▓█▓ ░███░█▓█▓▓───────	
+4,1▊
+10,1─▓▓▓▓█ ███░███▓▓▓───────	
+4,1▋
+10,1─▓▓█▓█░ ████░░█▓▓───────	
+4,1▌
+10,1─▓▓████▀░░▀░▀████▓──────	
+4,1▍
+10,1─▓▓▓███▄░░▒▒▒▄████▓─────	
+4,1▎
+10,1─▓▓▓▓███▄▄▄▄▄█████▓─────	
+4,1▏
+10,1─▓▓▓▓▓███████████▒▒───▒─	
+4,1▐	
+10,1░▒▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒──▒─	
+4,1░	
+10,1▓▓▓═════╗HGC
+10,1══════════════════╝
+3,1Ruined
+10,1══════════════════╗ 
+4,1▒
+10,1║Buying DrugsFrom	
+4,1▓
+10,1═╣The Internet	 ────	
+4,1▔ 
+10,1══════════════════╝
+Created in the wake of the 2016 U.S. Presidential Election, "Hgc Ruins His Life By Buying Drugs From The Internet" is a satirical work that critiques the seemingly inept attempts of then-candidate Hillary Clinton to appeal to millennial voters. Through the use of both Clinton's own words and images of her campaign logo, the work highlights the former First Lady's lack of appeal 
+to a generation that has been inundated with drug culture. 

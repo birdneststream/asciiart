@@ -1,0 +1,23 @@
+To Whom It May Concern:
+ 
+ 
+ I am requesting you, as the data controller of the Android app Discord (ID: com.discord), to confirm whether it is processing any personal data about me.
+ If so, please provide me with all the required information stipulated in Article 15 of the EU General Data Protection Regulation (GDPR), including:
+ 
+ • a copy of my personal data;
+ • the purposes of the processing;
+ • the categories of personal data concerned;
+ • the recipients you disclose my personal data to and the safeguards you provide;
+ • the retention period for storing my personal data or the criteria used for determining this period;
+ • information about the source of my personal data; and
+ • the existence of automated decision-making (including profiling), and if so:
+ - the logic involved in the decision-making process;
+ - the significance and the envisaged consequences for me;
+ - the steps you have taken to prevent errors, bias and discrimination; and
+ - explain how I can express my point of view and challenge a decision.
+ 
+ This request relates to any processing of my personal data by you, including any processors processing personal data on behalf of you.
+ 
+ Please provide your response through secure means by email. I look forward to receiving a response within one month of the receipt of my request.
+ 
+ Sincerely,

@@ -1,0 +1,14 @@
+What will happen when you block the orangeclub members?
+( == When you block the entire CloudFlare IPs on your router)
+Before blocking:
+1. Silently MITM attempt everywhere.
+2. Everything I input is routed to the USA.
+After blocking:
+1. My browser complain & Save time by not opening timewasting site; We can't connect to the server
+2. I can annoy website owner; 'I cannot open your site'
+3. More Going offline time, more physical interaction irl.
+4. More walking.
+5. I lost online 'friends' yet I made some real friends offline.
+6. The much less chance to get CF know about me.
+Blocking CloudFlare keeping me healthy.
+10/10 definitely recommend it.

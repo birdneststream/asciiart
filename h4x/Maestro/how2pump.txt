@@ -1,0 +1,4 @@
+/set irc.server_default.anti_flood_prio_high 0 (global)
+/set irc.server_default.anti_flood_prio_low 0
+/set irc.server.<network_name>.anti_flood_prio_high 0 (network specific)
+/set irc.server.<network_name>.anti_flood_prio_low 0 (network specific)

@@ -1,0 +1,709 @@
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+           tcp.direct/6697 -ssl
+            tcp.direct/6697 -ssl
+             tcp.direct/6697 -ssl
+              tcp.direct/6697 -ssl
+               tcp.direct/6697 -ssl
+                tcp.direct/6697 -ssl
+                 tcp.direct/6697 -ssl
+                  tcp.direct/6697 -ssl
+                   tcp.direct/6697 -ssl
+                    tcp.direct/6697 -ssl
+                    tcp.direct/6697 -ssl
+                   tcp.direct/6697 -ssl
+                  tcp.direct/6697 -ssl
+                 tcp.direct/6697 -ssl
+                tcp.direct/6697 -ssl
+               tcp.direct/6697 -ssl
+              tcp.direct/6697 -ssl
+             tcp.direct/6697 -ssl
+            tcp.direct/6697 -ssl
+           tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+           tcp.direct/6697 -ssl
+            tcp.direct/6697 -ssl
+             tcp.direct/6697 -ssl
+              tcp.direct/6697 -ssl
+               tcp.direct/6697 -ssl
+                tcp.direct/6697 -ssl
+                 tcp.direct/6697 -ssl
+                  tcp.direct/6697 -ssl
+                   tcp.direct/6697 -ssl
+                    tcp.direct/6697 -ssl
+                    tcp.direct/6697 -ssl
+                   tcp.direct/6697 -ssl
+                  tcp.direct/6697 -ssl
+                 tcp.direct/6697 -ssl
+                tcp.direct/6697 -ssl
+               tcp.direct/6697 -ssl
+              tcp.direct/6697 -ssl
+             tcp.direct/6697 -ssl
+            tcp.direct/6697 -ssl
+           tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ss l
+tcp.direct/6697 -ss  l
+tcp.direct/6697 -ss   l
+tcp.direct/6697 -ss    l
+tcp.direct/6697 -s s    l
+tcp.direct/6697 -s  s    l
+tcp.direct/6697 -s   s    l
+tcp.direct/6697 -s    s    l
+tcp.direct/6697 - s    s    l
+tcp.direct/6697 -  s    s    l
+tcp.direct/6697 -   s    s    l
+tcp.direct/6697 -    s    s    l
+tcp.direct/6697  -    s    s    l
+tcp.direct/6697   -    s    s    l
+tcp.direct/6697    -    s    s    l
+tcp.direct/6697     -    s    s    l
+tcp.direct/6697      -    s    s    l
+tcp.direct/6697       -    s    s    l
+tcp.direct/6697        -    s    s    l
+tcp.direct/6697         -    s    s    l
+tcp.direct/669 7         -    s    s    l
+tcp.direct/669  7         -    s    s    l
+tcp.direct/669   7         -    s    s    l
+tcp.direct/669    7         -    s    s    l
+tcp.direct/66 9    7         -    s    s    l
+tcp.direct/66  9    7         -    s    s    l
+tcp.direct/66   9    7         -    s    s    l
+tcp.direct/66    9    7         -    s    s    l
+tcp.direct/6 6    9    7         -    s    s    l
+tcp.direct/6  6    9    7         -    s    s    l
+tcp.direct/6   6    9    7         -    s    s    l
+tcp.direct/6    6    9    7         -    s    s    l
+tcp.direct/ 6    6    9    7         -    s    s    l
+tcp.direct/  6    6    9    7         -    s    s    l
+tcp.direct/   6    6    9    7         -    s    s    l
+tcp.direct/    6    6    9    7         -    s    s    l
+tcp.direct /    6    6    9    7         -    s    s    l
+tcp.direct  /    6    6    9    7         -    s    s    l
+tcp.direct   /    6    6    9    7         -    s    s    l
+tcp.direct    /    6    6    9    7         -    s    s    l
+tcp.direc t    /    6    6    9    7         -    s    s    l
+tcp.direc  t    /    6    6    9    7         -    s    s    l
+tcp.direc   t    /    6    6    9    7         -    s    s    l
+tcp.direc    t    /    6    6    9    7         -    s    s    l
+tcp.dire c    t    /    6    6    9    7         -    s    s    l
+tcp.dire  c    t    /    6    6    9    7         -    s    s    l
+tcp.dire   c    t    /    6    6    9    7         -    s    s    l
+tcp.dire    c    t    /    6    6    9    7         -    s    s    l
+tcp.dir e    c    t    /    6    6    9    7         -    s    s    l
+tcp.dir  e    c    t    /    6    6    9    7         -    s    s    l
+tcp.dir   e    c    t    /    6    6    9    7         -    s    s    l
+tcp.dir    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.di r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.di  r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.di   r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.di    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.d i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.d  i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.d   i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp. d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.  d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.   d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp.    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp  .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp   .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tcp    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tc p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tc  p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tc   p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+tc    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+t c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+t  c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+t   c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+ t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+  t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+   t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+    t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s    l
+     t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s   l
+      t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s  l
+       t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    s l
+        t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s    sl
+         t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s   sl
+          t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s  sl
+           t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    s sl
+            t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -    ssl
+             t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -   ssl
+              t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -  ssl
+               t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         - ssl
+                t    c    p    .    d    i    r    e    c    t    /    6    6    9    7         -ssl
+                 t    c    p    .    d    i    r    e    c    t    /    6    6    9    7        -ssl
+                  t    c    p    .    d    i    r    e    c    t    /    6    6    9    7       -ssl
+                   t    c    p    .    d    i    r    e    c    t    /    6    6    9    7      -ssl
+                    t    c    p    .    d    i    r    e    c    t    /    6    6    9    7     -ssl
+                     t    c    p    .    d    i    r    e    c    t    /    6    6    9    7    -ssl
+                      t    c    p    .    d    i    r    e    c    t    /    6    6    9    7   -ssl
+                       t    c    p    .    d    i    r    e    c    t    /    6    6    9    7  -ssl
+                        t    c    p    .    d    i    r    e    c    t    /    6    6    9    7 -ssl
+                         t    c    p    .    d    i    r    e    c    t    /    6    6    9    7-ssl
+                          t    c    p    .    d    i    r    e    c    t    /    6    6    9   7-ssl
+                           t    c    p    .    d    i    r    e    c    t    /    6    6    9  7-ssl
+                            t    c    p    .    d    i    r    e    c    t    /    6    6    9 7-ssl
+                             t    c    p    .    d    i    r    e    c    t    /    6    6    97-ssl
+                              t    c    p    .    d    i    r    e    c    t    /    6    6   97-ssl
+                               t    c    p    .    d    i    r    e    c    t    /    6    6  97-ssl
+                                t    c    p    .    d    i    r    e    c    t    /    6    6 97-ssl
+                                 t    c    p    .    d    i    r    e    c    t    /    6    697-ssl
+                                  t    c    p    .    d    i    r    e    c    t    /    6   697-ssl
+                                   t    c    p    .    d    i    r    e    c    t    /    6  697-ssl
+                                    t    c    p    .    d    i    r    e    c    t    /    6 697-ssl
+                                     t    c    p    .    d    i    r    e    c    t    /    6697-ssl
+                                      t    c    p    .    d    i    r    e    c    t    /   6697-ssl
+                                       t    c    p    .    d    i    r    e    c    t    /  6697-ssl
+                                        t    c    p    .    d    i    r    e    c    t    / 6697-ssl
+                                         t    c    p    .    d    i    r    e    c    t    /6697-ssl
+                                          t    c    p    .    d    i    r    e    c    t   /6697-ssl
+                                           t    c    p    .    d    i    r    e    c    t  /6697-ssl
+                                            t    c    p    .    d    i    r    e    c    t /6697-ssl
+                                             t    c    p    .    d    i    r    e    c    t/6697-ssl
+                                              t    c    p    .    d    i    r    e    c   t/6697-ssl
+                                               t    c    p    .    d    i    r    e    c  t/6697-ssl
+                                                t    c    p    .    d    i    r    e    c t/6697-ssl
+                                                 t    c    p    .    d    i    r    e    ct/6697-ssl
+                                                  t    c    p    .    d    i    r    e   ct/6697-ssl
+                                                   t    c    p    .    d    i    r    e  ct/6697-ssl
+                                                    t    c    p    .    d    i    r    e ct/6697-ssl
+                                                     t    c    p    .    d    i    r    ect/6697-ssl
+                                                      t    c    p    .    d    i    r   ect/6697-ssl
+                                                       t    c    p    .    d    i    r  ect/6697-ssl
+                                                        t    c    p    .    d    i    r ect/6697-ssl
+                                                         t    c    p    .    d    i    rect/6697-ssl
+                                                          t    c    p    .    d    i   rect/6697-ssl
+                                                           t    c    p    .    d    i  rect/6697-ssl
+                                                            t    c    p    .    d    i rect/6697-ssl
+                                                             t    c    p    .    d    irect/6697-ssl
+                                                              t    c    p    .    d   irect/6697-ssl
+                                                               t    c    p    .    d  irect/6697-ssl
+                                                                t    c    p    .    d irect/6697-ssl
+                                                                 t    c    p    .    direct/6697-ssl
+                                                                  t    c    p    .   direct/6697-ssl
+                                                                   t    c    p    .  direct/6697-ssl
+                                                                    t    c    p    . direct/6697-ssl
+                                                                     t    c    p    .direct/6697-ssl
+                                                                      t    c    p   .direct/6697-ssl
+                                                                       t    c    p  .direct/6697-ssl
+                                                                        t    c    p .direct/6697-ssl
+                                                                         t    c    p.direct/6697-ssl
+                                                                          t    c   p.direct/6697-ssl
+                                                                           t    c  p.direct/6697-ssl
+                                                                            t    c p.direct/6697-ssl
+                                                                             t    cp.direct/6697-ssl
+                                                                              t   cp.direct/6697-ssl
+                                                                               t  cp.direct/6697-ssl
+                                                                                t cp.direct/6697-ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                               tcp.direc t /6697 -ssl
+                                                                              tcp.direc  t  /6697 -ssl
+                                                                             tcp.direc   t   /6697 -ssl
+                                                                            tcp.direc    t    /6697 -ssl
+                                                                           tcp.direc     t     /6697 -ssl
+                                                                          tcp.direc      t      /6697 -ssl
+                                                                         tcp.direc       t       /6697 -ssl
+                                                                        tcp.direc        t        /6697 -ssl
+                                                                       tcp.direc         t         /6697 -ssl
+                                                                      tcp.direc          t          /6697 -ssl
+                                                                      tcp.direc         t           /6697 -ssl
+                                                                      tcp.direc        t            /6697 -ssl
+                                                                      tcp.direc       t             /6697 -ssl
+                                                                      tcp.direc        t            /6697 -ssl
+                                                                      tcp.direc         t           /6697 -ssl
+                                                                      tcp.direc          t          /6697 -ssl
+                                                                      tcp.direc           t         /6697 -ssl
+                                                                      tcp.direc            t        /6697 -ssl
+                                                                      tcp.direc             t       /6697 -ssl
+                                                                      tcp.direc            t        /6697 -ssl
+                                                                      tcp.direc           t         /6697 -ssl
+                                                                      tcp.direc          t          /6697 -ssl
+                                                                      tcp.direc         t           /6697 -ssl
+                                                                      tcp.direc        t            /6697 -ssl
+                                                                      tcp.direc       t             /6697 -ssl
+                                                                      tcp.direc        t            /6697 -ssl
+                                                                      tcp.direc         t           /6697 -ssl
+                                                                      tcp.direc          t          /6697 -ssl
+                                                                      tcp.direc           t         /6697 -ssl
+                                                                      tcp.direc            t        /6697 -ssl
+                                                                      tcp.direc             t       /6697 -ssl
+                                                                      tcp.direc            t        /6697 -ssl
+                                                                      tcp.direc           t         /6697 -ssl
+                                                                      tcp.direc          t          /6697 -ssl
+                                                                       tcp.direc         t         /6697 -ssl
+                                                                        tcp.direc        t        /6697 -ssl
+                                                                         tcp.direc       t       /6697 -ssl
+                                                                          tcp.direc      t      /6697 -ssl
+                                                                           tcp.direc     t     /6697 -ssl
+                                                                            tcp.direc    t    /6697 -ssl
+                                                                             tcp.direc   t   /6697 -ssl
+                                                                              tcp.direc  t  /6697 -ssl
+                                                                               tcp.direc t /6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                                tcp.direct/6697 -ssl
+                                                                               tcp.direct/6697 -ssl
+                                                                              tcp.direct/6697 -ssl
+                                                                             tcp.direct/6697 -ssl
+                                                                            tcp.direct/6697 -ssl
+                                                                           tcp.direct/6697 -ssl
+                                                                          tcp.direct/6697 -ssl
+                                                                         tcp.direct/6697 -ssl
+                                                                        tcp.direct/6697 -ssl
+                                                                       tcp.direct/6697 -ssl
+                                                                      tcp.direct/6697 -ssl
+                                                                     tcp.direct/6697 -ssl
+                                                                    tcp.direct/6697 -ssl
+                                                                   tcp.direct/6697 -ssl
+                                                                  tcp.direct/6697 -ssl
+                                                                 tcp.direct/6697 -ssl
+                                                                tcp.direct/6697 -ssl
+                                                               tcp.direct/6697 -ssl
+                                                              tcp.direct/6697 -ssl
+                                                             tcp.direct/6697 -ssl
+                                                            tcp.direct/6697 -ssl
+                                                           tcp.direct/6697 -ssl
+                                                          tcp.direct/6697 -ssl
+                                                         tcp.direct/6697 -ssl
+                                                        tcp.direct/6697 -ssl
+                                                       tcp.direct/6697 -ssl
+                                                      tcp.direct/6697 -ssl
+                                                     tcp.direct/6697 -ssl
+                                                    tcp.direct/6697 -ssl
+                                                   tcp.direct/6697 -ssl
+                                                  tcp.direct/6697 -ssl
+                                                 tcp.direct/6697 -ssl
+                                                tcp.direct/6697 -ssl
+                                               tcp.direct/6697 -ssl
+                                              tcp.direct/6697 -ssl
+                                             tcp.direct/6697 -ssl
+                                            tcp.direct/6697 -ssl
+                                           tcp.direct/6697 -ssl
+                                          tcp.direct/6697 -ssl
+                                         tcp.direct/6697 -ssl
+                                        tcp.direct/6697 -ssl
+                                       tcp.direct/6697 -ssl
+                                      tcp.direct/6697 -ssl
+                                     tcp.direct/6697 -ssl
+                                    tcp.direct/6697 -ssl
+                                   tcp.direct/6697 -ssl
+                                  tcp.direct/6697 -ssl
+                                 tcp.direct/6697 -ssl
+                                tcp.direct/6697 -ssl
+                               tcp.direct/6697 -ssl
+                              tcp.direct/6697 -ssl
+                             tcp.direct/6697 -ssl
+                            tcp.direct/6697 -ssl
+                           tcp.direct/6697 -ssl
+                          tcp.direct/6697 -ssl
+                         tcp.direct/6697 -ssl
+                        tcp.direct/6697 -ssl
+                       tcp.direct/6697 -ssl
+                      tcp.direct/6697 -ssl
+                     tcp.direct/6697 -ssl
+                    tcp.direct/6697 -ssl
+                   tcp.direct/6697 -ssl
+                  tcp.direct/6697 -ssl
+                 tcp.direct/6697 -ssl
+                tcp.direct/6697 -ssl
+               tcp.direct/6697 -ssl
+              tcp.direct/6697 -ssl
+             tcp.direct/6697 -ssl
+            tcp.direct/6697 -ssl
+           tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+    t cp.direct/6697 -ssl
+   t  cp.direct/6697 -ssl
+  t   cp.direct/6697 -ssl
+ t    cp.direct/6697 -ssl
+t     cp.direct/6697 -ssl
+t    c p.direct/6697 -ssl
+t   c  p.direct/6697 -ssl
+t  c   p.direct/6697 -ssl
+t c    p.direct/6697 -ssl
+tc     p.direct/6697 -ssl
+tc    p .direct/6697 -ssl
+tc   p  .direct/6697 -ssl
+tc  p   .direct/6697 -ssl
+tc p    .direct/6697 -ssl
+tcp     .direct/6697 -ssl
+tcp    . direct/6697 -ssl
+tcp   .  direct/6697 -ssl
+tcp  .   direct/6697 -ssl
+tcp .    direct/6697 -ssl
+tcp.     direct/6697 -ssl
+tcp.    d irect/6697 -ssl
+tcp.   d  irect/6697 -ssl
+tcp.  d   irect/6697 -ssl
+tcp. d    irect/6697 -ssl
+tcp.d     irect/6697 -ssl
+tcp.d    i rect/6697 -ssl
+tcp.d   i  rect/6697 -ssl
+tcp.d  i   rect/6697 -ssl
+tcp.d i    rect/6697 -ssl
+tcp.di     rect/6697 -ssl
+tcp.di    r ect/6697 -ssl
+tcp.di   r  ect/6697 -ssl
+tcp.di  r   ect/6697 -ssl
+tcp.di r    ect/6697 -ssl
+tcp.dir     ect/6697 -ssl
+tcp.dir    e ct/6697 -ssl
+tcp.dir   e  ct/6697 -ssl
+tcp.dir  e   ct/6697 -ssl
+tcp.dir e    ct/6697 -ssl
+tcp.dire     ct/6697 -ssl
+tcp.dire    c t/6697 -ssl
+tcp.dire   c  t/6697 -ssl
+tcp.dire  c   t/6697 -ssl
+tcp.dire c    t/6697 -ssl
+tcp.direc     t/6697 -ssl
+tcp.direc    t /6697 -ssl
+tcp.direc   t  /6697 -ssl
+tcp.direc  t   /6697 -ssl
+tcp.direc t    /6697 -ssl
+tcp.direct     /6697 -ssl
+tcp.direct    / 6697 -ssl
+tcp.direct   /  6697 -ssl
+tcp.direct  /   6697 -ssl
+tcp.direct /    6697 -ssl
+tcp.direct/     6697 -ssl
+tcp.direct/    6 697 -ssl
+tcp.direct/   6  697 -ssl
+tcp.direct/  6   697 -ssl
+tcp.direct/ 6    697 -ssl
+tcp.direct/6     697 -ssl
+tcp.direct/6    6 97 -ssl
+tcp.direct/6   6  97 -ssl
+tcp.direct/6  6   97 -ssl
+tcp.direct/6 6    97 -ssl
+tcp.direct/66     97 -ssl
+tcp.direct/66    9 7 -ssl
+tcp.direct/66   9  7 -ssl
+tcp.direct/66  9   7 -ssl
+tcp.direct/66 9    7 -ssl
+tcp.direct/669     7 -ssl
+tcp.direct/669    7  -ssl
+tcp.direct/669   7   -ssl
+tcp.direct/669  7    -ssl
+tcp.direct/669 7     -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697      -ssl
+tcp.direct/6697     - ssl
+tcp.direct/6697    -  ssl
+tcp.direct/6697   -   ssl
+tcp.direct/6697  -    ssl
+tcp.direct/6697 -     ssl
+tcp.direct/6697 -    s sl
+tcp.direct/6697 -   s  sl
+tcp.direct/6697 -  s   sl
+tcp.direct/6697 - s    sl
+tcp.direct/6697 -s     sl
+tcp.direct/6697 -s    s l
+tcp.direct/6697 -s   s  l
+tcp.direct/6697 -s  s   l
+tcp.direct/6697 -s s    l
+tcp.direct/6697 -ss     l
+tcp.direct/6697 -ss    l 
+tcp.direct/6697 -ss   l  
+tcp.direct/6697 -ss  l   
+tcp.direct/6697 -ss l    
+tcp.direct/6697 -ssl     
+tcp.direct/6697 -ssl
+ltcp.direct/6697 -ss
+sltcp.direct/6697 -s
+ssltcp.direct/6697 -
+-ssltcp.direct/6697 
+ -ssltcp.direct/6697
+7 -ssltcp.direct/669
+97 -ssltcp.direct/66
+697 -ssltcp.direct/6
+6697 -ssltcp.direct/
+t/6697 -ssltcp.direc
+ct/6697 -ssltcp.dire
+ect/6697 -ssltcp.dir
+rect/6697 -ssltcp.di
+irect/6697 -ssltcp.d
+direct/6697 -ssltcp.
+.direct/6697 -ssltcp
+p.direct/6697 -ssltc
+cp.direct/6697 -sslt
+tcp.direct/6697 -ssl
+ltcp.direct/6697 -ss
+sltcp.direct/6697 -s
+ssltcp.direct/6697 -
+-ssltcp.direct/6697 
+ -ssltcp.direct/6697
+7 -ssltcp.direct/669
+97 -ssltcp.direct/66
+697 -ssltcp.direct/6
+6697 -ssltcp.direct/
+t/6697 -ssltcp.direc
+ct/6697 -ssltcp.dire
+ect/6697 -ssltcp.dir
+rect/6697 -ssltcp.di
+irect/6697 -ssltcp.d
+direct/6697 -ssltcp.
+.direct/6697 -ssltcp
+p.direct/6697 -ssltc
+cp.direct/6697 -sslt
+tcp.direct/6697 -ssl
+ltcp.direct/6697 -ss
+sltcp.direct/6697 -s
+ssltcp.direct/6697 -
+-ssltcp.direct/6697 
+ -ssltcp.direct/6697
+7 -ssltcp.direct/669
+97 -ssltcp.direct/66
+697 -ssltcp.direct/6
+6697 -ssltcp.direct/
+t/6697 -ssltcp.direc
+ct/6697 -ssltcp.dire
+ect/6697 -ssltcp.dir
+rect/6697 -ssltcp.di
+irect/6697 -ssltcp.d
+direct/6697 -ssltcp.
+.direct/6697 -ssltcp
+p.direct/6697 -ssltc
+cp.direct/6697 -sslt
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct  /6697 -ssl
+        tcp.direct    /6697 -ssl
+       tcp.direct      /6697 -ssl
+      tcp.direct        /6697 -ssl
+     tcp.direct          /6697 -ssl
+    tcp.direct            /6697 -ssl
+   tcp.direct              /6697 -ssl
+  tcp.direct                /6697 -ssl
+ tcp.direct                  /6697 -ssl
+tcp.direct                    /6697 -ssl
+ tcp.direct                  /6697 -ssl
+  tcp.direct                /6697 -ssl
+   tcp.direct              /6697 -ssl
+    tcp.direct            /6697 -ssl
+     tcp.direct          /6697 -ssl
+      tcp.direct        /6697 -ssl
+       tcp.direct      /6697 -ssl
+        tcp.direct    /6697 -ssl
+         tcp.direct  /6697 -ssl
+          tcp.direct/6697 -ssl
+           tcp.direc/6697 -ssl
+            tcp.dire/6697 -ssl
+             tcp.dir/6697 -ssl
+              tcp.di/6697 -ssl
+               tcp.d/6697 -ssl
+                tcp./6697 -ssl
+                 tcp/6697 -ssl
+                  tc/6697 -ssl
+                   t/6697 -ssl
+                    tcp.direct
+                   tcp.directl
+                  tcp.directsl
+                 tcp.directssl
+                tcp.direct-ssl
+               tcp.direct -ssl
+              tcp.direct7 -ssl
+             tcp.direct97 -ssl
+            tcp.direct697 -ssl
+           tcp.direct6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct  /6697 -ssl
+        tcp.direct    /6697 -ssl
+       tcp.direct      /6697 -ssl
+      tcp.direct        /6697 -ssl
+     tcp.direct          /6697 -ssl
+    tcp.direct            /6697 -ssl
+   tcp.direct              /6697 -ssl
+  tcp.direct                /6697 -ssl
+ tcp.direct                  /6697 -ssl
+tcp.direct                    /6697 -ssl
+ tcp.direct                  /6697 -ssl
+  tcp.direct                /6697 -ssl
+   tcp.direct              /6697 -ssl
+    tcp.direct            /6697 -ssl
+     tcp.direct          /6697 -ssl
+      tcp.direct        /6697 -ssl
+       tcp.direct      /6697 -ssl
+        tcp.direct    /6697 -ssl
+         tcp.direct  /6697 -ssl
+          tcp.direct/6697 -ssl
+           tcp.direc/6697 -ssl
+            tcp.dire/6697 -ssl
+             tcp.dir/6697 -ssl
+              tcp.di/6697 -ssl
+               tcp.d/6697 -ssl
+                tcp./6697 -ssl
+                 tcp/6697 -ssl
+                  tc/6697 -ssl
+                   t/6697 -ssl
+                    tcp.direct
+                   tcp.directl
+                  tcp.directsl
+                 tcp.directssl
+                tcp.direct-ssl
+               tcp.direct -ssl
+              tcp.direct7 -ssl
+             tcp.direct97 -ssl
+            tcp.direct697 -ssl
+           tcp.direct6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+          tcp.direct/6697 -ssl
+         tcp.direct/6697 -ssl
+        tcp.direct/6697 -ssl
+       tcp.direct/6697 -ssl
+      tcp.direct/6697 -ssl
+     tcp.direct/6697 -ssl
+    tcp.direct/6697 -ssl
+   tcp.direct/6697 -ssl
+  tcp.direct/6697 -ssl
+ tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl
+tcp.direct/6697 -ssl

@@ -1,0 +1,994 @@
+ELF Header:
+  Magic:   7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF64
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           Advanced Micro Devices X86-64
+  Version:                           0x1
+  Entry point address:               0x1000000
+  Start of program headers:          64 (bytes into file)
+  Start of section headers:          715935288 (bytes into file)
+  Flags:                             0x0
+  Size of this header:               64 (bytes)
+  Size of program headers:           56 (bytes)
+  Number of program headers:         5
+  Size of section headers:           64 (bytes)
+  Number of section headers:         87
+  Section header string table index: 86
+Section Headers:
+  [Nr] Name              Type             Address           Offset
+       Size              EntSize          Flags  Link  Info  Align
+  [ 0]                   NULL             0000000000000000  00000000
+       0000000000000000  0000000000000000           0     0     0
+  [ 1] .text             PROGBITS         ffffffff81000000  00200000
+       0000000000e020c0  0000000000000000  AX       0     0     4096
+  [ 2] .rela.text        RELA             0000000000000000  13d26188
+       000000000086b698  0000000000000018   I      84     1     8
+  [ 3] .rodata           PROGBITS         ffffffff82000000  01200000
+       000000000043c297  0000000000000000  WA       0     0     4096
+  [ 4] .rela.rodata      RELA             0000000000000000  14591820
+       000000000013ff80  0000000000000018   I      84     3     8
+  [ 5] .pci_fixup        PROGBITS         ffffffff8243c2a0  0163c2a0
+       0000000000003290  0000000000000000   A       0     0     16
+  [ 6] .rela.pci_fixup   RELA             0000000000000000  146d17a0
+       0000000000004bd8  0000000000000018   I      84     5     8
+  [ 7] .tracedata        PROGBITS         ffffffff8243f530  0163f530
+       0000000000000078  0000000000000000   A       0     0     1
+  [ 8] .rela.tracedata   RELA             0000000000000000  146d6378
+       0000000000000120  0000000000000018   I      84     7     8
+  [ 9] __ksymtab         PROGBITS         ffffffff8243f5a8  0163f5a8
+       000000000000f0a8  0000000000000000   A       0     0     4
+  [10] .rela__ksymtab    RELA             0000000000000000  146d6498
+       0000000000059f10  0000000000000018   I      84     9     8
+  [11] __ksymtab_gpl     PROGBITS         ffffffff8244e650  0164e650
+       0000000000011160  0000000000000000   A       0     0     4
+  [12] .rela__ksymt[...] RELA             0000000000000000  147303a8
+       00000000000667f8  0000000000000018   I      84    11     8
+  [13] __kcrctab         PROGBITS         ffffffff8245f7b0  0165f7b0
+       0000000000005038  0000000000000000   A       0     0     4
+  [14] .rela__kcrctab    RELA             0000000000000000  14796ba0
+       000000000001e150  0000000000000018   I      84    13     8
+  [15] __kcrctab_gpl     PROGBITS         ffffffff824647e8  016647e8
+       0000000000005b20  0000000000000000   A       0     0     4
+  [16] .rela__kcrct[...] RELA             0000000000000000  147b4cf0
+       00000000000222c0  0000000000000018   I      84    15     8
+  [17] __ksymtab_strings PROGBITS         ffffffff8246a308  0166a308
+       0000000000033d5d  0000000000000001 AMS       0     0     1
+  [18] __init_rodata     PROGBITS         ffffffff8249e080  0169e080
+       0000000000000068  0000000000000000   A       0     0     32
+  [19] .rela__init_[...] RELA             0000000000000000  147d6fb0
+       0000000000000060  0000000000000018   I      84    18     8
+  [20] __param           PROGBITS         ffffffff8249e0e8  0169e0e8
+       0000000000002ff8  0000000000000000   A       0     0     8
+  [21] .rela__param      RELA             0000000000000000  147d7010
+       00000000000055c8  0000000000000018   I      84    20     8
+  [22] __modver          PROGBITS         ffffffff824a10e0  016a10e0
+       0000000000000360  0000000000000000  WA       0     0     8
+  [23] .rela__modver     RELA             0000000000000000  147dc5d8
+       0000000000000480  0000000000000018   I      84    22     8
+  [24] __ex_table        PROGBITS         ffffffff824a1440  016a1440
+       00000000000018a8  0000000000000000   A       0     0     4
+  [25] .rela__ex_table   RELA             0000000000000000  147dca58
+       00000000000062a0  0000000000000018   I      84    24     8
+  [26] .notes            NOTE             ffffffff824a2ce8  016a2ce8
+       0000000000000204  0000000000000000   A       0     0     4
+  [27] .rela.notes       RELA             0000000000000000  147e2cf8
+       0000000000000048  0000000000000018   I      84    26     8
+  [28] .BTF              PROGBITS         ffffffff824a2eec  016a2eec
+       00000000004400e7  0000000000000000   A       0     0     1
+  [29] .BTF_ids          PROGBITS         ffffffff828e2fd4  01ae2fd4
+       00000000000005ec  0000000000000000   A       0     0     1
+  [30] .data             PROGBITS         ffffffff82a00000  01c00000
+       000000000034ba00  0000000000000000  WA       0     0     8192
+  [31] .rela.data        RELA             0000000000000000  147e2d40
+       0000000000137c40  0000000000000018   I      84    30     8
+  [32] __bug_table       PROGBITS         ffffffff82d4ba00  01f4ba00
+       000000000001569c  0000000000000000  WA       0     0     1
+  [33] .rela__bug_table  RELA             0000000000000000  1491a980
+       0000000000055a70  0000000000000018   I      84    32     8
+  [34] .orc_unwind_ip    PROGBITS         ffffffff82d6109c  01f6109c
+       0000000000185504  0000000000000000   A       0     0     1
+  [35] .rela.orc_un[...] RELA             0000000000000000  149703f0
+       000000000091fe18  0000000000000018   I      84    34     8
+  [36] .orc_unwind       PROGBITS         ffffffff82ee65a0  020e65a0
+       0000000000247f86  0000000000000000   A       0     0     1
+  [37] .orc_lookup       NOBITS           ffffffff8312e528  0232e526
+       0000000000038088  0000000000000000  WA       0     0     1
+  [38] .vvar             PROGBITS         ffffffff83167000  02367000
+       0000000000001000  0000000000000000  WA       0     0     16
+  [39] .data..percpu     PROGBITS         0000000000000000  02400000
+       0000000000036000  0000000000000000  WA       0     0     16384
+  [40] .rela.data..[...] RELA             0000000000000000  15290208
+       0000000000000198  0000000000000018   I      84    39     8
+  [41] .init.text        PROGBITS         ffffffff8319e000  0259e000
+       0000000000070ebf  0000000000000000  AX       0     0     16
+  [42] .rela.init.text   RELA             0000000000000000  152903a0
+       00000000000c9630  0000000000000018   I      84    41     8
+  [43] .altinstr_aux     PROGBITS         ffffffff8320eebf  0260eebf
+       0000000000001f02  0000000000000000  AX       0     0     1
+  [44] .rela.altins[...] RELA             0000000000000000  153599d0
+       0000000000007c08  0000000000000018   I      84    43     8
+  [45] .init.data        PROGBITS         ffffffff83212000  02612000
+       00000000001b9ee8  0000000000000000  WA       0     0     8192
+  [46] .rela.init.data   RELA             0000000000000000  153615d8
+       00000000001227c0  0000000000000018   I      84    45     8
+  [47] .x86_cpu_dev.init PROGBITS         ffffffff833cbee8  027cbee8
+       0000000000000028  0000000000000000   A       0     0     8
+  [48] .rela.x86_cp[...] RELA             0000000000000000  15483d98
+       0000000000000078  0000000000000018   I      84    47     8
+  [49] .parainstructions PROGBITS         ffffffff833cbf10  027cbf10
+       000000000000ea1c  0000000000000000   A       0     0     8
+  [50] .rela.parain[...] RELA             0000000000000000  15483e10
+       0000000000015f30  0000000000000018   I      84    49     8
+  [51] .retpoline_sites  PROGBITS         ffffffff833da930  027da930
+       0000000000009128  0000000000000000   A       0     0     1
+  [52] .rela.retpol[...] RELA             0000000000000000  15499d40
+       00000000000366f0  0000000000000018   I      84    51     8
+  [53] .altinstructions  PROGBITS         ffffffff833e3a58  027e3a58
+       000000000000b958  0000000000000000   A       0     0     1
+  [54] .rela.altins[...] RELA             0000000000000000  154d0430
+       000000000002e560  0000000000000018   I      84    53     8
+  [55] .altinstr_re[...] PROGBITS         ffffffff833ef3b0  027ef3b0
+       0000000000002c8f  0000000000000000  AX       0     0     1
+  [56] .rela.altins[...] RELA             0000000000000000  154fe990
+       0000000000003870  0000000000000018   I      84    55     8
+  [57] .iommu_table      PROGBITS         ffffffff833f2040  027f2040
+       00000000000000f0  0000000000000000   A       0     0     8
+  [58] .rela.iommu_table RELA             0000000000000000  15502200
+       0000000000000180  0000000000000018   I      84    57     8
+  [59] .apicdrivers      PROGBITS         ffffffff833f2130  027f2130
+       0000000000000030  0000000000000000  WA       0     0     8
+  [60] .rela.apicdrivers RELA             0000000000000000  15502380
+       0000000000000090  0000000000000018   I      84    59     8
+  [61] .exit.text        PROGBITS         ffffffff833f2160  027f2160
+       0000000000000cff  0000000000000000  AX       0     0     1
+  [62] .rela.exit.text   RELA             0000000000000000  15502410
+       0000000000002ee0  0000000000000018   I      84    61     8
+  [63] .smp_locks        PROGBITS         ffffffff833f3000  027f3000
+       0000000000009000  0000000000000000   A       0     0     4
+  [64] .rela.smp_locks   RELA             0000000000000000  155052f0
+       0000000000030b88  0000000000000018   I      84    63     8
+  [65] .data_nosave      PROGBITS         ffffffff833fc000  027fc000
+       0000000000001000  0000000000000000  WA       0     0     4
+  [66] .bss              NOBITS           ffffffff833fd000  027fd000
+       0000000000603000  0000000000000000  WA       0     0     4096
+  [67] .brk              NOBITS           ffffffff83a00000  027fd000
+       0000000000030000  0000000000000000  WA       0     0     1
+  [68] .init.scratch     PROGBITS         ffffffff83c00000  03000000
+       0000000000400000  0000000000000000  WA       0     0     32
+  [69] .debug_aranges    PROGBITS         0000000000000000  03400000
+       000000000002cdf0  0000000000000000           0     0     16
+  [70] .rela.debug_[...] RELA             0000000000000000  15535e78
+       0000000000034f68  0000000000000018   I      84    69     8
+  [71] .debug_info       PROGBITS         0000000000000000  0342cdf0
+       000000000a992d39  0000000000000000           0     0     1
+  [72] .rela.debug_info  RELA             0000000000000000  1556ade0
+       00000000100d0010  0000000000000018   I      84    71     8
+  [73] .debug_abbrev     PROGBITS         0000000000000000  0ddbfb29
+       0000000000546104  0000000000000000           0     0     1
+  [74] .debug_line       PROGBITS         0000000000000000  0e305c2d
+       00000000013a547f  0000000000000000           0     0     1
+  [75] .rela.debug_line  RELA             0000000000000000  2563adf0
+       00000000000508c8  0000000000000018   I      84    74     8
+  [76] .debug_frame      PROGBITS         0000000000000000  0f6ab0b0
+       000000000029d6d0  0000000000000000           0     0     8
+  [77] .rela.debug_frame RELA             0000000000000000  2568b6b8
+       00000000002504a0  0000000000000018   I      84    76     8
+  [78] .debug_str        PROGBITS         0000000000000000  0f948780
+       000000000039b183  0000000000000001  MS       0     0     1
+  [79] .debug_loc        PROGBITS         0000000000000000  0fce3903
+       000000000316f574  0000000000000000           0     0     1
+  [80] .rela.debug_loc   RELA             0000000000000000  258dbb58
+       000000000419a780  0000000000000018   I      84    79     8
+  [81] .debug_ranges     PROGBITS         0000000000000000  12e52e80
+       000000000091bbb0  0000000000000000           0     0     16
+  [82] .rela.debug_[...] RELA             0000000000000000  29a762d8
+       000000000104e860  0000000000000018   I      84    81     8
+  [83] .comment          PROGBITS         0000000000000000  1376ea30
+       0000000000000056  0000000000000001  MS       0     0     1
+  [84] .symtab           SYMTAB           0000000000000000  1376ea88
+       0000000000311b80  0000000000000018          85   94332     8
+  [85] .strtab           STRTAB           0000000000000000  13a80608
+       00000000002a5b7f  0000000000000000           0     0     1
+  [86] .shstrtab         STRTAB           0000000000000000  2aac4b38
+       0000000000000300  0000000000000000           0     0     1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+  L (link order), O (extra OS processing required), G (group), T (TLS),
+  C (compressed), x (unknown), o (OS specific), E (exclude),
+  D (mbind), l (large), p (processor specific)
+There are no section groups in this file.
+Program Headers:
+  Type           Offset             VirtAddr           PhysAddr
+                 FileSiz            MemSiz              Flags  Align
+  LOAD           0x0000000000200000 0xffffffff81000000 0x0000000001000000
+                 0x00000000018e35c0 0x00000000018e35c0  R E    0x200000
+  LOAD           0x0000000001c00000 0xffffffff82a00000 0x0000000002a00000
+                 0x0000000000768000 0x0000000000768000  RW     0x200000
+  LOAD           0x0000000002400000 0x0000000000000000 0x0000000003168000
+                 0x0000000000036000 0x0000000000036000  RW     0x200000
+  LOAD           0x000000000259e000 0xffffffff8319e000 0x000000000319e000
+                 0x0000000000e62000 0x0000000000e62000  RWE    0x200000
+  NOTE           0x00000000016a2ce8 0xffffffff824a2ce8 0x00000000024a2ce8
+                 0x0000000000000204 0x0000000000000204         0x4
+ Section to Segment mapping:
+  Segment Sections...
+   00     .text .rodata .pci_fixup .tracedata __ksymtab __ksymtab_gpl __kcrctab __kcrctab_gpl __ksymtab_strings __init_rodata __param __modver __ex_table .notes .BTF .BTF_ids 
+   01     .data __bug_table .orc_unwind_ip .orc_unwind .orc_lookup .vvar 
+   02     .data..percpu 
+   03     .init.text .altinstr_aux .init.data .x86_cpu_dev.init .parainstructions .retpoline_sites .altinstructions .altinstr_replacement .iommu_table .apicdrivers .exit.text .smp_locks .data_nosave .bss .brk .init.scratch 
+   04     .notes 
+There is no dynamic section in this file.
+Relocation section '.rela.text' at offset 0x13d26188 contains 367857 entries:
+  Offset          Info           Type           Sym. Value    Sym. Name + Addend
+ffffffff81000003  1e83d00000002 R_X86_64_PC32     ffffffff82a04000 __end_init_task - ac
+ffffffff8100000a  173db00000002 R_X86_64_PC32     ffffffff81000000 _text - 4
+ffffffff81000010  1ab9f00000004 R_X86_64_PLT32    ffffffff810006e0 startup_64_setup_env - 4
+ffffffff81000029  173db00000002 R_X86_64_PC32     ffffffff81000000 _text - 4
+ffffffff8100002f  1738000000004 R_X86_64_PLT32    ffffffff810002f0 __startup_64 - 4
+ffffffff81000036  1f90f0000000b R_X86_64_32S      ffffffff83212000 early_top_pgt + 80000000
+ffffffff81000047  1b07500000004 R_X86_64_PLT32    ffffffff81000820 __startup_secondary_64 - 4
+ffffffff8100004e  1e4e10000000b R_X86_64_32S      ffffffff82a10000 init_top_pgt + 80000000
+ffffffff81000059  1bb0000000002 R_X86_64_PC32     ffffffff823f99f0 __pgtable_l5_enabled - 8
+ffffffff8100006f  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff81000078  1f39600000004 R_X86_64_PLT32    ffffffff81000210 sev_verify_cbit - 4
+ffffffff81000083  00010000000b R_X86_64_32S      ffffffff81000000 .text + 89
+ffffffff8100008c  1aac100000002 R_X86_64_PC32     ffffffff82a1a000 early_gdt_descr - 4
+ffffffff810000a3  1af0900000002 R_X86_64_PC32     ffffffff82cfc4e0 initial_gs - 4
+ffffffff810000a9  1af0900000002 R_X86_64_PC32     ffffffff82cfc4e0 initial_gs + 0
+ffffffff810000b2  1e7cd00000002 R_X86_64_PC32     ffffffff82cfc4f0 initial_stack - 4
+ffffffff810000b8  1a10f00000004 R_X86_64_PLT32    ffffffff81000830 early_setup_idt - 4
+ffffffff810000df  1c75e00000002 R_X86_64_PC32     ffffffff82a1a0c0 early_pmd_flags - 5
+ffffffff810000f5  00010000000b R_X86_64_32S      ffffffff81000000 .text + 107
+ffffffff810000fe  180cd00000002 R_X86_64_PC32     ffffffff82cfc4d8 initial_code - 4
+ffffffff81000213  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff8100021f  1a69f00000002 R_X86_64_PC32     ffffffff82a5fdd0 sev_status - 4
+ffffffff81000241  2034d00000002 R_X86_64_PC32     ffffffff82a5fdc8 sev_check_data - 4
+ffffffff8100024e  2034d00000002 R_X86_64_PC32     ffffffff82a5fdc8 sev_check_data - 4
+ffffffff81000273  1e7cd00000002 R_X86_64_PC32     ffffffff82cfc4f0 initial_stack - 4
+ffffffff810002be  1878300000002 R_X86_64_PC32     ffffffff82cfc4e8 initial_vc_handler - 4
+ffffffff81000310  1bb000000000b R_X86_64_32S      ffffffff823f99f0 __pgtable_l5_enabled + 0
+ffffffff81000326  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000333  17c5e0000000b R_X86_64_32S      ffffffff823f99ec pgdir_shift + 0
+ffffffff81000339  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000346  1fdbd0000000b R_X86_64_32S      ffffffff823f99e8 ptrs_per_p4d + 0
+ffffffff8100034c  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000359  1d5f70000000b R_X86_64_32S      ffffffff823f99e0 page_offset_base + 0
+ffffffff8100035f  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000369  1cc590000000b R_X86_64_32S      ffffffff823f99d8 vmalloc_base + 0
+ffffffff81000383  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100038d  1fa8f0000000b R_X86_64_32S      ffffffff823f99d0 vmemmap_base + 0
+ffffffff81000393  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100039c  1bb0000000002 R_X86_64_PC32     ffffffff823f99f0 __pgtable_l5_enabled - 5
+ffffffff810003c1  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff810003d8  2062000000004 R_X86_64_PLT32    ffffffff831c7528 sme_enable - 4
+ffffffff810003de  17c5e00000002 R_X86_64_PC32     ffffffff823f99ec pgdir_shift - 4
+ffffffff810003e8  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff810003ef  1f90f0000000b R_X86_64_32S      ffffffff83212000 early_top_pgt + 0
+ffffffff810003f6  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000414  1ffec00000001 R_X86_64_64       ffffffff82a14000 level4_kernel_pgt + 80000067
+ffffffff81000425  1ffec0000000b R_X86_64_32S      ffffffff82a14000 level4_kernel_pgt + 0
+ffffffff8100042b  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000439  1b4c80000000b R_X86_64_32S      ffffffff82a15000 level3_kernel_pgt + 0
+ffffffff81000440  001a0000000b R_X86_64_32S      ffffffff83212000 .init.data + 42004
+ffffffff81000446  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000458  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000466  192940000000b R_X86_64_32S      ffffffff82a17000 level2_fixmap_pgt + 0
+ffffffff8100046c  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000490  2088a0000000b R_X86_64_32S      ffffffff83214000 early_dynamic_pgts + 0
+ffffffff8100049e  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff810004a5  2088a0000000b R_X86_64_32S      ffffffff83214000 early_dynamic_pgts + 0
+ffffffff810004b3  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff810004d9  2088a0000000b R_X86_64_32S      ffffffff83214000 early_dynamic_pgts + 0
+ffffffff810004e3  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100050f  1fdbd00000002 R_X86_64_PC32     ffffffff823f99e8 ptrs_per_p4d - 4
+ffffffff81000520  1fdbd00000002 R_X86_64_PC32     ffffffff823f99e8 ptrs_per_p4d - 4
+ffffffff8100054d  1da240000000b R_X86_64_32S      ffffffff83a30000 _end + 0
+ffffffff8100055e  1c3cf0000000b R_X86_64_32S      ffffffff82d3bc68 __supported_pte_mask + 0
+ffffffff81000564  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100057b  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff810005c3  1b4c800000001 R_X86_64_64       ffffffff82a15000 level3_kernel_pgt + 80000067
+ffffffff810005fa  1c8e70000000b R_X86_64_32S      ffffffff82a16000 level2_kernel_pgt + 0
+ffffffff81000601  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100060e  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100066e  1a1060000000b R_X86_64_32S      ffffffff82a1a010 phys_base + 0
+ffffffff81000675  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff8100067e  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000686  1c99a00000004 R_X86_64_PLT32    ffffffff831c71bf sme_encrypt_kernel - 4
+ffffffff81000690  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 5
+ffffffff810006a6  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff810006ad  19a520000000b R_X86_64_32S      ffffffff83800000 __start_bss_decrypted + 0
+ffffffff810006b3  1b3230000000b R_X86_64_32S      ffffffff83a00000 __end_bss_decrypted + 0
+ffffffff810006e4  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a040
+ffffffff810006ed  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff810006fc  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a02e
+ffffffff81000703  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a02c
+ffffffff8100071e  1fa910000000b R_X86_64_32S      ffffffff8319e15a vc_no_ghcb + 0
+ffffffff8100072f  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000736  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a020
+ffffffff81000740  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 4000
+ffffffff81000755  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff8100075c  173db0000000b R_X86_64_32S      ffffffff81000000 _text + 0
+ffffffff81000794  001a0000000a R_X86_64_32       ffffffff83212000 .init.data + 80057480
+ffffffff810007a4  1bb710000000a R_X86_64_32       ffffffff83268440 pvh_start_info + 80000000
+ffffffff810007ac  1dc810000000a R_X86_64_32       ffffffff83397e88 pvh_start_info_sz + 80000000
+ffffffff810007b6  001a0000000a R_X86_64_32       ffffffff83212000 .init.data + 8005b4d0
+ffffffff810007d1  1e4e10000000a R_X86_64_32       ffffffff82a10000 init_top_pgt + 80000000
+ffffffff810007e1  00010000000a R_X86_64_32       ffffffff81000000 .text + 800007e7
+ffffffff810007ed  001a0000000a R_X86_64_32       ffffffff83212000 .init.data + 800574a0
+ffffffff810007f6  18c0300000004 R_X86_64_PLT32    ffffffff831aac29 xen_prepare_pvh - 4
+ffffffff810007fd  17fcb0000000b R_X86_64_32S      ffffffff83268480 pvh_bootparams + 80000000
+ffffffff81000804  1e1db0000000b R_X86_64_32S      ffffffff81000000 startup_64 + 80000000
+ffffffff81000811  1910e00000004 R_X86_64_PLT32    ffffffff8102d770 cpu_bringup_and_idle - 4
+ffffffff81000823  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff81000834  197d40000000b R_X86_64_32S      ffffffff8100027c vc_boot_ghcb + 0
+ffffffff81000852  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a01a
+ffffffff81000856  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 4000
+ffffffff8100087c  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 41d4
+ffffffff8100088d  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 41cc
+ffffffff81000894  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a01c
+ffffffff810008a1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810008aa  1820600000002 R_X86_64_PC32     ffffffff82d08f20 __tracepoint_init[...] + 3c
+ffffffff810008c5  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff810008e1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810008ea  1c6d200000002 R_X86_64_PC32     ffffffff82d08ec0 __tracepoint_init[...] + 3c
+ffffffff81000905  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81000921  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100092c  187f400000002 R_X86_64_PC32     ffffffff82d08e60 __tracepoint_init[...] + 3c
+ffffffff8100094b  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81000961  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81000973  1ae6400000004 R_X86_64_PLT32    ffffffff81140f20 ktime_get - 4
+ffffffff81000984  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318290
+ffffffff81000993  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff810009c7  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff810009d1  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff810009f0  1fa0400000004 R_X86_64_PLT32    ffffffff811ccf40 perf_trace_buf_alloc - 4
+ffffffff81000a41  1847300000004 R_X86_64_PLT32    ffffffff8123ec50 perf_trace_run_bp[...] - 4
+ffffffff81000a70  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81000aac  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff81000ab6  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81000ad9  1fa0400000004 R_X86_64_PLT32    ffffffff811ccf40 perf_trace_buf_alloc - 4
+ffffffff81000b2e  1847300000004 R_X86_64_PLT32    ffffffff8123ec50 perf_trace_run_bp[...] - 4
+ffffffff81000b5f  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81000bb7  177ff00000004 R_X86_64_PLT32    ffffffff81554310 strlen - 4
+ffffffff81000bd4  1ef4200000004 R_X86_64_PLT32    ffffffff811c9870 trace_event_buffe[...] - 4
+ffffffff81000be8  1b5e600000004 R_X86_64_PLT32    ffffffff81554190 strcpy - 4
+ffffffff81000bf0  208bb00000004 R_X86_64_PLT32    ffffffff811b67d0 trace_event_buffe[...] - 4
+ffffffff81000c1a  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 348226
+ffffffff81000c27  1e2a400000004 R_X86_64_PLT32    ffffffff811d0380 event_triggers_call - 4
+ffffffff81000c34  17f9200000004 R_X86_64_PLT32    ffffffff811c7c70 trace_event_ignor[...] - 4
+ffffffff81000c42  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81000c60  1e2cc00000004 R_X86_64_PLT32    ffffffff811bb200 trace_raw_output_prep - 4
+ffffffff81000c76  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 339cd2
+ffffffff81000c80  1723600000004 R_X86_64_PLT32    ffffffff811bbca0 trace_event_printf - 4
+ffffffff81000c8e  1bdb200000004 R_X86_64_PLT32    ffffffff811af640 trace_handle_return - 4
+ffffffff81000cb0  1e2cc00000004 R_X86_64_PLT32    ffffffff811bb200 trace_raw_output_prep - 4
+ffffffff81000cc6  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31803c
+ffffffff81000ccb  1723600000004 R_X86_64_PLT32    ffffffff811bbca0 trace_event_printf - 4
+ffffffff81000cd9  1bdb200000004 R_X86_64_PLT32    ffffffff811af640 trace_handle_return - 4
+ffffffff81000cf0  1e2cc00000004 R_X86_64_PLT32    ffffffff811bb200 trace_raw_output_prep - 4
+ffffffff81000d05  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318046
+ffffffff81000d0e  1723600000004 R_X86_64_PLT32    ffffffff811bbca0 trace_event_printf - 4
+ffffffff81000d1c  1bdb200000004 R_X86_64_PLT32    ffffffff811af640 trace_handle_return - 4
+ffffffff81000d21  1a27800000004 R_X86_64_PLT32    ffffffff811e0770 bpf_trace_run1 - 4
+ffffffff81000d31  1a27800000004 R_X86_64_PLT32    ffffffff811e0770 bpf_trace_run1 - 4
+ffffffff81000d43  18ec000000004 R_X86_64_PLT32    ffffffff811e0820 bpf_trace_run2 - 4
+ffffffff81000d51  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81000d71  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a0dc
+ffffffff81000d77  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a0e0
+ffffffff81000d86  1e9d300000004 R_X86_64_PLT32    ffffffff81160a60 sprint_symbol_no_[...] - 4
+ffffffff81000d97  1de6000000004 R_X86_64_PLT32    ffffffff814ef4c0 strreplace - 4
+ffffffff81000d9e  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a0dc
+ffffffff81000da5  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a0e0
+ffffffff81000db3  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a0e0
+ffffffff81000dc3  1a2f500000004 R_X86_64_PLT32    ffffffff81554230 strcmp - 4
+ffffffff81000dd0  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318071
+ffffffff81000dd7  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 3192a8
+ffffffff81000de1  1b9e600000004 R_X86_64_PLT32    ffffffff81537430 __dynamic_pr_debug - 4
+ffffffff81000e12  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81000e53  177ff00000004 R_X86_64_PLT32    ffffffff81554310 strlen - 4
+ffffffff81000e6b  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff81000e75  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81000ea1  1fa0400000004 R_X86_64_PLT32    ffffffff811ccf40 perf_trace_buf_alloc - 4
+ffffffff81000ee9  1b5e600000004 R_X86_64_PLT32    ffffffff81554190 strcpy - 4
+ffffffff81000f08  1847300000004 R_X86_64_PLT32    ffffffff8123ec50 perf_trace_run_bp[...] - 4
+ffffffff81000f49  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 348226
+ffffffff81000f53  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81000fa2  1ef4200000004 R_X86_64_PLT32    ffffffff811c9870 trace_event_buffe[...] - 4
+ffffffff81000fb3  208bb00000004 R_X86_64_PLT32    ffffffff811b67d0 trace_event_buffe[...] - 4
+ffffffff81000fd7  1e2a400000004 R_X86_64_PLT32    ffffffff811d0380 event_triggers_call - 4
+ffffffff81000fe6  17f9200000004 R_X86_64_PLT32    ffffffff811c7c70 trace_event_ignor[...] - 4
+ffffffff81000ff1  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81001047  1ef4200000004 R_X86_64_PLT32    ffffffff811c9870 trace_event_buffe[...] - 4
+ffffffff8100105c  208bb00000004 R_X86_64_PLT32    ffffffff811b67d0 trace_event_buffe[...] - 4
+ffffffff81001082  1e2a400000004 R_X86_64_PLT32    ffffffff811d0380 event_triggers_call - 4
+ffffffff81001091  17f9200000004 R_X86_64_PLT32    ffffffff811c7c70 trace_event_ignor[...] - 4
+ffffffff8100109c  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff810010a1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810010c3  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff810010e0  1788200000004 R_X86_64_PLT32    ffffffff81e01f60 __x86_indirect_th[...] - 4
+ffffffff810010ef  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff81001132  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff81001146  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff81001151  19a030000000b R_X86_64_32S      ffffffff82a4f060 pv_ops + f0
+ffffffff8100118b  1a28a00000002 R_X86_64_PC32     000000000001b588 cpu_number - 4
+ffffffff81001195  170cb00000002 R_X86_64_PC32     ffffffff82d3e920 __cpu_online_mask - 4
+ffffffff810011a2  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff810011a9  1c6d200000002 R_X86_64_PC32     ffffffff82d08ec0 __tracepoint_init[...] + 3c
+ffffffff810011ba  1e78e00000004 R_X86_64_PLT32    ffffffff81e002f8 __SCT__tp_func_in[...] - 4
+ffffffff810011c1  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff810011cc  1c0ed00000004 R_X86_64_PLT32    ffffffff81e00818 __SCT__preempt_sc[...] - 4
+ffffffff810011d8  1a28a00000002 R_X86_64_PC32     000000000001b588 cpu_number - 4
+ffffffff810011e2  170cb00000002 R_X86_64_PC32     ffffffff82d3e920 __cpu_online_mask - 4
+ffffffff810011ef  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff810011f6  187f400000002 R_X86_64_PC32     ffffffff82d08e60 __tracepoint_init[...] + 3c
+ffffffff8100120a  2031900000004 R_X86_64_PLT32    ffffffff81e00300 __SCT__tp_func_in[...] - 4
+ffffffff81001211  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff8100121c  1c0ed00000004 R_X86_64_PLT32    ffffffff81e00818 __SCT__preempt_sc[...] - 4
+ffffffff8100122d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31813a
+ffffffff81001235  186c300000004 R_X86_64_PLT32    ffffffff81554880 strlcat - 4
+ffffffff8100123c  19a030000000b R_X86_64_32S      ffffffff82a4f060 pv_ops + 100
+ffffffff8100124e  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3185e0
+ffffffff81001253  1816900000004 R_X86_64_PLT32    ffffffff819eee51 __warn_printk - 4
+ffffffff8100126a  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81001271  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001278  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31814f
+ffffffff81001284  1ea520000000b R_X86_64_32S      ffffffff833f3000 __init_end + 0
+ffffffff8100128b  1d9eb0000000b R_X86_64_32S      ffffffff83168000 __init_begin + 0
+ffffffff81001290  200d300000004 R_X86_64_PLT32    ffffffff812bf920 free_reserved_area - 4
+ffffffff819e7579  1cbbf00000002 R_X86_64_PC32     ffffffff83408e80 boot_params + 1ea
+ffffffff819e758a  00250000000b R_X86_64_32S      ffffffff833fd000 .bss + 6000
+ffffffff819e7596  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 0
+ffffffff819e75c2  00250000000b R_X86_64_32S      ffffffff833fd000 .bss + 6000
+ffffffff819e75c9  1cbbf0000000b R_X86_64_32S      ffffffff83408e80 boot_params + 0
+ffffffff819e75da  00250000000b R_X86_64_32S      ffffffff833fd000 .bss + 6000
+ffffffff819e75e1  1cbbf0000000b R_X86_64_32S      ffffffff83408e80 boot_params + 0
+ffffffff819e75fe  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff819e7609  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 317fe5
+ffffffff819e7612  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff819e761d  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7622  1ae6400000004 R_X86_64_PLT32    ffffffff81140f20 ktime_get - 4
+ffffffff819e762c  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff819e763b  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a21c
+ffffffff819e7642  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 317ffa
+ffffffff819e7647  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7650  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318014
+ffffffff819e7657  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 319270
+ffffffff819e765c  1b9e600000004 R_X86_64_PLT32    ffffffff81537430 __dynamic_pr_debug - 4
+ffffffff819e7663  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a220
+ffffffff819e7674  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 33e863
+ffffffff819e767b  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 319238
+ffffffff819e7680  1b9e600000004 R_X86_64_PLT32    ffffffff81537430 __dynamic_pr_debug - 4
+ffffffff819e768f  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318027
+ffffffff819e7696  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 319200
+ffffffff819e769b  1b9e600000004 R_X86_64_PLT32    ffffffff81537430 __dynamic_pr_debug - 4
+ffffffff819e76a2  1bbd30000000b R_X86_64_32S      ffffffff82a1a100 envp_init + 0
+ffffffff819e76b3  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 33e863
+ffffffff819e76ba  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 3191c8
+ffffffff819e76bf  1b9e600000004 R_X86_64_PLT32    ffffffff81537430 __dynamic_pr_debug - 4
+ffffffff819e76d0  1bbd30000000b R_X86_64_32S      ffffffff82a1a100 envp_init + 0
+ffffffff819e76d7  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a220
+ffffffff819e76dd  1b21600000004 R_X86_64_PLT32    ffffffff8132bee0 kernel_execve - 4
+ffffffff819e76e2  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff819e7705  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3182c0
+ffffffff819e770a  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e771e  1a28a00000002 R_X86_64_PC32     000000000001b588 cpu_number - 4
+ffffffff819e7728  170cb00000002 R_X86_64_PC32     ffffffff82d3e920 __cpu_online_mask - 4
+ffffffff819e7732  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff819e7739  1820600000002 R_X86_64_PC32     ffffffff82d08f20 __tracepoint_init[...] + 3c
+ffffffff819e7747  202bb00000004 R_X86_64_PLT32    ffffffff81e002f0 __SCT__tp_func_in[...] - 4
+ffffffff819e774e  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff819e7755  1c0ed00000004 R_X86_64_PLT32    ffffffff81e00818 __SCT__preempt_sc[...] - 4
+ffffffff81a3b291  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81a3b297  1a8e900000004 R_X86_64_PLT32    ffffffff8112fc00 rcu_scheduler_starting - 4
+ffffffff81a3b2a5  00010000000b R_X86_64_32S      ffffffff81000000 .text + a3b360
+ffffffff81a3b2aa  1d8b800000004 R_X86_64_PLT32    ffffffff8109a780 kernel_thread - 4
+ffffffff81a3b2b1  1778400000004 R_X86_64_PLT32    ffffffff81124f00 __rcu_read_lock - 4
+ffffffff81a3b2ba  180350000000b R_X86_64_32S      ffffffff82a6fca0 init_pid_ns + 0
+ffffffff81a3b2bf  207f800000004 R_X86_64_PLT32    ffffffff810befe0 find_task_by_pid_ns - 4
+ffffffff81a3b2ce  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff81a3b2ef  1a4d10000000b R_X86_64_32S      ffffffff82013740 cpu_bit_bitmap + 0
+ffffffff81a3b2f4  178f100000004 R_X86_64_PLT32    ffffffff810d3720 set_cpus_allowed_ptr - 4
+ffffffff81a3b2f9  1a67100000004 R_X86_64_PLT32    ffffffff81129250 __rcu_read_unlock - 4
+ffffffff81a3b2fe  1b4bc00000004 R_X86_64_PLT32    ffffffff812de510 numa_default_policy - 4
+ffffffff81a3b30c  171c70000000b R_X86_64_32S      ffffffff810c23e0 kthreadd + 0
+ffffffff81a3b311  1d8b800000004 R_X86_64_PLT32    ffffffff8109a780 kernel_thread - 4
+ffffffff81a3b318  1778400000004 R_X86_64_PLT32    ffffffff81124f00 __rcu_read_lock - 4
+ffffffff81a3b31f  180350000000b R_X86_64_32S      ffffffff82a6fca0 init_pid_ns + 0
+ffffffff81a3b326  207f800000004 R_X86_64_PLT32    ffffffff810befe0 find_task_by_pid_ns - 4
+ffffffff81a3b32d  1d1c300000002 R_X86_64_PC32     ffffffff83476418 kthreadd_task - 4
+ffffffff81a3b332  1a67100000004 R_X86_64_PLT32    ffffffff81129250 __rcu_read_unlock - 4
+ffffffff81a3b339  001a0000000b R_X86_64_32S      ffffffff83212000 .init.data + 428e0
+ffffffff81a3b33f  1c6d700000002 R_X86_64_PC32     ffffffff82d398c4 system_state - 8
+ffffffff81a3b348  1ddc800000004 R_X86_64_PLT32    ffffffff810f33e0 complete - 4
+ffffffff81a3b34d  1d3a400000004 R_X86_64_PLT32    ffffffff81a45290 schedule_preempt_[...] - 4
+ffffffff81a3b358  2007700000004 R_X86_64_PLT32    ffffffff810da9a0 cpu_startup_entry - 4
+ffffffff81a3b361  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81a3b368  001a0000000b R_X86_64_32S      ffffffff83212000 .init.data + 428e0
+ffffffff81a3b36d  1c06b00000004 R_X86_64_PLT32    ffffffff81a45fa0 wait_for_completion - 4
+ffffffff81a3b372  001800000002 R_X86_64_PC32     ffffffff8319e000 .init.text + 17ea
+ffffffff81a3b377  1dcd200000004 R_X86_64_PLT32    ffffffff810c7900 async_synchronize_full - 4
+ffffffff81a3b37c  1f88900000004 R_X86_64_PLT32    ffffffff8118f6b0 kprobe_free_init_mem - 4
+ffffffff81a3b381  1f08c00000004 R_X86_64_PLT32    ffffffff831d23bd ftrace_free_init_mem - 4
+ffffffff81a3b386  1d2ab00000004 R_X86_64_PLT32    ffffffff811906b0 kgdb_free_init_mem - 4
+ffffffff81a3b38b  1a31700000004 R_X86_64_PLT32    ffffffff831e8939 xbc_exit - 4
+ffffffff81a3b390  2090400000004 R_X86_64_PLT32    ffffffff81a3c260 free_initmem - 4
+ffffffff81a3b396  1974e00000002 R_X86_64_PC32     ffffffff823f9a00 rodata_enabled - 5
+ffffffff81a3b39e  2003300000004 R_X86_64_PLT32    ffffffff81126ee0 rcu_barrier - 4
+ffffffff81a3b3a3  1727700000004 R_X86_64_PLT32    ffffffff819ed7b4 mark_rodata_ro - 4
+ffffffff81a3b3a8  1db5b00000004 R_X86_64_PLT32    ffffffff8108cda0 pti_finalize - 4
+ffffffff81a3b3ae  1c6d700000002 R_X86_64_PC32     ffffffff82d398c4 system_state - 8
+ffffffff81a3b3b7  1b4bc00000004 R_X86_64_PLT32    ffffffff812de510 numa_default_policy - 4
+ffffffff81a3b3bc  191da00000004 R_X86_64_PLT32    ffffffff81123140 rcu_end_inkernel_boot - 4
+ffffffff81a3b3c1  1cf7c00000004 R_X86_64_PLT32    ffffffff813d43e0 do_sysctl_args - 4
+ffffffff81a3b3c8  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a32c
+ffffffff81a3b3d2  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7627
+ffffffff81a3b3e2  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318630
+ffffffff81a3b3e7  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff81a3b3f0  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 1a32c
+ffffffff81a3b3f7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318658
+ffffffff81a3b3fc  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff81a3b403  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 7024
+ffffffff81a3b40d  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7627
+ffffffff81a3b41a  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 7024
+ffffffff81a3b421  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318680
+ffffffff81a3b426  1d17000000004 R_X86_64_PLT32    ffffffff819eeeda panic - 4
+ffffffff81a3b42d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31817a
+ffffffff81a3b432  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e76dd
+ffffffff81a3b43d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318185
+ffffffff81a3b442  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e76dd
+ffffffff81a3b44d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31818f
+ffffffff81a3b452  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e76dd
+ffffffff81a3b45d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318199
+ffffffff81a3b462  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e76dd
+ffffffff81a3b471  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3186a8
+ffffffff81a3b476  1d17000000004 R_X86_64_PLT32    ffffffff819eeeda panic - 4
+ffffffff810012a1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810012bc  1a2f500000004 R_X86_64_PLT32    ffffffff81554230 strcmp - 4
+ffffffff810012d1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810012ec  1744a00000004 R_X86_64_PLT32    ffffffff81554900 strncasecmp - 4
+ffffffff81001301  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001307  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 7057
+ffffffff8100130f  18d6e00000004 R_X86_64_PLT32    ffffffff813de230 ramfs_init_fs_context - 4
+ffffffff81001314  1bfd300000004 R_X86_64_PLT32    ffffffff812758b0 shmem_init_fs_context - 4
+ffffffff81001321  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100132a  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318973
+ffffffff8100134a  1a2f500000004 R_X86_64_PLT32    ffffffff81554230 strcmp - 4
+ffffffff81001362  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31897c
+ffffffff8100136a  1a2f500000004 R_X86_64_PLT32    ffffffff81554230 strcmp - 4
+ffffffff81001382  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318986
+ffffffff8100138a  1a2f500000004 R_X86_64_PLT32    ffffffff81554230 strcmp - 4
+ffffffff810013a7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 31898f
+ffffffff810013af  1f92300000004 R_X86_64_PLT32    ffffffff81554250 strncmp - 4
+ffffffff810013c3  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3189a8
+ffffffff810013cb  1f92300000004 R_X86_64_PLT32    ffffffff81554250 strncmp - 4
+ffffffff810013df  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3189b3
+ffffffff810013e7  1f92300000004 R_X86_64_PLT32    ffffffff81554250 strncmp - 4
+ffffffff810013fb  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3189b9
+ffffffff8100140d  19d1200000004 R_X86_64_PLT32    ffffffff81556380 sscanf - 4
+ffffffff81001469  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3189c1
+ffffffff81001480  19d1200000004 R_X86_64_PLT32    ffffffff81556380 sscanf - 4
+ffffffff81001497  1b7c300000004 R_X86_64_PLT32    ffffffff81556490 simple_strtoul - 4
+ffffffff810014cc  1e92d00000004 R_X86_64_PLT32    ffffffff814acd50 blk_lookup_devt - 4
+ffffffff810014e7  177ff00000004 R_X86_64_PLT32    ffffffff81554310 strlen - 4
+ffffffff81001545  1e92d00000004 R_X86_64_PLT32    ffffffff814acd50 blk_lookup_devt - 4
+ffffffff81001593  1b7c300000004 R_X86_64_PLT32    ffffffff81556490 simple_strtoul - 4
+ffffffff810015a4  1e92d00000004 R_X86_64_PLT32    ffffffff814acd50 blk_lookup_devt - 4
+ffffffff810015e3  1e92d00000004 R_X86_64_PLT32    ffffffff814acd50 blk_lookup_devt - 4
+ffffffff81001606  1f55100000004 R_X86_64_PLT32    ffffffff81554280 strchr - 4
+ffffffff8100161d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318999
+ffffffff81001631  19d1200000004 R_X86_64_PLT32    ffffffff81556380 sscanf - 4
+ffffffff8100163a  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7794
+ffffffff8100164d  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7794
+ffffffff81001656  00010000000b R_X86_64_32S      ffffffff81000000 .text + 12d0
+ffffffff8100165d  1ea4f0000000b R_X86_64_32S      ffffffff82c4e4c0 block_class + 0
+ffffffff81001667  1a9e600000004 R_X86_64_PLT32    ffffffff816eba00 class_find_device - 4
+ffffffff81001691  1899600000004 R_X86_64_PLT32    ffffffff816e2780 put_device - 4
+ffffffff810016a3  1ea4f0000000b R_X86_64_32S      ffffffff82c4e4c0 block_class + 0
+ffffffff810016aa  00010000000b R_X86_64_32S      ffffffff81000000 .text + 12a0
+ffffffff810016b3  1a9e600000004 R_X86_64_PLT32    ffffffff816eba00 class_find_device - 4
+ffffffff810016d0  1899600000004 R_X86_64_PLT32    ffffffff816e2780 put_device - 4
+ffffffff81001714  177ff00000004 R_X86_64_PLT32    ffffffff81554310 strlen - 4
+ffffffff81001736  1edfb00000004 R_X86_64_PLT32    ffffffff814acd10 part_devt - 4
+ffffffff81001776  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff819e7788  1fa9d00000004 R_X86_64_PLT32    ffffffff812675c0 put_devmap_manage[...] - 4
+ffffffff819e7793  18c4000000004 R_X86_64_PLT32    ffffffff81267500 __put_page - 4
+ffffffff819e779b  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318788
+ffffffff819e77a0  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e77a6  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 705b
+ffffffff819e77b0  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3187d8
+ffffffff819e77b5  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e77bb  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 7058
+ffffffff819e77c6  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 143e
+ffffffff81001781  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001788  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 707c
+ffffffff81001793  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 308bc3
+ffffffff8100179a  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e782f
+ffffffff810017a6  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1a910
+ffffffff810017ab  1fdf900000004 R_X86_64_PLT32    ffffffff810c77c0 async_synchronize[...] - 4
+ffffffff819e77cb  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff819e780a  1dcf800000004 R_X86_64_PLT32    ffffffff81a0a4ad show_mem - 4
+ffffffff819e782f  1d17000000004 R_X86_64_PLT32    ffffffff819eeeda panic - 4
+ffffffff819e7836  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318b48
+ffffffff819e783c  001100000002 R_X86_64_PC32     ffffffff82a00000 .data + 308bc3
+ffffffff819e7842  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff810017b1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810017c1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810017d1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810017e2  178280000000b R_X86_64_32S      000000000001b5c8 cpu_loops_per_jiffy + 0
+ffffffff81001801  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff8100180f  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81001820  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709b
+ffffffff81001836  1f5f800000002 R_X86_64_PC32     ffffffff82a1a0f0 loops_per_jiffy - 4
+ffffffff8100183c  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709b
+ffffffff81001871  1df4000000002 R_X86_64_PC32     ffffffff83404090 preset_lpj - 4
+ffffffff81001878  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff81001891  1ef9200000002 R_X86_64_PC32     ffffffff83404098 lpj_fine - 4
+ffffffff8100189f  1a24e00000004 R_X86_64_PLT32    ffffffff8103daf0 calibrate_delay_i[...] - 4
+ffffffff810018b3  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff810018ba  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff810018d5  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff81001916  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff8100191d  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001924  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001941  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff81001948  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff8100195b  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff81001962  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001985  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff8100198c  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff8100199b  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff81001ac0  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff81001ade  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81001ae9  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709b
+ffffffff81001af7  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001afe  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001b0a  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001b48  1b19e00000004 R_X86_64_PLT32    ffffffff8155ea90 __delay - 4
+ffffffff81001b4f  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001b89  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001b94  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001ba3  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001ba8  1b19e00000004 R_X86_64_PLT32    ffffffff8155ea90 __delay - 4
+ffffffff81001baf  1d08400000002 R_X86_64_PC32     ffffffff82a07980 jiffies - 4
+ffffffff81001bed  2091f00000004 R_X86_64_PLT32    ffffffff8155ec40 read_current_timer - 4
+ffffffff81001c2f  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81001c36  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff81001c52  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff8100182b  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e78fb
+ffffffff8100186a  198a800000004 R_X86_64_PLT32    ffffffff810017c0 calibration_delay_done - 4
+ffffffff81001886  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e791f
+ffffffff8100189a  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7896
+ffffffff810018cb  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e78ba
+ffffffff81001a75  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7992
+ffffffff81001aaf  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7943
+ffffffff81001acf  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e79c0
+ffffffff81001af0  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7842
+ffffffff81001c57  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7856
+ffffffff81001c5c  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7853
+ffffffff819e7849  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318fb0
+ffffffff819e784e  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7860  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318dc0
+ffffffff819e786f  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e789d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318d70
+ffffffff819e78a2  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e78ae  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff819e78b5  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff819e78d5  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318f90
+ffffffff819e78f6  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7902  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318cf8
+ffffffff819e7907  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7913  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff819e791a  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff819e7926  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318d38
+ffffffff819e792b  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7937  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff819e793e  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff819e795d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318ec8
+ffffffff819e7962  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e7999  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318e28
+ffffffff819e799e  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e79ad  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318f10
+ffffffff819e79b5  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e79c7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 318f58
+ffffffff819e79cf  1791500000004 R_X86_64_PLT32    ffffffff819f4b5b _printk - 4
+ffffffff819e79db  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff819e79e2  002500000002 R_X86_64_PC32     ffffffff833fd000 .bss + 709c
+ffffffff819e7853  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 1af0
+ffffffff819e7889  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 1c06
+ffffffff819e7896  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 19bb
+ffffffff819e78ba  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 18ba
+ffffffff819e78fb  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 182f
+ffffffff819e791f  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 18ba
+ffffffff819e7943  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 18ba
+ffffffff819e7992  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 1a7e
+ffffffff819e79a3  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 1ae3
+ffffffff819e79e7  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 18ba
+ffffffff81001c84  1c6950000000b R_X86_64_32S      0000000000000000 fixed_percpu_data + 28
+ffffffff81001cbd  201d700000004 R_X86_64_PLT32    ffffffff81031e30 __switch_to - 4
+ffffffff81001cd4  174a200000004 R_X86_64_PLT32    ffffffff810d5bf0 schedule_tail - 4
+ffffffff81001ce1  17f7b00000004 R_X86_64_PLT32    ffffffff81a3ad10 syscall_exit_to_u[...] - 4
+ffffffff81001ce6  1aace00000004 R_X86_64_PLT32    ffffffff81c00ff0 swapgs_restore_re[...] - 4
+ffffffff81001d07  1e82e0000000b R_X86_64_32S      0000000000021b90 cpu_current_top_o[...] + 0
+ffffffff81001d13  1f61500000004 R_X86_64_PLT32    ffffffff810a0380 do_exit - 4
+ffffffff81001d29  1d8a300000004 R_X86_64_PLT32    ffffffff81a44f80 preempt_schedule - 4
+ffffffff81001d41  1c73b00000004 R_X86_64_PLT32    ffffffff81a44fc0 preempt_schedule_[...] - 4
+ffffffff81001d78  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81001d7d  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81001d84  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81001d8c  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81001d91  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81001d99  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81001da0  1d54d00000002 R_X86_64_PC32     0000000000032740 irq_stat + 40
+ffffffff81001da5  18d6000000004 R_X86_64_PLT32    ffffffff816504b0 xen_hvm_evtchn_do[...] - 4
+ffffffff81001dac  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81001db1  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81001db8  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81001dbd  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81001dc6  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81a3600f  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81a36020  1ca3000000002 R_X86_64_PC32     000000000001b5c0 kstack_offset - 4
+ffffffff81a36042  1a1bc00000004 R_X86_64_PLT32    ffffffff81a3acc0 syscall_enter_fro[...] - 4
+ffffffff81a3604f  1ccab00000004 R_X86_64_PLT32    ffffffff8155ed80 __get_user_nocheck_4 - 4
+ffffffff81a36063  1904900000004 R_X86_64_PLT32    ffffffff81137b50 syscall_enter_fro[...] - 4
+ffffffff81a36083  1fa6f0000000b R_X86_64_32S      ffffffff82001400 ia32_sys_call_table + 0
+ffffffff81a36088  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81a36095  17f7b00000004 R_X86_64_PLT32    ffffffff81a3ad10 syscall_exit_to_u[...] - 4
+ffffffff81a360b3  19a030000000b R_X86_64_32S      ffffffff82a4f060 pv_ops + f8
+ffffffff81a360bb  1f9fb00000004 R_X86_64_PLT32    ffffffff81a3adc0 irqentry_exit_to_[...] - 4
+ffffffff81a360ee  1ca3000000002 R_X86_64_PC32     000000000001b5c0 kstack_offset - 4
+ffffffff81a36113  1b6ce00000004 R_X86_64_PLT32    ffffffff81a3ac60 syscall_enter_fro[...] - 4
+ffffffff81a36133  1e50b0000000b R_X86_64_32S      ffffffff82000380 sys_call_table + 0
+ffffffff81a36138  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81a36145  17f7b00000004 R_X86_64_PLT32    ffffffff81a3ad10 syscall_exit_to_u[...] - 4
+ffffffff81a3616e  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81a3617f  1ca3000000002 R_X86_64_PC32     000000000001b5c0 kstack_offset - 4
+ffffffff81a361a4  1b6ce00000004 R_X86_64_PLT32    ffffffff81a3ac60 syscall_enter_fro[...] - 4
+ffffffff81a361c4  1fa6f0000000b R_X86_64_32S      ffffffff82001400 ia32_sys_call_table + 0
+ffffffff81a361c9  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81a361d6  17f7b00000004 R_X86_64_PLT32    ffffffff81a3ad10 syscall_exit_to_u[...] - 4
+ffffffff81a361f4  17e5100000002 R_X86_64_PC32     ffffffff820012a0 vdso_image_32 + 7c
+ffffffff81a36201  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81a36288  1dcae00000004 R_X86_64_PLT32    ffffffff81a3ad80 irqentry_enter - 4
+ffffffff81a3629b  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81a362a0  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a362a7  19daf00000002 R_X86_64_PC32     0000000000021b84 hardirq_stack_inuse - 4
+ffffffff81a362b0  20b1200000004 R_X86_64_PLT32    ffffffff810a20f0 irq_enter_rcu - 4
+ffffffff81a362b7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81a362bc  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a362c3  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81a362cb  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81a362d0  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a362d8  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81a362df  1d54d00000002 R_X86_64_PC32     0000000000032740 irq_stat + 40
+ffffffff81a362e4  18d6000000004 R_X86_64_PLT32    ffffffff816504b0 xen_hvm_evtchn_do[...] - 4
+ffffffff81a362eb  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81a362f0  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a362f7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81a362fc  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a36304  173ee00000002 R_X86_64_PC32     0000000000030488 __irq_regs - 4
+ffffffff81a36309  206c800000004 R_X86_64_PLT32    ffffffff810a2140 irq_exit_rcu - 4
+ffffffff81a3631f  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81a36324  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a3632b  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df134
+ffffffff81a36332  19daf00000002 R_X86_64_PC32     0000000000021b84 hardirq_stack_inuse - 5
+ffffffff81a36338  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a36340  1da5e00000002 R_X86_64_PC32     0000000000021b88 hardirq_stack_ptr - 4
+ffffffff81a3634b  20b1200000004 R_X86_64_PLT32    ffffffff810a20f0 irq_enter_rcu - 4
+ffffffff81a36353  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 1d6c
+ffffffff81a36358  206c800000004 R_X86_64_PLT32    ffffffff810a2140 irq_exit_rcu - 4
+ffffffff81a36360  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3df13e
+ffffffff81a36365  1883800000004 R_X86_64_PLT32    ffffffff81a3b140 __this_cpu_preemp[...] - 4
+ffffffff81a36372  19daf00000002 R_X86_64_PC32     0000000000021b84 hardirq_stack_inuse - 5
+ffffffff81a36318  1ce6100000004 R_X86_64_PLT32    ffffffff81a3ade0 irqentry_exit - 4
+ffffffff81a3637c  1ce6100000004 R_X86_64_PLT32    ffffffff81a3ade0 irqentry_exit - 4
+ffffffff81001dd1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001dda  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81001dec  17e510000000b R_X86_64_32S      ffffffff820012a0 vdso_image_32 + 0
+ffffffff81001e00  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81001e23  17e5100000002 R_X86_64_PC32     ffffffff820012a0 vdso_image_32 + 7c
+ffffffff81001e41  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001e80  1d5f700000002 R_X86_64_PC32     ffffffff823f99e0 page_offset_base - 4
+ffffffff81001e92  1fa8f00000002 R_X86_64_PC32     ffffffff823f99d0 vmemmap_base - 4
+ffffffff81001ec1  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff81001ed1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81001edc  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81001f02  18bc300000004 R_X86_64_PLT32    ffffffff81a47880 down_write_killable - 4
+ffffffff81001f2a  1919500000004 R_X86_64_PLT32    ffffffff812a2840 get_unmapped_area - 4
+ffffffff81001f53  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 11a0
+ffffffff81001f5b  1c7c300000004 R_X86_64_PLT32    ffffffff812a7090 _install_special_[...] - 4
+ffffffff81001f7d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 11c0
+ffffffff81001f85  1c7c300000004 R_X86_64_PLT32    ffffffff812a7090 _install_special_[...] - 4
+ffffffff81001f9a  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81001fc0  1cd7100000004 R_X86_64_PLT32    ffffffff81100940 up_write - 4
+ffffffff81001fdb  1d4ac00000004 R_X86_64_PLT32    ffffffff812955b0 __mmap_lock_do_tr[...] - 4
+ffffffff81001ff4  1c72700000004 R_X86_64_PLT32    ffffffff812953d0 __mmap_lock_do_tr[...] - 4
+ffffffff81002006  1e94000000004 R_X86_64_PLT32    ffffffff812954d0 __mmap_lock_do_tr[...] - 4
+ffffffff81002026  1b0bd00000004 R_X86_64_PLT32    ffffffff812a4fb0 do_munmap - 4
+ffffffff81002041  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100209c  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff810020b6  185c700000001 R_X86_64_64       ffffffff83167000 __vvar_page + 80000000
+ffffffff810020c1  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff810020e5  17a3900000004 R_X86_64_PLT32    ffffffff8107b990 pvclock_get_pvti_[...] - 4
+ffffffff810020f0  1ec7d00000002 R_X86_64_PC32     ffffffff82d398d0 vclocks_used - 4
+ffffffff810020fc  1f1fd00000002 R_X86_64_PC32     ffffffff82a5fdd8 sme_me_mask - 4
+ffffffff8100211f  1d5f700000002 R_X86_64_PC32     ffffffff823f99e0 page_offset_base - 4
+ffffffff8100213f  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81002165  185c700000001 R_X86_64_64       ffffffff83167000 __vvar_page + 80000000
+ffffffff81002170  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff8100218b  19c0700000004 R_X86_64_PLT32    ffffffff8129acb0 vmf_insert_pfn - 4
+ffffffff8100219d  1fa8f00000002 R_X86_64_PC32     ffffffff823f99d0 vmemmap_base - 4
+ffffffff810021bc  1e84800000004 R_X86_64_PLT32    ffffffff817d5510 hv_get_tsc_page - 4
+ffffffff810021cb  1ec7d00000002 R_X86_64_PC32     ffffffff82d398d0 vclocks_used - 4
+ffffffff810021ec  1d5f700000002 R_X86_64_PC32     ffffffff823f99e0 page_offset_base - 4
+ffffffff810021fb  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319005
+ffffffff81002200  1816900000004 R_X86_64_PLT32    ffffffff819eee51 __warn_printk - 4
+ffffffff81002208  185c700000001 R_X86_64_64       ffffffff83167000 __vvar_page + 80000000
+ffffffff81002217  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff81002224  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319005
+ffffffff81002229  1816900000004 R_X86_64_PLT32    ffffffff819eee51 __warn_printk - 4
+ffffffff81002237  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff81002243  1a10600000002 R_X86_64_PC32     ffffffff82a1a010 phys_base - 4
+ffffffff81002251  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002261  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100227e  1ddb200000004 R_X86_64_PLT32    ffffffff81a47910 down_read - 4
+ffffffff8100229b  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 11c0
+ffffffff810022aa  2055500000004 R_X86_64_PLT32    ffffffff812a7060 vma_is_special_mapping - 4
+ffffffff810022bf  1dc4900000004 R_X86_64_PLT32    ffffffff81298d60 zap_page_range - 4
+ffffffff810022d2  1d26d00000004 R_X86_64_PLT32    ffffffff81100970 up_read - 4
+ffffffff810022ec  1c72700000004 R_X86_64_PLT32    ffffffff812953d0 __mmap_lock_do_tr[...] - 4
+ffffffff810022f8  1d4ac00000004 R_X86_64_PLT32    ffffffff812955b0 __mmap_lock_do_tr[...] - 4
+ffffffff81002307  1e94000000004 R_X86_64_PLT32    ffffffff812954d0 __mmap_lock_do_tr[...] - 4
+ffffffff81002311  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100231c  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff8100233d  1b00e00000004 R_X86_64_PLT32    ffffffff81a478d0 down_write - 4
+ffffffff81002351  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 11c0
+ffffffff81002359  2055500000004 R_X86_64_PLT32    ffffffff812a7060 vma_is_special_mapping - 4
+ffffffff8100236d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 11a0
+ffffffff81002375  2055500000004 R_X86_64_PLT32    ffffffff812a7060 vma_is_special_mapping - 4
+ffffffff81002383  1cd7100000004 R_X86_64_PLT32    ffffffff81100940 up_write - 4
+ffffffff810023a3  1c72700000004 R_X86_64_PLT32    ffffffff812953d0 __mmap_lock_do_tr[...] - 4
+ffffffff810023b2  1d4ac00000004 R_X86_64_PLT32    ffffffff812955b0 __mmap_lock_do_tr[...] - 4
+ffffffff810023c4  1e94000000004 R_X86_64_PLT32    ffffffff812954d0 __mmap_lock_do_tr[...] - 4
+ffffffff810023d0  1cd7100000004 R_X86_64_PLT32    ffffffff81100940 up_write - 4
+ffffffff810023f0  1e94000000004 R_X86_64_PLT32    ffffffff812954d0 __mmap_lock_do_tr[...] - 4
+ffffffff81002401  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002407  1e46000000002 R_X86_64_PC32     ffffffff82d398cc vdso64_enabled - 4
+ffffffff81002416  1d00f00000002 R_X86_64_PC32     ffffffff82001200 vdso_image_64 + 4
+ffffffff8100241d  1d00f00000002 R_X86_64_PC32     ffffffff82001200 vdso_image_64 + 34
+ffffffff81002426  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff8100247c  1cb1e00000004 R_X86_64_PLT32    ffffffff81039520 align_vdso_addr - 4
+ffffffff81002484  1d00f0000000b R_X86_64_32S      ffffffff82001200 vdso_image_64 + 0
+ffffffff81002492  1bea300000004 R_X86_64_PLT32    ffffffff816a6310 get_random_u32 - 4
+ffffffff810024b1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810024b7  1eb8300000002 R_X86_64_PC32     ffffffff82d398d4 vdso32_enabled - 5
+ffffffff810024c6  17e510000000b R_X86_64_32S      ffffffff820012a0 vdso_image_32 + 0
+ffffffff810024d1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810024da  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff810024ef  17e510000000b R_X86_64_32S      ffffffff820012a0 vdso_image_32 + 0
+ffffffff81002507  17e5100000002 R_X86_64_PC32     ffffffff820012a0 vdso_image_32 + 84
+ffffffff8100251d  17e5100000002 R_X86_64_PC32     ffffffff820012a0 vdso_image_32 + 8c
+ffffffff810020e0  19c0700000004 R_X86_64_PLT32    ffffffff8129acb0 vmf_insert_pfn - 4
+ffffffff81002136  17a7100000004 R_X86_64_PLT32    ffffffff8129abd0 vmf_insert_pfn_prot - 4
+ffffffff810021b7  19c0700000004 R_X86_64_PLT32    ffffffff8129acb0 vmf_insert_pfn - 4
+ffffffff81002531  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff8100254b  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff810025f1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff810025fa  18f5b00000002 R_X86_64_PC32     ffffffff82d08f80 __tracepoint_emul[...] + 3c
+ffffffff81002613  1d8e400000004 R_X86_64_PLT32    ffffffff81e01ec0 __x86_indirect_th[...] - 4
+ffffffff81002631  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002638  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190a4
+ffffffff81002667  1b5e200000004 R_X86_64_PLT32    ffffffff81a3b120 debug_smp_processor_id - 4
+ffffffff81002671  1b7d90000000b R_X86_64_32S      ffffffff823ffae0 __per_cpu_offset + 0
+ffffffff81002690  1fa0400000004 R_X86_64_PLT32    ffffffff811ccf40 perf_trace_buf_alloc - 4
+ffffffff810026e1  1847300000004 R_X86_64_PLT32    ffffffff8123ec50 perf_trace_run_bp[...] - 4
+ffffffff81002710  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff81002762  1ef4200000004 R_X86_64_PLT32    ffffffff811c9870 trace_event_buffe[...] - 4
+ffffffff81002773  208bb00000004 R_X86_64_PLT32    ffffffff811b67d0 trace_event_buffe[...] - 4
+ffffffff81002797  1e2a400000004 R_X86_64_PLT32    ffffffff811d0380 event_triggers_call - 4
+ffffffff810027a6  17f9200000004 R_X86_64_PLT32    ffffffff811c7c70 trace_event_ignor[...] - 4
+ffffffff810027b1  1a2e300000004 R_X86_64_PLT32    ffffffff81a3a680 __stack_chk_fail - 4
+ffffffff810027d0  1e2cc00000004 R_X86_64_PLT32    ffffffff811bb200 trace_raw_output_prep - 4
+ffffffff810027e5  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190af
+ffffffff810027ea  1723600000004 R_X86_64_PLT32    ffffffff811bbca0 trace_event_printf - 4
+ffffffff81002811  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002817  17e6700000002 R_X86_64_PC32     ffffffff82a4fb40 show_unhandled_signals - 4
+ffffffff81002828  00110000000b R_X86_64_32S      ffffffff82a00000 .data + 1ed80
+ffffffff81002837  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 1340
+ffffffff8100283c  20af000000004 R_X86_64_PLT32    ffffffff815505c0 ___ratelimit - 4
+ffffffff81002851  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002891  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe0c3
+ffffffff810028d9  182de00000004 R_X86_64_PLT32    ffffffff8155ed30 __get_user_8 - 4
+ffffffff810028ed  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81002946  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81002974  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff810029bb  1b3a300000004 R_X86_64_PLT32    ffffffff810b3660 __x64_sys_getcpu - 4
+ffffffff810029c8  1cf860000000b R_X86_64_32S      0000000000021bc0 current_task + 0
+ffffffff81002a19  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe0c4
+ffffffff81002a26  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319108
+ffffffff81002a2d  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190c6
+ffffffff81002a44  1a28a00000002 R_X86_64_PC32     000000000001b588 cpu_number - 4
+ffffffff81002a4e  170cb00000002 R_X86_64_PC32     ffffffff82d3e920 __cpu_online_mask - 4
+ffffffff81002a5b  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff81002a62  18f5b00000002 R_X86_64_PC32     ffffffff82d08f80 __tracepoint_emul[...] + 3c
+ffffffff81002a73  178bb00000004 R_X86_64_PLT32    ffffffff81e00308 __SCT__tp_func_em[...] - 4
+ffffffff81002a7a  1a95100000002 R_X86_64_PC32     0000000000021b80 __preempt_count - 4
+ffffffff81002a85  1c0ed00000004 R_X86_64_PLT32    ffffffff81e00818 __SCT__preempt_sc[...] - 4
+ffffffff81002aea  1e50e00000004 R_X86_64_PLT32    ffffffff810afc30 force_sig_fault - 4
+ffffffff81002af1  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319298
+ffffffff81002afb  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190c6
+ffffffff81002b5b  1e82f00000004 R_X86_64_PLT32    ffffffff8113a0d0 __x64_sys_time - 4
+ffffffff81002b67  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3191b8
+ffffffff81002b71  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190c9
+ffffffff81002b80  170a100000004 R_X86_64_PLT32    ffffffff810afbc0 force_sig - 4
+ffffffff81002b89  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319190
+ffffffff81002b93  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190c6
+ffffffff81002bad  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319238
+ffffffff81002bb7  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190c9
+ffffffff81002bc6  1dbe200000004 R_X86_64_PLT32    ffffffff8113a430 __x64_sys_gettimeofday - 4
+ffffffff81002bd6  19e7e00000004 R_X86_64_PLT32    ffffffff8119d610 __secure_computing - 4
+ffffffff81002c0c  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3190cc
+ffffffff81002c13  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 319268
+ffffffff81002c25  1f61500000004 R_X86_64_PLT32    ffffffff810a0380 do_exit - 4
+ffffffff81002c31  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002c45  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe0c3
+ffffffff81002c52  00020000000b R_X86_64_32S      ffffffff82000000 .rodata + 3fe000
+ffffffff81002c61  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002c77  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe0c3
+ffffffff81002c81  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fdffc
+ffffffff81002c8c  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe004
+ffffffff81002ca1  1e7d400000004 R_X86_64_PLT32    ffffffff81072bf0 __fentry__ - 4
+ffffffff81002ca9  000200000002 R_X86_64_PC32     ffffffff82000000 .rodata + 3fe0c3
+ffffffff810027f8  1bdb200000004 R_X86_64_PLT32    ffffffff811af640 trace_handle_return - 4
+ffffffff81002803  1a27800000004 R_X86_64_PLT32    ffffffff811e0770 bpf_trace_run1 - 4
+ffffffff81002844  000100000002 R_X86_64_PC32     ffffffff81000000 .text + 9e7a32
+ffffffff81c00008  1821c0000000b R_X86_64_32S      0000000000008000 cpu_tss_rw + 14
+ffffffff81c00025  1e82e0000000b R_X86_64_32S      0000000000021b90 cpu_current_top_o[...] + 0
+ffffffff81c0002f  1821c0000000b R_X86_64_32S      0000000000008000 cpu_tss_rw + 14
+ffffffff81c00078  19e7400000004 R_X86_64_PLT32    ffffffff81a360e0 do_syscall_64 - 4
+ffffffff81c00103  1821c0000000b R_X86_64_32S      0000000000008000 cpu_tss_rw + 4
+ffffffff81c00124  17b7e0000000b R_X86_64_32S      0000000000032800 cpu_tlbstate + 16
+ffffffff81c00130  17b7e0000000b R_X86_64_32S      0000000000032800 cpu_tlbstate + 16
+ffffffff81c0086e  183d400000004 R_X86_64_PLT32    ffffffff81a368d0 exc_divide_error - 4
+ffffffff81c0088e  1ab7d00000004 R_X86_64_PLT32    ffffffff81a36920 exc_overflow - 4
+ffffffff81c008ae  1807500000004 R_X86_64_PLT32    ffffffff81a36d30 exc_bounds - 4
+ffffffff81c008ce  1df1000000004 R_X86_64_PLT32    ffffffff81a37740 exc_device_not_av[...] - 4
+ffffffff81c008ee  1e12100000004 R_X86_64_PLT32    ffffffff81a369d0 exc_coproc_segmen[...] - 4
+ffffffff81c0090e  1c7aa00000004 R_X86_64_PLT32    ffffffff81a37720 exc_spurious_inte[...] - 4
+ffffffff81c0092e  170c600000004 R_X86_64_PLT32    ffffffff81a376c0 exc_coprocessor_error - 4
+ffffffff81c0094e  1d1c000000004 R_X86_64_PLT32    ffffffff81a376f0 exc_simd_coproces[...] - 4
+ffffffff81c0097a  1d09600000004 R_X86_64_PLT32    ffffffff81a36a10 exc_invalid_tss - 4
+ffffffff81c009aa  17bed00000004 R_X86_64_PLT32    ffffffff81a36a60 exc_segment_not_p[...] - 4
+ffffffff81c009da  1cdf000000004 R_X86_64_PLT32    ffffffff81a36ab0 exc_stack_segment - 4
+ffffffff81c00a0a  174b300000004 R_X86_64_PLT32    ffffffff81a36de0 exc_general_protection - 4
+ffffffff81c00a3a  1d0f200000004 R_X86_64_PLT32    ffffffff81a36b00 exc_alignment_check - 4
+ffffffff81c00a5e  1e1ea00000004 R_X86_64_PLT32    ffffffff81a36960 exc_invalid_op - 4
+ffffffff81c00a9d  1f3e400000004 R_X86_64_PLT32    ffffffff81a37220 exc_int3 - 4
+ffffffff81c00aca  1799500000004 R_X86_64_PLT32    ffffffff81a3a510 exc_page_fault - 4
+ffffffff81c00af5  175ba00000004 R_X86_64_PLT32    ffffffff81a39130 exc_machine_check - 4
+ffffffff81c00b07  1fd6c00000004 R_X86_64_PLT32    ffffffff81a391e0 noist_exc_machine[...] - 4
+ffffffff81c00b1e  1836d00000004 R_X86_64_PLT32    ffffffff81a364c0 xenpv_exc_machine[...] - 4
+ffffffff81c00b3e  1dc8600000004 R_X86_64_PLT32    ffffffff81a380c0 exc_nmi_noist - 4
+ffffffff81c00b5e  1bbae00000004 R_X86_64_PLT32    ffffffff81a36470 xenpv_exc_nmi - 4
+ffffffff81c00b85  1c80700000004 R_X86_64_PLT32    ffffffff81a373d0 exc_debug - 4
+ffffffff81c00b97  1962500000004 R_X86_64_PLT32    ffffffff81a37580 noist_exc_debug - 4
+ffffffff81c00bae  1fcef00000004 R_X86_64_PLT32    ffffffff81a36490 xenpv_exc_debug - 4
+ffffffff81c00bda  1b43800000004 R_X86_64_PLT32    ffffffff81a36bb0 exc_double_fault - 4
+ffffffff81c00c0a  1c7e800000004 R_X86_64_PLT32    ffffffff81a36480 xenpv_exc_double_fault - 4
+ffffffff81c00c33  1b76300000004 R_X86_64_PLT32    ffffffff81a367f0 vc_switch_off_ist - 4
+ffffffff81c00c4c  1c57600000004 R_X86_64_PLT32    ffffffff81a3a2e0 kernel_exc_vmm_co[...] - 4
+ffffffff81c00c6c  198ac00000004 R_X86_64_PLT32    ffffffff81a3a3d0 user_exc_vmm_comm[...] - 4
+ffffffff81c00cae  1d41b00000004 R_X86_64_PLT32    ffffffff81a364a3 exc_xen_unknown_trap - 4
+ffffffff81c00cda  19e0400000004 R_X86_64_PLT32    ffffffff81a37840 common_interrupt - 4
+ffffffff81c00d1a  1bc4400000004 R_X86_64_PLT32    ffffffff81a39af0 spurious_interrupt - 4
+ffffffff81c00d3e  1f42600000004 R_X86_64_PLT32    ffffffff81a39c90 sysvec_error_interrupt - 4
+ffffffff81c00d5e  1e88000000004 R_X86_64_PLT32    ffffffff81a39bc0 sysvec_spurious_a[...] - 4
+ffffffff81c00d7e  1cfba00000004 R_X86_64_PLT32    ffffffff81a39a20 sysvec_apic_timer[...] - 4
+ffffffff81c00d9e  1b98100000004 R_X86_64_PLT32    ffffffff81a37910 sysvec_x86_platfo[...] - 4
+ffffffff81c00dbe  1ac1800000004 R_X86_64_PLT32    ffffffff81a39760 sysvec_reschedule_ipi - 4
+ffffffff81c00dde  1c1f000000004 R_X86_64_PLT32    ffffffff81a39d60 sysvec_irq_move_c[...] - 4
+ffffffff81c00dfe  191e300000004 R_X86_64_PLT32    ffffffff81a39690 sysvec_reboot - 4
+ffffffff81c00e1e  1a54200000004 R_X86_64_PLT32    ffffffff81a39950 sysvec_call_funct[...] - 4

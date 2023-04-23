@@ -1,0 +1,31 @@
+01,00                                                                   ▄▄▄▄▄▄▄▄▄▄▄ 00,00   
+01,00                                                                   01,01 00,00 01,00  00,00      01,01 00,00    
+01,00      COVID-19 Vaccination Record Card                             01,01 00,00 01,00  CDC   01,01 01,00 00,00   
+01,00▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃ 01,01 01,00▄▄▄▄▄▄▄▄▄01,01 00,00    
+01,00 Please Keep this record card, which includes medical information                 
+01,00about the vaccines you have received.                                             
+01,00Por Favor, guarde esta tarjeta de registro, que incluye informacion               
+01,00medica sobre las vacunas que ha recibido.                                         
+01,00                                                                                  
+01,00▁▁L0de    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁Dio▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁R▁▁▁▁  
+01,00 First Name                Last Name                                       MI     
+01,00                                                                                  
+01,00▁▁4/1/1988▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁d34th-2-am3ric4▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁  
+01,00 Date of birth             Patient number (medical record or IIS record number).  
+01,00▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂  
+01,00         ▏Product Name/Maker    ▏                  ▏                              
+01,00 Vaccine ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁▏    00,00 01,00Date00,00    01,00     ▏  Healthcare Professional     
+01,00▁▁▁▁▁▁▁▁▁▁Lot Number▁▁▁▁▁▁▁▁▁▁▁▁▏▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▏▁▁or Clinic Site▁▁▁▁▁▁▁▁▁▁▁▁  
+01,00         ▏                      ▏                  ▏                              
+01,00 1st Dose▁ Pfizer▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁▏                  ▏  Holy Patron Saint of        
+01,00 COVID-19▏  #42069              ▏   00,00 01,009▁╱11╱2021    ▏  Science and HIV grifter     
+01,00▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▏▁▁▁▁mm▁dd▁yy▁▁▁▁▁▁▏▁▁Dr Fauci▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁  
+01,00         ▏ Horse Paste          ▏                  ▏                              
+01,00 BOOSTER ▏  m12h4nDz            ▏   00,00 01,009/11▁╱2021    ▏  Dr. Ralph                   
+01,00▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▏▁▁▁ mm▁dd▁yy ▁▁▁▁▁▏▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁  
+01,00         ▏                      ▏                  ▏                              
+01,00         ▏ OxyContin            ▏                  ▏  BLACK_MAN                   
+01,00 BOOSTER ▏    80mg              ▏   00,00 01,009 ╱11╱2021    ▏                              
+01,00▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▏▁▁▁▁mm▁dd yy  ▁▁▁▁▏▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁  
+01,00                                                                                  
+                                                                                  

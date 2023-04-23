@@ -1,0 +1,12 @@
+bbbb         iiii
+bbbb         iiii
+bbbb                
+bbbbbbbbbbb  iiii nnnnnnnnn
+bbbb    bbbb iiii nnnn   nnnn  ___  A plain simple, painless, 
+bbbb    bbbb iiii nnnn   nnnn      freedom-respecting pastebin.
+bbbb    bbbb iiii nnnn   nnnn
+bbbbbbbbbbb  iiii nnnn   nnnn  
+========================================================================
+This is the pastebin service at vitali64.duckdns.org, 
+a simple pastebin powered by bin.
+Source code is available at: \ https://git.vitali64.duckdns.org/utils/bin.git

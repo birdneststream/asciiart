@@ -1,0 +1,1 @@
+ /alias add znc /quote znc

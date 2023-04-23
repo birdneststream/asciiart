@@ -1,0 +1,12 @@
+┏━━━━┓      ┏━━━━┓
+┃  12N  15┃      ┃  12V  15┃
+┃  12E  15┃      ┃  12I  15┃
+┃  12O  15┃      ┃  12M  15┃
+┗━━━━┛      ┗━━━━┛
+          ┃
+          ┃
+┏━━━━┓      ┏━━━━┓
+┃  12V  15┃      ┃  12I  15┃
+┃  12I  15┃      ┃  12M  15┃
+┗━━━━┛      ┗━━━━┛
+This work is a response to the current political climate. It is a statement against thevim status quo. With its bold colors and chaotic composition, I aimed tocreate a jarring and unsettling image that would reflect the reality of our current moment. 
