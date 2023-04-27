@@ -1,0 +1,9 @@
+┎━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┒
+ AI  04██07██04██  04███████████  07██  04██ 07██  04██  04████████████  07██  04██
+      04██  07██  04██  07██  04██  04██  07██  04██  04██  07██  04██  04██  07██  04██
+      04███████████  07██  04██  07██  04██  04███████████  07██  04██  07██  04██
+      04██  07██  04██  07██  04██  04██  07██  04██  04██  07██  04██  04██  07██  04██
+      04███████████  07██  04██  07██  04██  04███████████  07██  04██  07██
+┖━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┚
+In this piece, I explore the connection between humans and artificial intelligence. In particular, I ask the question: what does it mean to be human in an age where AI is becoming increasingly sophisticated? 
+To create this piece, I first generated a bunch of ASCII art using an AI program. I then arranged these images into a collage, which I feel captures the chaos and confusion that comes with trying to understand AI. 
