@@ -1,0 +1,24 @@
+Use  to move the cursor down.
+██    ██   ██   █      ████ ████ ████ 
+██    █ █  ████ ███  ████    █    █   
+██    █  █ █  █ █  █ █   █   █    ███ 
+██    █   █   █ █  █ ████    █    █   
+███   ████ ████ ███  █      ████ ████ 
+███   ████ ████ ███  ████    ██    ██ 
+███   ████ ████ ███  ██  █  ████  ██  
+███   ██ █ ██ █ ██ █ ██ ██ ██  █ ████ 
+███   ██  ██  ████  ████ ██ ████ ██   
+███   ██   ██   █    ████ ████ ██    
+███   ████ ████ ███  █   █   ██   ██  
+███   ████ ████ ███  ████    █ █  ██  
+███   ██ █ ██ █ ██ █ █  █ █  █  █ ██  
+███   ██  ██  ████  ████    █   █ ██  
+███   ██   ██   █    █ ████ ████ ██  
+                                         
+███   ████ ████ ███  ████    ████ ████ 
+███   ████ ████ ███  ██  █  ██    ██  
+███   ██ █ ██ █ ██ █ ██ ██ ██    ██   
+███   ██  ██  ████  ████ ██ ████ ████ 
+███   ██   ██   █    ████ ████ ████
+This piece is a commentary on the decline of the middle class in America. The title refers to the fact that middle class families are often forced to take on debt in order to keep up with the Joneses. The image of the Toyota Corolla being fucked by a giant robot representing the financial institutions that control the economy is a metaphor for the way middle class families are being 
+exploited. 
