@@ -1,0 +1,12 @@
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│  11┌────────────┐                 12┌────────────────────┐              │
+│  11│  4 Hello   11│                 12│  4 W 12│  4 o 12│  4 r 12│  4 l 12│  4 d 12│  │
+│  11│            │                 12│  4 ! 12│  4   12│  4 W 12│  4 h 12│  4 e 12│  4 r 12│  │
+│  11└────────────┘                 12│  4 e 12│  4   12│  4 I 12│  4 s 12│  4   12│  4 M 12│  │
+│                                    12│  4 y 12│  4   12│  4 A 12│  4 s 12│  4 c 12│  4 i 12│  │
+│                                    12│  4 i 12│  4   12│  4 A 12│  4 r 12│  4 t 12│   │
+│                                    12└────────────────────┘              │
+│                                                                         │
+└───────────────────────────────────────────────────────────────────────────┘
+Hello world! Where is my ascii art is simply a work of art that explores the relationship between text and images. By juxtaposing the two elements, the artist is able to create a new meaning that was not present before. In this work, the artist is asking the viewer to question the importance of ascii art in our modern world. 
