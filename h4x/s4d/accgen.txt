@@ -1,0 +1,1 @@
+.bash while true; do echo -n "COMPUTER "; for _ in {1..8}; do echo -n $((RANDOM%2)); done; echo -n " "; echo -n "$(shuf -n 1 -e "UwU" "OwO") "; echo -n "LOGIN: $(openssl rand -hex 4)@tcp.direct"; echo " PASSWORD: $(openssl rand -base64 12 | tr -dc 'a-zA-Z0-9' | head -c 8)"; done
