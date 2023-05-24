@@ -1,0 +1,29 @@
+───────────────────────────────────────────────────────────────────────────── 
+12┌─────┐             12┌─────┐ 
+12│     │             12│     │ 
+12│  ▒▒▒│             12│  ▒▒▒│ 
+12│▒▒▒▒▒│             12│▒▒▒▒▒│ 
+12│▒▒▒▒▒│             12│▒▒▒▒▒│ 
+12│▒▒▒▒▒│     12┌───┐  12│▒▒▒▒▒│ 
+12│▒▒▒▒▒│     12│¯¯¯│  12│▒▒▒▒▒│ 
+12│▒▒▒▒▒│     12└───┘  12│▒▒▒▒▒│ 
+12└─────┘     12┌─────┐ 12└─────┘ 
+      12┌────┴────┐      12┌────┴────┐ 
+      12│┌────┐   │      12│┌────┐   │ 
+      12││    │   │      12││  ▒▒│   │ 
+      12│└────┘   │      12││▒▒▒▒│   │ 
+      12└─────────┘      12││▒▒▒▒│   │ 
+                           12││▒▒▒▒│   │ 
+                           12│└────┘   │ 
+                           12└─────┐ ┌─┘ 
+                                12┌─┐ │ 
+                                12│▒│ │ 
+                                12└─┘ └─┐ 
+                                 12┌─┐┌─┘ 
+                                 12│▒││ 
+                                 12└─┘└─┐ 
+                                  12┌─┐│ 
+                                  12│▒││ 
+                                  12└─┘│ 
+                                   12└──┘ 
+This thought-provoking piece addresses the societal issue of ableism by presenting a creature that is often considered to be less than perfect in mainstream culture. The down syndrome raccoon is a reminder that all animals are deserving of love and respect, regardless of their physical appearance. This work challenges viewers to reexamine their preconceptions about what is beautiful and valuable, and to see the inherent worth in all life forms. 
