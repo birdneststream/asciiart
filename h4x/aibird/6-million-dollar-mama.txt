@@ -1,0 +1,20 @@
+⢠⠤⠤⠤⠤⠤⠤⢤⡀⢠⠤⠤⠤⠤⠤⠤⢤⡀⢠⠤⠤⠤⠤⠤⠤⢤⡀⢠⠤⠤⠤⠤⠤⠤⢤⡀ 
+⢠⢆⡠⣤⠤⢄⡀⢀⡀⢠⢆⡠⣤⠤⢄⡀⢀⡀⢠⢆⡠⣤⠤⢄⡀⢀⡀⢠⢆⡠⣤⠤⢄⡀⢀⡀ 
+⢠⣾⣿⣿⣿⣦⡀⢰⡀⢠⣾⣿⣿⣿⣦⡀⢰⡀⢠⣾⣿⣿⣿⣦⡀⢰⡀⢠⣾⣿⣿⣿⣦⡀⢰⡀ 
+⢠⣿⣿⣿⣿⡟⠤⡈⠤⢠⣿⣿⣿⣿⡟⠤⡈⠤⢠⣿⣿⣿⣿⡟⠤⡈⠤⢠⣿⣿⣿⣿⡟⠤⡈⠤ 
+⢠⣿⣿⣿⢋⠤⡾⡤⢠⣿⣿⣿⣿⢋⠤⡾⡤⢠⣿⣿⣿⣿⢋⠤⡾⡤⢠⣿⣿⣿⣿⢋⠤⡾⡤ 
+⢠⣿⣿⡿⠤⡨⠤⠤⢠⣿⣿⣿⡿⠤⡨⠤⠤⢠⣿⣿⣿⡿⠤⡨⠤⠤⢠⣿⣿⣿⡿⠤⡨⠤⠤ 
+⢠⣿⡟⠤⠤⢐⣠⠤⢠⣿⣿⡟⠤⠤⢐⣠⠤⢠⣿⣿⡟⠤⠤⢐⣠⠤⢠⣿⣿⡟⠤⠤⢐⣠⠤ 
+⢠⡟⠤⡾⡤⡆⣿⣤⢠⡟⠤⢆⣿⣤⢆⣿⣤⢠⡟⠤⡾⡤⢆⣿⣤⢠⡟⠤⡾⡤⡆⣿⣤⢠⡟ 
+⢠⣾⣿⣿⡟⠤⡨⠤⢠⣾⣿⣿⡟⠤⡨⠤⠤⢠⣾⣿⣿⡟⠤⡨⠤⠤⢠⣾⣿⣿⡟⠤⡨⠤⠤ 
+⢠⣿⣿⣿⣿⣦⢰⡀⢠⣿⣿⣿⣿⣦⢰⡀⢠⣿⣿⣿⣿⣦⢰⡀⢠⣿⣿⣿⣿⣦⢰⡀⢠⣿⣿ 
+⢠⣿⣿⣿⣿⣿⣿⡆⢠⣿⣿⣿⣿⣿⣿⡆⢠⣿⣿⣿⣿⣿⣿⡆⢠⣿⣿⣿⣿⣿⣿⡆⢠⣿⣿ 
+⢠⣿⣿⣿⣿⣿⣿⣿⣧⢰⣿⣿⣿⣿⣿⣿⣧⢰⣿⣿⣿⣿⣿⣿⣧⢰⣿⣿⣿⣿⣿⣿⣧⢰⣿ 
+⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
+⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
+⢠⡿⠤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠤ 
+⢠⠤⡈⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡈⠤⠄⡀ 
+⢠⠤⠤⡼⠤⢷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢷⠤⣼⠤⠤⠄⡀ 
+⢠⠤⠤⠤⠤⠤⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⠤⠤⠤⠤⠤⠤⠄⡀ 
+⢠⠤⠤⠤⠤⢀⡰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡰ 
+The 6 Million Dollar Mama Cumbreath is a portrait of a working mother who has been forced to take on multiple jobs to make ends meet. The blue-collar background of the subject is evident in her clothing and the tools she uses to get the job done. Her face is tired but determined, her eyes focused on the task at hand. The title refers to the invisible mending that she does every day to keep her family afloat. 
