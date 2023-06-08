@@ -1,0 +1,1 @@
+!ai say @aitest 10 times
