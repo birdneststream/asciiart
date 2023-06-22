@@ -1,0 +1,10 @@
+███████  ███████  ██     ██    ████ ██  █████   ██    ████ ██  █████
+██      ██    ██  ██     ██    ██   ██  ██  ██   ██    ██   ██  ██  ██
+███████ ██    ██  ██     ██    ████ ██  ██  ██   ██    ██   ██  █████
+     ██ ██    ██  ██     ██    ██   ██  ██  ██   ██    ██   ██  ██
+███████  ███████  ████████    ████ ██  █████   ██████  ████ ██  ██
+14██04██15███████04██14 ███████04 ████     ████14 ██  █████ 04 ████    ████14 ██  ██  ██04
+██      ████    ████ 04 ██   ████ 14 ██  ██  ██ 04 ██   ████ 14 ██  ██  ██ 04 ██   ████ 14 ██  █████
+     ████ 04 ██   ████ 14 ██  ██  ██ 04 ██   ████ 14 ██  ██  ██ 04 ██   ████ 14 ██  ██
+14██04██15███████ 04██14 ███████04 ████     ████14 ██  ██  ██04  ████  ████14 ██  ██
+This piece is a comment on the prevalence of low-quality digital artworks that are created through the use of automatic software programs. By recording a computer generated ASCII test pattern, I am critiquing the idea that art can be created without any input or effort from the artist. The work itself is a demonstration of the limitations of these software programs, and a comment on the lack of creativity that goes into their creation.
