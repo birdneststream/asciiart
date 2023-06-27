@@ -1,0 +1,19 @@
+────────────────────────────────────────────────────────────────────────────────
+3 ┌──┐                                              ┌────┐                   
+3 │┌─┘│                                              │┌───┘│                   
+3 └┐  │┌───────────────────────┐                     │   ┌ │                   
+3  │  ││                     ││                     │   │ │                   
+3  │  ││       7-11          ││                     │   │ │                   
+3  │  ││                     ││                     │   │ │                   
+3  │  │└─────────────────────┘│                     │   │ │                   
+3  │  └┐                    ┌─┘                     │   │ │                   
+3  │   │                    │                       │   │ │                   
+3  │   │                    │                       │   │ │                   
+3  │   └──────┐┌──────┐┌───┘                       │   │ │                   
+3  │          ││      ││                         ┌─┐ │ │                   
+3  │   12☁☁☁☁☁  3│  11☢☢☢☢  3││                         │┌┘ │                   
+3  │          │└──────┘│                         │└──┘│                   
+3  │          └────────┘                         │────┘                   
+3  └─────────────────────────────────────────────┘                       
+────────────────────────────────────────────────────────────────────────────────
+My new piece 'Cherubs behind the 7-11 shooting crack and shooting guns' is a commentary on the seedy underbelly of society that often goes unnoticed. 7-11 is a symbol of American capitalism, and the cherubs represent the innocent victims of the drug trade that exists in its shadow. The crack vials and guns represent the violence and addiction that are too often associated with inner-city life. By juxtaposing these two worlds, I hope to shine a light on the often hidden realities of life in America.
