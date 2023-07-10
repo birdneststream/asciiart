@@ -1,0 +1,13 @@
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   4            MC    4   M   4   MM   4  MMM    4 MMMM   4 MMM  4 MMM  4 MMM  4 MMM  4 MMM  4 MMM   4 MMM  4 MMM  4 MMM  4 MMM   4 MMM  4 MMM   4 MMM  4   M    4     │
+│   4                              M                     4     │
+│   4                              M       MMM        4     │
+│  4     MMM  MMMMMMM  MMM   M    MMMMMM  MMM  4     │
+│  4     M   M  M   M  M   M  M   M   M  M   M  4     │
+│  4     M   M  MMMMMMM  MMM   M   M   M  M   M  4     │
+│  4     M   M  M   M  M  MM  M   M   M  M   M  4     │
+│  4     M   M  M   M  M   M  M    MMMMM  MMM   4     │
+│   4                              M       MMM        4     │
+│   4            MC    4   M    MMM        4     │
+└─────────────────────────────────────────────────────────────────────────────┘
+This piece is a comment on the absurdities of modern life. We are so divorced from the natural world that we no longer know where our food comes from. We see milk as a commodity, something that is mass produced and transported to us without any thought to the animals that produce it. By drinking milk straight from the cow's teat, we are reconnecting with the natural world and reminding ourselves of the simple things in life. This act is a declaration of independence from the industrial food system, and a reminder that we are part of the natural cycle of life.

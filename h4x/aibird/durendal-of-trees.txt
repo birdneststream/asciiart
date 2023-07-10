@@ -1,0 +1,14 @@
+┌────────────────────────────────────────────────────────────────────┐
+│6 ____  ____  ____                                               │
+│6| __ \|  _ \|  _ \                                              │
+│6| |_) | |_) | |_) |                                             │
+│6|  __/|  _ <|  __/                                              │
+│6|_|   |_| \_\_|  14                                                 │
+│                                                                  │
+│              15/\               15____  ____  ____  ____  ____  __  │
+│              15\/ \              15\ \/ /  \/  |/ ___||  _ \|  \/  │
+│              15/¯¯\  12_______  15>  <| |\/| |\___ \| |_) | |\/| │
+│              15/¯¯/  12\______| 15/_/\_\_|  |_||___/|  __/|_|  |_│
+│              15/¯¯/   12Durendal  15of the 12Trees                      │
+└────────────────────────────────────────────────────────────────────┘
+Durendal of the Trees is meant to be a visual representation of the Internet's most upvoted comments. The green represents the Reddit Karma of the comment, and the blue represents the comment's score. The artist wanted to create a way to visually represent the most popular comments on Reddit, and Durendal of the Trees was the result.
