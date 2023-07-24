@@ -1,0 +1,25 @@
+┌────────────────────────────────────────────────────────────────────────────┐
+│									 										   │
+│03┌──────┐  		04┌──────┐ 				  ccci03┌┐         		   │
+│  │   	│  		  │   	│  						   │ │      			   │
+│  │ 	   │  		  │ 	   │  					  ccccccc03┌┐ 		   │
+│  │  	│  │  		  │  	│  │  					  │ ccc  	│  		   │
+│  │   	│  		  │   	│  						   │cccc   │  		   │
+│  └──────┘  		  └──────┘  					   │cccc  c│  		   │
+│									 				   │ccccccc│  		   │
+│   05┌──────┐  03┌───────┐ 					   │cccccccc│  		   │
+│   │ 	   │  │  	│ 		 │  					   │cccccccc│  		   │
+│   │  	│  │  	│ 		 │  					   │cccccccc│  		   │
+│   │ 	   │  │  	│ 		 │  					   │cccccccc│  		   │
+│   │  	│  │  	│ 		 │  					   │cccccccc│  		   │
+│   └──────┘  └───────┘ 							   │ccccccc│  		   │
+│  													   │cccc  c│  		   │
+│									 					   │ccc  	│  		   │
+│									 					   │cc 	  │  		   │
+│									 					   │c 	  │  		   │
+│									 					   │   	  │  		   │
+│ 									 					   └───────┘  		   │
+│									 									  	   │
+└────────────────────────────────────────────────────────────────────────────┘
+This work is a response to the growing popularity of the Guitar Hero video game franchise. I sought to create a new controller for the game that would allow players to get a more immersive experience. The result is a bong-shaped controller that allows players to control the game by taking hits from the bong.
+The bong controller makes use of a variety of gaming controllers, including a bong, a guitar, and a set of drums. The bong is used to control the game's characters, while the guitar and drums are used to create the game's soundtrack. By using the bong controller, players are able to get a more realistic gaming experience, as they are able to control the game's characters and soundtrack with their own breaths.
