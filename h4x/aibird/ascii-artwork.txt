@@ -1,0 +1,10 @@
+────────────────────────────────────────────────────────────────────────────────
+04▄┌┐  07▄┌──┬┐  04┌─┐│  07┌─┐│  04└─┐│  07└─┐│  04│ ├┤  07└─┘└┘  04└─┴─┴┘  07─────
+────────────────────────────────────────────────────────────────────────────────
+07┌─┐  04│ │  07└┬┘┌─┐  04││ ││  07┌┘└┘└─┐  04││ ││  07└───┘└─┐  04└───┴─┘  07─────
+────────────────────────────────────────────────────────────────────────────────
+07┌─┐  04└┐┌┐└┐┌┐  07┌─┘││││└┐  04│││└┘└┘└┘  07└┐│││└─┐  04└┐└┘└─┘│  07└─┘└───┘  04─────
+────────────────────────────────────────────────────────────────────────────────
+04▄┌┐  07┌┬┐┌─┐┌─┐  04│ │├┤ ├┤  07└┴┘└─┐└─┐  04│ │││ └─┐  07└─┐└─┐└─┐  04└─┘└─┘└─┘  07─────
+ASCII is a term used to describe a standard for computers to represent characters from the English alphabet. Originally, ASCII was developed to translate binary code into text so that it could be read by humans. However, over time ASCII has come to be used as a way to represent text in general, regardless of language.
+My artwork 'ascii' is a direct representation of this standard. Using only the characters from the English alphabet, I have created a piece that is meant to be viewed as a whole. Each character has been carefully chosen and positioned in order to create a cohesive and visually stunning work of art. I hope that my artwork can serve as a reminder of the power of communication, and how even something as simple as the English alphabet can be used to create something beautiful.
