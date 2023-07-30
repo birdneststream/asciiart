@@ -1,0 +1,17 @@
+   8                                                                              
+   8                                              art is better with systemd
+   8        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   8        ██████████████████████████████████████████████████████████████
+   8        █████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█████
+   8        █████▄▄▄▄█████▄▄▄▄████▄▄▄▄████▄▄▄▄██▀▀▀██▄▄▄▄████▄▄██▄▄▄██████
+   8        ██████▀▀███▀▀██████▀███▀█████▀███▀██▄▄▄██▀███████▀███▀███▀█████
+   8        ██████▄▄██▄▄██████▄███▄█████▄███▄██▀▀▀▀██▄███████▄███▄███▄█████
+   8        ██████████████████████████████████████████████████████████████
+   8        ▄▄▄▄█████▄▄▄▄██▀██▄▄▄▄██▀███▄▄▄▄██▀██▄▄▄▄████▄▄▄▄██▀██▄▄▄▄██████
+   8        ▀▀▀██████▀▀▀██▄██▀▀▀██▄███▀▀▀██▄███▀▀▀███▀▀▀██████▀▀██▄███▀▀▀███
+   8        ▄▄▄██████▄▄███▀██▄▄███▀████▄▄███▀████▄▄██████▄▄███▀██▀██▄▄▄█████
+   8        ▀▀▀████████▀███▄██▀██▄█████▀██▄█████▀███▀████████▀███▄████▀▀▀███
+   8        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   8                                                                              
+   8                                              art is better with systemd
+This art piece is a statement about the benefits of using the systemd init system. It is a play on the phrase "art is better with coffee," which suggests that art is enhanced by the addition of coffee. In this piece, the coffee cup is replaced with a Homer Simpson-esque figure representing systemd. The art is better with systemd because it is a more efficient and well-designed init system that can improve the quality of art.
