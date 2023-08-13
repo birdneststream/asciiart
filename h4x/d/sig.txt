@@ -1,0 +1,86 @@
+15,1###########################################################################################################################################1,1█
+15,1###################### /*::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::. ##########################1,1█
+15,1#################### /mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd- ########################1,1█
+15,1################### -MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN` #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmNMMMMMMMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh:NMMMMMMMMMMoyMMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm -NMMMMMMMMMs.NMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy  -hmmmmmNNm- sMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdyo+:`   ```````.`  .NMMMymMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy+-.`                    -hNm-+MMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms:`                          `.. /MMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh/.                                 /MMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMmMMMMMMMMMMMmhN:`                                   /MMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMM+sNMMMMMMMMMN-h:         `-+syyys/-                 -NMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMs +NMMMMMMMhm--d`  :.  -sdNMMMMMNNmy.                :ydMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMM+  :yhyyyhhso` os  yhshNMMMMMMMh+:-:.  :s-             .NMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMmho`          `   `yo.h:sMMMMMMMMMMNd+.   -NNs-            yMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMNh/.                   :++`-MMMMMMMMMMMMMm+`  :ymds.          -NMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMmo-                          .MMMMMMMMMMMMMMMdo.  `.-`           yMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMmo.                            `NMMMMMMMMMMMMMMMMNy/.`             `mMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMNs.                               hMMMMMMMMMMMMMMMMMMMNho-`           :NMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMm:        ./syyyo-                 -hmNMMMMMMMMMMMMMMMMMMMMmho:.`       /NMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMMd.       .smMMMNNNms`  `              `+MMMMMMMMMMMMMMMMMMMMMMMMNdy/    `.yMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMMd.       /mMMMMMy/:--`  so.             `mMMMMMMMMMMMMMMMMMMMMMMMNdo--:+sdNMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMN-       /NMMMMMMMMdo.   oMm+.            /MMMMMMMMMMMMMMMMdNMMMMMMNNNMMmMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMMo       -NMMMMMMMMMMdso-` /hmm+            sMMMMMMMMMMMMMMMs-mMMMMMMMMMM:dMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMN.       sMMMMMMMMMMMo .os/.``..            `dMMMMMMMMMMMMMMs -NMMMMMMMMM-:MMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMd        mMMMMMMMMMMM/   `:os+-`             .dMMMMMMMMMMMNm.  -soosyhdms `mMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### /MMs        mMMMMMMMMMMM:       .hNhs/.`         .dMMMMNmhs+:-`               +MMMNoMMMMMMMMMM- #######################1,1█
+15,1################### /MMy        hMMMMMMMMMMM:        oMMMMMNdyo/.     .mNh+-`                      +mNy`mMMMMMMMMM- #######################1,1█
+15,1################### /MMd        +MMMMMMMMMMM/        :MMMMMMMMNs.`.:ohh/`                            `  mMMMMMMMMM- #######################1,1█
+15,1################### /MMN.       `mMMMMMMMMMMo        `NMMMMMMNhhdNMMh:                                  mMMMMMMMMM- #######################1,1█
+15,1################### /MMM+        /MMMMMMMMMMh         yMMMMMMMMMMMN+                                   `NMMMMMMMMM- #######################1,1█
+15,1################### /MMMm`        +MMMMMMMMMN`        .NMMMMMMMMMN-         :sdmNNNdy+`                 dMMMMMMMMM- #######################1,1█
+15,1################### /MMMMo         +MMMMMMMMM+         +MMMMMMMMM/        -dMMMMMMNmmNN/                .sdMMMMMMM- #######################1,1█
+15,1################### /MMMMN:         :mMMMMMMMm`         oMMMMMMMh        .mMMMMMMMms- ``  /o`             `mMMMMMM- #######################1,1█
+15,1################### /MMMMMm.         .yMMMMMMMo          oMMMMMM/        sMMMMMMMMMMMh:   :NNo.            sMMMMMM- #######################1,1█
+15,1################### /MMMMMMm.          -hMMMMMN:          /NMMMM.        dMMMMMMMMMMMMMh-  :hmNy`          .NMMMMM- #######################1,1█
+15,1################### /MMMMMMMm-           -yNMMMm.          .yMMM.        dMMMMMMMMMMMMMMNh:` `..`           yMMMMM- #######################1,1█
+15,1################### /MMMMMMMMN+            .+hNMd.           :hM:        dMMMMMMMMMMMMMMMMNmo-              .NMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMh-             ./ss.           `::        sMMMMMMMMMMMMMMMMMMMNms/.           /MMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMNo.              `                       :MMMMMMMMMMMMMMMMMMMMMMMNdo:.`       oMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMmo.                                    `mMMMMMMMMMMMMMMMMMMMMMMMMMMNmh:     .dMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMNy:`                                  +MMMMMMMMMMMMMMMMMMMMMMMMMMNh+::/+sdNMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMNdo-                                `dMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNMMMMMMMM- #######################1,1█
+15,1################### /MMMMMMMMMMMMMMMMMMMMNd+-`                             -NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM- #######################1,1█
+15,1################### -NMMMMMMMMMMMMMMMMMMMMMMNdo:`                           /NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd` #######################1,1█
+15,1#################### -ymNNNNNNNNNNNNNNNNNNNNNNNNdo-`                         +NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmy. ########################1,1█
+15,1###################### ............................                           .-..............................*/ ##########################1,1█
+15,1####################### ``````       `````````          ``````````````          ``````````              ````` #############################1,1█
+15,1###########################################################################################################################################1,1█
+15,1###########################################################################################################################################1,1█
+15,1###########################################################################################################################################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh+MMMMMMMMMMMMMMhsMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/ oMMMMMMMMMMMMMMm +NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy`  yMMMMMMMMMMMMMMM- -mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMs+dMMMMMMMMMM+    sMMMMMMMMMMMMMMM-  `dMMMMMMMMMMms/NMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMM+ .omMMMMMM:     -MMMMMMMMMMMMMMo    `yMMMMMMMy: `dMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMM-   /dMMM+       sMMMMMMMMMMMMh      `hMMMNo`   sMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMd     :dm        `mMMMMMMMMMMN.       .NNo`    .MMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMM:      -         :MMMMMMMMMMs         :`      sMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMs                 ymNMMMMMNm.                 NMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMy                    `-/-`                   .MMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMo                                            .NMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMNh+.                                               :sdMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMhso+:.                                                      `-/+syMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMM-                                                                 dMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMM`   `.:+/.                                              `/s+:.    sMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMNo   -oms.             .//-`               `:/:`            `+md+`  .hMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMNs`                        .odNdo.       .ohmd+`                        :dMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMNo`                             ..           .-                             :hMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMd+`                                                                             -sNMMMMMM#######################1,1█
+15,1###################MMMMMNs-                         `..                          `/-.                        `+dMMMM#######################1,1█
+15,1###################MMNy:                       ./sdNMMMh:                      `sNMMMNds/.                      .odM#######################1,1█
+15,1###################M+                       :ymMMMMMMMMMMh.                   +NMMMMMMMMMMmo-                      /#######################1,1█
+15,1###################MMh:                  .sNMMMMMMMMMMMMMMN-                `hMMMMMMMMMMMMMMMm+`                 :hM#######################1,1█
+15,1###################MMMMd:`       ``-:+shmMMMMMMMMMMMMMMMMMMN.               hMMMMMMMMMMMMMMMMMMMmhs+/-..``````./dMMM#######################1,1█
+15,1###################MMMMMMMMNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMo              .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy              .MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN.             /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN+`         `+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs.    -hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+15,1###################MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdyymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM#######################1,1█
+1,1████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
