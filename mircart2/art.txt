@@ -1,0 +1,6 @@
+Welcome to the Mirc Art Gallery.10 (To use type ! before your choice of art, for example !apple) -6 (To see a random Mirc Art piece type: !rart) - 7(To stop an art piece from showing type: !sart)
+4Gallery Catalog: 141up, apple, batman, batman2, beatles, bug, bullshit, bunny, cake, calvin, cash, cat, cheeze, chick, chillblue, chillgreen, chillred, coffee, dog, dog2, dogbert,
+14ed209, enterprise, enterprise2, faceoff, fish, fly, fyou, gameboy, ghost, girl, guitar, gun, happy, heart, heart2, heartbreak, hellokitty, hobbs, homer, icecream, invader, invaders2,
+14janus, joypad, keyboard, kirby, mandala, maze, megaman, mirc, olympics, pac, phone, pizza, pokeball, potionblue, potiongreen, potionred, puzzbob, r2d2, ra, readup, robo, robocop,
+14rom1, rom2, sad, santa, s-bandit, s-cool, s-cry, s-embaresssed, s-errm, s-evil, s-gagged, s-grin, s-happy, shroomgreen, shroomred, s-innocent, skull, s-lol, smoke, snail, snoopy,
+14snoopy2, s-omg, s-pirate, s-rebel, s-sick, s-sinister, s-sleeping, s-supprised, st1, st2, st3, st4, star, s-tired, superman, s-wink, sword, teddy, toad, transformer, trooper, trump, whoops, yin
