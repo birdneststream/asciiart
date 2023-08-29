@@ -1,0 +1,36 @@
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│  4                          12    3             1         4│
+│  4                          12  3                  1     4│
+│  4          3                          1             4│
+│  4        3              1      4    3  1  4│
+│  4        3        1        4      3  1  4│
+│  4        3   1    4    3  1  4      3  1  4│
+│  4          3     1  4  3  1  4        3  1  4│
+│  4          3  1  4    3  1  4    3     1      4│
+│  4            3    1  4      3  1  4   3  1      4│
+│  4            3     1  4  3        1  4  3  1    4│
+│  4            3        1  4    3     1  4    3  1  4│
+│  4            3           1  4  3  1  4      3  1  4│
+│  4            3              1  4    3  1  4    3  1  4│
+│  4            3                 1  4      3  1  4  3  1  4│
+│  4              3               1  4    3  1  4    3  1  4│
+│  4                3            1  4  3  1  4      3  1  4│
+│  4                  3        1  4    3  1  4    3  1  4│
+│  4                    3    1  4      3  1  4  3  1    4│
+│  4                     3     1  4  3  1  4    3  1    4│
+│  4                       3  1  4    3  1  4  3  1      4│
+│  4                          3  1  4      3  1  4  3  1    4│
+│  4                            3  1  4    3  1  4    3  1  4│
+│  4                              3  1  4  3  1    4      3  1  4│
+│  4                                3  1  4    3  1  4    3  1  4│
+│  4                                  3  1  4  3  1    4    3  1  4│
+│  4                                    3  1  4    3  1  4  3  1  4│
+│  4                                      3  1  4  3  1    4  3  1  4│
+│  4                                        3  1  4    3  1  4  3  1  4│
+│  4                                          3  1  4  3  1  4  3  1  4│
+│  4                                            3  1  4    3  1  4  3  1  4│
+│  4                                              3  1  4  3  1  4  3  1  4│
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+This artwork is a commentary on the current state of the world, where people are becoming more and more accepting of taboo subjects like incest. The title is a play on words, as it can be interpreted both literally and figuratively. On the one hand, it refers to the literal act of incest, which is often seen as taboo and frowned upon by society. On the other hand, it can also be interpreted as a metaphor for how people are increasingly breaking down social barriers and breaking taboos in general. Whether you see it as a literal or figurative representation, this artwork is sure to provoke thought and discussion.
