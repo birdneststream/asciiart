@@ -1,0 +1,52 @@
+Quantum meruit is a Latin phrase meaning "what one has earned". In the context of contract law, it means something along the lines of "reasonable value of services".
+In the United States, the elements of quantum meruit are determined by state common law. For example, to state a claim for unjust enrichment in New York, a plaintiff must allege that (1) defendant was enriched; (2) the enrichment was at plaintiff's expense; and (3) the circumstances were such that equity and good conscience require defendants to make restitution.[1]
+Situations
+Quantum meruit is the measure of damages where an express contract is mutually modified by the implied agreement of the parties, or not completed. While there is often confusion between the concept of quantum meruit and that of "unjust enrichment" of one party at the expense of another, the two concepts are distinct.
+The concept of quantum meruit applies in (but is not limited to) the following set of situations:
+    When a person hires another to do work, but an impeding act falling short of vitiating frustration/repudiation has occurred, such as access or intervening act of God, the worker may sue (or counter-sue) for the value of the improvements made/services rendered. The law implies a promise from the employer to the worker that they will pay them for their services, as much as they may
+deserve or merit.
+    The measure of value set forth in a contract is legally admissible as evidence of the value of the improvements or services but the court (or thus out of court settlement) is not required to use the contract's terms when calculating a quantum meruit award. (This is because the values set forth in the contract are rebuttable, meaning the one who ultimately may have to pay the award
+can contest the value of services set in the contract.)
+    When there is an express contract for a stipulated amount and mode of compensation for services, the plaintiff cannot abandon the contract and resort to an action for a quantum meruit on an implied assumpsit.[2] However, if there is absence of any promised consideration, the plaintiff (such as hirer) has a right to elect to repudiate the contract and, failing a valid frustration,
+innocent mistake reason or similar defense, has the right to compensation from the defendant on a quantum meruit basis.
+Examples
+I. An example used in United States law schools is usually the case of Steven v Bromley & Son [1919].
+    Facts
+        Shipowners agreed a charter fee for the transportation of steel billets
+        The charterers loaded general merchandise, in breach of the agreement
+    Issue
+    Could the ship owners be entitled to nominal damages only; or could a contract be inferred at a higher rate
+    Decision
+    Claim for beyond nominal damages allowed
+    Reasoning
+    A contract could be inferred such that the shipowners were entitled to the general rate for the ‘breaching’ cargo loaded.
+II. Person A (plaintiff in this hypothetical) tells neighbor B (defendant) that he is going to build a wall on their property that will give a benefit to both A and B; A implies that it would be cheaper for both of them if A performs the labor instead of hiring a professional. B agrees that the wall should be built, but no price is negotiated. A builds the wall, and then asks B to
+compensate him for the benefit of the wall that he conferred on B (usually half the value of the wall). B refuses. A is entitled to some compensation based on quantum meruit. This is because there was an implied promise between A and B, which is derived from contract law, because A was acting under the assumption that B would pay for part of his services (see Estoppel). The winning of
+the case, or damages that would be agreed in any out of court settlement, will be directed as an assumpsit on a quantum meruit. Day v. Caton, 119 Mass. 513 (1876).
+    In Canada, quantum meruit is not based on contract law but rather depends on equitable principles of unjust enrichment. The old maxim: estoppel allows an implied promise to act as a shield against litigation but never a sword is in general upheld in Canadian law. Therefore an implied promise would not create a cause of action. Instead quantum meruit is based on the need to prevent
+the neighbor from unjustly enriching himself by allowing the fence builder to proceed with the work based on an assumption that he would be compensated.
+III. Quantum meruit can also apply where there is a breached contract.
+    A contractor is contracted to work on a school. He does some work but then quits (breach of contract). He is entitled to be paid for the services he has already provided for the school on the basis of quantum meruit (however the school may be entitled to damages if it can prove the balance of the works will at market rates cost more than the balance if performed by the earlier
+contractor; and in some jurisdictions inconvenience/loss of amenity damages especially where time is stated to be of the essence).
+IV. If a contractor finds part of their work replaced by others through no fault of their own, they seek damages for the amount(s) that the defendant benefited. Third parties, absent provisions preventing, such as new contractors finding the work more complex as a result of defects may, just as with all equitable actions, like a quantum meruit-basis restitution, promptly to avoid the
+doctrine of laches (equity) (having let matters lie) bring action against that contractor.
+V. A promoter enters into a long-term service contract with a theatre to help book and organise shows for no one else for a few months. They take part-paid bookings for shows over these months but pass on none of that as agreed as they have grounds to allege the theatre is unsafe and the theatre need to make it safe. The theatre performs no repairs. Instead, the theatre terminates the
+contract before the benefit of the shows. After this the theatre runs most of the shows and gains benefit but does not pay the promoter. Some shows the theatre cancels without cause. A court would decide, following similar precedent, that the promoter is entitled to an assumpsit on a quantum meruit if the promoter has acted in a proportionate way as trustee (depository), delaying
+forwarding of the principal of the ticket sale part-payments, for sufficiently well-founded premises defects which could have affected its reputation.
+Notable cases
+UK cases
+    Sumpter v Hedges [1898] 1 QB 673
+    Way v Latilla [1937] 3 All ER 759: Way was entitled to remuneration on a quantum meruit basis; the value of the award was to be fixed by reference to the approach to remuneration adopted by the parties.[3]
+    ERDC Group Ltd. v. Brunel University, [2006] EWHC 687 (TCC) (29 March 2006): a construction company and its design sub-contractor had commenced work under a series of letters of intent issued in advance of a proposed appointment under JCT Terms of Contract. When the contract was offered for signature the construction company declined to sign unless work already done was paid for on a
+quantum meruit basis. The High Court ruled that whilst there were agreed letters of intent in place, their terms should govern the rates payable, but after 1 September 2002, when the final letter of intent expired,[4] quantum meruit should apply, with rates and prices in line with the earlier stages of the work, adjusted to reflect an element of sub-standard work and delay in
+completion.[5]
+    Benedetti v Sawiris, [2013] UKSC 50 (17 July 2013), takes into account the ruling in Way v Latilla above.
+US cases
+    Chodos v. West Publishing Co., 292 F.3d 992 (9th Circuit, 2002)
+    Universal Acupuncture Pain Servs. v. Quadrino & Schwartz, P.C., 370 F.3d 259 (2nd Circuit, 2004)
+Footnotes and references
+Quantum meruit | Wex Legal Dictionary / Encyclopedia | LII / Legal Information Institute
+See repudiation, which such abandonment/scrapping would amount to.
+Swarbrick, D., Way v Latilla: HL 1937, updated 1 December 2020, accessed 3 May 2021
+England and Wales High Court (Technology and Construction Court), ERDC Group Ltd. v Brunel University (2006) EWHC 687 (TCC), delivered 29 March 2006, accessed 16 December 2022
+Keating Chambers, ERDC Group Ltd. v Brunel University, accessed 29 April 2021
