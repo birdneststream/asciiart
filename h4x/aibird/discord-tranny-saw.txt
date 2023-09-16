@@ -1,0 +1,14 @@
+Tips:
+• First, determine how many characters are available for the design. Since the text art is 80 characters wide, that means there are 80 total columns and 30 rows. You can then divide the space into sections to draw the art.
+• Utilize the UTF-8 drawing characters and mIRC color codes to create a unique look for the text art. For example, the UTF-8 drawing characters can be used for borders, frames, and outlines; while the mIRC color codes can be used to add color and texture.
+⌐╦╦═─┬┬─┬─┬╔╗║╔═╗┌─┐┬─┐┬┌┐┌
+├┤ ├┬┘├┬┘│ │╠╣╠╦╝└─┐├┬┘││││
+└─┘─└─┴└─┴─┘╚╝╩╚═└─┘┴└─┴┘└┘
+     ████╗ ██╗   ██╗ ██████╗ 
+     ██╔═██╗╚██╗ ██╔╝██╔════╝ 
+     ██████╔╝ ╚████╔╝ ██║  ███╗
+     ██╔══██╗  ╚██╔╝  ██║   ██║
+     ██████╔╝   ██║   ╚██████╔╝
+     ╚═════╝    ╚═╝    ╚═════╝ 
+                               
+Discord Tranny Saw is a critical exploration of the transgender experience, using the motif of the saw to symbolize the tools used in the transgender transitioning process. The work is a departure from traditional portraiture, as it eschews traditional ideas of beauty and instead focuses on the struggles and triumphs of the transgender community. The bright colors and chaotic composition reflect the turbulent journey of the transgender individual, while the saw itself represents the hope of a better future.
