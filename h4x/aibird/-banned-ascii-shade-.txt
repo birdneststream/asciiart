@@ -1,0 +1,25 @@
+,---.            ,---.  ,---.            ,---.
+|   | ,---. ,---.|   |  |   | ,---. ,---.|   | ,---.
+|---' `---. ,---'|---'  |---' `---. ,---'|---' `---.
+|   |     | `---.|   |  |   |     | `---.|   |     |
+`---'   `---' `---'---'  `---'   `---' `---'---' `---'
+,---.               ,---.   ,---.               ,---.
+|   | ,---. ,---.   |   |   |   | ,---. ,---.   |   |
+|---' `---. ,---|---'   |   |---' `---. ,---|---'   |
+|   |   | `---|---|---'   |   |   |   | `---|---|   |
+`---'   `---'   `---' `---'   `---'   `---'   `---' `---'
+,---.   ,---.               ,---.   ,---.            ,---.
+   |,---|   | ,---. ,---.      |`---|---' ,---. ,---' `---.
+|---'   |   | |---' `---.   ,-`|   |     `---.|---'     |
+   | `---'
+| You are banned <---'   |     |   |     |   | |   |   |   | ,---.
+|   | |   |   | |   |     |   |   | |   |     |   |   |   |   |
+| `---'   `---'   `---'   `---'   `---'   `---'   `---' `---'
+,---.   ,---.   ,---.   ,---.   ,---.           ,---.
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
+|---'   |   |   |   |---' `---|---|---|---|   |   |---|
+|       `---'   |   |   |   |   |   |   |   |   |   |
+|---'   |---|   `---|   `---'   |---'   `---|   |   |
+|   |   |   |       `---'   |   |       |   |   |   |
+`---'   `---'               `---'       `---'   `---'  
+This artwork represents the struggle of marginalized individuals in society, specifically those facing discrimination and exclusion. The #asciishade_test serves as a symbolic space where these individuals are constantly denied entry and banned. Through the use of ASCII characters, the artwork critiques the digital world's power to perpetuate systemic inequalities and the damaging effects of gatekeeping. It is a commentary on the need for inclusive and diverse communities, urging the viewer to question their own privilege and actively work towards dismantling oppressive systems.

@@ -1,0 +1,32 @@
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀    (       5▓4▓5▓          ) 
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀         (    5▓4▓5▓▓▓      )    ) 
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀         )  5▓▓▓▓▓▓▓▓▓▓▓  4▓  ) 
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀         ( 5▓▓▓▓▓▓▓▓▓▓  4▓▓▓ ) 
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀        5▓  5▓▓▓▓▓▓▓▓  4▓▓▓▓5▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀ ⠀        5▓▓▓ ▓▓▓▓▓▓▓▓  4▓▓▓▓▓▓5▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀        5▓▓  5▓▓▓▓▓▓▓▓▓  4▓ 5▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀       5▓▓  5▓▓  5▓▓▓▓▓▓▓  4▓▓▓▓▓▓5▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀      5▓▓▓  5▓  5▓▓▓▓▓▓▓▓  4▓▓▓▓▓▓▓▓5▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀     5▓▓▓▓  5▓▓  5▓▓▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓5▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀     5▓▓▓▓▓  5▓  5▓▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓▓  5▓  5▓▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀   5▓▓▓▓▓▓  5▓  5▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓  5▓  5▓▓▓  4▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀    5▓▓▓▓▓  5▓  5▓▓  4▓▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀     5▓▓▓▓  5▓▓  5▓▓▓  4▓▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀     (5  5▓  5▓▓▓▓▓  4▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀      (  5▓▓▓▓▓▓  5▓  5▓▓▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀        )  (5▓▓▓▓▓▓  5▓  5▓▓▓▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀            5▓▓▓▓▓  5▓▓  5▓▓▓▓ 
+         ⠀ ⠀ ⠀ ⠀ ⠀                 )  5▓▓
+My latest piece explores the themes of commodification and objectification within contemporary society. By juxtaposing the hyper-sexualized portrayal of female bodies, specifically the exaggerated features of "big fat titties and ass," with visual references to consumerist culture, I am critiquing the ways in which women's bodies are constantly reduced to mere objects for male consumption. Through the use of bold colors and playful compositions, I invite viewers to question the commodification of the female form and reflect on the harmful effects of objectification in our society.

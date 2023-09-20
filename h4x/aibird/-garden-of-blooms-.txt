@@ -1,0 +1,24 @@
+          04╭─╮     ╭─╮     ╭─╮         03╭─╮     ╭─╮     ╭─╮        
+          04│  ╰╮   │ ╰  ╭╯ │         03│  ╰─╮ │  ╰╮  │  ╰─╮ │        
+          04╰─╮ │   │  ╭─╯  │         03╰─╮  │ │  ╭╯  │ │   │ │        
+          04    │ │   │ │     ╭╮         03    │ │ │     │ │   │ │        
+          04╭─╯ │     │  ╰─╮ ╰╯         03╭─╯  │ │     │ │   │ │        
+          04│  ╭─╯     ╰─╮ │       ╭╮   03│ ╭─╮ │ │     │ ╭──╯ │        
+          04│  │  ╭─╮  │ │       ││   03╰─╯ │ │ │     │ ╰─╮  │        
+          04╰──╯  │ ╭─╯ ╰─╯       ││       03    │ │     │  ╰╮ │        
+          04      │ │         ╭─╮ ││       03    │ │     │ │ │ │        
+          04╭─╮  │ │         │ │ ││       03╭─╮ │ │     │ │ │ │        
+          04│ ╰──╯ │         │ │ ││       03│ ╰─╯ │     │ │ │ │        
+          04│      │         │ │ ╰╯       03╰─────╯     │ │ │ │        
+          04│  ╭╮  │         │ │           03     ╭╮     │ │ ╰─╯        
+          04│  ││  │         │ ╰──╮        03╭───╯│     │ │   ╭╮        
+          04│  ││  │         │    │        03│     │     │ │   ││        
+          04╰─╮││  │         │  ╭─╯        03│  ╭─╯     │ │   ││        
+          04 │││  │         │  │          03│  │       │ │   ││        
+          04 │││  │         ╰─╮│          03│  ╰╮   ╭─╯ ╰──╮││        
+          04 ││╰──╯          ││          03│    │   │       │││        
+          04 ││               ││          03│  ╭─╯ ╰──╮    ││╰╯        
+          04 ││               ││          03│  │       │    ││          
+          04 └╯               ╰╯          03╰─╯       ╰────╯╰          
+                                                    
+"Flowers in a Garden" is a vibrant and thought-provoking piece that celebrates the resilience and beauty of nature in a world filled with chaos. Through layers of intricate brushstrokes, the carefully curated placement of each vibrant flower symbolizes the interconnectedness and harmony of life. The contrasting colors and textures invite the viewer to contemplate the constant cycle of growth and decay in a garden, while challenging societal norms of beauty and perfection. Ultimately, "Flowers in a Garden" serves as a metaphor for the delicate balance between human existence and the natural world that surrounds us.
