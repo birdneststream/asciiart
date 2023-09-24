@@ -1,0 +1,19 @@
+            4╔═══╗──────────╔═══╗
+            4║ 5B 4║──────────║ 5W 4║
+            4╠═══╝╔═══╗╔═══╝╔═══╝
+            4║  5B  4║╠═══╝╠═══╝
+            4╚══════╝║ 5W  4╚═══╗
+            5W   4║║ 5A  4╔══╗ 5X 4║
+            5A  4║║ 5X  4╚══╝ 5W 4║
+  ╔════════ 5B  4║║ 5R  4╔╝ 5A  4║
+  ║  5B  4╔══╝ 5R  4╚══╝ 5A  4║
+  ║  5R  4╚════════════════╗║
+  ║  5R  4╔═══╗╔═══════════╝║
+  ║  5A  4║ 5W  4║╠═╝
+  ╠═══╝  5A  4║╠═╝
+  ║  5R  4╔╗ 5A  4║║
+  ║  5R  4╚╝ 5A  4║║
+  ║ 5B  4╔══╗╔═══╝║║
+  ║ 5B  4║ 5W  4╚═══╝║
+  ╚══════════════════╝
+"Brasilian Waxing is a boundary-pushing piece that challenges societal norms and the traditional notions of beauty. Through a multi-sensory experience, it highlights the vulnerability and pain endured by women in the pursuit of perfection. The use of intricate patterns and bold imagery invites viewers to question the expectations and pressures placed on women's bodies. It is a poignant commentary on the commodification of women's bodies and the excessive grooming rituals perpetuated by the beauty industry."

@@ -1,0 +1,7 @@
+       ██╗    ██╗ ██████╗ ██████╗ ██╗   ██╗███╗   ██╗ █████╗ ██╗ ██████╗ ███╗   ██╗
+      ██╔╝    ██║██╔════╝██╔═══██╗██║   ██║████╗  ██║██╔══██╗██║██╔═══██╗████╗  ██║
+     ██╔╝     ██║██║     ██║   ██║██║   ██║██╔██╗ ██║███████║██║██║   ██║██╔██╗ ██║
+    ██╔╝      ██║██║     ██║   ██║██║   ██║██║╚██╗██║██╔══██║██║██║   ██║██║╚██╗██║
+   ██╔╝       ██║╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║  ██║██║╚██████╔╝██║ ╚████║
+  ╚═╝        ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+"1984 is a thought-provoking and unsettling exploration of a dystopian society ruled by a totalitarian government. Through the use of an oppressive and controlling regime, I aim to critique the dangers of conformity and the erosion of individual freedom in modern society. Drawing inspiration from real-life events and tying them to a fictional world, 1984 serves as a stark warning against the dangers of blind obedience and the importance of independent thinking. It is a powerful reflection of our current society and a call to action to remain vigilant in the face of threats to our liberty."

@@ -1,0 +1,40 @@
+            0,1╭━━━━━━━━━━━━━━╮
+            0,1│                │
+            0,1│     2,3╭╮     0,1│
+            0,1│     2,3││     0,1│
+            0,1│     2,3╰╯     0,1│
+            0,1│                │
+            0,1│    4,3╭─╮      0,1│
+            0,1│    4,3║ ║      0,1│
+            0,1│    4,3╰─╯      0,1│
+            0,1│                │
+            0,1╰━━━━━╯       4,3╭─╮0,1│
+            0,1                4,3║ ║0,1│
+            0,1      4,3╭─╮     4,3╰─╯0,1│
+            0,1      4,3║ ║            0,1│
+            0,1      4,3╰─╯            0,1│
+            0,1                6,3╭╮0,1│
+            0,1                6,3││0,1│
+            0,1╭━━━━━━━━━━━━━━╮ 6,3││0,1│
+            0,1│                │ 6,3╰╯0,1│
+            0,1│     9,3╭╮     0,1│
+            0,1│     9,3││     0,1│
+            0,1│     9,3╰╯     0,1│
+            0,1│                │
+            0,1╰━━━━━╯       9,3╭─╮0,1│
+            0,1                9,3║ ║0,1│
+            0,1      9,3╭─╮     9,3╰─╯0,1│
+            0,1      9,3║ ║            0,1│
+            0,1      9,3╰─╯            0,1│
+            0,1                12,3╭╮0,1│
+            0,1                12,3││0,1│
+            0,1╭━━━━━━━━━━━━━━╮ 12,3││0,1╰╯
+            0,1│                │ 12,3╰╯
+            0,1│     3,8╭╮     12,3╭─╮
+            0,1│     3,8││     12,3║ ║
+            0,1│     3,8╰╯     12,3╰─╯
+            0,1│                │
+            0,1╰━━━━━━━━━━━━━━╯
+            
+            
+My latest artwork, titled "DMT Machine Elf Goes on Strike for Better Pay," depicts a fantastical scene where one of the mysterious beings from DMT psychedelic experiences, known as a machine elf, has taken a stand for better working conditions. Through this piece, I aim to comment on the exploitation of workers in modern societies and the need for fair compensation and appreciation for all beings, even those who exist in other dimensions. The vibrant colors and surreal elements in the artwork serve to captivate the viewer and spark a deeper contemplation about societal issues.

@@ -1,0 +1,28 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃　　　　　　　　　　　　　　　　　　　　02marginalisation　　　　　　　　　　　　　　　　　　　　　　　　　　┃
+┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃
+┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃
+┃　　　　　　02┏━╋┳━━━━┳━╋━┳━━━┳━━━━━┳━━━┳━┓　　　┏━━━━━━━┳━━━━━┳━━━┳━━━━━┳━━━┳━┓　　  ┃
+┃　　　　　　┃　 　┃　　 　┃　┃　　┃　　　┃　　　┃　┃　　 　┃　　　　┃　　　┃　　　┃　　　┃　　　┃　┃　　　  ┃
+┃　　　　　　┣━━━╋━━━┳━┫　┃　　┣━━━┳━┫　　　┣━━━┓　　┣━━━┳━┳━┫　　　┣━━━┳━┫　　　┣━━━┓　　┃　　　　┃
+┃　　　　　　┃　　　┃　　　┃　┃　　┃　　　┃　　　┃　　　┃　┃　　┃　┃　　　┃　　　┃　┃　　　┃　　　┃　　　┃　　　　┃
+┃　　　　　　┣━━━┻━━━┻━┻━━┻━┻━━━┻━━━┻━━━┻━━━┛　　┣━━━┻━┻━┻━━━┻━━━┻━┻━━━┻━━━┛　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┠━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┨　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┃　　　　　　┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　┃
+┣━━━━━━━━━┫　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┣━━━━━━━━━┫
+┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　　　┃
+┃　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┃　　　　　　┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+"Marginalisation" is an immersive and thought-provoking exploration of the societal systems that perpetuate division and inequality. Through a series of interactive installations and striking visual representations, the piece challenges viewers to confront the impacts of marginalisation on individuals and communities. It aims to disrupt conventional perspectives and foster meaningful dialogue about the power dynamics at play in our society. Beyond mere observation, "Marginalisation" invites viewers to actively engage with the complex themes and consider their own role in the perpetuation or dismantling of these harmful structures.

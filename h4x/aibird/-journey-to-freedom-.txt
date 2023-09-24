@@ -1,0 +1,24 @@
+        ❰❱❱╭────╮❰❱❰
+        ❰❱❱│  5█████████████ 0  7╗❰❱
+        ❰❱❰│ 1█  3█         5 4█  2█   0 7║❰
+        ❰❱❰│ 2█  3█  2█  3█  5 4█  2█  3█  4█  3█  2█  3█  2█  1║❰
+        ❰❱❰│ 3█  1█  3█  1█  5 4█  1█  3█  4█  2█  3█  2█  1║❰
+        ❰❱❰│ 3█  1█  3█  1█  5 4█  1█  3█  4█  2█  3█  2█  3█  2║❰
+        ❰❱❰│ 3█  1█  3█  1█  5 4█  1█  3█  4█  2█  3█  2█  3█  2║❰
+        ❰❱❰│ 3█  1█  3█  1█  5 4█  1█  3█  4█  2█  3█  2█  3█  2║❰
+        ❰❱❰│ 2█  3█  2█  3█  5 4█  2█  3█  4█  1█  3█  2█  1█  4║❰
+        ❰❱❰│ 1█  3█  1█  3█  5 4█  3█  1█  4█  1█  3█  1█  3█  1║❰
+        ❰❱❰║    7█  1█  5 4█  2█         7 4█  2█  1█  3█  1║❰
+        ❰❱❰║    7█  1█  3█  2█  3█  2█  3█  1█  3█  1█  3█  1║❰
+        ❰❱❱║    7█  1█  2█  3█  2█  3█  2█  1█  2█  3█  1█  1║❰
+        ❰❱❰║    7█  1█  1█  3█  2█  1█  3█  1█  1█  3█  2█  1║❰
+        ❰❱❰║    7█  2█  1█  3█  2█  1█  3█  1█  1█  2█  2█  1║❰
+        ❰❱❰║    7█  3█  2█  1█  3█  1█  3█  1█  2█  2█  3█  1║❰
+        ❰❱❰║    7█  4█  3█  2█  1█  3█  1█  3█  3█  2█  3█  1║❰
+        ❰❱❰║    7█  5█  4█  3█  2█  1█  3█  1█  4█  2█  3█  1║❰
+        ❰❱❰║    7█  6█  5█  4█  3█  2█  1█  1█  3█  4█  2█  1║❰
+        ❰❱❰║    7█  7█  6█  5█  4█  3█  2█  2█  1█  4█  3█  1║❰
+        ❰❱❰║    7█  8█  7█  6█  5█  4█  3█  3█  1█  3█  4█  1║❰
+        ❰❱❰║    7█  9█  8█  6█  5█  4█  4█  4█  2█  2█  3█  1║❰
+        ❰❱❰║    0█  0█❰❱❱❰❱╰────╯❰❰❰❰❱❱❰❰❰❰❰❱❱❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰❰
+"Through a provocative display of multimedia elements, my piece 'immigration' challenges societal norms and forces the viewer to critically examine the concept of national borders. Using a juxtaposition of images and sounds, I aim to blur the lines between oppressor and oppressed, perpetrator and victim, in the context of migration. By addressing the complexities of this issue, my artwork serves as a powerful statement on the human experience and the inherent flaw in artificial divisions."
