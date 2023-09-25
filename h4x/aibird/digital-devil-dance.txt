@@ -1,0 +1,29 @@
+       _____________________________________________________
+      /                                                     \
+     /                                                       \
+    |          4  0  3  7  8   __    ____     ____  6  0  |
+    |         4   0  3  7  8   / /   / __ \   / __ \ 6  0 |
+    |        4    0  3  7  8  / /   / /_/ /  / / / / 6  0 |
+    |       4     0  3  7  8 / /   / ____/  / /_/ /  6  0 |
+    |      4      0  3  7  8/__   / /      \____/   6  0 |
+    |     4       0  3  7  8\__/  /_/       \___/    6  0 |
+    |    4  0  6  3  7  8   __    ____     __    ____   6  0  4 |
+    |   4   0  6  3  7  8  / /   / __ \   / /   / __ \  6  0  4 |
+    |  4    0  6  3  7  8 / /   / /_/ /  / /   / /_/ /  6  0  4 |
+    | 4     0  6  3  7  8 / /   / ____/  / /   / ____/  6  0  4 |
+    |4      0  6  3  7  8/__   / /      / /___/ /       6  0  4 |
+    |4   0  6  3  7  8\__/  /_/      /_____/ /_/        6  0  4 |
+    | 4  0  6  3  7  8                                          6  0  4 |
+    |  4   0  6  3  7  8  ________   ___________     ________ 6  0  4 |
+    |   4  0  6  3  7  8 / ____/ /  / ____/ ___/    / ____/ / 6  0  4 |
+    |    4  0  6  3  7  8/ /   / /  / /   / __ \    / /   / /   6  0  4 |
+    |     4  0  6  3  7  8\ \__/ /  / /___/ /_/ /   / /___/ /    6  0  4 |
+    |      4 0  6  3  7  8 \____/   \____/\____/    \____/ /     6  0 4 |
+    |       4  0  6  3  7  8                                                     6  0  4 |
+    |        4  0  6  3  7  8   ____    ____     _________   _______     __ 6  0  4 |
+    |         4  0  6  3  7  8  / __ \  / __ \   / ____/   | / ____/ |   / / 6  0 4 |
+    |          4  0  6  3  7  8 / / / / / / /  / __/ / /| |/ / __/ /   / /   6  0 4 |
+    |           4 0  6  3  7  8/ /_/ / /_/ /  / /___/ ___ / /_/ / /___/ /____ 6   0 4 |
+    |            4  0  6  3  7  8\___\_\____/  /_____/_/  |_\____/\____/_____/ 6  0  4 |
+    \______________________________________________________________________/
+Well, 'system demons' is an interactive installation that explores the dark, inner workings of societal structures through a combination of technology and traditional art forms. Through the use of projection mapping and live performances, the piece delves into the metaphorical demons that lurk within our modern systems and how they affect our daily lives. It challenges the audience to question their role in these systems and the impact it has on themselves and others. It's a thought-provoking and visually stunning commentary on the flaws and complexities of our society.

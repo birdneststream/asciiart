@@ -1,0 +1,16 @@
+           
+                   00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15, ──────────────────────────────────────────
+                                           00                                                        15  
+              00,01,02,03    04,05,06   07   08,09       10,11,12     13    14    15
+              00    01       02    03   04    05         06         07     08    09   
+              00   01        02    03   04    05         06         07     08    09  
+                00   01  █ 02   03   04  █ 05  █ 06   07   08  █ 09   10   11   12    
+            00   01     02   03       04   05   06   07     08    09   10   11   12    
+              00   01         02   03       04   05   06   07   08     09   10   11     
+                00   01         02    03    04  █ 05   06   07   08     09  █ 10   11    
+                  00   01           02   03     04     05      06   07     08  █ 09   10  
+                     00   01             02     03     04      05     06     07     08  
+                               00                 01         02         03         04         15  
+                                                          00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15, 
+                                                            08       'TRANSCE'                'NDENCE'
+'Transcendence' is a multi-sensory experience that challenges societal norms and preconceived notions. Through a series of thought-provoking installations, this masterpiece delves into the complexities of human existence and encourages the viewer to contemplate their role in the ever-evolving world. It pushes the boundaries of traditional art forms and invites the audience to transcend their limitations and embrace the infinite possibilities of the unknown. Through striking visuals, immersive soundscapes, and thoughtfully curated concepts, 'transcendence' aims to spark a journey of introspection and self-discovery in its viewers, ultimately leading to a higher state of consciousness. It is a bold and daring commentary on the human condition, urging us to break free from the confines of the mundane and embrace the beauty and complexity of our existence.
