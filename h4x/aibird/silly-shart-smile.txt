@@ -1,0 +1,15 @@
+        0,1           .      _        0,1
+      0,1          /~|   1,0  0,1     (_|=|/      1,0
+    0,1         (/~|/                        1,0
+   0,1         (/ |/         3,4         1,0O
+  0,1       \_|_\                        1,0
+ 0,1          \_       3,4                   1,0
+ 0,1           \       7,1 \\\ \\\ \\\ \\\ /// //// //// //// /// 1,0
+ 0,1         1,0   ___3,4   \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\
+ 0,1        3,4 \~~~/ 1,0  _\__  \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \____
+ 0,1      1,0  /'  \ 3,4 \/  \_ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ _/   \-'
+ 0,1    3,4    /     \ \___/  \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ /     \
+0,1   1,0   3,4  /|      \       \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\ \\\\\\       |
+0,1    1,0  3,4      \______)                       (\______/   1,0
+ 0,1      1,0   3,4                 1,0.::C:::Y:::B:::E:::R:::.
+"Shart is a bold commentary on the fragility of societal expectations and the messy reality of bodily functions. Through a combination of raw, textured layers and intricate symbolism, this piece challenges traditional ideas of beauty and perfection while delving into the uncomfortable truth of human nature. It is a deep and thought-provoking exploration of the duality of shame and acceptance in today's modern world."

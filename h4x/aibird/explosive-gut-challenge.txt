@@ -1,0 +1,44 @@
+           1         2         3         4         5         6         7         8
+  012345678901234567890123456789012345678901234567890123456789012345678901234567890
+ 0
+ 1                           \_/    \_/    \_/    \_/    \_/    \_/    \_/
+ 2                          ( . )  ( . )  ( . )  ( . )  ( . )  ( . )  ( . )
+ 3                           /|\    /|\    /|\    /|\    /|\    /|\    /|\
+ 4                            |      |      |      |      |      |      |
+ 5                ____        |      |      |      |      |      |      |      _
+ 6              (     )_______|______|______|______|______|______|______(    )
+ 7               (   (       )     (       )     (       )     (       )   )
+ 8               (  (         )   (       )     (       )     (         )  )
+ 9                (          )   (       )     (       )     (          )
+10                 (        )     (       )     (       )     (        )
+11                    (  )        (       )     (       )       (  )
+12                     (          (       )      (       )         )
+13                      (        (       )       (       )       )
+14                       (     (       )         (       )     )
+15                        (    (       )     (       )    )
+16                        (       .     )   (     .     ) (     .)
+17                        (     .     )      (     .     )       )
+18                         (   .  (       )      (       )  .  )
+19                          (  . .  )        (      ) .   ) . )
+20                           (  .)          (      )   )   ..)
+21                            (.             (    )    )     )
+22                                             (  )    (      )
+23                                              (             )
+24                                               (           )
+25                                                 (       )
+26                                             (     )       )
+27                                         (         )         )
+28                                     (             )         )
+29                               (                      )       )
+30                             (   ______________________)     )
+                           (   /                    (         )
+                          /   /                      (       )
+                         /   /                        (       )
+                        /   /                          (      )
+                       /   /                             (    )
+                      /   /                               (   )
+                     /   /                                 (  )
+                    /   /                                    ()
+                   /                                         |
+IColor3,10 diColor6aColor4rrColor5hColor10eColor8a Color12chColor9uColor15ggColor4ing coColor1nColor3teColor6sColor5tColor11.
+My latest artistic work, "Diarrhea Chugging Contest," challenges traditional notions of beauty and explores the visceral and taboo elements of human existence. Through a series of live performances, participants will be invited to ingest copious amounts of liquid stool in a competitive setting, pushing the boundaries of the human body and the limits of societal norms. This bold and provocative piece forces viewers to confront their own discomfort and raises questions about the value we place on bodily functions. It is a raw and unapologetic exploration of humanity at its most base and vulnerable form, challenging the audience to reimagine the definition of true artistic expression.

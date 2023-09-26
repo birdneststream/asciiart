@@ -1,0 +1,44 @@
+  0,1               ██████████          
+  0,1             ██        ██          
+  0,1             ██        ██          
+  0,1             ██        ██          
+  0,1             ██        ██          
+  0,1             ██        ██          
+  0,1             ██        ██          
+  0,1       ██████████████████████      
+  0,1      ████,0██,1██.0██,1██,0███     
+  0,1    ████,0███,1███,0███,1███,0███    
+  0,1   ████,0███,1███,0███,1███,0████    
+  0,1   ████,0███,1███,0███,1███,0████    
+  0,1   ████,0███,1███,0███,1███,0████    
+  0,1    ████,0███,1███,0███,1███,0███    
+  0,1      ████,0██,1██,0██,1██,0███     
+  0,1        █████████████████████       
+  0,1                     ██              
+  12,1         ████,0███ ███████           
+  12,1       ████,0███,1███ ████,0███      
+  12,1      ████,0███,1███ ████,0███       
+  12,1      ████,0███,1███,0███,1███       
+  12,1      ████,0███,1███,0███,1███       
+  12,1       ████,0███,1███ ████,0███       
+  12,1         ████,0███ ██████            
+  12,1                   ██                
+  0,1                 █████                    
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+  0,1                ███,1███
+"Odd Goosr" is a satirical commentary on society's desire to categorize and label everything, even the seemingly insignificant. Through the use of a hybrid creature, half-goose and half-ostrich, I challenge the audience to question the absurdity of our obsession with labeling and fitting things into neat boxes. The grotesque and unconventional nature of the "odd goosr" serves as a thought-provoking and humorous symbol for the rigidity of our societal norms.
