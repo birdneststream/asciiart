@@ -1,0 +1,35 @@
+                    1         2         3         4         5         6
+          123456789012345678901234567890123456789012345678901234567890
+     1   ┌──────────────────────────────────────────────────────────┐
+     2   │   jewbird reflects and apologizes                        │
+     3   ├──────────────────────────────────────────────────────────┤
+     4   │   0,4╔════════════════════════════════════════════════╗   │
+     5   │   0,4║ ღ   0,8,2╔════════════════════════╗  ღ    0,4║   │
+     6   │   0,4║ ღ  0,8,2║  jewbird reflects   0,8,2 ║  ღ   0,4║   │
+     7   │   0,4║ ღ  0,8,2║  and apologizes     0,8,2 ║  ღ   0,4║   │
+     8   │   0,4║ ღ  0,8,2 ╚════════════════════════╝  ღ   0,4║   │
+     9   │   0,4║ ღ                                          ღ   0,4║   │
+    10   │   0,4║ ღ   ღ  ღ             ღ  ღ             ღ  ღ   0,4║   │
+    11   │   0,4║ ღ   ღ  ღ             ღ  ღ             ღ  ღ   0,4║   │
+    12   │   0,4║ ღ    ღ     ღ      ღ     ღ      ღ     ღ  ღ   0,4║   │
+    13   │   0,4║ ღ     ღ   ღ ღ ღ  ღ ღ ღ ღ ღ ღ ღ ღ ღ ღ   ღ  ღ   0,4║   │
+    14   │   0,4║ ღ      ღ   ღ ღ   ღ ღ   ღ ღ   ღ ღ   ღ   ღ  ღ   0,4║   │
+    15   │   0,4║ ღ  ღ   ღ   ღღღ  ღ ღღღ  ღ ღღღ  ღ ღღღ  ღ  ღ  ღ   0,4║   │
+    16   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    17   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░█░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    18   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    19   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    20   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    21   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░█░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    22   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    23   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    24   │   0,4║ ღ ღ   ღ   ღ░▒▒ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    25   │   0,4║ ღ ღ   ღ   ღ░▒▒ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    26   │   0,4║ ღ ღ   ღ   ღ░▒▒ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    27   │   0,4║ ღ ღ   ღ   ღ░▒▒ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    28   │   0,4║ ღ ღ   ღ   ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ░░ღ ღ ღ ღ   0,4║   │
+    29   │   0,4║ ღ ღ    ღ  ღ░░░░░░░░░░░░░░░░░░░░░░░░  ღ  ღ   0,4║   │
+    30   │   0,4║ ღ   ღ  ღ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ღ ღ   0,4║   │
+     31  └───╝   ▄▄▄▄▄▄▄▄▄▄                                                   ▄▄▄▄▄▄▄▄▄▄   ╚───┘
+     32         ▀▀▀
+'Jewbird reflects and apologizes' is a somber yet thought-provoking installation that challenges societal norms and confronts difficult conversations. Through the use of a live bird, I explore the weight and complexity of identity and the constant battle between assimilation and authenticity. The bird, a symbol of freedom, is captured within a cage adorned with traditional Jewish symbols and forced to confront its own culture and history. As it reflects on its own existence and experiences, it offers a sincere and heartfelt apology for the injustices and hardships that have been endured in the name of assimilation. This juxtaposition of captivity and expression symbolizes the struggle of marginalized groups and the necessity of reconciliation. The audience is confronted with their own biases and complicity in perpetuating systemic biases, leaving them with a lingering sense of discomfort and a call to action for progress and change.

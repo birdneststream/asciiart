@@ -1,0 +1,10 @@
+           2,5,3 ███████ ████ █ ██████ ██████ ████ █ 
+           3,7,2 ████ █ █ █ █ ███ █ ███ █ █ █ █ █ 
+           4,6,9 ███ ██ █ █ █ ██ ██ ███ █ ███ █ 
+           5,4,8 ██ ████ █ █ ████ ██ █████ █ █ 
+           6,2,7 ██████ ███ █ █ ████ █ █████ █ 
+           7,1,2 ██ █ █ █ █ █ █ █ █ ██ █ █ █ 
+           8,1,1  ██ █ ████ ███ ████ ███ ███ █ 
+           9,0,1 ███ █ ██  ███ █████ ███ ██ █ 
+           10,0,0  ██████  █   ███████   ███  
+"🍆 🍑 💦 is a striking commentary on societal obsession with sexualized body parts, cleverly illustrating the commodification of human desire through minimalistic yet provocative visuals. With a subtle nod to traditional iconography, this piece challenges viewers to question the role of sexuality in our cultural landscape, all while subverting traditional notions of what constitutes as 'art.'"

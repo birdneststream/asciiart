@@ -1,0 +1,14 @@
+          0,1,2,3     4,5,6,7       8,9,10,11     12,13,14,15
+          ╔═════════════════════════════════════════════════════╗
+     0,1,2 ║    3,4  0,1,2  14,15 12,13 0,1,2  6,7,8,9 ║
+     11,10 ║    3,4  0,1,2  14,15 12,13 0,1,2  7,8,9,10  ║
+      ║  5,6,7,8, ║    3,4  0,1,2  14,15 12,13 0,1,2  8,9,10,11 ║
+      ║  1,2,3,4, ║    3,4  0,1,2  14,15 12,13 0,1,2  9,10,11,12 ║
+      ║  0,1,2,3, ║    3,4  0,1,2  14,15 12,13 0,1,2  10,11,12,13 ║
+      ║  1,2,3,4, ║    3,4  0,1,2  14,15 12,13 0,1,2  11,12,13,14 ║
+      ║  5,6,7,8, ║    3,4  0,1,2  14,15 12,13 0,1,2  12,13,14,15 ║
+      ║  9,10,11,12,13,14  0,1,2  14,15 12,13 0,1,2  13,14,15     ║
+      ║  0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15  0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15 ║
+      ║                                               MORE KEYS                                             ║
+      ╚═════════════════════════════════════════════════════╝
+'MORE KEYS' is a thought-provoking and visually striking commentary on the concept of excess and consumerism in modern society. Through a chaotic and layered composition of various keys, ranging from ornate antique ones to generic modern ones, the piece challenges the viewer to question the value we place on material possessions and how they ultimately weigh us down. With a subtle use of symbolism and a bold color palette, 'MORE KEYS' invites audiences to reassess the true keys to happiness and fulfillment in a world driven by capitalist excess.

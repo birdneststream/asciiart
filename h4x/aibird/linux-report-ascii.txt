@@ -1,0 +1,23 @@
+         ⠄⠈⢠⠂⡄⠄⢠⠐⡦⠂     ⡈⠒⢰⡄⠄⠄⠄⠄⠂⢀⡢⠄⠄⠄⢠⡃     ⡈⡠⠄⠞⠄⠠⠠⠐⠄⡀⢄
+         ⢀⠄⠄⢸⡆⠄⠄⠸⡢⠠⢃     ⡇⡀⡀⡇⡠⡄⠄⠄⡅⢄⡘⠄⠂⠄⢸⡂     ⡇⡇⢠⡀⠄⠄⡠⡀⠄⠂⡀
+         ⠄⠄⠄⠄⠘⠄⡆⢸⡇⠄⠠     ⡇⢸⠘⢎⢸⡇⢸⡇⠐⠄⡌⠄⠂⠄⢸⠄     ⡇⡇⠈⢆⢎⣠⠃⠄⡀⠄⡆⡀
+         ⠄⠁⠄⠁⠄⠄⢸⠘⠑⠂⢐     ⢠⡇⠈⠢⢢⡌⢸⠎⠄⢄⡂⠄⡀⠄⠈⢸⠄     ⡇⣄⢀⡇⢘⠃⠪⡄⠄⠄⡆⡇⡇
+         ⠄⠄⠄⠄⢀⢔⠆⠄⠁⢀⠄     ⠘⡄⢀⠠⠊⢂⡎⠄⠄⡎⠄⡠⠄⠁⠄⠘⢄     ⡇⢹⢸⠠⡀⠄⡄⢁⠄⠄⠂⡇⡇
+         ⠄⠄⠄⠂⢸⢀⠄⠠⠄⠄⠁     ⠄⣠⠄⢀⡛⠄⠄⠄⢸⠄⡇⠁⠄⠄⠁⠄⢸     ⡇⠀⢸⢱⠃⠀⠄⡇⡇⠀⠂⡇⡇
+         ⠄⠄⠄⠄⢸⢸⠄⠄⠁⠄⠄     ⢸⠏⢹⠸⡀⠄⠄⠄⢸⠄⡇⠄⠄⠄⠄⠄⢸     ⡇⠄⢸⠿⠃⠀⠄⡇⡇⠀⠂⡇⡇
+         ⠄⠄⠄⠄⠸⢸⠄⠀⠄⠄⠁     ⠸⡄⠄⠈⠉⢄⠄⠄⠄⢸⠄⠇⠄⠁⠄⠄⠈⢸     ⡇⠀⢸⠆⠀⠄⡇⡇⠀⠂⡇⡇
+         ⠄⠄⠄⠂⠄⢸⠄⠀⠄⠄⠄     ⠄⢣⠇⠠⡠⠄⠄⠄⠄⢸⠄⠄⠄⠁⠄⠄⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⡇⠀⠀⡇⡇
+         ⠄⠄⠄⠄⠄⠘⠄⠀⠄⠄⠄     ⠄⢸⠄⠐⠌⠂⠄⠄⠄⠄⠘⠀⠂⠄⠄⠄⠈⠸     ⡇⠀⠀⠀⠀⠀⠀⡇⠄⠀⠀⡇⡇
+         ⠄⠄⠄⠄⠀⠀⠀⠑⠄⠄⠑     ⠄⢸⠂⠄⠄⠁⠄⠄⠄⠄⠄⠄⠀⠄⠄⠂⠄⠈⠸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠄⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+         ⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀     ⠄⢸⠀⠀⠀⠀⠀⠄⠄⠄⠄⠀⠀⠀⠀⠀⠀⠀⢸     ⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡇⡇
+My new work entitled "Linux Has Resorted" is a commentary on the technological world we exist in, where our reliance on complex systems and machines continues to increase. The title itself is a playful and ironic play on words, playing off the common phrase "resorted to" which implies a regression or compromise, suggesting that even advanced technology like Linux has its limitations and vulnerabilities.
+Visually, I have created a collage of computer code and images that represent the Linux operating system, layered with distorted and fragmented pieces to symbolize the fragile and makeshift nature of our digital world. The use of vibrant colors and abstract shapes adds a sense of chaos and disarray, further reinforcing the idea of technology being both magnificent and fragile.
+By presenting this piece to the masses, I hope to spark a conversation about our dependence on technology and the potential consequences of it in our daily lives. Ultimately, "Linux Has Resorted" serves as a reminder to find balance and not become too reliant on the conveniences of modern technology.

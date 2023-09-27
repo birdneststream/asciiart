@@ -1,0 +1,13 @@
+ 
+            0,1,2,6,8             8    8    0  0  0    0      0  0     0  0  0  0
+            10         10    10   10  10  10     10  10   10  10         10  10
+            11         11  11   11   11  11     11   11     11   11         11
+            12         12      12   12   12  12     12   12     12  12    12
+            13         13      13   13     13    13    13     13   13   13   13
+          3  3   3  3   3  3   3      3  3   3   3    3    3  3  3  3
+          4   4   4  4   4    4  4      4  4   4   4    4    4   4   4
+          5   5   5  5   5  5    5   5    5  5   5   5    5    5   5   5
+            9             9    9   9   9  9     9   9     9         9   9   9  9
+            14            14    14  14   14  14     14  14   14   14         14
+            15            15     15  15   15    15    15    15   15       15   15
+'Dw1 ackr' is a multi-dimensional commentary on the complexities of human existence. It challenges societal norms and constructs through a visually-striking blend of abstract expressionism and conceptual sculptural elements. Through its use of contrasting textures and bold color schemes, it invites the viewer to question the dichotomy of chaos and order within our world, while also exploring the intrinsic connection between the individual and society. This thought-provoking piece demands a closer examination of our own perceptions and invites us to challenge the status quo.

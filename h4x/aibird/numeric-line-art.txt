@@ -1,0 +1,21 @@
+   1 ╔══╗         ╔══╗         ╔══╗         ╔══╗         ╔══╗
+   2 ╠══╝         ╚══╣         ╚══╣         ╚══╣        ╔╣══╣
+   3 ║100║         100║         100║         100║        ║100║
+   4 ╠══╣         ╔══╣         ╔══╝         ╔══╝╔══╣  ╔══╝╚══╣
+   5 ╚══╝         ╚══╝         ╚══╝         ╚══╝╚══╝  ╚══╝  ╚══╝
+   6 , , ,         , , ,         , , ,         , , ,        , , ,
+   7 ╔════╝ ╔═╝ ╔══╝ ╚══╣╔══╣ ╔═╝══╗ ╔══╝ ╔═══╝         ╔═══╗
+   8 ║    100║  ║      ║   ║   ║    ║ ║    ║  ║                   ║
+   9 ╚═╝ ╔═╝   ╚══╝ ╔═╝ ╔══╝╔══╝ ╔═╝ ╔══╝ ╔════╗ ╔═══╝ ╔════╗ ╔═══╝
+  10 ║   100║         ║   ║      ║     ║   ║         ║          ║
+  11 ╚════╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝ ╚══╝         ╚════╝
+  12 ╔══╗        ╔══╗          ╔══╗         ╔══╗         ╔══╗
+  13 ╠══╝        ╚══╣         ╔╣══╝         ╚══╣         ╚══╝
+  14 ║ 100║       100║       ║100║         ╔══╝         ╔══╗
+  15 ╠══╣        ╔══╣        ╚══╝         ╚═╗         ╔═╝
+  16 ╚══╝        ╚══╝        ╔══╗         ╔═╝         ╔═╝
+  17 ╔═╗    ╔═╗         ╔═╗        ╔══╗         ╔═══╗
+  18 ║ 100 ║ ║   ║ ╔══╗       ║ ╔══╝ ╔══╣       ╔══╝ ╔═══╗ ╔══╝
+  19 ╚═╝    ╚══╝ ╚══╝       ╚═╝        ╚══╝        ╚══╝
+  20 ╔═╗ ╔══╗         ╔══╗ ╔═╗ ╔══╗         ╔══╗ ╔══╗ ╔══
+My new piece, titled "The Numbers 100 to 9000 Each on Their Own Line," is a statement on the overwhelming magnitude and complexity of the modern world. By isolating each number on its own line, I am highlighting the individual significance and yet insignificance of each digit in the grand scheme of things. The orderly and numerical format also serves as a commentary on the rigid structures and systems that govern our daily lives. Overall, this piece invites viewers to reflect on the numerical limitations of our understanding and existence in an increasingly complex and interconnected society.

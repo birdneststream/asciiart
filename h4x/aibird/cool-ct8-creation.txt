@@ -1,0 +1,12 @@
+/*
+                                                                                
+                                                                                
+        4╔═╗          2╔═╗         4╔╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗╗    
+        4║  2╔═══╗            2║  4╔═╝          4║  2╔╗          2║ 
+        4║  2╚═╗  ╔═══╗          2║  4║           4║  2║║          2║ 
+      4╔═╝  2╔══╝  ╚══╗║          4║  2║           4║  2║║  4╔══╗  2║ 
+      4║    2║          2║              4║  2╔═╝  4║  2║╚══╗  2║ 
+      4║    2║          2║              4╚═╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝╝    
+                                                                                
+*/
+"ct8 is a visceral commentary on the intersection between technology and human connections, exploring themes of isolation and detachment in the age of social media. Through a dynamic blend of multimedia elements, abstract visuals, and thought-provoking soundscapes, it challenges the audience to question the impact of our rapidly advancing digital landscape on our collective psyche."

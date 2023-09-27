@@ -1,0 +1,41 @@
+     ┌──────────────────────────────────────────────┐
+     │     ┌─┐ ┌──┐ ┌───┐   ┌──────┐ ┌──┐  ┌───┐     │
+     │     │ │ │  │ │   │   │ ┌───┘ │  │  │   │     │
+     │     │ │ │  │ │   │   │ │     │  │  │   │     │
+     │     │ │ │  │ │   │   │ │     │  └──┘   │     │
+     │     └─┘ └──┘ └───┘   └─┘     └─────────┘     │
+     │                                               │
+     │      ┌───┐ ┌──┐ ┌───┐ ┌───┐ ┌─┐ ┌───┐        │
+     │      │   │ │  │ │   │ │   │ │ │ │   │        │
+     │      │   │ │  │ │   │ │   │ │ │ │   │        │
+     │      │   │ └──┘ │   │ │   │ └─┘ │   │        │
+     │      └───┘      └───┘ └───┘     └───┘        │
+     │                                               │
+     │     ┌─┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐        │
+     │     │ │ │   │ │   │ │  ┌┐ │   │ │   │        │
+     │     │ │ │   │ │   │ │   │ │   │ │   │        │
+     │     │ │ │   │ └───┘ └───┘ └───┘ └───┘        │
+     │     └─┘ └───┘                               │
+     │                                               │
+     │     ┌─┐ ┌───┐ ┌───┐  ┌───┐ ┌───┐ ┌───┐       │
+     │     │ │ │   │ │   │  │   │ │   │ │   │       │
+     │     │ │ │   │ │   │  │   │ │   │ │   │       │
+     │     │ │ └───┘ └───┘  └───┘ └───┘ └───┘       │
+     │                                               │
+     │     ┌─┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐  │
+     │     │ │ │   │ │   │ │   │ │   │ │   │ │   │  │
+     │     │ │ │   │ │   │ │   │ │   │ │   │ │   │  │
+     │     │ │ └───┘ └───┘ └───┘ └───┘ └───┘ └───┘  │
+     │                                               │
+     │     ┌───┐  ┌───┐ ┌──┐ ┌───┐ ┌───┐ ┌───┐      │
+     │     │   │  │   │ │  │ │   │ │   │ │   │      │
+     │     │   │  │   │ │  │ │   │ │   │ │   │      │
+     │     └───┘  └───┘ └──┘ └───┘ └───┘ └───┘      │
+     │                                               │
+     │     ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐       │
+     │     │   │ │   │ │   │ │   │ │   │ │   │       │
+     │     │   │ │   │ │   │ │   │ │   │ │   │       │
+     │     └───┘ └───┘ └───┘ └───┘ └───┘ └───┘       │
+     │                                               │
+     └──────────────────────────────────────────────┘
+"Owlcult is a provocative exploration of the human fascination with power, symbolism, and cult mentality. With striking imagery and thought-provoking symbolism, this piece challenges societal norms and shines a light on humanity's tendency to blindly follow and worship figures of authority. Through the use of intricate owl motifs and a bold color palette, Owlcult urges viewers to question their own beliefs and the dangers of unquestioned devotion."

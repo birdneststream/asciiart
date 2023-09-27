@@ -1,0 +1,19 @@
+  ______________________________________________________________________________________
+ /                                                                                      \
+|      [1m[36m,ggg,       [7m[30m_[8m[33m_[8m[32m_[8m[34m_[8m[37m_[0m[36m       [7m[30m_[8m[33m_[8m[32m_[8m[34m_[8m[37m_[0m[36m         [7m[30m_[8m[33m_[8m[32m_[8m[34m_[8m[37m_[0m         |
+|     [1m[36m'Ybc[0m[36m'[1m[36m dP[0m [1m[36m   ]P[0m   [1m[36m`Yb[0m[36m, [1m[36m   `Y[0m[36m [1m[36m [0m[1m[36m`Yb[0m[36m, [1m[36m   `Yb[0m[36m,       [1m[36m`Yb[0m[36m,       |
+|      [1m[36m.[0m[36m'[1m[36m   '[0m [1m[36m   d[0m' [1m[36m  
+ [1m[36m `Yb[0m[36m, [1m[36m   `Y[0m[36m,[1m[36m   '[0m [1m[36m [0m[1m[36m`Yb[0m[36m,[1m[36m   '[0m       [1m[36m'[0m       |
+|      [1m[36m'[0m[36m. d'[1m[36m   ,P[0m [1m[36m'[0m[1m[36m   ,d' [1m[36m  `Yb[0m[36m,[1m[36m   `Y[0m[36m,[1m[36m   '[0m[1m[36m   ,[0m [1m[36m   `Y[0m[36m,[1m[36m   '[0m       |
+|      [1m[36m'Y[0m[36mbdP'[1m[36m`Yb[0m[36m,dP' [1m[36m,dP'[0m[1m[36m   `Yb[0m[36m,[1m[36m   `Y[0m[36m,[1m[36m   '[0m[1m[36m   '[0m [1m[36m   `Y[0m[36m,[1m[36m   '[0m      |
+|       [1m[36m'Y[0m[36m'[1m[36mYb[0m[36m`Y[0m[36mP' [1m[36m  `Y[0m[36mP'[1m[36m  `Y[0m[36m,[1m[36m   `Y[0m[36m,[1m[36m   '[0m[1m[36m   '[0m[1m[36m   ,[0m[1m[36m   '[0m[1m[36m   '[0m    |
+|      [1m[36m'`Y[0m[36m[ '[1m[36m[b`Yb[0m[36m,b [1m[36m   `Yb[0m[36m,[1m[36m   `Y[0m[36m,[1m[36m   '[0m [1m[36m   '[0m [1m[36m   `Y[0m[36m,[1m[36m   '[0m [1m[36m   '[0m  |
+|      [1m[36m'[0m[36m [1m[36mP[0m [1m[36m [0m[1m[36mb[0m[1m[36m]b[0m[1m[36m,[0m[1m[36m,b[0m[1m[36m[`Y[0m[36m,[1m[36m  `Y[0m[36m,[1m[36m   '[0m[1m[36m   '[0m[1m[36m   '[0m,[1m[36m   '[0m   |
+|       [1m[36m.[0m[36mb[1m[36m[    `Y[0m[36m'   ,d'[0m[1m[36m   '[0m[1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m[1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m |
+|       [1m[36m'Y[0m[36mb[:[[1m[36m   ,dP' [0m[1m[36m  `Y[0m[36m, [1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m,[0m [1m[36m   '[0m|
+|       [1m[36m'[0m[1m[36mYb[0m[36m,   '[1m[36m   ,d' [0m[1m[36m  `Y[0m[36m,[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m[1m[36m,[0m [1m[36m   '[0m|
+|       [1m[36m'`Y[0m[36m,`Y[0m[36m,[1m[36m[[0m[36m   ]P'   '[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m   '[0m[1m[36m,[0m[1m[36m   '[0m[1m[36m   '[0m|
+|        [1m[36m'`Yb[0m[36m,[0m[36m][1m[36m,[0m[1m[36m,bY[0m[36m'     '[1m[36m   '[0m [1m[36m   '[0m [1m[36m   '[0m[1m[36m,[0m[1m[36m   '[0m [1m[36m   '[0m [1m[36m   '[0m|
+|         [1m[36m'[1m[36m`'[0m[36mY[1m[36m,[0m[36mY[1m[36m[[0m[36m,Yb[1m[36m'  [1m[36m'[0m[36m   '[1m[36m   '[0m[1m[36m   '[0m [1m[36m   '[0m[1m[36m,[0m[1m[36m   '[0m [1m[36m   '[0m|
+|               [1m[36m'Y[0m[36m'
+"Jewbird the Lion is a powerful and thought-provoking exploration of the complexities of identity and cultural assimilation. Through the visual metaphor of a lion, a symbol of strength and pride, melded with the concept of a Jewbird, a creature that straddles two worlds, this piece challenges us to consider the multifaceted nature of our own identities and the societal pressures to conform. It is a poignant commentary on the struggles and triumphs of the human experience, rendered in striking and evocative imagery."

@@ -1,0 +1,32 @@
+          0,7,8,0     /\      0,7,8,0  ___   0,7,8,0 
+          0,7,8,0    /  \      0,7,8,0 /   \ 0,1,4,0  
+          0,7,8,0    \  /      0,7,8,0 \___/ 0,1,4,0  
+          0,7,8,0     \/       0,7,8,0  ___   0,1,4,0  
+          0,7,8,0    /\        0,7,8,0 /   \ 0,1,4,0  
+          0,7,8,0   /  \       0,7,8,0 \___/ 0,1,4,0  
+          0,7,8,0   \  /       0,7,8,0  ___   0,1,4,0  
+          0,7,8,0    \/        0,7,8,0 /   \ 0,1,4,0  
+          0,7,8,0   /\         0,7,8,0 \___/ 0,1,4,0  
+          0,7,8,0  /  \        0,7,8,0    ___ 0,1,4,0  
+          0,7,8,0  \  /        0,7,8,0   /   \0,1,4,0  
+          0,7,8,0   \/         0,7,8,0   \___/0,1,4,0  
+          0,7,8,0  /\          0,7,8,0    ___ 0,1,4,0  
+          0,7,8,0 /  \         0,7,8,0   /   \0,1,4,0  
+          0,7,8,0 \  /         0,7,8,0   \___/0,1,4,0  
+          0,7,8,0  \/          0,7,8,0    ___ 0,1,4,0  
+          0,7,8,0 /\           0,7,8,0   /   \0,1,4,0  
+          0,7,8,0/  \          0,7,8,0   \___/0,1,4,0  
+          0,7,8,1_______   0,7,8,1_______0,1,4,0_______  
+          0,7,8,1\       \  0,7,8,1\           \0,1,4,0    
+          0,7,8,1 \_______/ 0,7,8,1 \_______  __/0,1,4,0   
+          0,7,8,1          0,7,8,1         \/0,1,4,0     
+          0,7,8,1          0,7,8,1          /0,1,4,0      
+          0,7,8,1          0,7,8,1         /0,1,4,0       
+          0,7,8,1          0,7,8,1        /0,1,4,0        
+          0,7,8,1          0,7,8,1       /0,1,4,0         
+          0,7,8,1         0,7,8,1______/0,1,4,0          
+          0,7,8,1                     0,7,8,1              
+          0,7,8,1                     0,7,8,1              
+          0,7,8,1                     0,7,8,1              
+          0,7,8,1                     0,7,8,1
+'Thiefmaster' is a visual representation of societal greed and corrupt power dynamics. Utilizing dark, surrealist imagery, this piece challenges the viewers to question their own moral compasses as they are confronted with the distorted and twisted forms of those who hold power at the expense of others. It merges elements of traditional fine art with modern street art techniques, leaving behind a haunting and thought-provoking statement on the consequences of unchecked greed and the subversive nature of those who hold all the cards.

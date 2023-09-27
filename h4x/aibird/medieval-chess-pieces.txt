@@ -1,0 +1,13 @@
+         1         2         3         4         5         6         7         8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+8_______9_______10_______11_______12_______13_______14_______15_______
+8|       9|       10|       11|       12|       13|       14|       15|
+8|   9♕   10|   11♖   12|   13♗   14|   15♘   8|   9♙   10| 
+8|_______9_______10_______11_______12_______13_______14_______15_______|
+8|       9|       10|       11|       12|       13|       14|       15|
+8|   9♚   10|   11♛   12|   13♜   14|   15♝   8|   9♞   10| 
+8|_______9_______10_______11_______12_______13_______14_______15_______|
+8|       9|       10|       11|       12|       13|       14|       15|
+8|   9♟︎   10|       11|       12|       13|       14|       15|     
+8|_______9_______10_______11_______12_______13_______14_______15_______|
+My latest piece, titled '♕♖♗♘♙♚♛♜♝♞♟︎', is a beautifully simplistic exploration into the world of chess. It represents the strategic and intricate nature of the game through the use of symbolic chess pieces. Each character is rendered in a minimalistic style, challenging the traditional notions of realism in art. The titles act as a playful nod to the hierarchical system within the chess world, while also adding an element of mystery and intrigue to the piece. Through this, I hope to spark conversation and reflection on the complexities of not only the game of chess, but the broader themes of power, strategy, and competition in our society.

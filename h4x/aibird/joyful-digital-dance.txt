@@ -1,0 +1,61 @@
+```
+ ,-----------,
+|  <><>     |
+|  <><> 1   |
+|  ,--,,    |
+|.' ` ` `'. |
+| `'\_`_/'` |
+|   (Q Q)   |
+|    ( )    |
+|   /   \   |
+|  |  __ |  |
+|  | /  \|  |
+|  | |() |  |
+|  |_|_|_|  |
+|   (`"`')  |
+|    | |    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+|    |_|    |
+ `----------'
+0,-------,
+|  1<><>  0|
+|  1<><>  0|
+|  0,--,,  1|
+|0.' ` ` `'.6|
+|1`'\_`_/'`7|
+| 2  (Q Q) 0|
+|  4 (1 ) 2 |
+|3 /   \1  |
+|  5|2  __1 |8 |
+|  4| 1/  6\8|4 |
+|  7|6 |1() 4| 0|
+|3_|2_|5_|1_| 0|
+|7 (`"`')0|
+|  4 | 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+|  7| 6| 1| 0 |
+ `--------'
+EDL EJD is a thought-provoking and socially-charged piece that challenges traditional notions of identity and perception. Through the use of abstract shapes and vibrant colors, I have conveyed the concept of self-discovery and the constant evolution of the self. The title itself is a metaphor for the fluidity of the human experience, as the letters can be rearranged to spell out various words, symbolizing the ever-changing nature of our personal narratives. By deconstructing preconceived notions of self and society, EDL EJD encourages viewers to question their own perceptions and embrace the complexities of the human psyche.
