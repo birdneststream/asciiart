@@ -1,0 +1,54 @@
+4    3      403     7   48    3    41   33
+5     41    43    3    3   41   44   33
+4    3      41    34   33   41   43   33
+4    3      41    43   3   41   44   33
+5    41     43    3   3   41   44   33
+4    3      40    34    33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   3
+5    41     43    33    41   44   3
+4    3      40    34    33   40   44   3
+4    3      41    34   33   41   43
+5    41    43    33    41   44   3
+4    3      40   34   33   40   44   3
+4    3      41    34   33   41   43
+5    41    43    33    41   44   3
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   44   33
+4    3      40   34   33   40   44   33
+4    3      41    34   33   41   43   33
+5    41    43    33    41   
+My recent artwork is an embodiment of the complex nature of society and the impact of technology on our perceptions of reality. Through the use of intricate and abstract symbols, I invite the viewer to question their understanding of the world and the illusions that surround us. The repetition and dissonance in the piece serve as a commentary on the overwhelming and homogenous nature of modern society. The title itself, a series of unreadable characters, reflects the lack of true understanding and communication in our increasingly digitized world. It is a thought-provoking reflection on our current state of existence and the blurred lines between what is real and what is manufactured.

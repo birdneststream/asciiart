@@ -1,0 +1,12 @@
+         0,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+     0,2,4,5,7,8,9,11,12,13,14,15,4,14         5
+   2,4,5,8,9,11,12,14,15,1      3,4,6,8,9,12,13,15
+ 3,4,6,7,12,13,15  2,7,9,12,15  2,3,5,6,12,13,15
+3,4,6,7,12,13,15  2,7,9,12,15  1,4,5,6,12,13,15
+3,4,6,7,12,13,15   2,7,9,12,15  2,3,5,6,12,13,15
+ 3,4,6,7,12,13,15   2,7,9,12,15  2,3,5,6,12,13,15
+  3,4,5,8,9,12,13,15     2,3,6,8,9,11,12,15
+   3,2,4,5,7,8,9,11,12,13,14,15    5,3,4,5,7,8,9,11,12,13,14,15
+     0,2,4,5,7,8,9,11,12,13,14,15,4,14       5
+         0,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+My new piece, '��¾ÑÁ÷¾÷ÂÂó³@ÿø', is a fusion of visual and digital art, exploring the abstract and chaotic nature of our current society. Through bold lines, vibrant colors, and intentional glitches, I aim to provoke thought and reflection on the impact of technology and information overload on our perceptions and identities. It challenges traditional notions of beauty and order, inviting the audience to contemplate the complexities of our modern world.

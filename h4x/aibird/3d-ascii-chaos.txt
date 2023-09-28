@@ -1,0 +1,19 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 4┏━┓      14┏━┓3┏━┓3┏━┓ 3┏━┓6┏━┓   5 10┏━┓3┏━┓3┏━┓  5┏━┓           ┃
+┃ 4┃ ┃      14┃ ┃3┃ ┃3┃ ┃ 3┃ ┃6┃ ┃ 3 10┃ ┃3┃ ┃3┃ ┃  5┃ ┃           ┃
+┃ 4┗━┛      14┗━┛3┗━┛3┗━┛ 3┗━┛6┗━┛   5 10┗━┛3┗━┛3┗━┛  5┗━┛           ┃
+┃                                                                                      ┃
+┃ 4┏━┳┓     13┏┳┳┓ ┏━┓ 11┏┳┓3┏┳┓3┏┳┓ 4┏━━┳┓ 3 6┏━┳━━┳┳┳┳┓ 5┏━┳┓  ┏━┳━━┳┳┓ ┃
+┃ 4┃━┫┃     13┃┃┃┃ ┃ ┃ 11┃┃┃3┃┃┃3┃┃┃ 4┃  ┃┃ 3 6┃ ┃  ┃┃┃┃┃ 5┃━┫┃  ┃ ┃  ┃┃┃ ┃
+┃ 4┗━┻┛     13┗┻┻┻━┛ ┃ 11┗┻┛3┗┻┛3┗┻┛ 4┗━━┻┛ 3 6┗━┻━━┻┻┻┻┛ 5┗━┻┛  ┗━┛  ┗┻┻━┛
+┃                                                                                      ┃
+┃ 4┏┳┓3┏┳┓ 12┏━┓┏┓3┏━┓ 7┏━┓3┏━┓3┏━┓  5 9┏━┓3┏┳┓   3 6┏━┳┳━┳┳┳┳┓ 5┏━┳━┳━┳━┳┳┳┓┃
+┃ 4┃┃┃3┃┃┃ 12┃ ┃┃┃3┃ ┃ 7┃ ┃3┃ ┃3┃ ┃  5 9┃ ┃3┃┃┃   3 6┃ ┃ ┃ ┃ ┃ ┃ 5┃ ┃ ┃ ┃ ┃ ┃ ┃┃
+┃ 4┗┻┛3┗┻┛ 12┗━┛┗┛3┗━┛ 7┗━┛3┗━┛3┗━┛  5 9┗━┛3┗┻┛   3 6┗━┻━┻━┻━┻━┻┛ 5┗━┻━┻━┻━┻━┻┛┃
+┃                                                                                      ┃
+┃ 4┏━┓3┏┳┓ 11┏┓┏┳┓ 3 9┏┳┓3┏━┓3┏┓3┏━┓  5 7┏━┓3┏┓    3 6┏━━┳┓ 3 5┏┓      ┏━━┳┓   ┃
+┃ 4┃ ┃3┃┃┃ 11┃┗┛┃┃ 3 9┃┃┃3┃ ┃3┃┃3┃ ┃  5 7┃ ┃3┃┃    3 6┗━┓┃┗┓ 3 5┃┗┓    ┃  ┃┃   ┃
+┃ 4┗━┛3┗━┛ 11┗━━┻┛ 3 9┗┻┛3┗━┛3┗━┛3┗━┛  5 7┗━┛3┗┻┛    3 6┗━┻┛┗┛ 3 5┗━┛    ┗━━┻┛   ┃
+┃                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+'ñÛT3D & 5(ô(‰þÛ-' is a post-modern exploration of the contradiction and tension between the immediate gratification and pleasure-seeking nature of our society and the deeper, more complex emotions and desires that we often neglect. Through a visually chaotic and dynamic composition, I challenge viewers to contemplate their own indulgences and confront the questions of what truly brings fulfillment in life. The title itself hints at the disjointed and fractured experience of navigating these conflicting forces. Ultimately, it is a bold commentary on the modern human experience and our constant search for happiness.
