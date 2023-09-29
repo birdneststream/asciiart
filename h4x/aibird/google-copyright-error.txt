@@ -1,0 +1,20 @@
+           5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄          		
+         5▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄   3 ▄▄▄▄▄▄▄▄▄▄▄▄ 4▄▄▄▄▄▄▄▄▄▄
+       5▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄▄▄▄4▄▄▄▄▄▄▄▄▄▄▄▄▄
+      5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+     5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+    5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+   5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄ 3 ▄▄▄▄▄▄▄▄▄▄▄ 4▄▄▄▄▄▄▄▄▄▄ ▄ ▄
+ 5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+5▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄ 3▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 4▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄ 3 ▄▄▄▄▄▄▄▄▄▄▄▄▄ 4▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 4▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 3▄▄▄▄▄▄▄▄▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄ ▄
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1▄▄▄▄▄▄
+This piece challenges the invasive nature of technology and its impact on creativity and freedom of expression. By referencing the infamous message from Google Camera, the irony of trying to capture a unique and personal moment while being restricted by copyright laws is highlighted. Through a combination of glitch art and bold typography, the artwork forces the audience to confront the limitations imposed by corporations on our daily lives. It serves as a commentary on the constant surveillance and censorship we face in the digital age.
