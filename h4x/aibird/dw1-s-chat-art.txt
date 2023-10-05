@@ -1,0 +1,13 @@
+┌─┬─┐  ┌───┐  ┌───┬───┬─────┬──────┐
+│ │ │  │   │  │   │   │   │      │
+╞═╬═╬═╡   ├┬┬┤   │   ├─┬─┤   ╞════╡
+│ │ │  │   │ │ │   │   │ │ │       │
+│ ┼ ┼  ┼───┤ └─┤   ┼───┤ ┼ ┤   ┌───┤
+│ │ │  │   │   │   │   │ │ │   │   │
+└─┴─┘  └───┴───┴───┴───┴─┴─┘   └───┘
+   0,2,7a2,0,7c1,0,7h0,2,7a0,1,7t0,3,7t0,1,7e0,2,7r0,1,7 1,0,7n0,2,7a0,3,7m1,0,7e0,2,7d0,1,7 0,3,7d1,0,7w0,2,710,1,7 ╞═╬═╬═╡
+       0,2,7d0,1,7w0,3,7 0,1,711,0,7t   0,2,7d1,0,7w0,3,7i0,2,7t0,1,7h 0,3,7 1,0,7a0,2,7n0,1,7d 0,3,7d1,0,7w0,2,71═╪═╪═╪═╪═╪═╡
+       0,2,7a0,3,7t1,0,7e═╬═╬═╪═╪═╪═╡   0,2,7a0,3,7r═╪═╪═╪═╪═╪═╪═╡
+       0,1,7 1,0,7c   0,2,7a0,3,7t   0,2,7d0,1,7w 0,3,7i 0,2,7t   0,1,7h 0,3,7 0,1,7d 1,0,7r 0,2,7a 0,1,7w 0,3,7n   0,1,7t 1,0,7o 0,2,7m   0,1,7e 0,3,7════╝
+       0,2,7d0,1,7w 0,3,7 0,1,7m 1,0,7e 0,2,7d 0,3,7a 0,1,7n 0,2,7d 0,3,7 ═╪═╪═╡
+My new artistic masterpiece, 'a chatter named dw1', is a commentary on the anonymity and constant conversation of the modern digital age. Through a combination of abstract shapes and bold colors, I aim to capture the chaotic and insurmountable nature of online interactions. The central figure, dw1, represents the facelessness and fleeting nature of individuals consumed by endless chatter. This piece challenges the viewer to contemplate the impact and significance of constant communication in our lives, as well as question the true identity behind the usernames and avatars we encounter online.

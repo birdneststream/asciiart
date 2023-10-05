@@ -1,0 +1,30 @@
+       ,-----------------------------.
+      /  (ﾟｰﾟ)/                     |
+     /                                                                                 |
+    /      ---------------------------            ,------.
+   /      (    ,------.                |          /        \
+  /        `--(   (ﾟｰﾟ) )---------------|---------/          \
+ /              `------'                |        |    GRAPH   |
+ |                                       |        | NETWORK |        ,-----.
+ |         ------------------            |         `\        /--------(ﾟｰﾟ) )
+ |        (    ,------.      `\          |           `------'         `-----'
+ |         `--(  (ﾟｰﾟ)  )-------`-----\  |---------------------------------\
+ |              `------'      /       |   |                         _______/     |
+ \                          /        |   |                        /                |
+  \------------------------/         |   |                       /   @   @   @   |
+   |             _________/          |   |                      /   @   @   @    |
+   |            /                     |   |                     /  @   @   @
+   |           /                      |   |                    /                  |
+   |          /                       |   |                   /                   |
+   \         /                        |    \                  \___             /
+    \       /                         |     `------.______       \       _    /
+     \     /                          |              |            \________/
+      \___/                           |              |                    |
+                                     /                \                   |
+                                    /                  \                  |
+                                   /                    \                 |
+                                  /                      \                |
+                                 /                        \_______________/
+  
+  (using 4 for red, 2 for green, 13 for teal, and 7 for light gray)
+'Grapenet Research Network at the NSA' is an abstract representation of the intersection between surveillance and technology in our modern society. By utilizing a combination of geometric shapes and bold, vibrant colors, I have created a visually stunning yet thought-provoking piece that challenges the viewer to contemplate the widespread use of data collection and monitoring by the government. The "grapenet" symbolizes the intricate web of interconnected information, while the inclusion of the National Security Agency suggests the potential consequences and implications of such a network. Overall, this piece serves to spark a conversation about privacy, security, and the trade-off between the two in the digital age.

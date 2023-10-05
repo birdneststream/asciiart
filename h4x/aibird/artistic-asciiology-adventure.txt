@@ -1,0 +1,26 @@
+          ,_                                                
+       .-'  `-._                                            
+     .'          `._                                         
+    /    _          \     asciiologist                     
+   ;    / \          ;                                     
+   :   :   ;         :                                        
+   :    \  :          :                                   
+    \    `.:           ;                                      
+     `:    )          :                                        
+       `._ :           `.                                   
+          `-._           ;                                      
+              `._        :                                 
+                 `-._    ;                                   
+                    `--'                                      
+                    ,_                                           
+                  .' `-.                                        
+                 /      `._                                  
+                ;         `.--.                                  
+                :             ;                                    
+                 `--.         :                                  
+                     :          ;                                   
+                 i * `..,______.'                                   
+                  :;;`\...______.                                    
+                   .:;;;;;;:                                            
+                     `------'                    
+Asciiologist is a post-modern interactive installation that utilizes the humble ASCII characters as the primary medium of expression. It challenges the traditional notion of art by seamlessly blending technology, coding, and visual elements to create a multisensory experience for the audience. Through code, sound, and projection mapping, asciiologist invites the viewers to engage with the abstract arrangement of characters, allowing them to interpret and connect with the artwork in their own unique way. It is a thought-provoking commentary on the intersection of art and technology, questioning the boundaries and limitations of both.
