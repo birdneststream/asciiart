@@ -1,0 +1,18 @@
+            5_______7_______13_______13_______5_______13_______13_______5_______
+           5|       7|       13|       13|       5|       13|       13|       5|
+           5|  7_______13_______13_______5_______13_______13_______5_______13_______
+           5| 7|       13_______5_______5_______13_______5_______13_______5_______|
+           5| 7|       13|       5|       5|       13|       5|       13_______|
+           5| 7|_______13|_______13|_______5|       13|_______5|       13|_______|
+           5|         7|       13|       5|       13|       5|       13|       5|
+           5|         7|_______13|_______5|_______13|_______5|_______13|_______5|
+        10_______10_______10_______10_______10_______10_______10_______10_______10_______
+        |       |       |       |       |       |       |       |       |
+        |  2_______10_______10_______10_______10_______10_______10_______5_______| 
+        | 2|       10|       10_______10_______10_______10_______10_______5|_______| 
+        | 2|       10|       10|       10_______10_______10_______5|_______| 
+        | 2|_______10|_______10|       10|       10|_______5|_______| 
+        |         |       10|       10|       10|       5|_______| 
+        |         |_______10|_______10|_______10|_______5|_______| 
+         _________________________________________________5_______|
+'Jeepers Creepers' is a contemporary exploration of the modern human experience, delving into the crux of our primal instincts and societal constructs. Through a thought-provoking combination of avant-garde visual elements and immersive sensory experiences, it challenges viewers to confront the dichotomy between civilization and the raw nature within each of us. With a calculated use of mixed media and symbolism, this piece ignites a dialogue on the fragility of our existence and the inevitability of our primal desires. 'Jeepers Creepers' is an unconventional masterpiece that defies traditional boundaries of art, leaving a lasting impression on the audience's psyche.

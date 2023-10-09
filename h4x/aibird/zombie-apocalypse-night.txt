@@ -1,0 +1,19 @@
+  __   __                       ______     ______     ______     ___     __
+ /_/\ /_/\                     /\___  \   /\___  \   /\  __ \   /\  \   /_/\ 
+ \_\/ \_\/        ___         /:::L:\  \ /:/L:\  \  \:\  \ \ \  \:\  \ /::\_\/ 
+  /:\    \       /\__\       /:::/L:\__\:/L:\:\__\  \:\  \ \ \  /::\__\:/\ \  
+ /::\____\     /:/__/      /::::/L:/  /:/\:\:L__/\  \:\__\ \ \/::\__\_\:\ \ 
+ \:\    \    /:::/  ___   /:::/L:/   \:\ \/__/__/   \/__|\ \ \::/\/__|:\ \ 
+  \:\    \   \:\ /__/ \  \:\ /::\    \:\  \           \:\ \ \/__/    \:\ \ 
+   \:\/::\   \:\__\    \  \:\\::\    \:\__\           \:\_\/__/      \:\_\/
+    \::/:\:\  \:\__\     \  \:\\:\     \:\__\           \:\__\         \:\__\
+     \/_/__\/   \/__/      \  \\/     \/__/            \/__/          \/__/
+                           
+3,3,3,7,7,7,3,3,7,7,7,3,3,7,7,7,3,3,7,7,7,3,3,7,7,7,3,3,7,7
+4,4,4,7,7,7,4,4,7,7,7,4,4,7,7,7,4,4,7,7,7,4,4,7,7,7,4,4,7,7
+0,0,0,7,7,7,0,0,7,7,7,0,0,7,7,7,0,0,7,7,7,0,0,7,7,7,0,0,7,7
+1,1,1,7,7,7,1,1,7,7,7,1,1,7,7,7,1,1,7,7,7,1,1,7,7,7,1,1,7,7
+2,2,2,7,7,7,2,2,7,7,7,2,2,7,7,7,2,2,7,7,7,2,2,7,7,7,2,2,7,7
+5,5,5,7,7,7,5,5,7,7,7,5,5,7,7,7,5,5,7,7,7,5,5,7,7,7,5,5,7,7
+6,6,6,7,7,7,6,6,7,7,7,6,6,7,7,7,6,6,7,7,7,6,6,7,7,7,6,6,7,7
+'Night of the Living Dead' is a thought-provoking exploration of the human psyche in the face of a zombie apocalypse. It delves into the depths of fear, survival, and morality as a group of strangers barricade themselves in a farmhouse to avoid the flesh-eating undead. Through its gritty visuals and haunting soundtrack, the film challenges viewers to consider the fragility of civilization and our shared humanity in the face of destruction. It is a raw and unflinching portrait of the human condition in a chaotic and terrifying world.

@@ -1,0 +1,25 @@
+10 ▄▄▄▄▄ ▄█ ▄█▄    ▄▄▄▄▄ ▄█    ▄▄▄▄▄ ▄▄▄▄▄ ▄█  ██████ ▄▄▄▄▄ ▄█      
+10 █    █ █▀ █    █    █ █    █ █    █    █ █         █    █ █         █     █       10 
+10 █▀▀▀▀▀▀ █▀▄ █▄▄▄▀ █    █ █    █ █▀▀▀▀▀▀ █  ▀▀▀▀▀▀▀ █▀▀▀▀▀▀ █▀▄▄   █▀     █    █   10 
+10 █       █ █ ▄ █ █ █ █▄▄▄█ █▄▄▄▄▄█ █       █       █       █ █   █▄ █     █  10 
+10 █▄▄▄▄▄▄▄ █ █   █ █▄▄██                █▄▄▄▄▄▄▄ █▄▄▄▄▄▄▄ █ █▄▄▄▄█ █  10 
+10                █     ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀        █ 10 
+10                                █         █                     ▀▀    ▀▀█  10 
+10                            █         █                                      ░█   10
+10                          █            █                   █         ███   █   █  10 
+10                       █       █     █       █▄▄█       █▀               ██  █  10 
+10                       █  █                              █                ███  █ 10 
+10                █  █       █                              █         █▄    ▀███ 10 
+10      █     █    █   █                               █         █▄       █  ████ 10 
+10        █                     █                             █     █▄    █  █████ 10 
+10         █   █           █   █   █                         █     █▄    ██   ███  10 
+10    █       █               █      █       █   █     █▄▄█              ███   █   10 
+10             █                           █        █▄▄▄▄▄▄▄    █▄▄█▄▀  ████   █   10 
+10  █▀   █    █      █ █    █▀   █    █▀   █    █     █       █   █ ▀    ██   █   10 
+10 █         █     █   █      █      █       █              █    █ ▀ █        █  10 
+10 █▀▀▀▀▀▀  █    █      █    █▀     █▀    █▀     █    █▀  █▀ ▀▀▀▀▀  █▀▀▀▀▀▀█▀ █ 10 
+10           █       █   █       █     █    █         █▀    █       █          ██ 10 
+10        █     ▀███▀    █▄▄▄▄▄▄▄ █▄▄  ▄█▄▄  ▄▄▄▄▄▄ █▄█▄▄  █▄█▄▄█▄ █▄▄▄▄▄▄█▄  █▄ 10 
+10           █                █             ▀▀▀▀▀▀▀     ▀▀▀▀▀▀▀█████▀▀▀▀▀▀▀▀▀▀▀▀▀ 10 
+10           █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 10 
+X-Files is a visually stunning exploration of the complex intersection between science, religion, and the unknown. Through a series of thought-provoking installations, the exhibition challenges viewers to question their perceptions of reality and consider the possibilities of extraterrestrial life. Employing elements of surrealist and abstract art, X-Files creates a transcendent experience that ignites the imagination and prompts deeper contemplation of our place in the universe.
