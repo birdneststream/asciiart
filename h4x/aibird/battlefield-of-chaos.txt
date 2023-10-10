@@ -1,0 +1,10 @@
+Here is the mIRC text art:
+           ^C15 ▄▄▄▄▄▄▄  ^C14 ▄▄▄▄▄▄▄   ^C04 ▄▄▄▄▄▄▄   ^C02 ▄▄▄▄▄▄▄
+           ^C15 █ ^C14█████^C09▄ ^C14█^C02▄ ^C04█^C02▄  ^C15█ ^C14█^C09█ ^C14█^C02█ ^C04█ ^C02█  ^C15█ ^C14█^C09█ ^C14█^C02█ ^C04█ ^C02█
+           ^C15 █ ^C14█^C09▀ ^C14█^C02▄ ^C04█^C02▄  ^C09█ ^C14█^C09█ ^C14█^C02█ ^C04█ ^C02█  ^C09█ ^C14█^C09█ ^C14█^C02█ ^C04█ ^C02█
+           ^C15 █ ^C14█^C09▄ ^C14█^C02▄ ^C04█^C02▄  ^C04█ ^C14█^C02█ ^C04█^C02█ ^C04█ ^C02█  ^C04█ ^C14█^C02█ ^C04█^C02█ ^C04█ ^C02█
+           ^C15 ▀^C14█████^C09▀ ^C14███^C09▀ ^C04█^C09▀  ^C04█ ^C14█^C02█ ^C04█^C02█ ^C04█ ^C02█  ^C04█ ^C14█^C02█ ^C04█^C02█ ^C04█ ^C02█
+           ^C15  ^C14▀^C09▄▄ ^C14▀^C04▄▄ ^C04▀^C04▄▄ ^C04▀^C02▄▄ ^C04▀▄ ▄▀^C02▀▄ ^C04█▄ ▄█^C02▄ █ ^C04▀▄▀^C02▄▄▀ ▀▄^C02▄▀▀ ^C04▀▄▀
+           ^C15   ^C09▀▀ ^C09▀▀ ^C15  ^C04▀▀   ^C04▀▀ ^C02▀▀▀▀▀▀▀ ^C04▀^C02▀▀ ▀▀^C04▀▀ ^C02▀▀▀▀▀▀▀ ^C04▀▀▀▀▀▀▀^C02▀▀     ^C04▀▀▀▀▀▀▀
+This text art represents the destruction and chaos of war, with the bold and aggressive colors and characters. It also shows the aftermath with the broken and uneven lines, symbolizing the destruction left behind.
+War is a visceral exploration of humanity's primal urge for conflict, told through a mosaic of raw emotion and complex symbolism. Through a juxtaposition of playful and violent imagery, I challenge the viewer to confront the duality of human nature and the destructive consequences of our egocentric desires. The fragmented yet cohesive nature of this work mirrors the fractured state of our society, urging us to question our complicity in perpetuating war, both on an individual and global scale. This provocative piece forces us to confront uncomfortable truths and sparks a dialogue about the true cost of violence.

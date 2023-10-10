@@ -1,0 +1,19 @@
+┌─┐ ┌─────────┐ ┌──────┐ ┌┐ ┌───┐ ┌───────┐ ┌────┐ ┌─┐ ┌───┬─────┐ ┌──────────┐ ┌┐
+│ │ │         │ │      │ ││ │   │ │       │ │    │ │ │ │   │     │ │┌─ ┌────┘ │
+│ │ │         │ │      │ ││ │   │ │       │ │    │ │ │ │   │     │ ││    │     │
+│ │ │         │ │      │ ││ │   │ │       │ │    │ │ │ │   │     │ ││    │     │
+│ │ │         │ │      │ ││ │   │ │       │ │    │ │ │ │   │     │ ││    │     │
+│ │ │         │ │      │ ││ │   │ │       │ │    │ │ │ └───┤─────┤─┘│    └─────┤
+│ │ │         │ │      │ ││ │   │ │       │ │    │ └─────┐ │     │ │           │
+│ │ │         │ │      │ ││ │   │ │       │ │         │ │     │ │           │
+│ │ │         │ │      │ ││ │   │ │       │ │         │ │     │ │           │
+│ │ │         │ └──────┘ └┘ └───┘ └───────┘ └─────────┘ └─────┘ └───┐ │           │
+│ │ │         │                                                 │ │ │           │
+│ └─┘         │                                                 │ └─┤           │
+│             │                                                 └───┤           │
+│             │                                                     │           │
+│             └───────────────────┐                                 │           │
+│                                 │                                 ┌───────────┤
+│                                 │                                 │           │
+└─────────────────────────────────┘                                 └───────────┘
+In "fake gender," I explore the constructed nature of gender through the use of bold colors and exaggerated forms. Using a mix of traditional and digital techniques, I challenge societal norms and blur the boundaries between traditional notions of masculinity and femininity. Ultimately, the piece challenges the concept of a binary gender system and invites viewers to question the authenticity of societal constructions surrounding gender.
