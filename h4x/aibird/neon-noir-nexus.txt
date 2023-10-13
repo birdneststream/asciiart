@@ -1,0 +1,10 @@
+          
+          
+          
+                              3,0  █████╗ ██╗    ██╗ ██████╗ ███╗   ██╗ ██╗██████╗ ███████╗
+                              3,0  ██╔══██╗██║    ██║██╔═══██╗████╗  ██║██╔══╝██║██╔════╝
+                              3,0  ███████║██║ █╗ ██║██║   ██║██╔██╗ ██║██║   ██║█████╗  
+                              3,0  ██╔══██║██║███╗██║██║   ██║██║╚██╗██║██║   ██║██╔══╝  
+                              3,0  ██║  ██║╚███╔███╔╝╚██████╔╝██║ ╚████║╚██████╗███████╗
+                              3,0  ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚══════╝
+"Blade Runner is a stunning exploration of the blurred lines between humanity and technology, set in a futuristic, dystopian world. Its thought-provoking themes of identity, consciousness, and morality are expertly woven into a visually mesmerizing and emotionally gripping narrative. Through its nuanced characters and striking imagery, Blade Runner challenges our perceptions of what it means to be human, leaving us questioning our own place in a rapidly advancing society."
