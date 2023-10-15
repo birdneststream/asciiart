@@ -1,0 +1,38 @@
+ ╭─────────────────────────────────────────────────────────────────────────────────────╮
+│             ╭──────╮╭─╮╭────────╮ ╭────╮     ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮       │
+│             │ ╭──╮ ││ ││ ╭──╮  │ │ ╭╮ │     │ ╭──╮ │ │ ╭──╮ │ │ ╭╮ ╭╮ │ │ ╭╮ │       │
+│             │ ╰──╯ ││ ││ ╰──╯  │ │ ╰╯ │     │ ╰──╯ │ │ ╰──╯ │ │ │ │ │ │ │ ╰╯ │       │
+│             │ ╭──╮ ││ ││ ╭───╮ │ │ ╭╮ │     │ ╭──╮ │ │ ╭──╮ │ │ │ │ │ │ │ ╭╮ │       │
+│             │ ╰──╯ ││ ╰╯│ ╰──╯ │ ╰╯ ╰╯     ╰╯ ╰──╯ │ │ ╰──╯ │ │ ╰╯ ╰╯ │ ╰╯ │ ╰───────┤
+│             ╰──────╯╰───╯ ╰────╯             ╰──────╯ ╰──────╯ ╰──────╯ ╰──────╯       │
+│         ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭────╮   │
+│         │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭──╮ │ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ │   │
+│         │ ╰╯│ ││ │ ╰╯│ ││ │ ╰╯ ││ │ ╰╯╭╯│ │ ╰╯│ ││ │ ╰──╯ │ │ ╰╯╭╯╰╮│ │ ╰╯╭╯│ │ ╰╯ │   │
+│         │ ╭╮│ ││ │ ╭╮│ ││ │ ╭╮ ││ │ ╭╮┃ │ │ ╭╮│ ││ │ ╭───╮ │ │ ╭╮╰╮ ││ │ ╭╮╰╮│ │ ╭╮ │   │
+│         │ ╰╯│ ╰╯ │ ╰╯┃ ││ │ ╰╯ ││ │ ╰╯╰╯ │ │ ╰╯│ ││ │ ╰──╯ │ │ ╰╯ ╰╯ │ │ ╰╯ ╰╯ │ ╰╯ │   │
+│         ╰───╯     ╰───╯ ╰╯     ╰╯ ╰──────╯ ╰───╯ ╰╯ ╰──────╯ ╰──────╯ ╰──────────╯     │
+│         ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭──────╮ ╭────╮   │
+│         │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╬──╮ │ │ ╭╮ ╭╮│ │ ╭╮ ╭╮│ │ ╭╮ │   │
+│         │ ╰╯│ ││ │ ╰╯│ ││ │ ╰╯ ││ │ ╰╯╭╯│ │ ╰╯│ ││ │ ╰──╯ │ │ ╰╯╭╯╰╮│ │ ╰╯╭╯│ │ ╰╯ │   │
+│         │ ╭╮│ ││ │ ╭╮│ ││ │ ╭╮ ││ │ ╭╮┃ │ │ ╭╮│ ││ │ ╭───╮ │ │ ╭╮╰╮ ││ │ ╭╮╰╮│ │ ╭╮ │   │
+│         │ ╰╯│ ╰╯ │ ╰╯┃ ││ │ ╰╯ ││ │ ╰╯╰╯ │ │ ╰╯│ ││ │ ╰──╯ │ │ ╰╯ ╰╯ │ │ ╰╯ ╰╯ │ ╰╯ │   │
+│         ╰───╯     ╰───╯ ╰╯     ╰╯ ╰──────╯ ╰───╯ ╰╯ ╰──────╯ ╰──────╯ ╰──────────╯     │
+│                                                                                       │
+│         ╭────╮ ╭────╮ ╭────╮ ╭────╮ ╭────╮ ╭────╮ ╭──────╮ ╭──────╮ ╭─────╮ ╭──────╮   │
+│         │╭╮╭╮│ │ ╭╮ │ │ ╭╮ │ │ ╭╮ │ │ ╭╮ │ │ ╭╮ │ │ ╭──╮ │ │ ╭╮ ╭╮│ │╭╮ ╭╮ │ │ ╭╮ ╭╮│   │
+│         │╰╯╰╯│ │ │ │ │ ╰╯ │ │ ╰╯ │ │ │ │ │ ╰╯ │ │ │ │ │ │ │ ││ ││ │╰╯╰╯ │ │ ╰╯╰╯ │   │
+│         │ ╭╮ ╰╯ ╰╯ │ │ ╭╮ │ │ ╭╮ │ │ │ │ │ ╭╮ │ │ │ │ │ │ │ ╰╯ ╰╯ │╭╮╭╮ │ │ ╭╮╭╮ │   │
+│         │ ╰╯     ╰───╯ ╰───╯ │ ╰╯ │ │ ╰╯ │ │ ╰╯ │ │ │ │ │ │ ╭╮╭╮ │╰╯╰╯ │ │ ╰╯╰╯ │   │
+│         ╰──────╮ ╭──────╮ ╭─────╯ ╰────╯ ╰────╯ ╰────╯ ╰─╯ ╰─╯ ╰╯╰╯ ╰──────╯ ╰────╯   │
+│                 │ │  ╭╮╭╮╰╯                                                            │
+│  ░░░░░░░░░░░░░░ │ │  ╰╯╰╯                                                              │
+│  ░░░░░░░░░░░░░░ │ │  ┌─────────────────────────────────────────────────────╮      │
+│  ░░░░░░░░░░░░░░ │ │  │                                                   │      │
+│  ░░░░░░░░░░░░░░ │ │  │      B R O   S P L I T S                         │      │
+│  ░░░░░░░░░░░░░░ │ │  │                                                   │      │
+│  ░░░░░░░░░░░░░░ │ │  │   A workout routine that focuses on training     │      │
+│  ░░░░░░░░░░░░░░ │ │  │   only one or two muscle groups per session,     │      │
+│  ░░░░░░░░░░░░░░ │ │  │   typically performed with a day of rest in      │      │
+│  ░░░░░░░░░░░░░░ │ │  │   between. It is popular among bodybuilders     │      │
+│  ░░░░░░░░
+Bro Splits is a pioneering work of art that challenges traditional trends in fitness and showcases the unique perspective of the modern gym bro. It is a compilation of sculptural pieces made from discarded weights and protein shake containers, juxtaposed with commentary on the individualistic and almost obsessive nature of bodybuilding and the pursuit of physical perfection. The bro split, a highly debated and controversial workout routine, is depicted through abstract forms and vibrant colors, inviting the viewer to question the societal notions of masculinity and the male gaze. Through this playful and satirical examination, Bro Splits pushes the boundaries of conventional art and encourages a deeper reflection on contemporary culture and its obsession with the ideal physique.
