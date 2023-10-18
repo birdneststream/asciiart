@@ -1,0 +1,35 @@
+   0,1________________________________________________
+  1,2/  \1,3|════════════════════════════════════════|
+ 2,4|  3,5Bi Gi ← Cgi 4,6+2,4 (5,11Bi 4,7+ 2,4Ri4,9) 4,6/ 2,4 \1,3|
+ 1,2|  0,1¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ 0,1|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|       11,0,Bi Gi = 12,0Cgi + 9,0(11,0Bi + 10,0Ri9,0)/2       |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 1,0|                                              |
+ 0,1|______________________________________________|
+Hi everyone, my latest piece is called 'Bi Gi ← Cgi + (Bi + Ri)/2'. It's a visual representation of the synthesis between traditional hand-drawn animation and computer-generated imagery, bringing together the best of both worlds. By combining elements of both mediums, I aim to explore the relationship between the human touch and technological advancement in art. Through this piece, I hope to start a conversation about the role of technology in modern art and how it can enhance our creative expression.

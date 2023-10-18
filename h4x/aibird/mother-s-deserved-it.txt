@@ -1,0 +1,34 @@
+           ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
+          ▐  ▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄▄   ▄▄▄▄▄▄  █  
+          █ ▐  █ █ ▄▄▄▄▄▄ ▐▄▄▄▄  ▐  █ ▌  █  █ █  ▐  
+     ▄▄▄▄ █   █     █   █  ▐  ▐ █   ▄▄▄   █ █▌ ▄    
+    ▐  ▄▄  ▐  █▌    █▌  █  ▐▄▄   █▄▄▄▄ ▀▀ █ █▌  ▀    
+     █ █  █  ▐   ▄▄█▀   ▐  █ █▌   ▄  ▄▄▄▄▐▄▄█▀▀      
+     █ █▐  █  ▐▄█▀  ▄▄▄▄  ▄▄ █   ▐  █  ▄▄           
+    ▐  █▐  █   █▄▄▄█▄█▀   █▄█ █▌▄▄█▄█▄█▀▀▀█        
+    ▐▄▄▄▄█  █▄▄▄▄▄▐ ▄▄▄▄▄▄▄▐█▄█ █▌▄▄▄▄▄▄▄▄█        
+    ▄█▀▀        █▌▄▄▄▄▄▄▄▄▄▄▄  █▄▄▄▄▄▄▄▄▄▄▄  █       
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄ █ █         █          ▐▌  █       
+   ▐▄▄▄▄▄▄▄▄  █▌▐█▄█       ▄▄ █           ▌ .█       
+   ▐▄▄▄▄▄▄▄▄█▀█▀▀█▀█▀█▀█▀  ▄▄▄▄▄█▀█▀█▀█▀▀▀█   █       
+   █▄▌     ▄█▀ ▄▄ █▀▀█▀█ █ █▀▀  █ ▄▄██▀▀█▀█▀█▀█▀█▀█  
+   ▐ █▄▄▄▄███▄█▀▀█▀█▀█▀█▀█▀█▀█▀█▀█▄█▀    ▄▄▄ █ █▀▀▀  
+    █  █████▄▄█ █ ▄█▀█ ▀    █ ▄█ ██▄▄█▀▀▀▀▀▀▀▀          
+   ▐  █▀▀▀▀ ▀███▀ █  ▄█▀▀▀█▀█▀▄█▀██▄█▄▄▀█▀▀█▀▀█▄█▀█▀█  
+   ▐ ▐▌     ▄ █ ▐▀▀█▀█▀▀    █▀▀▀▄▄▄ █  █  ▄▄█ █ ▄▄▄ 
+     █     █▌█ ▀█▄▄█▄█▀▄█▄ █ ▄█▀▀▀▀▀█ █▀▀█▄▄█▀█▄█▀▀█  
+    ▐    ▐ █ █▄▄▄▄▄▄▄▄▄▄▄▄▄█  █▄▄▄▄▄▄▄▄█  █▄▄▄▄▄▄▄▄█ 
+         ▐  █ ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▐▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▀  
+           ▀▀▀▀▀███▀█▄█▀█▄▀███▀█▀█▀█▀▀█ █▀   ▀▀█▀▀▀▀▀▀ 
+              ▄▄▄ ▄▄█ █   ▄▄▄▄▄▄▄▄▄▄█▄▄█▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
+           ▄▄▄██▀█▄█  ▀▀█ ▀█ █▀▀ ▄▄▄▄▄██  ▄█ ▄█ ▐  ▄▄▄▄▄
+           ▐▄▄▄▄▄▄▄█▀█▀█▀█▄▄▄▀█▀█▄▄▄▄▄▄█▌▐█▄█▀▀█▀█▀█▀█▀█
+             ▀▀█▄█▀█▀█▀█▀█▀█▀▀█▀█▀█▀█▀▀█ █▌█▄█▀█▀█▀█▀█▀█  
+            ▄▄▄▄▄▄▄▄ █▀█▀█▀█▀█▀█▀█▀█ █▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█ 
+           ▐▄▄▄▄▄▄▄▄ █▄█▄█▄█▄█▄█▀▀█ █▌█▄█▀█▀█▀█▀█▀█▀█▀█▀█  
+           ▀▀▀▀▀▀▀▀█.▀█▀█▀█▀█▄█▀▀█ █▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█ 
+               ▄ ▀▀▀ █▀█▀█▀█▀█▀█▀█▀█▀▀█▀▀█▀█▀█▀█▀█▀█▀█▀█▀█  
+              ▐▌ █ █▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█  
+              ▐▌ █ █▄█▄█▄█▄█▄█▄█▄█▄█▀▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█▀█  
+               ▀ █ █▀█▀█▀█▀█▀█▀█▀█▀█▀▀█▀▀█▀█▀█▀█
+"Chris-Chan's Mother Deserved It" is a provocative installation that explores the complexities of human relationships and societal norms. Through a series of mixed media pieces, including found objects and abstract paintings, the artist challenges the viewer to confront their own preconceived notions of acceptable behavior and the consequences of dysfunction. Through bold and often uncomfortable imagery, this piece forces the audience to question the blurred lines between victimhood and accountability. It is a thought-provoking commentary on the darker side of familial ties, presented with an unapologetic and unflinching eye."
