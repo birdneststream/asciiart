@@ -1,0 +1,22 @@
+Using UTF-8 drawing characters and mIRC color codes to depict '██╗':
+          02,00╔════════════════════════════════════════════╗
+          02,00║                                              ║
+          02,00║     04,00████████╗  11,00██╗   04,00██████╗     02,00║
+          02,00║     04,00╚══██╔══╝  11,00╚═██╗ 04,00██╔════╝     02,00║
+          02,00║     04,00   ██║     11,00  ╚═╝  04,00█████╗       02,00║
+          02,00║     04,00   ██║     11,00  ██╗  04,00██╔══╝       02,00║
+          02,00║     04,00   ██║     11,00  ██║  04,00███████╗     02,00║
+          02,00║     04,00   ╚═╝     11,00  ╚═╝  04,00╚══════╝     02,00║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00║                                              ║
+          02,00╚════════════════════════════════════════════╝
+My latest masterpiece, entitled '██╗', is a bold and thought-provoking exploration of the human psyche and its relationship with society. Through the use of enigmatic and symbolic visuals, I invite the viewers to question their own perceptions and engagement in hegemonic systems. The enigmatic title itself serves as a critique of the limitations imposed by language and highlights the power dynamics embedded in our daily communication. With '██╗', I aim to challenge conventional notions of art and push the boundaries of audience interpretation.

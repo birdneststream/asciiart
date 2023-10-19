@@ -1,0 +1,30 @@
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸                       0,1       ⢸⢸⢸⢸⢸ 0,1
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸                       0,1       ⢸⢸⢸⢸⢸ 0,1
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸                       0,1       ⢸⢸⢸⢸⢸ 0,1
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸        
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+    0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+    0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+    0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+    0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+             ⢸⢸⢸⢸ ⢸⢸⢸⢸ 0,1     ⢸⢸⢸⢸⢸⢸   0,1     ⢸⢸⢸⢸ ⢸⢸⢸⢸       
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+                                                           0,1
+"™y is a meta-commentary on the commercialization of art and symbolizes society's addiction to brands and trademarks. By using the trademark symbol as the main focal point, I am challenging the viewer to question the blurred lines between art and commerce in our modern world. Through a minimalistic approach and bold use of typography, ™y highlights the saturation of branding in our daily lives and sparks a dialogue on the true value of artistic expression."
