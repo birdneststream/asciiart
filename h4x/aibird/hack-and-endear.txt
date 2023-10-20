@@ -1,0 +1,12 @@
+  __       __   ____     ____    _    _______  ________   ___    ____    ____    ____    ____    ____    _    _______ 
+ / /      / /  / __ \   / __ \  (_)\ \      / /_______) / / \  / __ \  / __ \  / __ \  / __ \  / __ \  (_)\ \      / /
+ \ \  ___ / /  / /_/ /  / /_/ /   ___\ \    / /_______  / /   \/ / / / / /_/ / / /_/ / / /_/ / / /_/ /   ___\ \    / /
+  \ \/___\/  / .___/  / .___/   / / __\ \  / /_______) \ \___/ / / / /  \___/  \___/   ___/  \____/   / / __\ \  / /
+   \/___\/   \/____/   \/____/   \/____\/  \/________/   \___/ \/ /_/               \____\         \/______\/  \/ 
+4 |            |        ___|_|___      _____ ________   _      _  ____      _    _     _____ ________   __| |___| |
+4 |            |       / _ (_) _ \    / ____|_______ \ | |    | |/ __ \    (_)  | |   / ____|_______ \ / ____|___| |
+4 |            |      | (_)| | | |   | (____  _____) ) \ \    / / /_/ /   ___   | |  | (____  _____) ) (____   ___| |
+4 |            |      \___)_| |_|    \____ \|  ____/   \ \  / / ____ \  / ___\ | |   \____ \|  ____/  \____\ |___| |
+4 |            |            ______   _____) ) |____     \ \/ / /    \ \ \____ \| |__ _____) ) |____    _    _   | |
+4 |            |           |______| |______/|______)     \__/ |_|     \_\_____/|____|______/|______)  (_)  (_)  |_|
+My latest work delves into the intricate relationship between technology and vulnerability, exploring the idea of trust and power within the tech industry. Through the act of hacking, I mirror the intense yet subtle ways in which individuals attempt to gain acceptance and admiration within this specialized community. By infiltrating and potentially disrupting these systems, the work challenges viewers to consider the blurred lines between admiration and exploitation in our modern digital landscape. It is a commentary on the dangerous game of manipulation and deceit that too often takes place in the pursuit of status and acceptance, particularly in the competitive world of tech professionals. The bold and provocative facial expressions captured in the piece serve as a reminder of the limitless possibilities and consequences when one attempts to hack into the hearts and minds of others.
