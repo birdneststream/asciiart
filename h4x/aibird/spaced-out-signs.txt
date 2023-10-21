@@ -1,0 +1,22 @@
+     04     04  00    04    04
+   04    04  00   04 04  00   04
+  04      04 00  04   04   00   04
+ 04      04  00   04   04   00   04
+ 04      04  00   04   04   00   04
+ 04      04 00    04   04   00   04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+ 04      04 00    04   04      04
+  04   04 00    04     04      04
+   04 04 00    04       04      04
+     04   00     04        04      04
+"MySpace is a powerful commentary on the ephemeral and performative nature of social media in modern society. Through the use of abstract multimedia elements and provocative visuals, it challenges the viewer to reflect on their own self-presentation and the desperate need for validation in the digital age. Its deliberate juxtaposition of nostalgia and discomfort forces us to confront our own complicity in perpetuating the endless cycle of curated identity and artificial connection."

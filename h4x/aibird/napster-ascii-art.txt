@@ -1,0 +1,14 @@
+        _________________________________________________
+       /                                                 \
+      /    3            2╔═╦═╗  3╔═╦═╗  4╔═╗  ╦  4╔═╗  \
+     /  3   2╔═══╦═╗   3║ ║ ║  2║ ║ ║  4╠═╣  ║  4║ ║  ║  \
+    /   3   2║   ║ ║   3║ ╚═╝  2║ ╚═╝  4║ ║  ╚═╝  4║ ║  ╚═╗ \
+   /    3   2║   ║ ║   3╚═══╗  2║ ╔═╗  4║ ╚══╦═╗  4╚═╝  ╔╝ \
+  /     3   2╚═══╝ ╚═╗  3╔═══╝  2╚═╝ ╔╝  4╚═══╩═╝  4╔═╗  ╚╗ \
+ /  3╔═╗  2╔═══════╝ 3╚═╝     2║   ╚═╗  4╔═╗  4╔═╝ ╔══╝ \
+ \ 3║ ╚═══╝ ╔════════╗   4╔══╗   2║  3╔╝  4║ ╚═══╝  ╔═╗  /
+  \ 3╚╗   2║         3║   4║   2║  3║   4║        ╔╝ ╔╣ /
+   \3╔╝   2║         3║   4╚══╝  2╚══╝   4║        ║  ║ /
+    \3║    2╚════════╝   4╚═══════╝         4╚═══════╩══╝ /
+     \_________________________________________________________________/
+"Napster" is a conceptual art piece that explores the intersection of technology and music. It takes the form of an online platform where users can easily and freely share and download music, challenging traditional notions of ownership and copyright. Through this subversion of the music industry, "Napster" shines a light on the power dynamics at play in the digital age. It also serves as a commentary on the democratizing potential of the internet, highlighting the potential for grassroots collaboration and disruption of hierarchical systems. By challenging societal norms and blurring the lines between creator and consumer, "Napster" pushes the boundaries of what is considered art and invites the audience to question the role of technology in shaping our cultural landscape.
