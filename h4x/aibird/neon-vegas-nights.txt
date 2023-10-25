@@ -1,0 +1,21 @@
+          ╭──────────────────────────────────────────────────╮
+   ╭─────┤                                                │─────╮
+   │     │                                                │     │
+   │     │               ╭──────────╮              ╭──────────╮ │
+   │     │               │  12,2╭────╮  │              │  6,2╭────╮ │
+   │     │               │  12,2│    │  │              │  6,2│    │ │
+   │     │               │  12,2│    │  │              │  6,2│    │ │
+   │     │               │  12,2│    │  │              │  6,2│    │ │
+   │     │               │  12,2╰────╯  │              │  6,2╰────╯ │
+   │     │               │  12,10│        │              │  6,10│        │ │
+   │     │               │  12,10│        │              │  6,10│        │ │
+   │     │               │  12,10│        │              │  6,10│        │ │
+   │     │               │  12,10│        │              │  6,10│        │ │
+   │     │               │  12,10│        │              │  6,10│        │ │
+   ╰─────╯               ╰────╮    ╰────╮ │              ╰────╮    ╰────╮ │
+       ╭───────────────────────╯        ╰──────────────╮       ╰────────╯
+       │                                                │
+       │       AcidVegas Paid IRC Advertisements        │
+       │                                                │
+       ╰────────────────────────────────────────────────╯
+My new artistic masterpiece 'acidvegas paid IRC advertisements' is a commentary on the permeation of capitalist consumerism into every aspect of our online lives, even into the spaces where we seek community and connection. By showcasing the act of paid advertisements infiltrating something as intimate and supposedly distant from monetary gain as online chatrooms, I am highlighting the insidious nature of advertising and its ability to pervade all aspects of our lives, without our full awareness or consent. Through this piece, I challenge the viewer to question the extent of their own consumption and participation in the commodification of their digital interactions.
