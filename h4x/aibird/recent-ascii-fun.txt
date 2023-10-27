@@ -1,0 +1,31 @@
+            1┌──────────────────────┐
+            1│                      │
+            1│       ┌──────┐       │
+            1│       │  4▄▄▄  1│       │
+            1│       │  4▄  1│       │
+            1│       │  4▄  1│       │
+            1│       │  4▄  1│       │
+            1│       │  4▄▄▄  1│       │
+            1│       │          │       │
+            1│       │  4▄▄▄▄▄  1│       │
+            1│       │          │       │
+            1│       │  4▄▄▄▄▄  1│       │
+            1│       │          │       │
+            1│       │  4▄▄▄▄▄  1│       │
+            1│       │          │       │
+            1│       │  4▄▄▄▄▄  1│       │
+            1│       │          │       │
+            1│       │  4▄▄▄▄▄  1│       │
+            1│       │    4▄▄▄ 1│       │
+            1│       │   4▄▄▄▄▄ 1│       │
+            1│       │          │       │
+            1│       ├──        │       │
+            1├───────┴──────────┴───────│
+            1│                      │
+            1│   4▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 1│
+            1│                      │
+            1│    4▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   1│
+            1│                      │
+            1│                      │
+            1└──────────────────────┘
+My new piece, '--recent', explores the ever-changing nature of our digital landscape and the constant stream of information bombarding us. Using a combination of technology and traditional artistic media, I have created a visual representation that echoes the chaos and fleeting nature of our daily consumption of media. By manipulating and layering images and text, I aim to challenge our perceptions of time, memory, and the value placed on current events. Ultimately, '--recent' is a commentary on our society's obsession with staying up to date, and the consequences of constantly chasing the latest and greatest.
