@@ -1,0 +1,25 @@
+               ,#####,
+              #_   _#     ,#####
+              |a` `a|    #_   _#
+              |  u  |    |a` `a|
+              \  =  /    |  u  |
+              |\___/|    \  =  /
+              |  |  |    |\___/|
+ ________     |  |  |    |  |  |     ________
+ )   ___  \   |/   \o/   _|  |  |    /  ___   )
+ /   (")  |  /________\  / |  |  |   |  (")   \
+ \____|~*~|_/         \_/  |__|~*~|___|~*~|____/
+      \__/                 \__/        \__/
+  ,1,┬┌┬┐  ,7,█ ,1,├┼┤  ,7,█ ,1,┌─┐  ,7,█ ,1,┌─┐  ,7,█ ,1,┬─┬┬┬┬┬─┐
+  ,7,█ ,1,├┤  ,7,█ ,1,├┤  ,7,█ ,1,└─┘  ,7,█ ,1,└─┘  ,7,█ ,1,│  u  │
+  ,1,┴─┴┴┴┴─┴  ,7,█ ,1,┬┌┬┐  ,7,█ ,1,├┤  ,7,█ ,1,├┼┤  ,7,█ ,1,├┼┤
+  ,7,█ ,1,│  u  │  ,7,█ ,1,│  u  │  ,7,█ ,1,├┤  ,7,█ ,1,├┤  ,7,█ ,1,│  u  │
+  ,1,┬─┬┬┬┬┬┬─┐  ,7,█ ,1,┴─┴┴┴┴─┴  ,7,█ ,1,└─┘  ,7,█ ,1,└─┘  ,7,█ ,1,└─┘
+  ,7,█ ,1,│  IRC   │  ,7,█ ,1,│  h  IRC   ,7,█ ,1,│  o  IRC   ,7,█ ,1,│  m  IRC   ,7,█
+  ,1,├┤  ,7,█ ,1,├┤  ,7,█ ,1,┼┼┼┼┼┼┼─┘  ,7,█ ,1,┬─┬┬┬┬┬┬─┐
+  ,7,█ ,1,│  IRC   │  ,7,█ ,1,│  e  IRC   ,7,█ ,1,│  s  IRC   ,7,█ ,1,│  t  IRC   ,7,█
+  ,1,┴─┴┴┴┴┴┴─┐  ,7,█ ,1,┴─┴┴┴┴┴┴─┐  ,7,█ ,1,│     │  ,7,█ ,1,┴─┴┴┴┴┴┴─┘
+  ,7,█ ,1,┬┬┬┬┬┬┬─┘  ,7,█ ,1,┬┌┬┐  ,7,█ ,1,├┼┤  ,7,█ ,1,┌─┐  ,7,█ ,1,┌─┐
+  ,1,│  a'`'a  │  ,7,█ ,1,│  u  │  ,7,█ ,1,│  u  │  ,7,█ ,1,│  =  │  ,7,█
+  ,7,█ ,1,┴─┴┴┴┴─┴  ,7,█ ,1,┴─┴┴┴┴┴─┴  ,7,█ ,1,└─┘  ,7,█ ,1,└─┘  ,7,█ ,1,┴─┴┴┴┴─┴
+'IRC Homesteaders' is a deep and introspective exploration of the human desire for community and belonging in the digital age. Through the use of bold and vibrant colors, juxtaposed with the starkness of computer code, the piece poses the question: how do we form meaningful connections in a world where physical distance has become obsolete? The figures, huddled together in front of their screens, represent the modern-day pioneers of the virtual landscape, forging new frontiers and building their own cyber utopias. Reflecting the dichotomy of isolation and connection, 'IRC Homesteaders' challenges the viewer to reconsider the boundaries between the physical and the digital, ultimately questioning what it means to be human in a digitally-mediated world.

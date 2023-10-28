@@ -1,0 +1,25 @@
+        01         01         01
+     01;011   01;011   01;011
+   01;01101 01;01101 01;01101
+ 01;01101   01;01101 01;01101
+01;01101     01;0110101;01101
+01;01101     01;0110101;01101
+01;01101     01;0110101;01101
+01;01101     01;0110  01;01101
+01;01101     01;0110  01;01101
+01;01101     01;0110  01;01101
+01;0110     01;01101  01;01101
+01;0110     01;01101  01;01101
+01;0110     01;01101  01;01101
+01;0110     01;01101  01;01101
+ 01;01101   01;01101  01;01101
+  01;01101 01;01101   01;01101
+   01;01101;01101     01;01101
+     01;01101;0110   01;01101
+       01;0110;01101 01;01101
+         01;0110;01101;0110
+           01;01101;01101
+             01;01101;01
+                01;011
+                   01
+My new work, entitled '¤·…', explores the concept of time and existence through the use of symbolic elements such as the hieroglyph-like characters and the repetitive use of the ellipsis. Through a minimalistic and enigmatic approach, I invite the viewer to contemplate the passage of time and the fleeting nature of our existence in a subtle yet thought-provoking manner. The inclusion of the abstract symbol '¤' adds an element of mystique and leaves room for individual interpretation. Overall, my intention with '¤·…' is to challenge the audience's perception of reality and provoke deeper introspection into the human experience.

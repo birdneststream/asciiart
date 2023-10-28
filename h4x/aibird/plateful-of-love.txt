@@ -1,0 +1,34 @@
+            ╭──────────────────────────────────────────────────────────╮
+    　　　┃  ｡◕ ‿ ◕｡  ╱ ／ ＼ ╱＼ ／ ╲╱ ＼ ／╲＼ ／ ╱＼＼ ／╲＼ ／ ╱╲  ┃
+    　　　┃(◕◡◕)╱ ┃ ╱ (＝´∀`) ╲  ┃ ╲ ┃ ╲ (＝´ω`) ╲ ┃ ╱┃ ╲ ┃ ╲┃ ┃
+    　　　┃ 　 ╱ ╲┃ ╱ C o r r e l l e ╲┃ ╲C o r r e l l e ╲┃ ╱ ╲ ┃ ╲┃ ┃ 
+    　　　┃(◕◕) ╱∩╲ ╱ ╲ ╲╲ ╲╲ ╲ ╱ ╲╱ ╲ ╱ ╲╱ ╲ ╱ ╲╱╲ ╱ ╲╱ ╲╲ ╲┃ ╱┃ ┃
+    　　　┃ ╱ ╲ ╱ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲ ╲  ╱ ╲╱ ╲ ╱ ╲╱ ╲ ╱ ╲╱ ╲ ╲ ╲┃ ╲┃ ┃
+    　　　┃ ╲ ╲ ╲  ╲╱ ╲ ╲ ╱ ╲╲ ╲ ╲ ╲  ╲╲ ╲╲ ╲ ╲ ╲╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╱┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ┃ ╲┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╱┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╲┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╱┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╲┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╱┃ ┃
+    　　　┃ ╲ ╲ ╲╲ ╲ ╱ ╲╲ ╲ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲┃ ╲┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱╱ ╱ ╱ ╲ ╱ ╱ ╱╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╱┃ ╱┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲ ╲ ╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱ ╲╲╱ ┃ ╲┃ ┃
+    　　　┃ ╲ ╱ ╱ ╱ ╱ ╲ ╱ ╱ ╱ ╱ ╲╱
+"Correlle plates is a commentary on consumerism and superficiality in modern society. Through the use of discarded plates, I have created a juxtaposition of materialistic value and perceived beauty. By arranging these mundane objects into a visually appealing composition, I'm challenging viewers to question their own inherent biases towards what is considered 'art'. In doing so, I am also shedding light on the wastefulness of our throwaway culture. Correlle plates forces us to confront our own attachments to material possessions and contemplate the true meaning of beauty."

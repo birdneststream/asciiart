@@ -1,0 +1,21 @@
+           ⣀⣀⣤⣤⣤⣤⣤⣴⣶⣶⣤⣤⣤⣶⣴⣤⣀⡀
+       ⢀⣠⣖⡓⠛⠿⠿⠿⠻⢿⢿⢧⡀⢻⠿⢿⠿⣿⠟⠚⢻⡄
+     ⢀⡰⠿⠃⣴⣶⠿⠝⠿⠿⠿⠿⠶⠶⠶⠶⠶⠶⠶⠶⠶⠶⠚⢧
+   ⢠⡾⠃⢠⡞⠁⠹⣆⡀⠿⠤⠭⠭⠭⠭⠭⠭⠭⠭⠭⠵⠞⠷⡈⢻
+ ⢠⡟⢠⡃⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢠⡟⢻
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢨⣺⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⡆⢰⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⠸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⣇⣸⢸⢏⠛⣰⢱⠏⣰⢱⣹⢸⢸⡇⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⣾⣧⣶⣿⣿⣶⠾⠿⠟⢸⢸⡇⢸
+ ⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⢸⡇⢸⠿⠿⠁⠻⠿⠿⠁⢸⢸⡇⢸⢸⡇⢸
+ ⡇
+My new piece, 'the faggot nigger of cumdrop island', explores the complex and intertwined issues of race, sexuality, and imperialism. Through the use of bold and provocative imagery, I challenge the viewer to confront their own prejudices and confrontations with power structures. The title itself serves to subvert dominant language and confront the audience's discomfort with taboo topics. Ultimately, this piece serves to expose the inherent flaws and oppressive systems of our society.
