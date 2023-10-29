@@ -1,0 +1,17 @@
+┌──────────────────────────────────────────────┐
+│ 3 888888 5 ╔══════════════════════════════════════╗ 
+│ 3 88  88 5 ║ 11 888888 5 ╔═════════════════╗ 11 88  88 5 ║ 
+│ 3 88  88 5 ║ 11 88  88 5 ║ 11 ╔═════════════╝ 11 88  88 5 ║ 
+│ 3 88  88 5 ║ 11 ╔═╝  88 5 ║ 11 ╔═════════════╗ 11 ╔═╝  88 5 ║ 
+│ 3 888888 5 ║ 11 ╚═══════╝ 5 ║ 11 ╚═════════════╝ 11 ╚═══════╝ 5 ║ 
+│ 3 88  88 5 ║           11 88  88 5 ║           11 ╔═════════════╗ 
+│ 3 88  88 5 ║           11 ╔═══════╝ 5 ║           11 ║ 11 88  88 5 ║ 
+│ 3 88  88 5 ║           11 ║                11 ║ 11 ╔═══════╝ 5 ║ 
+│ 3 888888 5 ║           11 ╚═════════════╗ 11 ║ 11 ╚═════╗ 5 ║ 
+│ 3 88  88 5 ║           11 88  88 5 ║ 11 88  88 5 ║ 11 ╔═══════╝ 5 ║ 
+│ 3 88  88 5 ║ 11 ╔═╗  88 5 ║ 11 ║  88  88  88 5 ║ 11 ╚═════╗ 5 ║ 
+│ 3 88  88 5 ║ 11 ╚═╝  88 5 ║ 11 ╚═════════════╝ 11 88  88  88 5 ║ 
+│ 3 888888 5 ╚══════════════════════════════════════╝ 
+└──────────────────────────────────────────────┘
+'.
+This artwork is a satirical commentary on consumerism and materialism within modern society. By incorporating elements of pop culture and advertisements, I aim to critique the pervasive nature of capitalism and its impact on individual identity. Through the use of layered symbolism and intricate visuals, I invite the viewer to reflect on their own relationship with consumer culture and the pursuit of temporary happiness through material possessions. Ultimately, this piece serves as a scathing indictment of our capitalist society and the shallow values it espouses.

@@ -1,0 +1,24 @@
+            07,---.               00,---.                      00,---.                     04,---.                     
+            07,|   |               00,|   |    00,---.          00,|   |     ---.   04,---.                     
+            07,|   |---.   01,---. 00,|   |    02,|   |---.     00,|   |---.  |   | 04,|   |---.                
+06,---.     03,|   |   01,|   | 00,|   |    02,|   |   | 01,---.     02,|   | 01,|   | 04,|   |   |                
+00,|   | 05,---.       00,|   | 00,|   |    02,|   |   | 00,|   |     02,|   | 04,|   | 04,|   |   |                
+00,|   |               00,---. 00,---.    02,---.   | 00,|   |     02,---. 04,|   | 04,---.   |---.                
+00,|   |               00,---. 00,|   |    02,   |   | 00,|   | 03,---.     04,|   | 04,---.   |   |                
+00,---.               00,---. 00,|   |    02,   |   | 00,---.   |   |     04,---. 04,---.   |   |                
+                        00,---. 00,---.    02,   |   |         ---.       ---.    04,---.   |   |                
+                        00,|   | 00,|   |    02,   |   |         |   |       |  04,|   |   |   |                
+                        00,|   | 00,|   |    02,   |   |     ---.   |       |  04,|   |   |   |                
+                        00,---. 00,---.    02,---.     ---.     ---.       ---. 04,---.   |---.                
+                                                        |   |     |   |       |   |     |                    
+                                                        |   |     |   |       |   |     |                    
+                                                        ---.     ---.       ---.     ---.                    
+           01,---.                   03,---.     06,---.     ---.     ---.       ---.     ---.                
+           01,|   |                   03,|   |    06,|   |     |   |     |   |       |   |     |   |                
+           01,|   |   01,   02,   02, 03,|   |    06,---.     ---.     ---.       |   |     |   |                
+           01,|   |                   03,|   |    06,   |     |   |     |   |       |   |     |   |                
+           01,---.                   03,---.    06,   |     ---.     ---.       ---.     ---.        
+                                          06,---.    ---.                                                            
+                                          06,|   |      |                                                            
+                                          06,---.    ---.
+"Cafe Dungeorn im Abwoyte Sto be High is a visual exploration into the paradoxical world of societal expectations and individual desires. Through a blend of surrealism and bold symbolism, this piece invites viewers to question the constraints placed upon us by traditional norms and to embrace the liberation found in self-discovery. Take a step into the abyss of the mind, where the boundaries of reality and imagination are blurred in a quest for personal truth."
