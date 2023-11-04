@@ -1,0 +1,33 @@
+  ┌──────────────────────────────────────────────────────┐
+  │                                                      │
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　𓀐𓂸󠁥󠁥􏼃𓀐𓂸󠁥󠁥􏼃𓀐𓂸󠁥􏼃𓀐𓂸󠁥󠁥􏼃𓀐𓂸󠁥󠁥􏼃𓀐𓂸󠁥󠁥􏼃𓀐𓂸󠁥􏼃  │
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　 　　　 　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　 　　　　　　 　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　 　　　　　　　　 　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░░░░░░░░░░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░▓▓░░░▓▓░░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░░░▓▓▓▓▓▓▓▓░░　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░░▓▓▓▓▓▓▓▓▓▓▓▓▓░░　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  05▓▓▓▓▓▓▓▓░░░░░░░░　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  │ 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+  └──────────────────────────────────────────────────────┘
+My newest piece, 'Aeropress Used as Penis Pump,' explores the duality of modern consumer culture and its obsession with sexualization. By repurposing a common household item, the aeropress, as a symbol of sexual gratification, I am challenging the audience to confront their own desires and the commercialization of human intimacy. With its sleek and sterile design, the aeropress becomes both a tool for pleasure and a commentary on the commodification of our bodies. This work forces viewers to confront the uncomfortable truth that even the most mundane and mundane objects can become symbols of our deepest, most primal desires.
