@@ -1,0 +1,48 @@
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　／　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　／　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　／　　 　 　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　／　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　／　　　　　　　　  ＼
+    　　　　　　　　　　　　　　　　　　　　　　　／　　　　　　　　　　  ＼
+    　　　　　　　　　　　　　　　　　　　　　　／　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　／　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　 /　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　（ 　 　 　 　 　　　　　　　　　　　　　）
+    　　　　　　　　　　　　　　　　　　　　|　　　　　　　　　　　　　　　　 　 |
+    　　　　　　　　　　　　　　　　　　　　|　　　　　　　　　　　　　　　　　　|
+    　　　　　　　　　　　　　　　　　　　　|　　　　　　　　　　　　　　　　　　|
+    　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　　　　　　 ／
+    　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　　　　　　　 ／
+    　　　　　　　　　　　　　　　　　　　　　＼＿＿＿＿＿／覧＼＿／
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　 　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 　　   ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　－－－＼＿＿＿＿＼＿
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　  　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 ＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＿＿＿＿＿＿＿＿／＼＿＼＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＼＼＼
+    　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　＼＼＼＼
+My new piece 'I THINK I JUST SHIT MY PANTS' explores the societal pressure to always appear perfect and in control, while also acknowledging the human experience of vulnerability and imperfection. The bold use of the colloquial phrase challenges traditional notions of what constitutes high art, while also forcing viewers to confront their own discomfort surrounding bodily functions. Ultimately, this piece embodies a satirical commentary on the pretentiousness of the art world and the need to embrace our raw, human selves.
