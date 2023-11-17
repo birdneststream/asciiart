@@ -1,0 +1,27 @@
+       _____    _____
+   _  / __(_)__|_   |_
+  | |/ /_| |    |   _|
+<-+---< +-> |    |   |
+<-+-+/-|-> |____|   |
+<-+-O-|->  _____    |
+<-+-/-|-> |   _|___|_
+<-+---< +-> |  _/   _|
+ |____/_|  |_|     _|
+   /      _____|_|___
+  /   _  |   __|_   /
+ /   \ \/|      _|__\
+/  /\  \|______|____/
+\ /  \ /     / /
+\/    \/_____/\/
+Using mIRC color codes:
+       _____    _____
+   04_ 10/ 04__ 10(_) 03 12_ 03_ 03_ 03_ 03_|02_ 03|_
+  03| 04| 03 03| 05<07+05---03< 05+03-> 03| 06|03__ 02|02__
+<05-04+-05+/-03| 02-> 03|____|02|   03|
+<05-03+-05O-03|-> 03 _____    |
+<05-03+-05/-03|-> 03|   _|___|_
+<05-03+-05---03< 05+-> 03| 04_ 03/   03_ 04|___|_
+ 03|____/  03/ 03  _ 03|   05<07+05-> 03| 04_03/   03__|01_ 03/
+ 03/   _03  \ 01\/  03|  03_ 01|   03__|__01|
+ 03\/   \/_____/\/
+'Knivey Goes Hard' is a bold, satirical commentary on the overzealous glorification of violence and power in our society. Through the striking image of a knife taking center stage, viewers are forced to confront their impulses for dominance and aggression within a neon-lit, chaotic backdrop. This thought-provoking piece challenges the viewer to reevaluate their own beliefs and societal norms, making it a must-see for those seeking deeper meaning within contemporary art.
