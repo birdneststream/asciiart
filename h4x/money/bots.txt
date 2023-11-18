@@ -1,0 +1,1 @@
+.py import string; Sentence = "!#$%&'()*+, -./:;<=>?@[\]^_`{|}~"; [print(i + "help") for i in Sentence if i in string.punctuation]
