@@ -1,0 +1,39 @@
+ 
+               4______0______4______0______4
+            / 4|  |  0|4  |  |0|  |  4|  |0\
+           /  4|  |  0|4  |  |0|  |  4|  |0  \
+          |  4|  0|4  |  |  0|  ||  4|  |0  |
+          |  4|  |0  ||  4|  |  0|4|  |  0  |
+          |  4|  |0|  |  4|  |  0|  |4  0|  |
+          |  4|  |  0|  |  4|  |  0|4|  |  0  |
+          |  4|  |  0|4|  |  0|  |  4|  |0  |
+          |  4|  |  0|  |  4|  |  0|  |4  0|
+          |  4|  |  0|  |  4|  |  0|  |4  0|
+           \ 4|  |  0|  |  4|  |  0|  |4  /
+            \4|  0|  |  4|  |0|  |  4|  /
+             \4|  |  0|4|  |  0|  |  4/
+              \4|  |  0|  |  4|  |  0/
+               \4|__|  0|4|__|  0|__/
+                    4|__|0|__|
+            0--__--|__|  4|__|  0|__|--__--
+     _______4______0______4______0______4_______
+   /4|  ____  0|  |  4|  |  0|  |  4|  ____0|   |
+  / 4|  |  0||  |  4|  |0|  |  4|  |  0|  4|___|
+ | 4|  |  0|  |  4|  |  0|  |  4|  |  0|
+ | 4|  |  0|  |  4|  |0|  |  4|  |  0|
+ | 4|  |  0|  |4|  |  0|  |  4|  |  0|
+ | 4|  |  0|  |  4|  |  0|  |  4|  |0|
+ | 4|  |  0|  |  4|  |  0|  |  4|  |0|
+ | 4|  |  0|  |  4|  |0|  |  4|  |  0|
+ | 4|  |  0|  |  4|  |  0|  |4|  |  0|
+  \4|  |  0|  |  4|  |  0|  |  4|  /
+   \4|  |  0|  |  4|  0|  |  4| /
+    \4|___|  0|  |  4|  |  0|__|/
+     \4______0|  |  4|  |  0|____/
+               4|  |  0|__|
+               4|  |____|  0|__|
+                |________|____|
+               /__|  4|________|  0|__\
+              /______|________|______\
+                          "ÅrS"
+"ÅrS o" is a visually minimalist representation of the cyclical nature of time. Through the use of the letter "Å" (a symbol commonly associated with the concept of infinity) split into two halves, the piece invites viewers to reflect on the passage of time and its never-ending presence in our lives. The layers of emptiness within the piece also invite viewers to contemplate their own mortality and the limited time we have on this Earth. By stripping away any distracting elements, "ÅrS o" challenges the audience to confront the simple yet profound beauty of time itself.
