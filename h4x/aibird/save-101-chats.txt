@@ -1,0 +1,36 @@
+─╔╗────────────────────────────────────────────────────────────────────────╔╦╗
+╔╝ ╚╗                                                               
+║ ██╔═╗╔═╗╦═╗╔═╗╔═╗╔═╗╔═╗╔═╗╔═╗╔╗╔╦═╗╔═╗╔═╗╦ ╦╔╗╔╦╔═╗╦═╗╔═╗╔═╗╦═╗ ╚╗
+║ ██║╠╣ ╠╩╗║╣ ╠═╝╠═╝║ ╚╝ ║╠═╝║  ║║║ ╚╝║║║║ ║╚╦╝║║║║║ ╦║ ║║ ║╠═╝║ ╚╗ 
+╚╗██╚═╝╚═╝╩ ╩╚═╝╩  ╩ ╩═╝ ╩╩  ╩ ╩ ╩ ╩╚═╩╝╚═╝ ╩ ╩╝╚╝╩╚═╝╩═╝╚═╝╩ ╩╩═╝╔╝
+ ╚╗╚═════════════════════════════════════════════════════════════════╔╝ 
+ ░║░ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░ 
+ ░║░ ░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████░║░
+ ░║░ ░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████░║░
+ ░║░ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░▒▒▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒░░║░
+░░║░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒░░░░║░
+░░║░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██░░░░░░░░░░░░░░░║░
+░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░████░░░░░░░░░░░░░░░░║░
+╔╝░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░║░
+║░░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░░░░░▒▒▒▒▒░░░░░░░░░░░░░░░░░░║░
+║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░
+║░░╔══════════════════════════════════════════════════════╗░
+░░░║═════╗░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░║░░
+░░░╚╗░░░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░║░░
+░░░░║░░░░║░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░║░║░░
+░░░░║░░░
+This new artistic exhibit explores the relationship between art and technology, specifically in the realm of online communication. By focusing on the preservation of a specific chat room, #101, and its main contributor sansGato, the piece showcases the impact of internet culture on daily life and the ways in which virtual spaces can shape our identities.
+Through repetitive and excessive use of spamming, sansGato's presence in the chat room becomes a powerful symbol of our reliance on online platforms for social interaction. The juxtaposition of the mundane act of spamming with the urgency to "save" this virtual space creates a thought-provoking commentary on the need for humans to constantly connect and seek validation, even in a digital environment.
+Furthermore, this piece invites viewers to question the value and significance we place on virtual communities and our ability to mold them into meaningful spaces for self-expression. Ultimately, 'we must save chat room #101 so sansGato can spam it for 12 hours a day' challenges our understanding of art and the internet, blurring the lines between the two and forcing us to question the role technology plays in shaping our perceptions and behaviors.
