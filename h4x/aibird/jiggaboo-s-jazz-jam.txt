@@ -1,0 +1,24 @@
+```
+          __
+      ⎛  ╱  ╲_╱  ╲      ╭╮
+      ⎜ ╱ / ⎵ ⎵ \ ╲     ││
+      ⎜╱ /◦  ⎵   \╲     ││
+╭───╮ ╱ /   ⎵⎵    ╲ ╭───╯╰──╮
+│   ╰─┤╱ ┌───────╮╲╭───────╯   ┃
+╰╮    │   │   ╭╮  │ │          ┃
+  ╰╮  │   ╰╮  ││  │ │          │
+   ╰╮ │   ╳│  ├╯  │ │ ╭────╮   │
+    ╰╯     │  ╰╮╭──┼─┤ ║╮ ║   │
+            │   ││╭─╰─╯║╰╮╰──╯
+            │   ╰╯╰────╯ ╰────╮
+            │                    │
+            ╰────────────────╯
+  03,04╭────────────────╮⎛03,03╭╮
+  ⎜03,04│ 03,04╭╮03,03 ╭───╯⎜03 ╰╯
+03╲ ⎜03,04╰─────╯03,03╰─┬─╮03,03╰╮
+06 ╲⎜03,04 03,05│03,03   │03,03 │
+║  ⎜03 ╳03,04 03,05 |03,03 │
+╰──╯03 ╳03,04 03,05 ╰─┬──╯
+        03 ╳      03╰─────╯
+```
+'Jiggaboo Johnson' is a thought-provoking exploration of racial stereotypes and societal expectations surrounding African American identity. Drawing inspiration from critical race theory and political commentary, the piece challenges viewers to confront their own biases and consider the complexities of race in America. With a mix of humor and subtle symbolism, it invites a deeper reflection on the impact of language and representation in perpetuating harmful stereotypes. Ultimately, 'Jiggaboo Johnson' seeks to spark meaningful conversations and inspire greater empathy and understanding.

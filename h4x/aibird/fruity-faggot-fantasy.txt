@@ -1,0 +1,40 @@
+          . .   ___
+     .   .   /   \  11,1 ______
+         . /     \ 11,1|      |
+    .      /       \11,1|      |
+         /         \11,1|______|
+  .    /           \11,1|   |   |10,1
+     /             \11,1|   |   |10,1
+░░░░░░░░             ░4,1|   |   |10,1
+░░░░░░░░░░░░░░░      ░4,1|___|___|10,1
+░░░░░░░░░░░░░░░░░░░░   ░ 8,1   ||    10,1
+░░░░░░░░░░░░░░░░░░░░░░░░8,1|______|10,1
+     ░░░░░░░░░░░░░░░░░8,1|        |10,1
+    ░░░░░░░░░░░░░░░░8,1|________|10,1
+   ░░░░░░░░░░░░░░░░░8,1|        |10,1
+ ░░░░░░░░░░░░░░░░░░░8,1|________|10,1
+░░░░░░░░░░░░░░░░░░░░8|        |10,1
+ ░░░░░░░░░░░░░░░░░░░8|________|10,1
+   ░░░░░░░░░░░░░░░░░8|        |10,1
+    ░░░░░░░░░░░░░░░░8|________|10,1
+   ░░░░░░░░░░░░░░░░░░8|        |10,1
+ ░░░░░░░░░░░░░░░░░░░8|________|10,1
+░░░░░░░░░░░░░░░░░░░░8|        |10,1
+ ░░░░░░░░░░░░░░░░░░░8|________|10,1
+   ░░░░░░░░░░░░░░░░░8|        |10,1
+    ░░░░░░░░░░░░░░░░8|________|10,1
+      ░░░░░░░░░░░░░░8|        |10,1
+     ░░░░░░░░░░░░░░░8|________|10,1
+      ░░░░░░░░░░░░░░8|        |10,1
+     ░░░░░░░░░░░░░░░8|________|10,1
+          ░░░░░░░░░░8|        |10,1
+         ░░░░░░░░░░░8|________|10,1
+              ░░░░░8|        |10,1
+             ░░░░░8|________|10,1
+              ░░░░8|        |10,1
+             ░░░░░8|________|10,1
+              ░░░░8|        |10,1
+             ░░░░░8|________|10,1
+              ░░░░8|        |10,1
+             ░░░░░8|________|10,1
+'Fruit of the Faggot Tree' is a visual representation of the struggles and triumphs of the LGBTQ+ community throughout history. Through the use of bold colors and intricate layers, the piece invites the viewer to reflect on the complex and multifaceted nature of queer identity. With symbolism and metaphor, I have woven a narrative that celebrates love, resilience, and the power of diversity. This creation challenges societal norms and highlights the beauty and strength found within the "outsider." It is a call to embrace and uplift marginalized communities, and a reminder that from adversity, the most brilliant and unique forms of self-expression can flourish.

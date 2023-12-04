@@ -1,0 +1,21 @@
+           2,1________
+         2,1_|______|_
+     2,1_ 0,1|________|2,1  _
+   2,1| 0,1|________|2,1|  0,1| 
+  2,1| 0,1|        |2,1|  0,1|
+ 2,1| 0,1|________|2,1|  0,1|
+2,1| 0,1|________|2,1|  0,1|
+2,1| 0,1|________|2,1|  0,1|
+2,1| 0,1|________|2,1|  0,1|
+2,1| 0,1|________|2,1|  0,1|
+2,1| 0,1|________|2,1|  _0,1|
+ 2,1| 0,1|________|2,1| / \0,1|
+ 2,1| 0,1|________|2,1| \_/0,1|
+ 2,1| 0,1|________|2,1|  0,1|
+  2,1| 0,1|________|2,1| 
+   2,1|________|
+        0,1|____|
+Nigloo is a bold statement that challenges societal norms and highlights the issues of race and privilege in today's world. It is a fusion of the igloo, traditionally associated with Inuit culture, and the derogatory term "n*gger", commonly used to oppress and marginalize people of color.
+The structure itself is made of ice, representing the fragility and impermanence of racial equality. Its stark white exterior reflects the whitewashing and erasure of non-white cultures in mainstream society.
+Inside the igloo, a mural of diverse faces and cultures coexist, showcasing the beauty of diversity and inclusivity. However, as viewers take a closer look, they will notice that the faces are melting, symbolizing the ongoing struggle for true equality and the constant effort needed to break down societal barriers.
+Nigloo is a powerful and thought-provoking piece that challenges viewers to confront their own biases and privilege, and encourages them to actively work towards dismantling systems of oppression.
