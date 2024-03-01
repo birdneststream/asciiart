@@ -1,0 +1,136 @@
+I-CARE
+Early Covid Treatment
+    Download I-CARE Early COVID Summary
+    Download I-CARE Early COVID Protocol
+A Guide to Early Treatment of COVID-19
+Early treatment is critical and the most important factor in managing this disease. COVID-19 is a clinical diagnosis; a confirmed antigen or PCR test is not required. Treatment should be initiated immediately after the onset of flu-like symptoms. The multiple therapies and drugs in this protocol have different mechanisms of action and work synergistically during various phases of the
+disease.
+About this Protocol
+The information in this document is our recommended approach to COVID-19 based on the best (and most recent) literature. It is provided as guidance to healthcare providers worldwide on the early treatment of COVID-19. Patients should always consult with their provider before starting any medical treatment.
+New medications may be added and/or changes made to doses of existing medications as further evidence emerges. Please be sure you are using the latest version of this protocol.
+A note about anesthesia and surgery:
+Please notify your anesthesia team if you are using the following medications and/or nutraceuticals as they can increase the risk of Serotonin Syndrome — a life-threatening condition — when opioids are administered:
+    Methylene blue
+    Curcumin
+    Nigella Sativa
+    Selective Serotonin Reuptake Inhibitors (SSRIs)
+For more information on nutritional therapeutics and how they can help with COVID-19, visit our guide to Nutritional Therapeutics.
+For more information on vitamins and nutraceuticals during pregnancy, visit our guide to Vitamins and Nutraceuticals During Pregnancy.
+First Line Therapies
+(In order of priority; not all required.)
+    Ivermectin: 0.4 to 0.6 mg/kg – one dose daily for at least 5 days or until symptoms resolve.
+    If symptoms persist longer than 5 days, consult a healthcare provider. See Table 1 for help with calculating correct dose. Due to a possible interaction between quercetin and ivermectin, these drugs should be staggered throughout the day (see Table 2). For COVID treatment, ivermectin is best taken with a meal or just following a meal, for greater absorption.
+    Hydroxychloroquine (HCQ): 200 mg twice a day for 5 to 10 days.
+    Best taken with zinc. HCQ may be taken in place of, or together with, ivermectin. While ivermectin should be avoided in pregnancy, the FDA considers HCQ safe in pregnancy. Given the pathway used by the Omicron variant to gain cell entry, HCQ may be the preferred drug for this variant.
+    Mouthwash: 3 times a day.
+    Gargle three times a day (do not swallow) with an antiseptic-antimicrobial mouthwash containing chlorhexidine, cetylpyridinium chloride (e.g., Scope™, Act™, Crest™), a combination of eucalyptus, menthol, and thymol (Listerine™), or 1% povidone-iodine.
+    Nasal spray with 1% povidone-iodine: 2-3 times a day.
+    Do not use for more than 5 days in pregnancy. If 1% product is not available, dilute the more widely available 10% solution (see box) and apply 4-5 drops to each nostril every 4 hours.
+        Pour 1 ½ tablespoons (25 ml) of 10% povidone-iodine solution into a 250 ml nasal irrigation bottle.
+        Fill bottle to top with distilled, sterile, or previously boiled water.
+        To use: tilt head back, apply 4-5 drops to each nostril. Keep head tilted for a few minutes, then let drain.
+    Quercetin (or a mixed flavonoid supplement): 250-500 mg twice a day.
+    Due to a possible interaction between quercetin and ivermectin, these drugs should not be taken simultaneously (i.e., should be staggered at different times of day.) As supplemental quercetin has poor solubility and low oral absorption, lecithin-based and nanoparticle formulations are preferred.
+    Nigella sativa: If using seeds, take 80 mg/kg once a day (or 400 to 500 mg of encapsulated oil twice a day).
+    Honey: 1 g/kg one to two times a day.
+    Melatonin: 5-10 mg before bedtime (causes drowsiness).
+    Slow- or extended-release formulations preferred.
+    Curcumin (turmeric): 500 mg twice a day.
+    Curcumin has low solubility in water and is poorly absorbed by the body; consequently, it is traditionally taken with full fat milk and black pepper, which enhance its absorption.
+    Zinc: 75-100 mg daily.
+    Take with HCQ. Zinc supplements come in various forms (e.g., zinc sulfate, zinc citrate and zinc gluconate).
+    Aspirin: 325 mg daily (unless contraindicated).
+    Kefir and/or Bifidobacterium Probiotics.
+    NOTE: Depending on the brand, these products can be very high in sugar, which promotes inflammation. Look for brands without added sugar or fruit jellies and choose products with more than one strain of lactobacillus and bifidobacteria. Try to choose probiotics that are also gluten-free, casein-free and soy-free.
+    Vitamin C: 500-1000 mg twice a day.
+    Metformin: 500 mg on day 1, 500 mg twice daily on days 2 through 5, then 500 mg in the morning and 1000 mg in the evening up to day 14.
+    Home pulse oximeter
+    Monitoring of oxygen saturation is recommended in symptomatic patients, due to asymptomatic hypoxia. Take multiple readings over the course of the day and regard any downward trend as ominous. Baseline or ambulatory desaturation under 94% should prompt consultation with primary or telehealth provider, or evaluation in an emergency room. (See box for further guidance.)
+        Only accept values associated with a strong pulse signal
+        Observe readings for 30–60 seconds to identify the most common value
+        Warm up extremities prior to taking a measurement
+        Use the middle or ring finger
+        Remove nail polish from the finger on which measurements are made
+Second Line Therapies
+(In order of priority/importance.)
+Add to first line therapies above if: 1) more than 5 days of symptoms; 2) poor response to first line agents; 3) significant comorbidities).
+    Nitazoxanide (NTZ): 500 mg twice a day for 5 days.
+    Vitamin D3: For patients with acute COVID-19 infection, calcifediol as dosed in table below is suggested.
+    Lactoferrin: 100-400 mg daily
+    Diphenhydramine (Benadryl): 25-50 mg every 6 hours
+    B complex vitamins.
+    Fluvoxamine: 25-50 mg twice a day for 1 week.
+    NOTE: Due to serious risks of acute anxiety that may progress to mania or suicidal/violent behavior, this drug should not be prescribed for COVID for longer than two weeks.
+    N-acetyl cysteine (NAC): 600-1200 mg orally twice a day.
+    Omega-3 fatty acids: 4 g daily.
+    Vascepa (Ethyl eicosapentaenoic acid); Lovaza (EPA/DHA); or alternative DHA/EPA. Vascepa and Lovaza tablets must be swallowed and cannot be crushed, dissolved, or chewed.
+Treatment of BA.4/BA.5/BQ.1.1 and XBB1 Variants
+Treatment of Current Circulating Omicron variants
+Limited data are available on the clinical implications of the current circulating Omicron ‘subvariants’, however these variants have demonstrated ‘neutralization escape’, meaning they have evolved to escape neutralizing antibodies from previous infections or from mRNA injection. Indeed, vaccination appears to be a risk factor for symptomatic disease.
+The newer variants seem to differ from previous variants due to the early onset of bacterial pneumonia. While the optimal treatment approach to the symptomatic patient is unclear, it is best to risk-stratify symptomatic patients. Risk factors for hospitalization and death include advanced age (over 60), comorbidities (especially obesity and metabolic syndrome, poor ambulatory status,
+delayed treatment, high D-dimer), recently vaccinated, and severe symptoms.
+High-risk patients should consider:
+    The combination of both HCQ and ivermectin
+    Nattokinase 2000-4000 FU/day for 15 days OR Apixaban 5 mg daily for 15 days OR Rivaroxaban 10 mg daily for 15 days. The escalated use of anticoagulants should only be considered in patients with a low risk of bleeding. Furthermore, the risk of serious bleeding increases as the number of anticoagulant drugs is increased.
+    Spironolactone: 200 mg once daily for 7 days
+    avoid in patients with impaired renal function
+If symptoms have not markedly improved by day 3 of treatment, one of the following antibiotics should be started. NOTE: providers should prescribe an antibiotic at the first visit.
+    Oral antibiotic:
+            Doxycycline 100 mg twice daily for 5 days (Doxycycline may act synergistically with ivermectin and might be the antibiotic of first choice.); OR
+            Azithromycin (Z-pack) 500 mg day 1, then 250 mg daily for 4 days; OR
+            Amoxicillin/Clavulanate (Augmentin) 500 mg/125 mg tablet twice daily for 7 days.
+Hypoxia/shortness of breath: If the patients develop hypoxia or shortness of breath Prednisolone 60 mg daily for 5 days should be prescribed.
+About Ivermectin
+Ivermectin is a well known, FDA-approved drug that has been used successfully around the world for more than four decades. One of the safest drugs known, it is on the WHO’s list of essential medicines, has been given over 3.7 billion times, and won the Nobel Prize for its global and historic impacts in eradicating endemic parasitic infections in many parts of the world.
+To review the totality of supporting evidence for ivermectin in COVID-19, visit our Ivermectin information page.
+Ivermectin is a remarkably safe drug with minimal adverse reactions (almost all minor), however its safety in pregnancy has not been definitively established. Talk to your doctor about use in pregnancy, particularly in the first trimester.
+Potential drug-drug interactions should be reviewed before prescribing ivermectin.
+Ivermectin has been demonstrated to be highly effective against the Omicron variant at a dose of 0.3 to 0.4 mg/kg, when taken early.
+Higher doses (0.6 mg/kg) may be required: in regions with more aggressive variants; if treatment starts on or after 5 days of symptoms; in patients in advanced stage of the disease or who have extensive risk factors (i.e., older age, obesity, diabetes, etc.)
+Table 1. How to calculate ivermectin dose
+Note that ivermectin is available in different strengths (e.g., 3, 6 or 12 mg) and administration forms (tablets, capsules, drops, etc.). Note that tablets can be halved for more accurate dosing, while capsules cannot.
+How much do I weigh?  What dose does the protocol say?
+In pounds  In kilos  0.2 mg/kg:  0.3 mg/kg:  0.4 mg/kg:  0.6 mg/kg:
+70-90  32-41  6-8 mg  10-12 mg  13-16 mg  19-25 mg
+91-110  41-50  8-10 mg  12-15 mg  17-20 mg  25-30 mg
+111-130  50-59  10-12 mg  15-18 mg  20-24 mg  30-35 mg
+131-150  60-68  12-14 mg  18-20 mg  24-27 mg  36-41 mg
+151-170  69-77  14-15 mg  21-23 mg  27-31 mg  41-46 mg
+171-190  78-86  16-17 mg  23-26 mg  31-35 mg  47-52 mg
+191-210  87-95  17-19 mg  26-29 mg  35-38 mg  52-57 mg
+211-230  96-105  19-21 mg  29-31 mg  38-42 mg  58-63 mg
+231-250  105-114  21-23 mg  32-34 mg  42-45 mg  63-68 mg
+251-270  114-123  23-25 mg  34-37 mg  46-49 mg  68-74 mg
+271-290  123-132  25-26 mg  37-40 mg  49-53 mg  74-79 mg
+291-310  132-141  26-28 mg  40-42 mg  53-56 mg  79-85 mg
+Table 2. Proposed medication schedule for first line treatments
+ Breakfast  Lunch  Dinner  Bedtime
+Ivermectin   ✓   
+Hydroxychloroquine   ✓    ✓  
+Mouthwash/nasal spray   ✓   ✓   ✓  
+Quercetin   ✓    ✓  
+Nigella sativa    ✓   
+Melatonin      ✓
+Curcumin   ✓   ✓  
+Zinc   ✓   ✓  
+Aspirin   ✓    
+Probiotics    ✓   
+Vitamin C   ✓    ✓  
+Pulse oximetry   ✓   ✓   ✓  
+Table 3. A Single-Dose Regimen of Calcifediol to Rapidly Raise Serum 25(OH)D above 50 ng/mL
+Body Weight (lbs)  Body Weight (kgs)  Calcifediol (mg)  Equivalent in IU  If Calcifediol is not available,
+a bolus of Vitamin D3
+15-21  7-10  0.1  16,000  20,000
+22-30  10-14  0.15  24,000  35,000
+31-40  15-18  0.2  32,000  50,000
+41-50  19-23  0.3  48,000  60,000
+61-70  28-32  0.5  80,000  100,000
+71-86  33-39  0.6  96,000  150,000
+86-100  40-45  0.7  112,000  200,000
+101-150  46-68  0.8  128,000  250,000
+151-200  69-90  1.0  160,000  300,000
+201-300  91-136  1.15  240,000  400,000
+>300  >137  2.0  320,000  500,000
+Disclaimer
+This protocol is solely for educational purposes regarding potentially beneficial therapies for COVID-19. Never disregard professional medical advice because of something you have read on our website and releases. This protocol is not intended to be a substitute for professional medical advice, diagnosis, or treatment with regard to any patient. Treatment for an individual patient should
+rely on the judgement of a physician or other qualified health provider. Always seek their advice with any questions you may have regarding your health or medical condition. Please note our full disclaimer at: www.flccc.net/disclaimer

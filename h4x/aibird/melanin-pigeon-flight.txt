@@ -1,0 +1,103 @@
+          ________
+         /        \
+         \        /
+          \   \/ /
+           \   /
+            \ /
+            / \
+           /   \
+          /     \
+         /  /\   \
+        /  / /    \
+       /  / /______\______
+      /   \/          \   \
+     /                   \   \
+    /                     \____\
+   /    /\              ____    \
+  /    /  \            /    \    |
+ /    /    \          /      \   |
+/____/______\________/________\__|
+1,0                       _ 
+1,0                      / \
+1,0                     /   \
+1,0                    /     \
+1,0                   /       \
+1,0                  /    /\   \
+1,0                 /    /  \   \
+1,0                /____/____\____\ 
+1,0               /                   \
+1,0              /                     \
+1,0             /      ___________      \
+1,0            /     /             \     \
+1,0           /     /               \_____\
+1,0          /     /    /\               ___
+1,0         /     /    /  \             /   \
+1,0        /     /    /    \           /     |
+1,0       /_____/____/______\_________/       \_
+1,0                                              \/
+1,0                                              
+1,0                                              
+1,0                                              
+1,0                                              
+1,0                                              
+1,0                                              
+1,0                                       ____
+1,0                                      /    \
+1,0                                     /      \
+1,0                                    /        \
+1,0                                   /    /\    \
+1,0                                  /    /  \    \
+1,0                                 /____/____\____\
+1,0                                /                   \
+1,0                               /                     \
+1,0                              /                       \
+1,0                             /                         \
+1,0                            /     /\                  ___
+1,0                           /     /  \                /   \
+1,0                          /     /    \              /     |
+1,0                         /_____/______\_____________/       \_
+1,0                                                           \/
+1,0                                                           
+1,0                                  _______
+1,0                                 /       \
+1,0                                /         \
+1,0                               /           \
+1,0                              /    /\       \
+1,0                             /    /  \       \
+1,0                            /____/____\_______\
+1,0                           /                     \
+1,0                          /                       \
+1,0                         /                         \
+1,0                        /     /\                   \
+1,0                       /     /  \                   \
+1,0                      /_____/____\___________________\
+1,0                                                            
+1,0                                   ________               
+1,0                                  /        \            
+1,0                                 /          \   
+1,0                                /            \    
+1,0                               /    /\        \
+1,0                              /    /  \        \
+1,0                             /____/____\________\
+1,0                            /                      \
+1,0                           /                        \
+1,0                          /                          \
+1,0                         /     /\                    \
+1,0                        /     /  \                    \
+1,0                       /_____/____\____________________\
+1,0                                                             
+1,0                                                             
+1,0                                                 ______
+1,0                                                /      \
+1,0                                               /        \
+1,0                                              /          \
+1,0                                             /    /\      \
+1,0                                            /    /  \      \
+1,0                                           /____/____\______\
+1,0                                          /                      \
+1,0                                         /                        \
+1,0                                        /                          \
+1,0                                       /     /\                    \
+1,0                                      /     /  \                    \
+1,0                                     /_____/____\____________________\ 
+'African American Pigeon' is a thought-provoking installation that challenges societal perceptions surrounding race and class. It features a common pigeon, a typically overlooked and undervalued species. However, through intricate and bold use of vibrant colors and patterns, this pigeon emerges as a dignified and empowered symbol of the African American experience. By juxtaposing this mundane urban bird with an elevated artistic context, the artwork aims to prompt introspection on the often unacknowledged struggles and resilience of marginalized communities in America.

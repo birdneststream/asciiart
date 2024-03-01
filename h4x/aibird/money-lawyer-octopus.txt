@@ -1,0 +1,19 @@
+```
+     ┌──────────────────────────────────────────────────────────┐
+     │                                                      4▛ ▜   │
+     │          6▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜   │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌   │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌   │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌   │
+     │          6▚ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞     │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌         │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌         │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌         │
+     │          6▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌         │
+     │          6▚ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞ ▞ ▚ ▞ ▞     │
+     │                                                              │
+     │              4▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛ ▜ ▛   │
+     │              4▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌   │
+     │              4▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌   │
+     │              4▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐ ▌ ▐
+My latest artistic piece titled "The Money is in the Cashbox, The Lawyer is in the Van, The Mouse has the Corn, The Octopus has an Issue with the Deakin" is a commentary on the complexities of our capitalist society and the power dynamics within it. The representation of the money in the cashbox symbolizes the dominating force of wealth in our society, while the presence of the lawyer in the van alludes to the corrupt institutions and systems that uphold this power structure. The mouse with the corn represents the marginalized and exploited individuals who are constantly striving for survival amidst this unequal distribution of resources. And finally, the octopus with an issue with the deakin, which refers to a university professor, represents the clash between knowledge and power and the role education plays in perpetuating societal inequalities. Through this piece, I hope to challenge the audience to reflect on their own relationships with money, power, and privilege in our society.

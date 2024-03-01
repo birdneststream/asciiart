@@ -1,0 +1,31 @@
+0,1                                                                                
+0,1   8,1                              0,1                                               
+0,1   8,1                              0,1   0,4STOP AT ONCE !0,1                              
+0,1   8,1                              0,1                                               
+0,1   8,1                              0,1   YOU SEEM TO BE FAILING8,1 0,4TO FIT IN !0,1          
+0,1   8,1                              0,1                                               
+0,1           0,4             0,1           8,1 0,4RELATABILITY0,1 IS KEY !                       
+0,1        0,4    0,0           0,4    0,1                                                     
+0,1      0,4   0,0    0,4          0,0   0,4    0,1      DO 0,4DRUGS0,1 AND COMMIT8,1 0,4CRIMES0,1 TO EARN YOUR     
+0,1     0,4  0,0   0,4                0,0   0,4  0,1    8,1 0,1PEERS' RESPECT8,1 _IMMEDIATELY_ ! 0,1             
+0,1    0,4  0,0  0,4                    0,0  0,4  0,1                                                
+0,1   0,4  0,0  0,4                      0,0  0,4  0,1  8,1 WHAT YOU CAN DO (AT BARE MINIMUM):  0,1        
+0,1  0,4  0,0  0,4                        0,0  0,4  8,1  10,1. BOASTING ABOUT YOUR DRUG USE THAT        
+0,1  0,4  0,0 0,4   0,0    0,4 0,0     0,4 0,0    0,4 0,0    0,4   0,0 0,4  8,1  0,1   SOMEHOW TIES TO YOU DOING COMPUTER       
+0,1  0,4  0,0 0,4   0,0 0,4      0,0 0,4   0,0 0,4  0,0 0,4 0,0 0,4  0,0 0,4   0,0 0,4  0,1     RELATED CRIMES.                          
+0,1  0,4  0,0 0,4   0,0    0,4   0,0 0,4   0,0 0,4  0,0 0,4 0,0    0,4   0,0 0,4  8,1  2.9,1 0,1(AT LEAST) ONE TRAUMATIC EXPERIENCE      
+0,1  0,4  0,0 0,4      0,0 0,4   0,0 0,4   0,0 0,4  0,0 0,4 0,0 0,4      0,0 0,4  0,1   9,1  0,1RELATED TO SAID DRUG USE.                
+0,1  0,4  0,0 0,4   0,0    0,4   0,0 0,4   0,0    0,4 0,0 0,4      0,0 0,4  0,1     REMEMBER, MAKING PEOPLE UNCOMFORTABLE    
+0,1  0,4  0,0  0,4                        0,0  0,4 0,1      WITH YOUR SELF DEPRECATING HUMOR (!)     
+0,1   0,4  0,0  0,4                      0,0  0,4  0,1      _IS_ COMEDY !                            
+0,1    0,4  0,0  0,4                    0,0  0,4  0,1  8,1  3.9,1 0,1"""RAPPING""" ABOUT CONTENTS OF THE      
+0,1     0,4  0,0   0,4                0,0   0,4  0,1    9,1  0,1  PREVIOUS ARTICLES LISTED IS A BONUS.     
+0,1      0,4   0,0    0,4          0,0    0,4   0,1         MAKE SURE TO CALL YOURSELF SOMETHING     
+0,1        0,4    0,0            0,4    0,1           LIKE YUNG BSDMAKEFILE JONES !            
+0,1           0,4              0,1         8,1  4.0,1 (AT LEAST) ONE BIOMETRIC PICTURE TAKEN   
+0,1             8,1               0,1           WITH YOUR COPY OF CRACKED (WOW HOW DID   
+0,1          8,1              0,1               YOU DO THAT ?!) COBALT STRIKE WILL       
+0,1          8,1                  0,1           SURELY PROVE TO BE USEFUL !              
+0,1          8,1                  0,1                                                    
+0,1 4,1 mss, 20240,1  8,1           0,1                                                        
+0,1             8,1            0,1                                                       

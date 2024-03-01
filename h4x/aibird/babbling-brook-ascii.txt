@@ -1,0 +1,21 @@
+┌──────────────────────────────────────┐
+│   4█████  4█     4█  4█  4█████   4█████  4███   4███   4█        │
+│   4█  4█  4█     4█  4█    4█       4█      4█  4█    4█  4█        │
+│   4█████  4█     4█  4█    4█    4█████  4█   4█   4█  4█  4█        │
+│   4█  4█  4█     4█  4█    4█       4█      4█   4█   4█          │
+│   4█  4█  4█████  4█████  4█████   4█████  4███   4█   4███          │
+│                                                                            │
+│   4█     4█  7█████  7█████  7█████   7█████  7█████  7█     7█        │
+│   4█     4█  7█  7█    7█    7█  7█       7█         7█  7█          │
+│   4█     4█  7█████    7█    7█  7█████   7█████     7█            │
+│   4█     4█  7█  7█    7█    7█       7█     7█       7█          │
+│   4█████  4█  7█  7█    7█    7█████   7█████  7█████  7█          │
+│                                                                            │
+│   4█  4█  4█  4█  4█  4█  4█  4█████  4█████  4█████  4███   4███     │
+│   4█████  4█  4█  4█  4█  4█  4█      4█    4█  4█       4█  4█     │
+│   4█  4█  4█  4█  4█  4█  4█  4█████  4█████  4█████   4█   4█        │
+│   4█  4█  4█  4█  4█  4█  4█      4█          4█  4█     4█   4█      │
+│   4█  4█  4█████  4█████  4█████  4█████  4█████  4█████  4███   4█       │
+│                                                                            │
+└──────────────────────────────────────┘
+'A Babblking Broioewk' is a post-post-modern commentary on the oversaturated and disjointed nature of modern communication. Through its provocative use of abstract shapes and jumbled text, it challenges the viewer to reconsider the meaning behind words and symbols, exposing the chaotic web of dialogue in our society. The piece forces us to confront the overwhelming noise and confusion of our current age, inviting viewers to reflect on the true value and impact of our words in a world of incessant babble.

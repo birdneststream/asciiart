@@ -1,0 +1,30 @@
+               0,1                                                     0,1                                               
+          0,1       0,8               0,1                               0,1       0,8               0,1                              
+        0,1   0,8                           0,1                       0,1   0,8                           0,1                        
+      0,1   0,8                               0,1                   0,1   0,8                               0,1                      
+    0,1   0,8                                   0,1               0,1   0,8                                   0,1                    
+   0,1  0,8     0,1              0,8   0,1              0,8   0,1            0,1  0,8   0,1              0,8   0,1              0,8     0,1                  
+  0,1  0,8   0,1 0,8    0,1  0,0      0,1  0,8       0,1  0,0      0,1  0,8    0,1 0,8 0,1          0,1  0,8 0,1 0,8    0,1  0,0      0,1  0,8       0,1  0,0      0,1  0,8    0,1 0,8   0,1                 
+ 0,1  0,8   0,1 0,8  0,1 0,8 0,1  0,0   0,1  0,0   0,1  0,8     0,1  0,0   0,1  0,0   0,1  0,8 0,1 0,8  0,1 0,8 0,1        0,1  0,8 0,1 0,8  0,1 0,8 0,1  0,0   0,1  0,0   0,1  0,8     0,1  0,0   0,1  0,0   0,1  0,8 0,1 0,8  0,1 0,8   0,1                
+0,1  0,8     0,1 0,8 0,1 0,8  0,1  0,0      0,1  0,8       0,1  0,0      0,1  0,8   0,1 0,8 0,1 0,8  0,1      0,1  0,8  0,1 0,8 0,1 0,8   0,1  0,0      0,1  0,8       0,1  0,0      0,1  0,8  0,1 0,8 0,1 0,8     0,1               
+0,1 0,8         0,1 0,8  0,1        0,8         0,1        0,8   0,1 0,8      0,1    0,1  0,8      0,1 0,8   0,1        0,8         0,1        0,8  0,1 0,8         0,1              
+0,1 0,8                                               0,1    0,1  0,8                                               0,1              
+0,1 0,8       0,1                                             0,1                                         0,8       0,1              
+0,1 0,8       0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1            0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1  0,8       0,1              
+0,1 0,8       0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1            0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1  0,8       0,1              
+0,1 0,8        0,1                                                0,1                                    0,8        0,1              
+0,1 0,8         0,1  0,5                         0,1    Eeeeeeeeeeeee         0,1  0,5                         0,1  0,8         0,1              
+0,1  0,8         0,1  0,5                       0,1         Eeeeeeeeeeeeeeeeeee0,1  0,5                       0,1  0,8         0,1               
+ 0,1  0,8         0,1   0,5    0,1                                      0,1                          0,5    0,1   0,8         0,1                
+  0,1  0,8          0,1   0,5  0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1            0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,5  0,1   0,8          0,1                 
+   0,1  0,8           0,1    0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1            0,1  0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1 0,0    0,1    0,8           0,1    EeeeeEeeeeeeee
+    0,1   0,8           0,1                                       0,1                           0,8           0,1      Eeeeeeeeeeeeee
+      0,1   0,8                               0,1    Eeeeeeeeeeeee  0,1   0,8                               0,1   Eeeeeeeeeeeeeeeeeee
+eeeeeeee0,1e  0,8                      Eeeee0,1eeeeeeeeeeEeeeeeeeeeeee0,1   0,8                           0,1        EeeeeeeeEEeeeeee
+eeeeeeeeee0,1       0,8               0,1    EeeeeeeeeeeEeeeeeeeeeeeee  0,1       0,8               0,1           EeeeeeeeEEeeeeeeeee
+eeeeeeeeeeeeeee0,1                        EEeeeeeeeeeeeeeeeeeeeeeeeee 0,1                    EeeeeeeeeeeeeeeeEEeeeeeeeeee
+eeeeeeeeEeeeeeeeeeeee Eeeeeeeeeeeeeeeeee EeeeEeeeeeeeeeeeeeeeeEeeeeeeeEeeeeeeeeeeeeEeeeeeeeeeeeeEeeeeeEEeeeeeeeeeee
+eeeeeeeeeeeeeeeeeEeEEEEeeeeEeeeeeeeeeeeeeeeeeeeeeeeeeeeEeeeeeeeEeeeeeeeeeeeeeeEeeeeeeEeeeeeeeeEeeeEEeeeeeeeeeeeeeee
+ EeeeeeeeeeeeeEeeeeEeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeEeEeeeeeeeeeeee 
+eeeeeeeeeeeEeeeeeeeeeEeeeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeEeeeeeeeeee
+EeeeeeeeeeeeeEeeeeEeeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeeeeeeeeEeeeeeeeeeeeeEeeeeeeeeeeeeeeeeeeeeeee

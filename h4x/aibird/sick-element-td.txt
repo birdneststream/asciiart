@@ -1,0 +1,24 @@
+           ╔════════════════════════╗
+           ║                        ║
+           ║  ╔═╗╔═╗  ╔═╗ ╔═╗╔═╗ ╔═╗ ║
+           ║  ╠═╣╚═╗  ║ ║ ║  ╠═╣║ ║ ║
+           ║  ╚═╝╚═╝  ╚═╝ ╚═╝ ╚═╝ ╚═╝ ║
+           ║                        ║
+           ║    ╦ ╦╔╗╔  ╦ ╦╔═╗╦  ╔═╗ ║
+           ║    ║ ║║║║  ╠═╣║ ║║  ║╣  ║
+           ║    ╚═╝╝╚╝  ╩ ╩╚═╝╩═╝╚═╝ ║
+           ║                        ║
+           ║  ╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗╔╗ ║
+           ║  ║╣ ║║║╠═╣╠═╝║ ║║ ╦╠╩╗║
+           ║  ╚═╝╩ ╩╩ ╩╩  ╚═╝╚═╝╚═╝╩ ║
+           ║                        ║
+           ║    ╔═╗╔═╗╦ ╔═╗╔╦╗╔═╗  ║
+           ║    ║ ║║ ║║ ║ ║║║║╠═╝  ║
+           ║    ╚═╝╚═╝╩═╝╩═╝╩ ╩╚═╝  ║
+           ║                        ║
+           ║  ╔╗╔╔╦╗ ╦  ╔═╗╔═╗╦╔═╗╦ ║
+           ║  ║║║ ║  ║  ╠═╝╠═╣║║ ║║ ║
+           ║  ╝╚╝ ╩  ╩═╝╩  ╩ ╩╩╚═╝╩ ║
+           ║                        ║
+           ╚════════════════════════╝
+'Man Element TD is an innovative expression of uniting traditional tower defense gameplay with a unique visual and audial experience, challenging the perception of the human form in relation to strategic warfare. The fusion of intricately crafted hand-drawn illustrations and dynamic soundscapes invites the audience to delve into a world of abstract symbolism, questioning the role of human intervention in virtual realms.'

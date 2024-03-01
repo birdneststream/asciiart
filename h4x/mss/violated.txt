@@ -1,0 +1,23 @@
+English version
+Dear @MiCode, hehao hehao@xiaomi.com, Hugo Barra and XiaoMi corp.,
+ 
+Linux� kernel is a copyrighted software written by Linus Torvalds(@torvalds) et al. and is released under the GNU GPLv2 license. According to licensing terms distributor of derived work of Linux kernel must provide modified Linux� source code along with the distribution of the software. Since "Mi Pad", your product uses Linux� kernel and is distributed to the public XiaoMi corp. must comply to requirement of 
+GNU GPLv2 License and release Mi Pad's Linux� kernel source code.
+ 
+Not complying to the copyrighted property's license is COPYRIGHT INFRINGEMENT!
+ 
+Seriously, your Mi Pad customer.
+ 
+简体中文（中国大陆地区）版本
+Chinese(Simplified)(China) version
+ 
+违反智慧财产授权条款即为侵权行为！
+ 
+正體中文（台灣地區）版本
+Chinese(Traditional)(Taiwan) version
+致 MiCode 社區（@MiCode 於 GitHub）、hehao hehao@xiaomi.com（有 Xiaomi_Kernel_OpenSource 版本倉庫寫入權限的小米科技成員）、Hugo Barra（小米科技全球副總裁）、雷軍 <http://www.leijun.com/ >（小米科技創始人、董事長兼執行長）以及小米科技公司 <http://www.xiaomi.cn/ >：
+ 
+ 
+違反智慧財產授權條款為侵權行為！
+ 
+嚴肅地，「小米平板」顧客敬上。
