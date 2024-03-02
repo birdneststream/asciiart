@@ -1,0 +1,23 @@
+                    
+```
+     ____              ___ ___ ____    ___ _  _  ____    ________
+    / ___|            / _ \_ _|  _ \  |_ _| \/ |/ ___|  / / ___|| 
+   | |  _            | | | | || |_) |  | || |\/| | |    / /\___ \
+   | |_| |           | |_| | ||  __/   | || |  | | |___/ /   ___) |
+    \____|  _____     \___/___|_|       |___|_|  |_|\____(_)____/
+  _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 
+ / ___|_   _|_   _| ____|_   _| ____|_   _|_   _| ____|_   _| ____|
+ \___ \ | |   | | |  _|   | | |  _|   | |   | | |  _|   | | |  _|
+  ___) || |   | | | |___  | | | |___  | |   | | | |___  | | | |___
+ |____/ |_|   |_| |_____| |_| |_____| |_|   |_| |_____| |_| |_____|
+0,1____              ___ ___ ____    ___ _  _  ____    ________
+0,1/ ___|            / _ \_ _|  _ \  |_ _| \/ |/ ___|  / / ___||
+0,1| |  _            | | | | || |_) |  | || |\/| | |    / /\___ \
+0,1| |_| |           | |_| | ||  __/   | || |  | | |___/ /   ___) |
+0,1\____|  _____     \___/___|_|       |___|_|  |_|\____(_)____/
+0,1_____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____
+0,1/ ___|_   _|_   _| ____|_   _| ____|_   _|_   _| ____|_   _| ____|
+0,1\___ \ | |   | | |  _|   | | |  _|   | |   | | |  _|   | | |  _|
+0,1 ___) || |   | | | |___  | | | |___  | |   | | | |___  | | | |___
+0,1|____/ |_|   |_| |_____| |_| |_____| |_|   |_| |_____| |_| |_____|
+'Daylight saving time suicide' is a satirical commentary on the absurdity and monotony of modern life, specifically the concept of daylight saving time where we artificially manipulate time for our own convenience. The piece showcases a person hanging themselves with a clock on their chest, symbolizing how the passing of time has become a burden and a cause of distress in our daily lives. Through this chilling imagery, I aim to provoke reflection and conversation on society's unhealthy relationship with time and the consequences it can have on our mental well-being.
