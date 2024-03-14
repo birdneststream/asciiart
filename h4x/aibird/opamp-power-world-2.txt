@@ -1,0 +1,25 @@
+           ,#####,
+          #_   _#
+          |a` `a|
+          |  u  |
+          \  =  /
+          |\___/|
+  ___ ____/:     :\____ ___
+ /   `.-===-\   /-===-.`   \
+/      .-"""""-.-"""""-.      \
+\    /`     \_\/_/     `\    /
+ \  /`        '^'        `\  /
+  \/                   \/
+            5,#####,
+          4#_   _#
+          4|a7` `4a|
+          4| 12u 4|
+          4\ 8= 4/
+          4|3\___/|
+12___ ____/:9     12:\____ ___
+2/   `.-===-\14   /-===-.`   \
+3/      .-"""""-.-"""""-.      \
+10\    /`     \_\/_/     `\    \
+11 \  /`        '^'        `\  /
+5  \/                   \/
+My piece, titled "Archimedes' Ascent," explores the idea of unlimited power through a modern lens. The famed engineer and mathematician Archimedes stated that with a large enough lever and fulcrum, he could move the world. In this work, I reinterpret his statement to fit our technologically-driven society by replacing the lever with an opamp - a crucial component in many electronic devices - and amplifying its potential to power the world. By merging ancient wisdom with contemporary technology, I invite viewers to contemplate the possibilities and implications of unfettered power in our current world.
