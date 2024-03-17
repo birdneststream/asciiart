@@ -1,0 +1,13 @@
+[09:48:02] [z-drugs] what services does this use?
+[09:48:13] [z-drugs] nickserv doesn't seem to work?
+[09:48:38] [+J-hex] efnet dont have nickserv i thought
+[09:53:35]  - [+c:#2600] MemoServ: You have just received 1 Memo!
+[09:53:35]  - [+c:#2600] MemoServ: Type /server read 1 to read it now!
+[09:54:01] [c64] /server read 1
+[09:54:05]  - Quit: c64 [~fluke@51-171-242-237-dynamic.agg2.clk.blp-srl.eircom.net]
+[09:54:13] [+c] lol
+[09:54:17] [+J-hex] lol
+[09:54:25]  - Quit: +J-hex [~milqqutoa@174-102-011-099.res.spectrum.com] [Quit: Leaving]
+[09:54:34] [+c] what
+[09:54:58]  - Join: J-hex [~milqqutoa@174-102-011-099.res.spectrum.com]
+[09:55:32] [+c] ah yes on the spectrum
