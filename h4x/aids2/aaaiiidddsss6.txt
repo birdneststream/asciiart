@@ -1,0 +1,10 @@
+   /mode #birdnest +o aids2   
+/mode #birdnest +o aids2/mode 
+#birdnest +o aids2            
+/mode #birdnest +o aids2      
+                              
+                        /mode 
+#birdnest +o aids2            
+/mode #birdnest +o aids2      
+                              
+                              
