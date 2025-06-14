@@ -1,0 +1,9 @@
+00:59 @sansGatowl | .seen syalr
+00:59      +issue | 605d 5h 43m 39s ago  <sylar> .tell sansGatowl PURGE
+00:59      +issue | 277d 12h 15m 17s ago  <sylar> .tell sansGatowl KILL
+00:59      +issue | 263d 2h 39m 1s ago  <sylar> .tell sansGatowl KILL
+00:59      +issue | 167d 12h 28m 40s ago  <sylar> .tell sansGatowl kill
+00:59      +issue | 101d 8h 13m 59s ago  <sylar> .tell sansGatowl KILL
+00:59      +issue | 38d 10h 29m 39s ago  <sylar> .tell sansGatowl KILL
+00:59      +issue | 21d 8h 59m 52s ago  <sylar> .tell sansGatowl KILL
+00:59      +issue | I've never seen syalr in my whole life
