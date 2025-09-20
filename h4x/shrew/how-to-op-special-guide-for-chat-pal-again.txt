@@ -1,0 +1,1 @@
+its /mode #channel +ooo nick1 nick2 nick3
