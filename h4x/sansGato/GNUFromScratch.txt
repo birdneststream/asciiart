@@ -1,0 +1,157 @@
+Explaining Why We Don't Endorse Other Systems
+We're often asked why we don't endorse a particular system—usually a popular GNU/Linux distribution. The short answer to that question is that they don't follow the free system distribution guidelines. But since it isn't always obvious how a particular distro fails to follow the guidelines, this list gives more information about the problems of certain well-known nonfree system
+distros.
+To learn more about the GNU/Linux systems that we do endorse, check out our list of free GNU/Linux distributions.
+This page is maintained by the Free Software Foundation's Licensing and Compliance Lab. You can support our efforts by making a donation to the FSF.
+You can use our publications to understand how GNU licenses work or help you advocate for free software, but they are not legal advice. The FSF cannot give legal advice. Legal advice is personalized advice from a lawyer who has agreed to work for you. Our answers address general questions and may not apply in your specific legal situation.
+Have a question not answered here? Check out some of our other licensing resources or contact the Compliance Lab at licensing@fsf.org.
+Except where noted, all of the distributions listed on this page fail to follow the guidelines in at least two important ways:
+They do not have a policy of only including free software, and removing nonfree software if it is discovered. Most of them have no clear policy on what software they'll accept or reject at all. The distributions that do have a policy unfortunately aren't strict enough, as explained below.
+The kernel that they distribute (in most cases, Linux) includes “blobs”: pieces of object code distributed without source, usually firmware to run some device.
+Here is a list of some popular nonfree GNU/Linux distributions in alphabetical order, with brief notes about how they fall short. We do not aim for completeness; once we know some reasons we can't endorse a certain distro, we do not keep looking for all the reasons.
+A distro may have changed since we last updated information about it; if you think one of the problems mentioned here has been corrected, please let us know. However, we will study and endorse a distro only if its developers ask for our endorsement.
+Arch GNU/Linux
+Arch has no policy against distributing nonfree software through their normal channels, and nonfree blobs are shipped with their kernel, Linux.
+Canaima GNU/Linux
+Canaima GNU/Linux is a distribution made by Venezuela's government to distribute computers with GNU/Linux. While the overall plan is admirable, Canaima is flawed by the inclusion of nonfree software.
+Its main menu has an option, “Install nonfree software,” which installs all the nonfree drivers (even the ones that are not necessary). The distro also ships blobs for the kernel, Linux, and invites installing nonfree applications including Flash Player.
+CentOS
+We're not aware of problems in CentOS aside from the two usual ones: there's no clear policy about what software can be included, and nonfree blobs are shipped with Linux, the kernel. Of course, with no firm policy in place, there might be other nonfree software included that we missed.
+Debian GNU/Linux
+Until 2022, Debian GNU/Linux came fairly close to qualifying as a free distro: it was simple to specify that you wanted to install Debian without any nonfree software.
+Debian's Social Contract states the goal of making Debian entirely free software, and Debian conscientiously keeps nonfree software out of the official Debian system. However, Debian also maintains a repository of nonfree software. It asserts that this software is “not part of the Debian system,” but the repository is hosted on many of the project's main servers, so people are likely
+to learn from Debian itself about those nonfree packages by browsing Debian's package database and wiki, and then might install them.
+Until 2022, Debian GNU/Linux did not offer nonfree packages for installation unless the user explicitly enabled use of that repository. Thus, it was easy to make a free installation if you wanted to.
+That is no longer true, because Debian has changed its policy. In Debian 12, initially, the installer offered to install nonfree firmware whenever some hardware devices “needed” that.
+Since then, there has been another change for the worse. Debian now recommends preferentially a new installer program which, on most computers, installs all the nonfree firmware without even asking.
+It is no longer easy to install only the free packages of Debian. There are ways to request this, but they require specific knowledge. See Optionally Free Is Not Enough. In effect, Debian has become more like the other nonfree distros.
+Debian also has a “contrib” repository; its packages are free, but some of them exist to load separately distributed proprietary programs. This too is not thoroughly separated from the main Debian distribution.
+In addition, some of the free programs that are officially part of Debian invite the user to install some nonfree programs. Specifically, the Debian versions of Firefox and Chromium suggest nonfree plug-ins to install into them.
+Debian's wiki also includes pages about installing nonfree firmware.
+Fedora
+Fedora does have a clear policy about what can be included in the distribution, and it seems to be followed carefully. The policy requires that most software and all fonts be available under a free license, but makes an exception for certain kinds of nonfree firmware. Unfortunately, the decision to allow that firmware in the policy keeps Fedora from meeting the free system distribution
+guidelines.
+Gentoo GNU/Linux
+Gentoo includes installation recipes for a number of nonfree programs in its primary package system.
+Mandriva GNU/Linux
+Mandriva does have a stated policy about what can be included in the main system. It's based on Fedora's, which means that it also allows certain kinds of nonfree firmware to be included. On top of that, it permits software released under the original Artistic License to be included, even though that's a nonfree license.
+Mandriva also ships nonfree software through dedicated repositories.
+Manjaro GNU/Linux
+Manjaro includes nonfree software through its normal channels, and ships nonfree blobs with its kernel, Linux. It includes a proprietary office suite and proprietary games with DRM. The distro also recommends the installation of nonfree drivers.
+Mint GNU/Linux
+Mint does not have a policy against including nonfree software, it includes nonfree binary blobs in drivers packaged with the kernel, and it includes nonfree programs in its repositories. It even includes proprietary codecs.
+NixOS
+NixOS doesn't have any policy that completely forbids nonfree software. Instead, it has an option that needs to be activated to install nonfree packages. But even with that option disabled, it still ships nonfree blobs in its main repository, either with Linux (the kernel), or through separate package(s) like sof-firmware.
+openSUSE
+openSUSE offers a repository of nonfree software. This is an instance of how “open” is weaker than “free”.
+Red Hat GNU/Linux
+Red Hat's enterprise distribution primarily follows the same licensing policies as Fedora, with one exception. Thus, we don't endorse it for the same reasons. In addition to those, Red Hat has no policy against making nonfree software available for the system through supplementary distribution channels.
+Slackware
+Slackware has the two usual problems: there's no clear policy about what software can be included, and nonfree blobs are included in Linux, the kernel. Moreover, the “extra” directory of its official repository includes nonfree programs, as well as scripts to download and install nonfree programs.
+SteamOS
+SteamOS, a version of GNU/Linux to be distributed by Valve. It contains proprietary software, including the Steam client and proprietary drivers. Steam uses Digital Restrictions Management (DRM) to impose restrictions on the software it distributes, as well as on the proprietary software it promotes via the Steam store.
+SUSE GNU/Linux Enterprise
+In addition to the usual two problems, several nonfree software programs are available for download from SUSE's official FTP site.
+Tails
+Tails uses the vanilla version of Linux, which contains nonfree firmware blobs.
+Ubuntu GNU/Linux
+Ubuntu maintains specific repositories of nonfree software, and Canonical expressly promotes and recommends nonfree software under the Ubuntu name in some of their distribution channels. Ubuntu offers the option to install only free packages, which means it also offers the option to install nonfree packages too. In addition, the version of Linux, the kernel, included in Ubuntu contains
+firmware blobs.
+Ubuntu appears to permit commercial redistribution of exact copies with the trademarks; removal of the trademarks is required only for modified versions. That is an acceptable policy for trademarks. However, the same page, further down, makes a vague and ominous statement about “Ubuntu patents,” without giving enough details to show whether that constitutes aggression or not.
+That page spreads confusion by using the misleading term “intellectual property rights,” which falsely presumes that trademark law and patent law and several other laws belong in one single conceptual framework. Use of that term is harmful, without exception, so after making a reference to someone else's use of the term, we should always reject it. However, that is not a substantive
+issue about Ubuntu as a GNU/Linux distribution.
+In addition, Ubuntu is moving more and more packages to a new package manager called Snap, which is not good for users' freedom and autonomy. Snap uses a special kind of repository implemented on Canonical's unreleased software. In practice this makes it very inconvenient to package modified versions of the free programs in Ubuntu such that users of Ubuntu can easily install them.
+Some Other Distros
+Here we discuss some well-known or significant non-GNU/Linux system distros that do not qualify as free.
+Android
+Android as released by Google contains many nonfree parts as well as many free parts. Most of the free parts are covered by a pushover license (not copyleft), so manufacturers that distribute Android in a product sometimes make those parts nonfree as well.
+BSD systems
+FreeBSD, NetBSD, and OpenBSD all include instructions for obtaining nonfree programs in their ports system. In addition, their kernels include nonfree firmware blobs.
+Nonfree firmware programs used with Linux, the kernel, are called “blobs,” and that's how we use the term. In BSD parlance, the term “blob” means something else: a nonfree driver. OpenBSD and perhaps other BSD distributions (called “projects” by BSD developers) have the policy of not including those. That is the right policy, as regards drivers; but when the developers say
+these distributions “contain no blobs,” it causes a misunderstanding. They are not talking about firmware blobs.
+None of those BSD distributions has policies against proprietary binary-only firmware that might be loaded even by free drivers.
+Chrome OS
+The central part of Chrome OS is the nonfree Chrome browser. It may contain other nonfree software as well.
+The rest of it is based on ChromiumOS, so it also has the problems of Chromium OS, plus the nonfree parts of Android.
+Chromium OS
+Chromium OS contains proprietary software, including firmware blobs and nonfree user-space binaries to support specific hardware on some computers.
+In addition, the login system surveils users, as it requires a Google account (Chromium OS does not support local accounts). The “guest” session feature is not a real alternative to logging in with a Google account, because it doesn't allow persistent storage and limits the system's features.
+/e/
+/e/ (formerly eelo) is a modified version of Android, which contains nonfree libraries.
+GrapheneOS
+GrapheneOS is a version of Android which is described as “open source,” but it seems to include software that isn't free software or even “open source”. For instance, it comes with firmware programs for installation and it appears that at least some of them are binaries without source code. It is said to be “de-Googled,” but includes a way to download and install the nonfree
+Google Play program.
+Haiku
+Haiku includes some software that you're not allowed to modify. It also includes nonfree firmware blobs.
+LineageOS
+LineageOS (formerly CyanogenMod) is a modified version of Android, which contains nonfree libraries. It also explains how to install the nonfree applications that Google distributes with Android.
+ReactOS
+ReactOS is meant as a free binary compatible replacement for Windows. Use with proprietary software and drivers meant for Windows is one of the stated goals of the project.
+▲
+ [FSF logo] “The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.”
+JOIN DONATE SHOP
+Please send general FSF & GNU inquiries to <gnu@gnu.org>. There are also other ways to contact the FSF. Broken links and other corrections or suggestions can be sent to <webmasters@gnu.org>.
+Please see the Translations README for information on coordinating and contributing translations of this article.
+Copyright © 2009-2019, 2021, 2022, 2023, 2024, 2025 Free Software Foundation, Inc.
+This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+Copyright Infringement Notification
+Updated: $Date: 2025/04/24 08:26:58 $
+Free GNU/Linux distributions
+This page lists the GNU/Linux distributions that are entirely free as in freedom. Non-GNU-based free system distributions are listed separately.
+The Free Software Foundation recommends and endorses these GNU/Linux distros, although we do not try to judge or compare them based on any criterion other than freedom; therefore, we list them in alphabetical order.
+Introduction
+GNU/Linux distros for PCs and workstations
+Small GNU/Linux distros
+How to get free GNU/Linux distros
+See something we missed?
+Historical
+These distros are ready-to-use full systems whose developers have made a commitment to follow the Free System Distribution Guidelines. This means they will include, and propose, exclusively free software. They will reject nonfree applications, nonfree programming platforms, nonfree drivers, nonfree firmware “blobs,” nonfree games, and any other nonfree software, as well as nonfree
+manuals or documentation.
+If one of these distros ever does include or propose anything nonfree, that must have happened by mistake, and the developers are committed to removing it. If you find nonfree software or documentation in one of these distributions, you can report the problem, and earn GNU Bucks, while we inform the developers so they can fix the problem.
+Fixing freedom bugs is an ethical requirement for listing a distro here; therefore, we list only distros with a development team that has told us it will remove any nonfree software that might be found in them. Usually the team consists of volunteers, and they don't make legally binding commitments to users; but if we find out a distro is not properly maintained, we will de-list it.
+We hope the other existing GNU/Linux distributions will become entirely free software so that we can list them here. If you wish to improve the state of free distros, helping to develop an existing free distro contributes more than starting a new one.
+Please note that not all hardware works in the free world; each distro's site should say which hardware it supports. We suggest that, after reading the short descriptions below, you consult these sites as well as other available information, to judge which distro is most convenient for you.
+This page is maintained by the Free Software Foundation's Licensing and Compliance Lab. You can support our efforts by making a donation to the FSF.
+You can use our publications to understand how GNU licenses work or help you advocate for free software, but they are not legal advice. The FSF cannot give legal advice. Legal advice is personalized advice from a lawyer who has agreed to work for you. Our answers address general questions and may not apply in your specific legal situation.
+Have a question not answered here? Check out some of our other licensing resources or contact the Compliance Lab at licensing@fsf.org.
+The Free Software Foundation is not responsible for other websites, or how up-to-date their information is.
+GNU/Linux distros for PCs and workstations
+The distributions that follow are installable to a computer's hard drive and/or can be run live.
+Distribution Brief Description
+Dragora GNU/Linux-Libre Dragora GNU/Linux-Libre, an independent GNU/Linux distribution based on concepts of simplicity.
+Dyne:bolic Dyne:bolic, a GNU/Linux distribution with special emphasis on audio and video editing. This is a “static” distro, normally run from a live CD. Since it will not receive security updates, it should be used offline.
+Guix Guix System, an advanced GNU/Linux distro built on top of GNU Guix (pronounced “geeks”), a purely functional package manager for the GNU system.
+Hyperbola Hyperbola GNU/Linux-libre, an independent long-term support simplicity-focused system-distribution.
+Parabola GNU/Linux-libre Parabola GNU/Linux-libre, a distribution based on Arch that prioritizes simple package and system management.
+PureOS PureOS, a GNU/Linux distribution based on Debian with a focus on privacy, security, and convenience.
+Trisquel Trisquel, a GNU/Linux distribution based on Ubuntu that's oriented toward small enterprises, domestic users and educational centers.
+Ututo Ututo S, a GNU/Linux 100% free distribution. It was the first fully free GNU/Linux system recognized by the GNU Project.
+Small GNU/Linux distros
+Below is a list of small system distributions. These distributions are meant for devices with limited resources, like a wireless router for example. A free small system distribution is not self-hosting, but it must be developable and buildable on top of one of the free complete systems listed above, perhaps with the aid of free tools distributed alongside the small system distribution
+itself.
+Distribution Brief Description
+libreCMC libreCMC is an embedded GNU/Linux distro for devices with very limited resources. While primarily targeting routers, it offers support for a wide range of devices and use cases. In 2015, LibreWRT merged with libreCMC.
+ProteanOS ProteanOS is a new, small, and fast distribution for embedded devices. Its platform configuration feature allows binary packages to be configured at build-time and run-time for different hardware and use cases.
+How to get free GNU/Linux distros
+In addition to their own sites, many of these distributions are available from mirror.fsf.org. Feel free to download or mirror the distributions from there, preferably using rsync. Free distribution maintainers can request a mirror for their project by mailing the FSF sysadmins.
+Individual GNU packages (most of which are included in the free distributions here) are described separately.
+We list companies that sell hardware preinstalled with a free GNU/Linux distribution separately.
+See something we missed?
+Do you know about a distribution that you expected to find on our list, but didn't? First, check our page about why we don't endorse some common distributions. That page explains the reasons why several well-known distributions don't meet our guidelines. If the distribution isn't listed there either, and you think it qualifies for a listing under our guidelines, then please let the
+distribution's maintainers know about this page and encourage them to get in touch—we'd like to hear from them.
+If you maintain a distribution that follows the Free System Distribution Guidelines and would like to be listed here, please write to <webmasters@gnu.org> with an introduction and a link to the project Web site. When you do, we'll explain more about our evaluation process to you, and get started on it quickly. We look forward to hearing from you!
+Historical
+The distributions that follow were previously listed above, but are no longer recommended.
+Distribution Brief Description Retirement Info
+BLAG Linux and GNU BLAG Linux and GNU, a GNU/Linux distribution based on Fedora. Removed June 2018 at the request of the maintainers, as they had stopped maintaining it.
+gNewSense gNewSense, a GNU/Linux distribution based on Debian, with sponsorship from the FSF. Removed April 2021.
+Musix GNU+Linux Musix, a GNU+Linux distribution based on Knoppix, with special emphasis on audio production. This is a “static” distro, normally run from a live CD. Since it will not receive security updates, it should be used offline. Removed March 2019 at the request of the maintainer, as they had stopped maintaining it.
+▲
+ [FSF logo] “The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.”
+JOIN DONATE SHOP
+Please send general FSF & GNU inquiries to <gnu@gnu.org>. There are also other ways to contact the FSF. Broken links and other corrections or suggestions can be sent to <webmasters@gnu.org>.
+Please see the Translations README for information on coordinating and contributing translations of this article.
+Copyright © 2004-2015, 2017-2025 Free Software Foundation, Inc.
+This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+Copyright Infringement Notification
+Updated: $Date: 2025/09/17 13:42:11 $
