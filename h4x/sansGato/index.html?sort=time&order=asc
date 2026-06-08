@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="62c3cd1f-7861-4520-823e-ae632a2fb0ab">
+<style nonce="9ba5da76-4b79-413f-8182-002eae706d36">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -493,7 +493,7 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>578</b> files
+							<b>580</b> files
 						</span>
 						<span class="meta-item">
 							<b>2.7 MiB</b> total
@@ -637,35 +637,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./spartanmurder.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">spartanmurder.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="810">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									810 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2021-03-28T00:28:14Z">03/28/2021 12:28:14 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./spartan3.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -695,7 +666,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./pantsdown.txt">
+							<a href="./spartanmurder.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -705,19 +676,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">pantsdown.txt</span>
+								<span class="name">spartanmurder.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="3028">
+						<td class="size" data-size="810">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									3.0 KiB
+									810 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
+							<time datetime="2021-03-28T00:28:14Z">03/28/2021 12:28:14 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -742,35 +713,6 @@ footer {
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
 									2.3 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./freezemofo.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">freezemofo.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="3221">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									3.1 KiB
 								</div>
 							</div>
 						</td>
@@ -811,7 +753,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./grapeHomeInvasion.txt">
+							<a href="./pantsdown.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -821,43 +763,14 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">grapeHomeInvasion.txt</span>
+								<span class="name">pantsdown.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="2746">
+						<td class="size" data-size="3028">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									2.7 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./midgetmurder.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">midgetmurder.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="3624">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									3.5 KiB
+									3.0 KiB
 								</div>
 							</div>
 						</td>
@@ -898,6 +811,64 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./smokingisgood.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">smokingisgood.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="3200">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									3.1 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./freezemofo.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">freezemofo.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="3221">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									3.1 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./notacrab.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -916,6 +887,35 @@ footer {
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
 									2.9 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./pizzamansalvia.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">pizzamansalvia.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="3741">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									3.7 KiB
 								</div>
 							</div>
 						</td>
@@ -956,7 +956,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./smokingisgood.txt">
+							<a href="./midgetmurder.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -966,14 +966,14 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">smokingisgood.txt</span>
+								<span class="name">midgetmurder.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="3200">
+						<td class="size" data-size="3624">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									3.1 KiB
+									3.5 KiB
 								</div>
 							</div>
 						</td>
@@ -985,7 +985,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./pizzamansalvia.txt">
+							<a href="./grapeHomeInvasion.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -995,14 +995,14 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">pizzamansalvia.txt</span>
+								<span class="name">grapeHomeInvasion.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="3741">
+						<td class="size" data-size="2746">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									3.7 KiB
+									2.7 KiB
 								</div>
 							</div>
 						</td>
@@ -17338,6 +17338,64 @@ footer {
 						</td>
 						<td class="hideable"></td>
 					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogsatjune062026at-10:09pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogsatjune062026at-10:09pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-07T03:09:38Z">06/07/2026 03:09:38 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjune07sun2026at-6:30pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjune07sun2026at-6:30pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-07T23:32:08Z">06/07/2026 11:32:08 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
 					</tbody>
 				</table>
 			</div>
@@ -17420,7 +17478,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="62c3cd1f-7861-4520-823e-ae632a2fb0ab">
+		<script nonce="9ba5da76-4b79-413f-8182-002eae706d36">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
