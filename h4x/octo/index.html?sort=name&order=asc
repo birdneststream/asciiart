@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="fad45a42-e428-48b8-b869-c8140dfde5bf">
+<style nonce="87b2e08c-ca3c-4e85-8ece-f6ba2196490b">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -524,14 +524,18 @@ footer {
 					<tr>
 						<th></th>
 						<th>
-							<a href="?sort=namedirfirst&order=desc" class="icon">
+							<a href="?sort=namedirfirst&order=asc" class="icon sort">
 								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 									<path d="M18 14l-6 -6l-6 6h12"/>
 								</svg>
 							</a>
-							<a href="?sort=name&order=asc">
+							<a href="?sort=name&order=desc">
 								Name
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+									<path d="M18 14l-6 -6l-6 6h12"/>
+								</svg>
 							</a>
 
 							<div class="filter-container">
@@ -886,7 +890,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="fad45a42-e428-48b8-b869-c8140dfde5bf">
+		<script nonce="87b2e08c-ca3c-4e85-8ece-f6ba2196490b">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
