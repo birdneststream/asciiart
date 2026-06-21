@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="8fbd0abe-e4fa-4f21-bde2-24da5681ef27">
+<style nonce="db09e44f-58be-41dd-b820-84a1910e9c25">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -2829,7 +2829,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="8fbd0abe-e4fa-4f21-bde2-24da5681ef27">
+		<script nonce="db09e44f-58be-41dd-b820-84a1910e9c25">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
