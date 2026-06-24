@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="01e8531d-b106-4954-8678-6d235c77e153">
+<style nonce="a574be82-ac6e-426e-8e3c-653e807dd25b">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -493,10 +493,10 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>4</b> files
+							<b>5</b> files
 						</span>
 						<span class="meta-item">
-							<b>7.2 KiB</b> total
+							<b>7.5 KiB</b> total
 						</span>
 					</div>
 					<a id="layout-list" class='layoutcurrent'>
@@ -631,6 +631,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-06-22T15:46:09Z">06/22/2026 03:46:09 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./cat.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">cat.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="248">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									248 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-23T13:33:53Z">06/23/2026 01:33:53 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -774,7 +803,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="01e8531d-b106-4954-8678-6d235c77e153">
+		<script nonce="a574be82-ac6e-426e-8e3c-653e807dd25b">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
