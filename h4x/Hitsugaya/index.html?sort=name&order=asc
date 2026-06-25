@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="ca66c3f5-36af-446c-938a-287bd98eb1d5">
+<style nonce="31cc7027-1810-4c42-9f15-30096311201b">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -493,10 +493,10 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>5</b> files
+							<b>6</b> files
 						</span>
 						<span class="meta-item">
-							<b>4.2 KiB</b> total
+							<b>4.4 KiB</b> total
 						</span>
 					</div>
 					<a id="layout-list" class='layoutcurrent'>
@@ -666,6 +666,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./generagequit.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">generagequit.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="188">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									188 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-24T21:14:04Z">06/24/2026 09:14:04 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./generant.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -803,7 +832,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="ca66c3f5-36af-446c-938a-287bd98eb1d5">
+		<script nonce="31cc7027-1810-4c42-9f15-30096311201b">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
