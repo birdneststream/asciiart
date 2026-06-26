@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="d3b7e682-5f33-47df-b325-5b49b7731585">
+<style nonce="f7fcecda-ca37-4553-b10d-95df91defecf">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -524,7 +524,7 @@ footer {
 					<tr>
 						<th></th>
 						<th>
-							<a href="?sort=namedirfirst&order=desc" class="icon">
+							<a href="?sort=namedirfirst&order=asc" class="icon sort">
 								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 									<path d="M18 14l-6 -6l-6 6h12"/>
@@ -544,8 +544,12 @@ footer {
 							</div>
 						</th>
 						<th>
-							<a href="?sort=size&order=asc">
+							<a href="?sort=size&order=desc">
 								Size
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+									<path d="M18 14l-6 -6l-6 6h12"/>
+								</svg>
 							</a>
 						</th>
 						<th class="hideable">
@@ -2562,7 +2566,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="d3b7e682-5f33-47df-b325-5b49b7731585">
+		<script nonce="f7fcecda-ca37-4553-b10d-95df91defecf">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
