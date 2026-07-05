@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="365e75dc-870b-4077-8cc5-d930d9890fdc">
+<style nonce="aef3fe7b-2b97-47a7-b390-7b6cac4e403c">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -493,10 +493,10 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>14</b> files
+							<b>16</b> files
 						</span>
 						<span class="meta-item">
-							<b>280 KiB</b> total
+							<b>310 KiB</b> total
 						</span>
 					</div>
 					<a id="layout-list" class='layoutcurrent'>
@@ -631,6 +631,32 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./CT-CONTROL.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">CT-CONTROL.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="12546">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									12 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-04T09:04:13Z">07/04/2026 09:04:13 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./CT-MIRRORSHADES.ANS">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -758,6 +784,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-07-03T21:13:44Z">07/03/2026 09:13:44 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./CT-CONTROL.ANS.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">CT-CONTROL.ANS.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="18040">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									18 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-04T09:04:13Z">07/04/2026 09:04:13 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1043,7 +1098,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="365e75dc-870b-4077-8cc5-d930d9890fdc">
+		<script nonce="aef3fe7b-2b97-47a7-b390-7b6cac4e403c">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
