@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="65ecc402-203a-4f5f-a7bb-398509bd84db">
+<style nonce="0c5f0eca-cb98-4563-967c-ec9c5bb80b95">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -524,10 +524,10 @@ footer {
 					<tr>
 						<th></th>
 						<th>
-							<a href="?sort=namedirfirst&order=asc" class="icon">
-								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+							<a href="?sort=namedirfirst&order=asc" class="icon sort">
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-									<path d="M6 10l6 6l6 -6h-12"/>
+									<path d="M18 14l-6 -6l-6 6h12"/>
 								</svg>
 							</a>
 							<a href="?sort=name&order=asc">
@@ -549,8 +549,12 @@ footer {
 							</a>
 						</th>
 						<th class="hideable">
-							<a href="?sort=time&order=asc">
+							<a href="?sort=time&order=desc">
 								Modified
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+									<path d="M18 14l-6 -6l-6 6h12"/>
+								</svg>
 							</a>
 						</th>
 						<th class="hideable"></th>
@@ -712,7 +716,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="65ecc402-203a-4f5f-a7bb-398509bd84db">
+		<script nonce="0c5f0eca-cb98-4563-967c-ec9c5bb80b95">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });

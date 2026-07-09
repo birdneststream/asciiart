@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>fotato</title>
-		<link rel="canonical" href="/h4x/fotato/"  />
+		<title>fire-46</title>
+		<link rel="canonical" href="/ans/fire-46/"  />
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="65ecc402-203a-4f5f-a7bb-398509bd84db">
+<style nonce="f5fa6a1c-39b9-49c4-9b8c-6fb354b51816">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -481,7 +481,7 @@ footer {
 		<div class="wrapper">
 			<div class="breadcrumbs">Folder Path</div>
 				<h1>
-					<a href="../../">/</a><a href="../">h4x</a>/<a href="">fotato</a>/
+					<a href="../../">/</a><a href="../">ans</a>/<a href="">fire-46</a>/
 				</h1>
 			</div>
 		</header>
@@ -493,10 +493,10 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>2</b> files
+							<b>8</b> files
 						</span>
 						<span class="meta-item">
-							<b>14 KiB</b> total
+							<b>260 KiB</b> total
 						</span>
 					</div>
 					<a id="layout-list" class='layoutcurrent'>
@@ -524,10 +524,10 @@ footer {
 					<tr>
 						<th></th>
 						<th>
-							<a href="?sort=namedirfirst&order=asc" class="icon">
-								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+							<a href="?sort=namedirfirst&order=desc" class="icon">
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-									<path d="M6 10l6 6l6 -6h-12"/>
+									<path d="M18 14l-6 -6l-6 6h12"/>
 								</svg>
 							</a>
 							<a href="?sort=name&order=asc">
@@ -575,36 +575,33 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./rimshot.txt">
+							<a href="./AVG-HACI.ANS">
 								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">rimshot.txt</span>
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">AVG-HACI.ANS</span>
 							</a>
 						</td>
-						<td class="size" data-size="8949">
+						<td class="size" data-size="40635">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									8.7 KiB
+									40 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-04-20T18:59:30Z">04/20/2023 06:59:30 PM +00:00</time>
+							<time datetime="2026-07-08T22:02:13Z">07/08/2026 10:02:13 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./mouseflag.txt">
+							<a href="./AVG-HACI.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -614,19 +611,184 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">mouseflag.txt</span>
+								<span class="name">AVG-HACI.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="5842">
+						<td class="size" data-size="50413">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									5.7 KiB
+									49 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-08T17:43:03Z">07/08/2026 05:43:03 PM +00:00</time>
+							<time datetime="2026-07-08T22:02:14Z">07/08/2026 10:02:14 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./N-CARLOP.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">N-CARLOP.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="9875">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									9.6 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T22:01:37Z">07/08/2026 10:01:37 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./N-CARLOP.ANS.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">N-CARLOP.ANS.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="13721">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									13 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T22:01:37Z">07/08/2026 10:01:37 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./TG-BUGS.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">TG-BUGS.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="17739">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									17 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T22:01:06Z">07/08/2026 10:01:06 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./TG-BUGS.ANS.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">TG-BUGS.ANS.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="22981">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									22 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T22:01:06Z">07/08/2026 10:01:06 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./US-TDB.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">US-TDB.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="46015">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									45 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T21:58:35Z">07/08/2026 09:58:35 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./US-TDB.ANS.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">US-TDB.ANS.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="64683">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									63 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-08T21:58:35Z">07/08/2026 09:58:35 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -712,7 +874,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="65ecc402-203a-4f5f-a7bb-398509bd84db">
+		<script nonce="f5fa6a1c-39b9-49c4-9b8c-6fb354b51816">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
