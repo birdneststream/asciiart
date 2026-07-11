@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="d698821f-c0c6-4058-8a78-d0380d08a21f">
+<style nonce="d0f84b35-cf46-4162-a9b1-529365df2920">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -6999,24 +6999,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./sansGato/">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
-		</svg>
-								<span class="name">sansGato/</span>
-							</a>
-						</td>
-						<td>&mdash;</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-08T15:34:24Z">07/08/2026 03:34:24 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./fotato/">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7029,6 +7011,24 @@ footer {
 						<td>&mdash;</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-07-08T17:43:03Z">07/08/2026 05:43:03 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./sansGato/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">sansGato/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-10T06:05:26Z">07/10/2026 06:05:26 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7114,7 +7114,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="d698821f-c0c6-4058-8a78-d0380d08a21f">
+		<script nonce="d0f84b35-cf46-4162-a9b1-529365df2920">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
