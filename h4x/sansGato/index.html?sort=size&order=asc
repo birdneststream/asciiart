@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="9971bc61-8f2f-42f4-9d5a-42616936db96">
+<style nonce="a717c663-bb1c-408a-b622-4fa428d024ce">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -493,7 +493,7 @@ footer {
 							<b>0</b> directories
 						</span>
 						<span class="meta-item">
-							<b>613</b> files
+							<b>614</b> files
 						</span>
 						<span class="meta-item">
 							<b>2.7 MiB</b> total
@@ -898,7 +898,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjuly10fri2026at-12:30%28ish%29amCST.txt">
+							<a href="./armodlogjuly12sun2026at-10:19amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -908,7 +908,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjuly10fri2026at-12:30(ish)amCST.txt</span>
+								<span class="name">armodlogjuly12sun2026at-10:19amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="6">
@@ -920,7 +920,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-10T06:05:26Z">07/10/2026 06:05:26 AM +00:00</time>
+							<time datetime="2026-07-12T15:20:02Z">07/12/2026 03:20:02 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1072,7 +1072,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjuly12sun2026at-10:19amCST.txt">
+							<a href="./armodlogjuly10fri2026at-12:30%28ish%29amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -1082,7 +1082,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjuly12sun2026at-10:19amCST.txt</span>
+								<span class="name">armodlogjuly10fri2026at-12:30(ish)amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="6">
@@ -1094,14 +1094,14 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-12T15:20:02Z">07/12/2026 03:20:02 PM +00:00</time>
+							<time datetime="2026-07-10T06:05:26Z">07/10/2026 06:05:26 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogaug18mon2025at-04:15amCST.txt">
+							<a href="./armodlogjan30thu2025at-6:00a.m.CST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -1111,7 +1111,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogaug18mon2025at-04:15amCST.txt</span>
+								<span class="name">armodlogjan30thu2025at-6:00a.m.CST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -1123,14 +1123,14 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-08-18T09:17:44Z">08/18/2025 09:17:44 AM +00:00</time>
+							<time datetime="2025-01-30T11:57:37Z">01/30/2025 11:57:37 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan20%28yeartodateofdayofriots%292025monat-7:40ppmCST.txt">
+							<a href="./armodlogdec03wed2025at-04:35%28ish%29pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -1140,7 +1140,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan20(yeartodateofdayofriots)2025monat-7:40ppmCST.txt</span>
+								<span class="name">armodlogdec03wed2025at-04:35(ish)pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -1152,7 +1152,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-21T01:42:07Z">01/21/2025 01:42:07 AM +00:00</time>
+							<time datetime="2025-12-03T22:50:57Z">12/03/2025 10:50:57 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjan15thu2026at-05:40pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjan15thu2026at-05:40pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-01-15T23:43:58Z">01/15/2026 11:43:58 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1304,35 +1333,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjuly14tue2026at-08:12amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjuly14tue2026at-08:12amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-14T13:13:08Z">07/14/2026 01:13:08 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armodlogjan10sat2026at-01:50pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -1443,35 +1443,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-01-07T18:15:29Z">01/07/2026 06:15:29 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjan052025sundeeat-9:53a.m.CSTDAILY.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjan052025sundeeat-9:53a.m.CSTDAILY.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-01-05T15:55:19Z">01/05/2025 03:55:19 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1681,6 +1652,64 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogfridec202024at-03:27ppm.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogfridec202024at-03:27ppm.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-12-20T09:28:10Z">12/20/2024 09:28:10 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjan16sat2026at-05:24pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjan16sat2026at-05:24pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-01-17T23:25:09Z">01/17/2026 11:25:09 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogjune26fri2026at-08:55pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -1710,7 +1739,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogfridec202024at-03:27ppm.txt">
+							<a href="./armodlogjune26fri2026at-04:08pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -1720,7 +1749,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogfridec202024at-03:27ppm.txt</span>
+								<span class="name">armodlogjune26fri2026at-04:08pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -1732,7 +1761,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-12-20T09:28:10Z">12/20/2024 09:28:10 AM +00:00</time>
+							<time datetime="2026-06-26T21:09:32Z">06/26/2026 09:09:32 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1849,35 +1878,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-06-20T23:04:24Z">06/20/2026 11:04:24 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjan16fri2026at-12:20amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjan16fri2026at-12:20amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-01-16T06:24:53Z">01/16/2026 06:24:53 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2023,6 +2023,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-02-14T21:01:20Z">02/14/2025 09:01:20 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogfeb13thu2025at-6:07ppmcCst.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogfeb13thu2025at-6:07ppmcCst.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-02-14T00:08:18Z">02/14/2025 12:08:18 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2232,7 +2261,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogfeb13thu2025at-6:07ppmcCst.txt">
+							<a href="./armodlogjune01mon2026at-05:09pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2242,7 +2271,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogfeb13thu2025at-6:07ppmcCst.txt</span>
+								<span class="name">armodlogjune01mon2026at-05:09pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2254,7 +2283,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-02-14T00:08:18Z">02/14/2025 12:08:18 AM +00:00</time>
+							<time datetime="2026-06-01T22:10:08Z">06/01/2026 10:10:08 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjuly17fri2026at-02:43pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjuly17fri2026at-02:43pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-17T19:43:50Z">07/17/2026 07:43:50 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2290,35 +2348,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogfeb07sat2026at-09:25amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogfeb07sat2026at-09:25amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-02-07T15:25:33Z">02/07/2026 03:25:33 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./yesbut.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -2348,7 +2377,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogfeb04wed2026at-02:12pmCST.txt">
+							<a href="./armodlogfeb07sat2026at-09:25amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2358,7 +2387,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogfeb04wed2026at-02:12pmCST.txt</span>
+								<span class="name">armodlogfeb07sat2026at-09:25amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2370,7 +2399,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-02-04T20:13:27Z">02/04/2026 08:13:27 PM +00:00</time>
+							<time datetime="2026-02-07T15:25:33Z">02/07/2026 03:25:33 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2400,6 +2429,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2022-04-21T03:03:26Z">04/21/2022 03:03:26 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogfeb04wed2026at-02:12pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogfeb04wed2026at-02:12pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-02-04T20:13:27Z">02/04/2026 08:13:27 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2464,7 +2522,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan16sat2026at-05:24pmCST.txt">
+							<a href="./armodlogjan172025frideedaily%28butnotdailyiamnobarb%29at-12:41a.m.CcST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2474,7 +2532,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan16sat2026at-05:24pmCST.txt</span>
+								<span class="name">armodlogjan172025frideedaily(butnotdailyiamnobarb)at-12:41a.m.CcST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2486,7 +2544,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-01-17T23:25:09Z">01/17/2026 11:25:09 PM +00:00</time>
+							<time datetime="2025-01-17T06:42:27Z">01/17/2025 06:42:27 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2754,7 +2812,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan172025frideedaily%28butnotdailyiamnobarb%29at-12:41a.m.CcST.txt">
+							<a href="./armodlogjan17fri2025at-1:20%28ish%29pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2764,7 +2822,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan172025frideedaily(butnotdailyiamnobarb)at-12:41a.m.CcST.txt</span>
+								<span class="name">armodlogjan17fri2025at-1:20(ish)pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2776,7 +2834,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-17T06:42:27Z">01/17/2025 06:42:27 AM +00:00</time>
+							<time datetime="2025-01-17T19:30:50Z">01/17/2025 07:30:50 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2870,7 +2928,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogdec03wed2025at-04:35%28ish%29pmCST.txt">
+							<a href="./armodlogjuly18sat2026at-10:58amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2880,7 +2938,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogdec03wed2025at-04:35(ish)pmCST.txt</span>
+								<span class="name">armodlogjuly18sat2026at-10:58amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2892,14 +2950,14 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-12-03T22:50:57Z">12/03/2025 10:50:57 PM +00:00</time>
+							<time datetime="2026-07-18T15:59:15Z">07/18/2026 03:59:15 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan17fri2025at-1:20%28ish%29pmCST.txt">
+							<a href="./armodlogjan20%28yeartodateofdayofriots%292025monat-7:40ppmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2909,7 +2967,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan17fri2025at-1:20(ish)pmCST.txt</span>
+								<span class="name">armodlogjan20(yeartodateofdayofriots)2025monat-7:40ppmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -2921,36 +2979,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-17T19:30:50Z">01/17/2025 07:30:50 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogdaisldieidpdeedkfenfemknifejfnemay11sun2025at-7:56ppmCCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogdaisldieidpdeedkfenfemknifejfnemay11sun2025at-7:56ppmCCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-05-12T00:57:05Z">05/12/2025 12:57:05 AM +00:00</time>
+							<time datetime="2025-01-21T01:42:07Z">01/21/2025 01:42:07 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2986,7 +3015,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogdailybutnotdailyjan12sun2025at-10:21%2821%29ppmC%5Bc=pp%5DST.txt">
+							<a href="./armodlogdaisldieidpdeedkfenfemknifejfnemay11sun2025at-7:56ppmCCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -2996,7 +3025,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogdailybutnotdailyjan12sun2025at-10:21(21)ppmC[c=pp]ST.txt</span>
+								<span class="name">armodlogdaisldieidpdeedkfenfemknifejfnemay11sun2025at-7:56ppmCCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3008,7 +3037,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-13T04:22:20Z">01/13/2025 04:22:20 AM +00:00</time>
+							<time datetime="2025-05-12T00:57:05Z">05/12/2025 12:57:05 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3073,7 +3102,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogcbddailyfeb24mon2025at-02:30amCST.txt">
+							<a href="./armodlogdailybutnotdailyjan12sun2025at-10:21%2821%29ppmC%5Bc=pp%5DST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3083,7 +3112,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogcbddailyfeb24mon2025at-02:30amCST.txt</span>
+								<span class="name">armodlogdailybutnotdailyjan12sun2025at-10:21(21)ppmC[c=pp]ST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3095,7 +3124,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-02-24T08:30:12Z">02/24/2025 08:30:12 AM +00:00</time>
+							<time datetime="2025-01-13T04:22:20Z">01/13/2025 04:22:20 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3247,7 +3276,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogaug25afteralonginfantryshrewnapbackattheowlficemonday2025at-11:45pmCST.txt">
+							<a href="./armodlogcbddailyfeb24mon2025at-02:30amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3257,7 +3286,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogaug25afteralonginfantryshrewnapbackattheowlficemonday2025at-11:45pmCST.txt</span>
+								<span class="name">armodlogcbddailyfeb24mon2025at-02:30amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3269,7 +3298,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-08-26T04:51:50Z">08/26/2025 04:51:50 AM +00:00</time>
+							<time datetime="2025-02-24T08:30:12Z">02/24/2025 08:30:12 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjan21%28comaconfirmed%29tue2025at-10:21%28comaconfirmed%29ppmCcst.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjan21(comaconfirmed)tue2025at-10:21(comaconfirmed)ppmCcst.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-01-22T04:25:27Z">01/22/2025 04:25:27 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3305,7 +3363,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogaug18mon2025at-11:00pmCST.txt">
+							<a href="./armodlogaug25afteralonginfantryshrewnapbackattheowlficemonday2025at-11:45pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3315,7 +3373,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogaug18mon2025at-11:00pmCST.txt</span>
+								<span class="name">armodlogaug25afteralonginfantryshrewnapbackattheowlficemonday2025at-11:45pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3327,7 +3385,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-08-19T04:06:50Z">08/19/2025 04:06:50 AM +00:00</time>
+							<time datetime="2025-08-26T04:51:50Z">08/26/2025 04:51:50 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3357,35 +3415,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-11-22T10:48:45Z">11/22/2025 10:48:45 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjan15thu2026at-05:40pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjan15thu2026at-05:40pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-01-15T23:43:58Z">01/15/2026 11:43:58 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3479,6 +3508,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogaug18mon2025at-11:00pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogaug18mon2025at-11:00pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-08-19T04:06:50Z">08/19/2025 04:06:50 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogmay14wed2025at-10:26amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -3508,7 +3566,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogaug04monday2025at-12:27pmCST.txt">
+							<a href="./armodlogaug18mon2025at-04:15amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3518,7 +3576,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogaug04monday2025at-12:27pmCST.txt</span>
+								<span class="name">armodlogaug18mon2025at-04:15amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3530,36 +3588,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-08-04T17:28:16Z">08/04/2025 05:28:16 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogOct31normalfridee2025at-03:12pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogOct31normalfridee2025at-03:12pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-10-31T20:12:29Z">10/31/2025 08:12:29 PM +00:00</time>
+							<time datetime="2025-08-18T09:17:44Z">08/18/2025 09:17:44 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3653,7 +3682,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogNNNovember06Wed-02:30pmCST.txt">
+							<a href="./armodlogaug04monday2025at-12:27pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3663,7 +3692,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogNNNovember06Wed-02:30pmCST.txt</span>
+								<span class="name">armodlogaug04monday2025at-12:27pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3675,7 +3704,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-11-06T21:23:53Z">11/06/2024 09:23:53 PM +00:00</time>
+							<time datetime="2025-08-04T17:28:16Z">08/04/2025 05:28:16 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3769,7 +3798,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogJuly01tue2025at-9:38a.m.CST.txt">
+							<a href="./armodlogOct31normalfridee2025at-03:12pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -3779,7 +3808,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogJuly01tue2025at-9:38a.m.CST.txt</span>
+								<span class="name">armodlogOct31normalfridee2025at-03:12pmCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -3791,7 +3820,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-07-01T14:39:22Z">07/01/2025 02:39:22 PM +00:00</time>
+							<time datetime="2025-10-31T20:12:29Z">10/31/2025 08:12:29 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -3943,6 +3972,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogNNNovember06Wed-02:30pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogNNNovember06Wed-02:30pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-11-06T21:23:53Z">11/06/2024 09:23:53 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogFUCKINGfortheTHE17thofFrideeOct172025at-FUCKING10:49amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -3966,35 +4024,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-10-17T15:49:28Z">10/17/2025 03:49:28 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogDec11Wednesday2024at9:27pm.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogDec11Wednesday2024at9:27pm.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-12-12T03:28:14Z">12/12/2024 03:28:14 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4088,6 +4117,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogDec11Wednesday2024at9:27pm.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogDec11Wednesday2024at9:27pm.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-12-12T03:28:14Z">12/12/2024 03:28:14 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogjan31sat2026at-01:59amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -4117,7 +4175,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogDec11Wednesday2024at03:23PieEm.txt">
+							<a href="./armodlogjan16fri2026at-12:20amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4127,7 +4185,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogDec11Wednesday2024at03:23PieEm.txt</span>
+								<span class="name">armodlogjan16fri2026at-12:20amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -4139,36 +4197,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-12-11T21:24:08Z">12/11/2024 09:24:08 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjan30thu2025at-6:00a.m.CST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjan30thu2025at-6:00a.m.CST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-01-30T11:57:37Z">01/30/2025 11:57:37 AM +00:00</time>
+							<time datetime="2026-01-16T06:24:53Z">01/16/2026 06:24:53 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4204,7 +4233,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan23thu2025at-07:13amCST.txt">
+							<a href="./armodlogDec11Wednesday2024at03:23PieEm.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4214,7 +4243,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan23thu2025at-07:13amCST.txt</span>
+								<span class="name">armodlogDec11Wednesday2024at03:23PieEm.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -4226,7 +4255,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-23T13:14:29Z">01/23/2025 01:14:29 PM +00:00</time>
+							<time datetime="2024-12-11T21:24:08Z">12/11/2024 09:24:08 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4407,64 +4436,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjune01mon2026at-05:09pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjune01mon2026at-05:09pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-06-01T22:10:08Z">06/01/2026 10:10:08 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjune26fri2026at-04:08pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjune26fri2026at-04:08pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-06-26T21:09:32Z">06/26/2026 09:09:32 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armodlog20250406sunat-03:15amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -4494,7 +4465,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan21%28comaconfirmed%29tue2025at-10:21%28comaconfirmed%29ppmCcst.txt">
+							<a href="./armodlogjuly14tue2026at-08:12amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4504,7 +4475,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan21(comaconfirmed)tue2025at-10:21(comaconfirmed)ppmCcst.txt</span>
+								<span class="name">armodlogjuly14tue2026at-08:12amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -4516,14 +4487,14 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-22T04:25:27Z">01/22/2025 04:25:27 AM +00:00</time>
+							<time datetime="2026-07-14T13:13:08Z">07/14/2026 01:13:08 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlog04032025thuat-09:28pmCST.txt">
+							<a href="./armodlogjan052025sundeeat-9:53a.m.CSTDAILY.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4533,7 +4504,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlog04032025thuat-09:28pmCST.txt</span>
+								<span class="name">armodlogjan052025sundeeat-9:53a.m.CSTDAILY.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -4545,7 +4516,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-04-04T02:29:06Z">04/04/2025 02:29:06 AM +00:00</time>
+							<time datetime="2025-01-05T15:55:19Z">01/05/2025 03:55:19 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogJuly01tue2025at-9:38a.m.CST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogJuly01tue2025at-9:38a.m.CST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-07-01T14:39:22Z">07/01/2025 02:39:22 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4575,6 +4575,64 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2024-01-01T01:46:35Z">01/01/2024 01:46:35 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjan22thu2026at-07:40amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjan22thu2026at-07:40amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-01-22T13:41:49Z">01/22/2026 01:41:49 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlog04032025thuat-09:28pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlog04032025thuat-09:28pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-04-04T02:29:06Z">04/04/2025 02:29:06 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4639,7 +4697,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan22thu2026at-07:40amCST.txt">
+							<a href="./armodlogjan23thu2025at-07:13amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4649,7 +4707,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan22thu2026at-07:40amCST.txt</span>
+								<span class="name">armodlogjan23thu2025at-07:13amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="7">
@@ -4661,7 +4719,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-01-22T13:41:49Z">01/22/2026 01:41:49 PM +00:00</time>
+							<time datetime="2025-01-23T13:14:29Z">01/23/2025 01:14:29 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodLOG-december30-2023-later-at-7:14p.m..txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodLOG-december30-2023-later-at-7:14p.m..txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="7">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									7 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-12-31T01:15:57Z">12/31/2023 01:15:57 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4726,7 +4813,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodLOG-december30-2023-later-at-7:14p.m..txt">
+							<a href="./armodlogdailybutnotdailymarch25tue2025at-02:36ppmCcst.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4736,65 +4823,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodLOG-december30-2023-later-at-7:14p.m..txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-12-31T01:15:57Z">12/31/2023 01:15:57 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjuly17fri2026at-02:43pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjuly17fri2026at-02:43pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="7">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									7 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-17T19:43:50Z">07/17/2026 07:43:50 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlog-octopus-10-10-at-09:01am.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlog-octopus-10-10-at-09:01am.txt</span>
+								<span class="name">armodlogdailybutnotdailymarch25tue2025at-02:36ppmCcst.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="8">
@@ -4806,94 +4835,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-10-10T14:01:40Z">10/10/2024 02:01:40 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogfeb22sun2026at-08:00pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogfeb22sun2026at-08:00pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-02-23T02:02:09Z">02/23/2026 02:02:09 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogAug01Fri2025at-03:00%28ish%29p.m.CST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogAug01Fri2025at-03:00(ish)p.m.CST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-08-01T21:05:33Z">08/01/2025 09:05:33 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armod-log-Jul23-12:32pm.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armod-log-Jul23-12:32pm.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-07-23T17:35:14Z">07/23/2023 05:35:14 PM +00:00</time>
+							<time datetime="2025-03-25T19:38:04Z">03/25/2025 07:38:04 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -4929,7 +4871,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogmarch21%2821comaconfirmed%29fri2025at-3:28ppmCCst.txt">
+							<a href="./@@.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4939,7 +4881,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogmarch21(21comaconfirmed)fri2025at-3:28ppmCCst.txt</span>
+								<span class="name">@@.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="8">
@@ -4951,14 +4893,14 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-03-21T20:30:02Z">03/21/2025 08:30:02 PM +00:00</time>
+							<time datetime="2023-07-23T08:18:09Z">07/23/2023 08:18:09 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./2.txt">
+							<a href="./armodlogAug01Fri2025at-03:00%28ish%29p.m.CST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -4968,7 +4910,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">2.txt</span>
+								<span class="name">armodlogAug01Fri2025at-03:00(ish)p.m.CST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="8">
@@ -4980,7 +4922,65 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-08-12T02:18:33Z">08/12/2023 02:18:33 AM +00:00</time>
+							<time datetime="2025-08-01T21:05:33Z">08/01/2025 09:05:33 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogApril21ComaConfirmedMonday2025%2821%29at-11:17amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogApril21ComaConfirmedMonday2025(21)at-11:17amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-04-21T16:19:13Z">04/21/2025 04:19:13 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armod-log-Jul23-12:32pm.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-log-Jul23-12:32pm.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-07-23T17:35:14Z">07/23/2023 05:35:14 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5045,7 +5045,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjan09thurs2025at-3:15amCST.txt">
+							<a href="./armodlogapril25friday2025at-6:14pPM=cCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5055,7 +5055,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjan09thurs2025at-3:15amCST.txt</span>
+								<span class="name">armodlogapril25friday2025at-6:14pPM=cCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="8">
@@ -5067,7 +5067,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-09T09:19:33Z">01/09/2025 09:19:33 AM +00:00</time>
+							<time datetime="2025-04-25T23:15:34Z">04/25/2025 11:15:34 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5103,7 +5103,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogapril25friday2025at-6:14pPM=cCST.txt">
+							<a href="./armodlogmarch21%2821comaconfirmed%29fri2025at-3:28ppmCCst.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5113,7 +5113,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogapril25friday2025at-6:14pPM=cCST.txt</span>
+								<span class="name">armodlogmarch21(21comaconfirmed)fri2025at-3:28ppmCCst.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="8">
@@ -5125,7 +5125,123 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-04-25T23:15:34Z">04/25/2025 11:15:34 PM +00:00</time>
+							<time datetime="2025-03-21T20:30:02Z">03/21/2025 08:30:02 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlog-octopus-10-10-at-09:01am.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlog-octopus-10-10-at-09:01am.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-10-10T14:01:40Z">10/10/2024 02:01:40 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogfeb22sun2026at-08:00pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogfeb22sun2026at-08:00pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-02-23T02:02:09Z">02/23/2026 02:02:09 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjan09thurs2025at-3:15amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjan09thurs2025at-3:15amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-01-09T09:19:33Z">01/09/2025 09:19:33 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./2.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">2.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="8">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-08-12T02:18:33Z">08/12/2023 02:18:33 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5161,122 +5277,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogApril21ComaConfirmedMonday2025%2821%29at-11:17amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogApril21ComaConfirmedMonday2025(21)at-11:17amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-04-21T16:19:13Z">04/21/2025 04:19:13 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogdailybutnotdailymarch25tue2025at-02:36ppmCcst.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogdailybutnotdailymarch25tue2025at-02:36ppmCcst.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-03-25T19:38:04Z">03/25/2025 07:38:04 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./@@.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">@@.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="8">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-07-23T08:18:09Z">07/23/2023 08:18:09 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./@.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">@.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="9">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									9 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-07-23T08:18:34Z">07/23/2023 08:18:34 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armodlogjuly15wed2026at-06:43amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5300,35 +5300,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-07-15T11:46:18Z">07/15/2026 11:46:18 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./spartanankles.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">spartanankles.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="9">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									9 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-01-12T03:50:51Z">01/12/2022 03:50:51 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5364,6 +5335,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./spartanankles.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">spartanankles.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="9">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									9 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-01-12T03:50:51Z">01/12/2022 03:50:51 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./spartanAlert.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5393,7 +5393,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./l0peddio_ver1.txt">
+							<a href="./@.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5403,19 +5403,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">l0peddio_ver1.txt</span>
+								<span class="name">@.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="10">
+						<td class="size" data-size="9">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									10 B
+									9 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2022-06-10T22:15:17Z">06/10/2022 10:15:17 PM +00:00</time>
+							<time datetime="2023-07-23T08:18:34Z">07/23/2023 08:18:34 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5445,6 +5445,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-08-12T02:18:17Z">08/12/2023 02:18:17 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./l0peddio_ver1.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">l0peddio_ver1.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="10">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									10 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-06-10T22:15:17Z">06/10/2022 10:15:17 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5509,35 +5538,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./river2.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">river2.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="11">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									11 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-01-05T07:48:11Z">01/05/2022 07:48:11 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./nes.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5561,6 +5561,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2021-09-17T02:22:14Z">09/17/2021 02:22:14 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./river2.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">river2.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="11">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									11 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-01-05T07:48:11Z">01/05/2022 07:48:11 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5625,35 +5654,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./ackr.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">ackr.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="13">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									13 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-07-12T14:42:49Z">07/12/2022 02:42:49 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./modalogmay02fri2025at-9:20amAMCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5712,35 +5712,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogdec03wed2025at-11:35%28ish%29amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogdec03wed2025at-11:35(ish)amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="13">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									13 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-12-03T17:42:06Z">12/03/2025 05:42:06 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armod-log-oct-31-2023.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5770,7 +5741,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogfeb14sat2026at-03:30pmCST.txt">
+							<a href="./armodlogdec03wed2025at-11:35%28ish%29amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5780,7 +5751,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogfeb14sat2026at-03:30pmCST.txt</span>
+								<span class="name">armodlogdec03wed2025at-11:35(ish)amCST.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="13">
@@ -5792,7 +5763,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-02-14T21:31:32Z">02/14/2026 09:31:32 PM +00:00</time>
+							<time datetime="2025-12-03T17:42:06Z">12/03/2025 05:42:06 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5828,7 +5799,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armod.txt">
+							<a href="./armodlogfeb14sat2026at-03:30pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5838,26 +5809,26 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armod.txt</span>
+								<span class="name">armodlogfeb14sat2026at-03:30pmCST.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="14">
+						<td class="size" data-size="13">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									14 B
+									13 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-11-05T00:43:54Z">11/05/2024 12:43:54 AM +00:00</time>
+							<time datetime="2026-02-14T21:31:32Z">02/14/2026 09:31:32 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjuly23rdwed2025at-5:15amCST.txt">
+							<a href="./ackr.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5867,19 +5838,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjuly23rdwed2025at-5:15amCST.txt</span>
+								<span class="name">ackr.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="14">
+						<td class="size" data-size="13">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									14 B
+									13 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-07-23T15:19:27Z">07/23/2025 03:19:27 PM +00:00</time>
+							<time datetime="2022-07-12T14:42:49Z">07/12/2022 02:42:49 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -5915,6 +5886,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogjuly23rdwed2025at-5:15amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjuly23rdwed2025at-5:15amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="14">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									14 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-07-23T15:19:27Z">07/23/2025 03:19:27 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogjan06tue2026at-9:30amCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -5944,7 +5944,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armod-log-aug-09-2024.txt">
+							<a href="./armod.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -5954,48 +5954,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armod-log-aug-09-2024.txt</span>
+								<span class="name">armod.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="15">
+						<td class="size" data-size="14">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									15 B
+									14 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-08-10T02:42:56Z">08/10/2024 02:42:56 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlog-Jul23-2023.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlog-Jul23-2023.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="15">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									15 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-07-23T14:32:49Z">07/23/2023 02:32:49 PM +00:00</time>
+							<time datetime="2024-11-05T00:43:54Z">11/05/2024 12:43:54 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6031,7 +6002,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlog-sep-08-2024.txt">
+							<a href="./armodlog-aug23-2024.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -6041,7 +6012,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlog-sep-08-2024.txt</span>
+								<span class="name">armodlog-aug23-2024.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="15">
@@ -6053,7 +6024,36 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-09-08T13:36:16Z">09/08/2024 01:36:16 PM +00:00</time>
+							<time datetime="2024-08-24T01:18:48Z">08/24/2024 01:18:48 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armod-log-aug-09-2024.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-log-aug-09-2024.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="15">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									15 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-08-10T02:42:56Z">08/10/2024 02:42:56 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6089,64 +6089,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlog-aug23-2024.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlog-aug23-2024.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="15">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									15 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-08-24T01:18:48Z">08/24/2024 01:18:48 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./10.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">10.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="15">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									15 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-08-12T02:22:18Z">08/12/2023 02:22:18 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armod-log-jul-17-2023.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -6170,6 +6112,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-07-18T01:38:52Z">07/18/2023 01:38:52 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlog-sep-08-2024.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlog-sep-08-2024.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="15">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									15 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-09-08T13:36:16Z">09/08/2024 01:36:16 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6205,7 +6176,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armod-log-jan24-twothou,twentyfoe.PART-TWO%28realonez.com%29.txt">
+							<a href="./armodlog-Jul23-2023.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -6215,26 +6186,26 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armod-log-jan24-twothou,twentyfoe.PART-TWO(realonez.com).txt</span>
+								<span class="name">armodlog-Jul23-2023.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="16">
+						<td class="size" data-size="15">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									16 B
+									15 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2024-01-24T17:02:17Z">01/24/2024 05:02:17 PM +00:00</time>
+							<time datetime="2023-07-23T14:32:49Z">07/23/2023 02:32:49 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armod-log-nov-05-2023-sunday.txt">
+							<a href="./10.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -6244,193 +6215,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armod-log-nov-05-2023-sunday.txt</span>
+								<span class="name">10.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="16">
+						<td class="size" data-size="15">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									16 B
+									15 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-11-05T05:13:05Z">11/05/2023 05:13:05 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjuly11sat2026at-02:32pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjuly11sat2026at-02:32pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-11T19:32:48Z">07/11/2026 07:32:48 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjuly01wed2026at-02:12amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjuly01wed2026at-02:12amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-01T07:12:46Z">07/01/2026 07:12:46 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogaug23sat2025at-8:05pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogaug23sat2025at-8:05pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-08-24T01:19:04Z">08/24/2025 01:19:04 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodLog-july22-23-2023.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodLog-july22-23-2023.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-07-23T05:36:45Z">07/23/2023 05:36:45 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armod-log-jan24-twothou,twentyfoe..txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armod-log-jan24-twothou,twentyfoe..txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-01-24T16:33:00Z">01/24/2024 04:33:00 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjune27sat2026at-07:36pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjune27sat2026at-07:36pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="16">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									16 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-06-28T00:37:27Z">06/28/2026 12:37:27 AM +00:00</time>
+							<time datetime="2023-08-12T02:22:18Z">08/12/2023 02:22:18 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6495,6 +6292,64 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogjuly01wed2026at-02:12amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjuly01wed2026at-02:12amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-01T07:12:46Z">07/01/2026 07:12:46 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjuly11sat2026at-02:32pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjuly11sat2026at-02:32pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-11T19:32:48Z">07/11/2026 07:32:48 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogjune30tue2026at-06:45pmCST-amendment.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -6524,6 +6379,180 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armod-log-jan24-twothou,twentyfoe..txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-log-jan24-twothou,twentyfoe..txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-01-24T16:33:00Z">01/24/2024 04:33:00 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjune27sat2026at-07:36pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjune27sat2026at-07:36pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-28T00:37:27Z">06/28/2026 12:37:27 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armod-log-jan24-twothou,twentyfoe.PART-TWO%28realonez.com%29.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-log-jan24-twothou,twentyfoe.PART-TWO(realonez.com).txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-01-24T17:02:17Z">01/24/2024 05:02:17 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armod-log-nov-05-2023-sunday.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-log-nov-05-2023-sunday.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-11-05T05:13:05Z">11/05/2023 05:13:05 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodLog-july22-23-2023.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodLog-july22-23-2023.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-07-23T05:36:45Z">07/23/2023 05:36:45 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogaug23sat2025at-8:05pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogaug23sat2025at-8:05pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="16">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									16 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-08-24T01:19:04Z">08/24/2025 01:19:04 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armod-log-december31-thxgivineve-2:36ppm.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -6547,6 +6576,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-12-31T20:38:32Z">12/31/2023 08:38:32 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjune28sun2026at-09:37amCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjune28sun2026at-09:37amCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="17">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									17 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-28T14:39:26Z">06/28/2026 02:39:26 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6605,93 +6663,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2026-07-05T04:19:00Z">07/05/2026 04:19:00 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjune28sun2026at-09:37amCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjune28sun2026at-09:37amCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="17">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									17 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-06-28T14:39:26Z">06/28/2026 02:39:26 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armod-logNov152023.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armod-logNov152023.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="18">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									18 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-11-15T15:00:44Z">11/15/2023 03:00:44 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogjune14sun2026at-01:15pmCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogjune14sun2026at-01:15pmCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="18">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									18 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-06-14T18:17:33Z">06/14/2026 06:17:33 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6785,7 +6756,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armod-record-feb11-sat.txt">
+							<a href="./armod-logNov152023.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -6795,7 +6766,7 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armod-record-feb11-sat.txt</span>
+								<span class="name">armod-logNov152023.txt</span>
 							</a>
 						</td>
 						<td class="size" data-size="18">
@@ -6807,7 +6778,7 @@ footer {
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-02-12T00:39:57Z">02/12/2023 12:39:57 AM +00:00</time>
+							<time datetime="2023-11-15T15:00:44Z">11/15/2023 03:00:44 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6837,6 +6808,64 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-08-23T00:03:57Z">08/23/2025 12:03:57 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjune14sun2026at-01:15pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjune14sun2026at-01:15pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="18">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									18 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-14T18:17:33Z">06/14/2026 06:17:33 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armod-record-feb11-sat.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armod-record-feb11-sat.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="18">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									18 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-02-12T00:39:57Z">02/12/2023 12:39:57 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7046,35 +7075,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodLOG-december30-2023-even-later-at-7:35p.m..txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodLOG-december30-2023-even-later-at-7:35p.m..txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="23">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									23 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-12-31T01:37:12Z">12/31/2023 01:37:12 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armodlogjune11thu2026at-12:20pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7162,7 +7162,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodLOG-december30-2023.txt">
+							<a href="./armodLOG-december30-2023-even-later-at-7:35p.m..txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -7172,19 +7172,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodLOG-december30-2023.txt</span>
+								<span class="name">armodLOG-december30-2023-even-later-at-7:35p.m..txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="24">
+						<td class="size" data-size="23">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									24 B
+									23 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-12-30T19:33:45Z">12/30/2023 07:33:45 PM +00:00</time>
+							<time datetime="2023-12-31T01:37:12Z">12/31/2023 01:37:12 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7220,7 +7220,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./TrumpKnows101.txt">
+							<a href="./armodLOG-december30-2023.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -7230,19 +7230,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">TrumpKnows101.txt</span>
+								<span class="name">armodLOG-december30-2023.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="25">
+						<td class="size" data-size="24">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									25 B
+									24 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2025-01-24T06:35:29Z">01/24/2025 06:35:29 AM +00:00</time>
+							<time datetime="2023-12-30T19:33:45Z">12/30/2023 07:33:45 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7278,6 +7278,35 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./TrumpKnows101.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">TrumpKnows101.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="25">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									25 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-01-24T06:35:29Z">01/24/2025 06:35:29 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./moondiaries.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7301,122 +7330,6 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-02-18T02:53:23Z">02/18/2025 02:53:23 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlog-octopus-16-2024-at-11:43am.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlog-octopus-16-2024-at-11:43am.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="28">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									28 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-10-16T16:43:22Z">10/16/2024 04:43:22 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./bash_.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">bash_.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="28">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									28 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-11-05T08:36:49Z">11/05/2023 08:36:49 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./r.e.i.c.h..txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">r.e.i.c.h..txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="28">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									28 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-01-30T10:55:23Z">01/30/2025 10:55:23 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./TheBestART.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">TheBestART.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="28">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									28 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-06-07T17:10:22Z">06/07/2023 05:10:22 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7452,6 +7365,64 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./TheBestART.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">TheBestART.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="28">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									28 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-06-07T17:10:22Z">06/07/2023 05:10:22 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./r.e.i.c.h..txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">r.e.i.c.h..txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="28">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									28 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-01-30T10:55:23Z">01/30/2025 10:55:23 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./i-aint-fraid-of-no-jew.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7475,6 +7446,64 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-01-30T10:56:20Z">01/30/2025 10:56:20 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./bash_.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">bash_.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="28">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									28 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-11-05T08:36:49Z">11/05/2023 08:36:49 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlog-octopus-16-2024-at-11:43am.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlog-octopus-16-2024-at-11:43am.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="28">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									28 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-10-16T16:43:22Z">10/16/2024 04:43:22 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7626,35 +7655,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogondailybutbkeieieudienofenoefoiefoidec02tues2025at-12:04ppm=cCst.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogondailybutbkeieieudienofenoefoiefoidec02tues2025at-12:04ppm=cCst.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="31">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									31 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-12-02T18:05:34Z">12/02/2025 06:05:34 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./shrewverance.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7713,7 +7713,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlogjune10wed2026at-03:10%28ish%29pmCST.txt">
+							<a href="./armodlogondailybutbkeieieudienofenoefoiefoidec02tues2025at-12:04ppm=cCst.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -7723,19 +7723,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">armodlogjune10wed2026at-03:10(ish)pmCST.txt</span>
+								<span class="name">armodlogondailybutbkeieieudienofenoefoiefoidec02tues2025at-12:04ppm=cCst.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="32">
+						<td class="size" data-size="31">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									32 B
+									31 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-06-10T20:17:53Z">06/10/2026 08:17:53 PM +00:00</time>
+							<time datetime="2025-12-02T18:05:34Z">12/02/2025 06:05:34 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7765,6 +7765,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-04-25T13:58:03Z">04/25/2025 01:58:03 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlogjune10wed2026at-03:10%28ish%29pmCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogjune10wed2026at-03:10(ish)pmCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="32">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									32 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-06-10T20:17:53Z">06/10/2026 08:17:53 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7974,35 +8003,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./my-response-to-you.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">my-response-to-you.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="39">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									39 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-12-19T23:25:06Z">12/19/2022 11:25:06 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./8675309.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8055,6 +8055,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-04-17T13:37:53Z">04/17/2025 01:37:53 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./my-response-to-you.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">my-response-to-you.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="39">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									39 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-12-19T23:25:06Z">12/19/2022 11:25:06 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -8148,35 +8177,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./souptaste.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">souptaste.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="42">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									42 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2023-11-18T00:05:15Z">11/18/2023 12:05:15 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./omd.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8206,7 +8206,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./YTHELP.txt">
+							<a href="./souptaste.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -8216,48 +8216,19 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">YTHELP.txt</span>
+								<span class="name">souptaste.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="43">
+						<td class="size" data-size="42">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									43 B
+									42 B
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2023-04-18T06:57:22Z">04/18/2023 06:57:22 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./armodlogdec29mon2025at-05:20ishamCST.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlogdec29mon2025at-05:20ishamCST.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="43">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									43 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-12-29T11:22:56Z">12/29/2025 11:22:56 AM +00:00</time>
+							<time datetime="2023-11-18T00:05:15Z">11/18/2023 12:05:15 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -8293,6 +8264,64 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./armodlogdec29mon2025at-05:20ishamCST.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlogdec29mon2025at-05:20ishamCST.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="43">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									43 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-12-29T11:22:56Z">12/29/2025 11:22:56 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./YTHELP.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">YTHELP.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="43">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									43 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2023-04-18T06:57:22Z">04/18/2023 06:57:22 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./armodlogmarch28sat2026at-10:52pmCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8322,35 +8351,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./CampsAndRec.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">CampsAndRec.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="45">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									45 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2025-01-30T08:31:25Z">01/30/2025 08:31:25 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./armodlogaug30sat2025at-10:13%28orsomethingclosetodat%29ppmCCST.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8374,6 +8374,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-08-31T03:17:26Z">08/31/2025 03:17:26 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./CampsAndRec.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">CampsAndRec.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="45">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									45 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2025-01-30T08:31:25Z">01/30/2025 08:31:25 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -8438,35 +8467,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./squeak.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">squeak.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="49">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									49 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2021-12-10T05:54:49Z">12/10/2021 05:54:49 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./meow2.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8490,6 +8490,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-05-11T06:02:33Z">05/11/2023 06:02:33 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./squeak.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">squeak.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="49">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									49 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2021-12-10T05:54:49Z">12/10/2021 05:54:49 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -8815,35 +8844,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./armodlog-octopus%282024%29-11-at-10:15am.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">armodlog-octopus(2024)-11-at-10:15am.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="95">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									95 B
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-10-11T15:16:59Z">10/11/2024 03:16:59 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./addtopicfor101daily.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -8867,6 +8867,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-05-28T04:34:12Z">05/28/2025 04:34:12 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./armodlog-octopus%282024%29-11-at-10:15am.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">armodlog-octopus(2024)-11-at-10:15am.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="95">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									95 B
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-10-11T15:16:59Z">10/11/2024 03:16:59 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -11164,35 +11193,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./koolmethslushy.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">koolmethslushy.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="3202">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									3.1 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./koolmethslushie.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -11216,6 +11216,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2021-04-21T08:14:27Z">04/21/2021 08:14:27 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./koolmethslushy.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">koolmethslushy.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="3202">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									3.1 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2021-04-12T03:16:19Z">04/12/2021 03:16:19 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -11599,35 +11628,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./RacistGame.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">RacistGame.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="3392">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									3.3 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-04-13T09:47:06Z">04/13/2024 09:47:06 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./balloon.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -11651,6 +11651,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-02-16T21:33:42Z">02/16/2023 09:33:42 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./RacistGame.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">RacistGame.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="3392">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									3.3 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-04-13T09:47:06Z">04/13/2024 09:47:06 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -15862,35 +15891,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./frozenBird.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">frozenBird.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="9120">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8.9 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-09-28T02:32:42Z">09/28/2022 02:32:42 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./DrawAshrew2.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -15914,6 +15914,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2025-12-05T19:05:02Z">12/05/2025 07:05:02 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./frozenBird.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">frozenBird.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="9120">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8.9 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-09-28T02:32:42Z">09/28/2022 02:32:42 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -15949,35 +15978,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./grapedeathmusicZOO.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">grapedeathmusicZOO.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="9164">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8.9 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-10-16T03:26:39Z">10/16/2024 03:26:39 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./dogmilkbug.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -16001,6 +16001,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2022-12-13T06:46:41Z">12/13/2022 06:46:41 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./grapedeathmusicZOO.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">grapedeathmusicZOO.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="9164">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8.9 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-10-16T03:26:39Z">10/16/2024 03:26:39 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -17718,35 +17747,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./nocamsrn.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">nocamsrn.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="13159">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									13 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2024-11-08T07:49:00Z">11/08/2024 07:49:00 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./angryNature.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -17770,6 +17770,35 @@ footer {
 						</td>
 						<td class="timestamp hideable">
 							<time datetime="2024-11-08T07:50:23Z">11/08/2024 07:50:23 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./nocamsrn.txt">
+								
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">nocamsrn.txt</span>
+							</a>
+						</td>
+						<td class="size" data-size="13159">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									13 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2024-11-08T07:49:00Z">11/08/2024 07:49:00 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -18435,7 +18464,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="9971bc61-8f2f-42f4-9d5a-42616936db96">
+		<script nonce="a717c663-bb1c-408a-b622-4fa428d024ce">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
