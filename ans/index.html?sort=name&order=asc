@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="7bd9b25f-6b99-498c-9038-be8a68705ec4">
+<style nonce="0b49c0b2-6cfa-4d55-8bec-501bb2a0cbc1">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -490,7 +490,7 @@ footer {
 				<div class="meta">
 					<div id="summary">
 						<span class="meta-item">
-							<b>108</b> directories
+							<b>110</b> directories
 						</span>
 						<span class="meta-item">
 							<b>0</b> files
@@ -1659,6 +1659,24 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./impure92/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">impure92/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:11:19Z">07/30/2026 10:11:19 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./layerone_demoparty_2019/">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -2012,7 +2030,7 @@ footer {
 						</td>
 						<td>&mdash;</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-05-10T22:36:53Z">05/10/2026 10:36:53 PM +00:00</time>
+							<time datetime="2026-07-30T22:09:26Z">07/30/2026 10:09:26 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -2415,6 +2433,24 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./rui8bit2024/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">rui8bit2024/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:05:51Z">07/30/2026 10:05:51 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./rui8bit2025/">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -2602,7 +2638,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="7bd9b25f-6b99-498c-9038-be8a68705ec4">
+		<script nonce="0b49c0b2-6cfa-4d55-8bec-501bb2a0cbc1">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });

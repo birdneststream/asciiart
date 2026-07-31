@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="1db6a675-bb28-43a8-9be3-344fa79932f0">
+<style nonce="19091c7d-f234-488f-8e41-003ce53d250a">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -524,7 +524,7 @@ footer {
 					<tr>
 						<th></th>
 						<th>
-							<a href="?sort=namedirfirst&order=desc" class="icon">
+							<a href="?sort=namedirfirst&order=asc" class="icon sort">
 								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-up" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 									<path d="M18 14l-6 -6l-6 6h12"/>
@@ -546,6 +546,10 @@ footer {
 						<th>
 							<a href="?sort=size&order=asc">
 								Size
+								<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-caret-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+									<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+									<path d="M6 10l6 6l6 -6h-12"/>
+								</svg>
 							</a>
 						</th>
 						<th class="hideable">
@@ -575,33 +579,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./CT-D%27AULAIRES_BOOK_OF_GREEK_MYTHS.ANS">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		</svg>
-								<span class="name">CT-D&#39;AULAIRES_BOOK_OF_GREEK_MYTHS.ANS</span>
-							</a>
-						</td>
-						<td class="size" data-size="10456">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									10 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:08:50Z">07/30/2026 10:08:50 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./CT-D%27AULAIRES_BOOK_OF_GREEK_MYTHS.ANS.txt">
+							<a href="./US-GISKARD.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -611,52 +589,52 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">CT-D&#39;AULAIRES_BOOK_OF_GREEK_MYTHS.ANS.txt</span>
+								<span class="name">US-GISKARD.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="15789">
+						<td class="size" data-size="30900">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									15 KiB
+									30 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:08:50Z">07/30/2026 10:08:50 PM +00:00</time>
+							<time datetime="2026-05-09T00:34:56Z">05/09/2026 12:34:56 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I%20HAVE%20SEEN%20MY%20HAT.ANS">
+							<a href="./US-GISKARD.ANS">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
 			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
 		</svg>
-								<span class="name">CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I HAVE SEEN MY HAT.ANS</span>
+								<span class="name">US-GISKARD.ANS</span>
 							</a>
 						</td>
-						<td class="size" data-size="6733">
+						<td class="size" data-size="25682">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									6.6 KiB
+									25 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-05-10T22:36:53Z">05/10/2026 10:36:53 PM +00:00</time>
+							<time datetime="2026-05-09T00:34:56Z">05/09/2026 12:34:56 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I%20HAVE%20SEEN%20MY%20HAT.ANS.txt">
+							<a href="./US-KURT_CYRUS-ODDHOPPER_OPERA.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -666,45 +644,45 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I HAVE SEEN MY HAT.ANS.txt</span>
+								<span class="name">US-KURT_CYRUS-ODDHOPPER_OPERA.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="14952">
+						<td class="size" data-size="22670">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									15 KiB
+									22 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-05-10T22:36:53Z">05/10/2026 10:36:53 PM +00:00</time>
+							<time datetime="2026-07-30T22:07:42Z">07/30/2026 10:07:42 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./CT-TOVE_JANSSON-TROLLVINTER.ANS">
+							<a href="./US-KURT_CYRUS-ODDHOPPER_OPERA.ANS">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
 			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
 		</svg>
-								<span class="name">CT-TOVE_JANSSON-TROLLVINTER.ANS</span>
+								<span class="name">US-KURT_CYRUS-ODDHOPPER_OPERA.ANS</span>
 							</a>
 						</td>
-						<td class="size" data-size="12266">
+						<td class="size" data-size="18792">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									12 KiB
+									18 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-05-09T00:34:26Z">05/09/2026 12:34:26 AM +00:00</time>
+							<time datetime="2026-07-30T22:07:42Z">07/30/2026 10:07:42 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -740,87 +718,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		</svg>
-								<span class="name">MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS</span>
-							</a>
-						</td>
-						<td class="size" data-size="10722">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									10 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:08:12Z">07/30/2026 10:08:12 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS.txt">
-								
-	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		<path d="M9 9l1 0"/>
-		<path d="M9 13l6 0"/>
-		<path d="M9 17l6 0"/>
-	</svg>
-								<span class="name">MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS.txt</span>
-							</a>
-						</td>
-						<td class="size" data-size="11927">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									12 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:08:12Z">07/30/2026 10:08:12 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./PICROTOXIN-WILLIAM_S_BURROUGHS-THANKSGIVING_PRAYER.ANS">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		</svg>
-								<span class="name">PICROTOXIN-WILLIAM_S_BURROUGHS-THANKSGIVING_PRAYER.ANS</span>
-							</a>
-						</td>
-						<td class="size" data-size="8573">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									8.4 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:06:34Z">07/30/2026 10:06:34 PM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./PICROTOXIN-WILLIAM_S_BURROUGHS-THANKSGIVING_PRAYER.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -850,33 +747,7 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./US-GISKARD.ANS">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		</svg>
-								<span class="name">US-GISKARD.ANS</span>
-							</a>
-						</td>
-						<td class="size" data-size="25682">
-							<div class="sizebar">
-								<div class="sizebar-bar"></div>
-								<div class="sizebar-text">
-									25 KiB
-								</div>
-							</div>
-						</td>
-						<td class="timestamp hideable">
-							<time datetime="2026-05-09T00:34:56Z">05/09/2026 12:34:56 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
-							<a href="./US-GISKARD.ANS.txt">
+							<a href="./CT-D%27AULAIRES_BOOK_OF_GREEK_MYTHS.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -886,45 +757,48 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">US-GISKARD.ANS.txt</span>
+								<span class="name">CT-D&#39;AULAIRES_BOOK_OF_GREEK_MYTHS.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="30900">
+						<td class="size" data-size="15789">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									30 KiB
+									15 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-05-09T00:34:56Z">05/09/2026 12:34:56 AM +00:00</time>
+							<time datetime="2026-07-30T22:08:50Z">07/30/2026 10:08:50 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./US-JAMES_GLEICK-CHAOS.ANS">
+							<a href="./CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I%20HAVE%20SEEN%20MY%20HAT.ANS.txt">
 								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
-			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
-		</svg>
-								<span class="name">US-JAMES_GLEICK-CHAOS.ANS</span>
+	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+		<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+		<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		<path d="M9 9l1 0"/>
+		<path d="M9 13l6 0"/>
+		<path d="M9 17l6 0"/>
+	</svg>
+								<span class="name">CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I HAVE SEEN MY HAT.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="10792">
+						<td class="size" data-size="14952">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									10 KiB
+									15 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:09:26Z">07/30/2026 10:09:26 PM +00:00</time>
+							<time datetime="2026-05-10T22:36:53Z">05/10/2026 10:36:53 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -960,33 +834,33 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./US-KURT_CYRUS-ODDHOPPER_OPERA.ANS">
+							<a href="./CT-TOVE_JANSSON-TROLLVINTER.ANS">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
 			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
 		</svg>
-								<span class="name">US-KURT_CYRUS-ODDHOPPER_OPERA.ANS</span>
+								<span class="name">CT-TOVE_JANSSON-TROLLVINTER.ANS</span>
 							</a>
 						</td>
-						<td class="size" data-size="18792">
+						<td class="size" data-size="12266">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									18 KiB
+									12 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:07:42Z">07/30/2026 10:07:42 PM +00:00</time>
+							<time datetime="2026-05-09T00:34:26Z">05/09/2026 12:34:26 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./US-KURT_CYRUS-ODDHOPPER_OPERA.ANS.txt">
+							<a href="./MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS.txt">
 								
 	<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file-text" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 		<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -996,19 +870,149 @@ footer {
 		<path d="M9 13l6 0"/>
 		<path d="M9 17l6 0"/>
 	</svg>
-								<span class="name">US-KURT_CYRUS-ODDHOPPER_OPERA.ANS.txt</span>
+								<span class="name">MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS.txt</span>
 							</a>
 						</td>
-						<td class="size" data-size="22670">
+						<td class="size" data-size="11927">
 							<div class="sizebar">
 								<div class="sizebar-bar"></div>
 								<div class="sizebar-text">
-									22 KiB
+									12 KiB
 								</div>
 							</div>
 						</td>
 						<td class="timestamp hideable">
-							<time datetime="2026-07-30T22:07:42Z">07/30/2026 10:07:42 PM +00:00</time>
+							<time datetime="2026-07-30T22:08:12Z">07/30/2026 10:08:12 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./US-JAMES_GLEICK-CHAOS.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">US-JAMES_GLEICK-CHAOS.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="10792">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									10 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:09:26Z">07/30/2026 10:09:26 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">MOTH-STEVE_GRAND-GROWING_UP_WITH_LUCY.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="10722">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									10 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:08:12Z">07/30/2026 10:08:12 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./CT-D%27AULAIRES_BOOK_OF_GREEK_MYTHS.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">CT-D&#39;AULAIRES_BOOK_OF_GREEK_MYTHS.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="10456">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									10 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:08:50Z">07/30/2026 10:08:50 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./PICROTOXIN-WILLIAM_S_BURROUGHS-THANKSGIVING_PRAYER.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">PICROTOXIN-WILLIAM_S_BURROUGHS-THANKSGIVING_PRAYER.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="8573">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									8.4 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-07-30T22:06:34Z">07/30/2026 10:06:34 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I%20HAVE%20SEEN%20MY%20HAT.ANS">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-file" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M14 3v4a1 1 0 0 0 1 1h4"/>
+			<path d="M17 21h-10a2 2 0 0 1 -2 -2v-14a2 2 0 0 1 2 -2h7l5 5v11a2 2 0 0 1 -2 2z"/>
+		</svg>
+								<span class="name">CT-JON_KLASSEN-I_WANT_MY_HAT_BACK-I HAVE SEEN MY HAT.ANS</span>
+							</a>
+						</td>
+						<td class="size" data-size="6733">
+							<div class="sizebar">
+								<div class="sizebar-bar"></div>
+								<div class="sizebar-text">
+									6.6 KiB
+								</div>
+							</div>
+						</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-05-10T22:36:53Z">05/10/2026 10:36:53 PM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -1094,7 +1098,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="1db6a675-bb28-43a8-9be3-344fa79932f0">
+		<script nonce="19091c7d-f234-488f-8e41-003ce53d250a">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });
