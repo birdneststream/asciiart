@@ -7,7 +7,7 @@
 		<meta charset="utf-8">
 		<meta name="color-scheme" content="light dark">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style nonce="796f34b3-4cd1-4c65-bba1-96b364e73ca6">
+<style nonce="a12fea02-11b0-4630-b87a-c746ba1593f3">
 * { padding: 0; margin: 0; box-sizing: border-box; }
 
 body {
@@ -490,7 +490,7 @@ footer {
 				<div class="meta">
 					<div id="summary">
 						<span class="meta-item">
-							<b>355</b> directories
+							<b>357</b> directories
 						</span>
 						<span class="meta-item">
 							<b>6</b> files
@@ -3195,6 +3195,24 @@ footer {
 						<td>&mdash;</td>
 						<td class="timestamp hideable">
 							<time datetime="2022-04-22T16:40:41Z">04/22/2022 04:40:41 PM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./Mori/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">Mori/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-10-16T03:44:14Z">10/16/2026 03:44:14 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -6099,24 +6117,6 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
-							<a href="./cashlin/">
-								
-		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
-		</svg>
-								<span class="name">cashlin/</span>
-							</a>
-						</td>
-						<td>&mdash;</td>
-						<td class="timestamp hideable">
-							<time datetime="2022-08-25T07:43:28Z">08/25/2022 07:43:28 AM +00:00</time>
-						</td>
-						<td class="hideable"></td>
-					</tr>
-					<tr class="file">
-						<td></td>
-						<td>
 							<a href="./Cashlin/">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -6129,6 +6129,24 @@ footer {
 						<td>&mdash;</td>
 						<td class="timestamp hideable">
 							<time datetime="2023-04-24T02:55:03Z">04/24/2023 02:55:03 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
+							<a href="./cashlin/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">cashlin/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2022-08-25T07:43:28Z">08/25/2022 07:43:28 AM +00:00</time>
 						</td>
 						<td class="hideable"></td>
 					</tr>
@@ -7035,6 +7053,24 @@ footer {
 					<tr class="file">
 						<td></td>
 						<td>
+							<a href="./%5Bo/">
+								
+		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+			<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+			<path d="M9 3a1 1 0 0 1 .608 .206l.1 .087l2.706 2.707h6.586a3 3 0 0 1 2.995 2.824l.005 .176v8a3 3 0 0 1 -2.824 2.995l-.176 .005h-14a3 3 0 0 1 -2.995 -2.824l-.005 -.176v-11a3 3 0 0 1 2.824 -2.995l.176 -.005h4z" stroke-width="0" fill="currentColor"/>
+		</svg>
+								<span class="name">[o/</span>
+							</a>
+						</td>
+						<td>&mdash;</td>
+						<td class="timestamp hideable">
+							<time datetime="2026-10-16T03:36:15Z">10/16/2026 03:36:15 AM +00:00</time>
+						</td>
+						<td class="hideable"></td>
+					</tr>
+					<tr class="file">
+						<td></td>
+						<td>
 							<a href="./%5BA%5D0-000-2X200/">
 								
 		<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-folder-filled" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -7222,7 +7258,7 @@ footer {
 			</a>
 		</footer>
 
-		<script nonce="796f34b3-4cd1-4c65-bba1-96b364e73ca6">
+		<script nonce="a12fea02-11b0-4630-b87a-c746ba1593f3">
 			// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 			const filterEl = document.getElementById('filter');
 			filterEl?.focus({ preventScroll: true });

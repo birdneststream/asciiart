@@ -1,0 +1,32 @@
+HH     HH   UU     UU    GGGGGGG    EEEEEEEE                  ,''''''''',,
+HH     HH   UU     UU   GGGGGGGGG   EEEEEEEE                ,,\          ''
+HH     HH   UU     UU   GG     GG   EE                 ,,'';'' \          ''
+HHHHHHHHH   UU     UU   GG          EEEEEEEE      ,,''';' ;  ;  \          ''
+HHHHHHHHH   UU     UU   GG   GGGG   EEEEEEEE   ;;'''; ; ; ; ; ;   \       ''
+HH     HH   UU     UU   GG   GGGG   EE    ,,,'' ; ;  ; ; ;  ;  ; ; \     ''
+HH     HH   UU     UU   GG     GG   E,,,''       ;; ; ;  ; ; ; ;,,;; \,,'
+@/@@@@/@@   UUUUUUUUU   GG     G,,,''             ;  ; ;,,,,,;''''
+/@@/@/@/@@   UUUUUUU    ,,,,''''                 , ; ;,,;;'''
+/@@@@/@/@/@@     ,,,,;'''                   ,   ,,,;;'''
+@@/@@@/@@/@@ '''''                      '  ,,,''
+@@/@/@@@/@/@@                   ,   ' ,,,''
+/@@@/@/@@/@/@@             ,     ,,,''
+@/@@@/@@/@/@@@       ,  '   ,,,''   IIIIIIII     CCCCC  KKK      KKK
+@@@/@@/@@@/@/@    ,    ,,,'DD       IIIIIIII   CCCCC    KKK     KKK
+/@@/@@@/@/@/@@  .  ,.''     DDD       IIII    CCCC      KKK    KKK
+@/@@/@/@@/@@/@@,  ,'DDD       DDD     IIII   CCCC       KKK   KKK
+/@@/@/@//@/@@@ .,'  DDD        DDD    IIII   CCCC       KKK  KKK
+@@/@/@/@/@@    .    DDD        DDD    IIII   CCCC       KKKKKKK
+@/@/@/@/@/@;  . .   DDD        DDD    IIII   CCCC       KKKKKKKK
+@@/@/@/@@@  , . ..  DDD       DDD     IIII   CCCC       KKK  KKK
+ ,/ .  ./. /', .. '.DDD      DDD      IIII   CCCC       KKK   KKK
+; /. / .\ . .;  ..\.'.D    DDD        IIII    CCCC      KKK    KKK
+;  /. . . . / ;\ .  . ',DDDD        IIIIIIII   CCCCC    KKK     KKK
+; .  \ .  \ . ;- . \ . ',DD         IIIIIIII     CCCCC  KKK      KKK
+; /. /  \ . . ; \. . \. ;
+/, / . ' ./   ; .  .\.  ;-
+ ;. /  \ \ / ;- . \ .  ;
+ /; . /. / .,\ . .\. ,'\
+  /,. ./  ,', . \  ,'
+    /,,,,\   ',,,,'\
+             /   \ 
